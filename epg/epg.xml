@@ -39,1114 +39,6 @@
   <channel id="dstv_afria_magic_urban">
     <display-name>Africa Magic Urban</display-name>
   </channel>
-  <programme start="20230303000000 +0200" stop="20230303003000 +0200" channel="dstv_1_magic">
-    <title lang="en-GB">The River</title>
-    <desc lang="en-GB">The River</desc>
-  </programme>
-  <programme start="20230303003000 +0200" stop="20230303010000 +0200" channel="dstv_1_magic">
-    <title lang="en-GB">Lingashoni</title>
-    <desc lang="en-GB">Lingashoni</desc>
-  </programme>
-  <programme start="20230303010000 +0200" stop="20230303020000 +0200" channel="dstv_1_magic">
-    <title lang="en-GB">Family Or Fiancé USA</title>
-    <desc lang="en-GB">Family Or Fiancé USA</desc>
-  </programme>
-  <programme start="20230303020000 +0200" stop="20230303033000 +0200" channel="dstv_1_magic">
-    <title lang="en-GB">1Magic: Hits</title>
-    <desc lang="en-GB">1Magic: Hits</desc>
-  </programme>
-  <programme start="20230303033000 +0200" stop="20230303050000 +0200" channel="dstv_1_magic">
-    <title lang="en-GB">1Magic: Hits</title>
-    <desc lang="en-GB">1Magic: Hits</desc>
-  </programme>
-  <programme start="20230303050000 +0200" stop="20230303060000 +0200" channel="dstv_1_magic">
-    <title lang="en-GB">The Talk</title>
-    <desc lang="en-GB">The Talk</desc>
-  </programme>
-  <programme start="20230303060000 +0200" stop="20230303073000 +0200" channel="dstv_1_magic">
-    <title lang="en-GB">1Magic: Hits</title>
-    <desc lang="en-GB">1Magic: Hits</desc>
-  </programme>
-  <programme start="20230303073000 +0200" stop="20230303080000 +0200" channel="dstv_1_magic">
-    <title lang="en-GB">The River</title>
-    <desc lang="en-GB">The River</desc>
-  </programme>
-  <programme start="20230303080000 +0200" stop="20230303083000 +0200" channel="dstv_1_magic">
-    <title lang="en-GB">Lingashoni</title>
-    <desc lang="en-GB">Lingashoni</desc>
-  </programme>
-  <programme start="20230303083000 +0200" stop="20230303090000 +0200" channel="dstv_1_magic">
-    <title lang="en-GB">Mnakwethu</title>
-    <desc lang="en-GB">Mnakwethu</desc>
-  </programme>
-  <programme start="20230303090000 +0200" stop="20230303100000 +0200" channel="dstv_1_magic">
-    <title lang="en-GB">The Real Housewives Of Potomac</title>
-    <desc lang="en-GB">The Real Housewives Of Potomac</desc>
-  </programme>
-  <programme start="20230303100000 +0200" stop="20230303103000 +0200" channel="dstv_1_magic">
-    <title lang="en-GB">Mr. Mayor</title>
-    <desc lang="en-GB">Mr. Mayor</desc>
-  </programme>
-  <programme start="20230303103000 +0200" stop="20230303110000 +0200" channel="dstv_1_magic">
-    <title lang="en-GB">The River</title>
-    <desc lang="en-GB">The River</desc>
-  </programme>
-  <programme start="20230303110000 +0200" stop="20230303120000 +0200" channel="dstv_1_magic">
-    <title lang="en-GB">The Talk</title>
-    <desc lang="en-GB">The Talk</desc>
-  </programme>
-  <programme start="20230303120000 +0200" stop="20230303123000 +0200" channel="dstv_1_magic">
-    <title lang="en-GB">1Magic: Zone In</title>
-    <desc lang="en-GB">1Magic: Zone In</desc>
-  </programme>
-  <programme start="20230303123000 +0200" stop="20230303130000 +0200" channel="dstv_1_magic">
-    <title lang="en-GB">1Magic: Zone In</title>
-    <desc lang="en-GB">1Magic: Zone In</desc>
-  </programme>
-  <programme start="20230303130000 +0200" stop="20230303140000 +0200" channel="dstv_1_magic">
-    <title lang="en-GB">The Real Housewives Of Potomac</title>
-    <desc lang="en-GB">The Real Housewives Of Potomac</desc>
-  </programme>
-  <programme start="20230303140000 +0200" stop="20230303143000 +0200" channel="dstv_1_magic">
-    <title lang="en-GB">Mr. Mayor</title>
-    <desc lang="en-GB">Mr. Mayor</desc>
-  </programme>
-  <programme start="20230303143000 +0200" stop="20230303153000 +0200" channel="dstv_1_magic">
-    <title lang="en-GB">The Talk</title>
-    <desc lang="en-GB">The Talk</desc>
-  </programme>
-  <programme start="20230303153000 +0200" stop="20230303160000 +0200" channel="dstv_1_magic">
-    <title lang="en-GB">The River</title>
-    <desc lang="en-GB">The River</desc>
-  </programme>
-  <programme start="20230303160000 +0200" stop="20230303163000 +0200" channel="dstv_1_magic">
-    <title lang="en-GB">Lingashoni</title>
-    <desc lang="en-GB">Lingashoni</desc>
-  </programme>
-  <programme start="20230303163000 +0200" stop="20230303170000 +0200" channel="dstv_1_magic">
-    <title lang="en-GB">The $100,000 Pyramid</title>
-    <desc lang="en-GB">The $100,000 Pyramid</desc>
-  </programme>
-  <programme start="20230303170000 +0200" stop="20230303173000 +0200" channel="dstv_1_magic">
-    <title lang="en-GB">The $100,000 Pyramid</title>
-    <desc lang="en-GB">The $100,000 Pyramid</desc>
-  </programme>
-  <programme start="20230303173000 +0200" stop="20230303180000 +0200" channel="dstv_1_magic">
-    <title lang="en-GB">Kwa Mam&apos;Mkhize</title>
-    <desc lang="en-GB">Kwa Mam&apos;Mkhize</desc>
-  </programme>
-  <programme start="20230303180000 +0200" stop="20230303183000 +0200" channel="dstv_1_magic">
-    <title lang="en-GB">Neighborhood</title>
-    <desc lang="en-GB">Neighborhood</desc>
-  </programme>
-  <programme start="20230303183000 +0200" stop="20230303190000 +0200" channel="dstv_1_magic">
-    <title lang="en-GB">Neighborhood</title>
-    <desc lang="en-GB">Neighborhood</desc>
-  </programme>
-  <programme start="20230303190000 +0200" stop="20230303193100 +0200" channel="dstv_1_magic">
-    <title lang="en-GB">Nganele</title>
-    <desc lang="en-GB">Nganele</desc>
-  </programme>
-  <programme start="20230303193100 +0200" stop="20230303200100 +0200" channel="dstv_1_magic">
-    <title lang="en-GB">O Fuze</title>
-    <desc lang="en-GB">O Fuze</desc>
-  </programme>
-  <programme start="20230303200100 +0200" stop="20230303203100 +0200" channel="dstv_1_magic">
-    <title lang="en-GB">The River</title>
-    <desc lang="en-GB">The River</desc>
-  </programme>
-  <programme start="20230303203100 +0200" stop="20230303213000 +0200" channel="dstv_1_magic">
-    <title lang="en-GB">The Real Housewives Of Gqeberha</title>
-    <desc lang="en-GB">The Real Housewives Of Gqeberha</desc>
-  </programme>
-  <programme start="20230303213000 +0200" stop="20230303220000 +0200" channel="dstv_1_magic">
-    <title lang="en-GB">Grown Woman</title>
-    <desc lang="en-GB">Grown Woman</desc>
-  </programme>
-  <programme start="20230303220000 +0200" stop="20230303232500 +0200" channel="dstv_1_magic">
-    <title lang="en-GB">Blood Psalms</title>
-    <desc lang="en-GB">Blood Psalms</desc>
-  </programme>
-  <programme start="20230303232500 +0200" stop="20230304001500 +0200" channel="dstv_1_magic">
-    <title lang="en-GB">The Game</title>
-    <desc lang="en-GB">The Game</desc>
-  </programme>
-  <programme start="20230302233000 +0200" stop="20230303013000 +0200" channel="dstv_africa_magic_showcase">
-    <title lang="en-GB">Help Mate</title>
-    <desc lang="en-GB">Help Mate</desc>
-  </programme>
-  <programme start="20230303013000 +0200" stop="20230303015500 +0200" channel="dstv_africa_magic_showcase">
-    <title lang="en-GB">Maskers</title>
-    <desc lang="en-GB">Maskers</desc>
-  </programme>
-  <programme start="20230303015500 +0200" stop="20230303022500 +0200" channel="dstv_africa_magic_showcase">
-    <title lang="en-GB">Open Secret</title>
-    <desc lang="en-GB">Open Secret</desc>
-  </programme>
-  <programme start="20230303022500 +0200" stop="20230303024500 +0200" channel="dstv_africa_magic_showcase">
-    <title lang="en-GB">Chronicles Of Solo</title>
-    <desc lang="en-GB">Chronicles Of Solo</desc>
-  </programme>
-  <programme start="20230303024500 +0200" stop="20230303040000 +0200" channel="dstv_africa_magic_showcase">
-    <title lang="en-GB">Mutual Suspicion</title>
-    <desc lang="en-GB">Mutual Suspicion</desc>
-  </programme>
-  <programme start="20230303040000 +0200" stop="20230303042900 +0200" channel="dstv_africa_magic_showcase">
-    <title lang="en-GB">Nkoyo</title>
-    <desc lang="en-GB">Nkoyo</desc>
-  </programme>
-  <programme start="20230303042900 +0200" stop="20230303050000 +0200" channel="dstv_africa_magic_showcase">
-    <title lang="en-GB">Itura</title>
-    <desc lang="en-GB">Itura</desc>
-  </programme>
-  <programme start="20230303050000 +0200" stop="20230303060000 +0200" channel="dstv_africa_magic_showcase">
-    <title lang="en-GB">Fifth</title>
-    <desc lang="en-GB">Fifth</desc>
-  </programme>
-  <programme start="20230303060000 +0200" stop="20230303070100 +0200" channel="dstv_africa_magic_showcase">
-    <title lang="en-GB">Hired Husband</title>
-    <desc lang="en-GB">Hired Husband</desc>
-  </programme>
-  <programme start="20230303070100 +0200" stop="20230303073100 +0200" channel="dstv_africa_magic_showcase">
-    <title lang="en-GB">The Johnsons</title>
-    <desc lang="en-GB">The Johnsons</desc>
-  </programme>
-  <programme start="20230303073100 +0200" stop="20230303090500 +0200" channel="dstv_africa_magic_showcase">
-    <title lang="en-GB">Labyrinth</title>
-    <desc lang="en-GB">Labyrinth</desc>
-  </programme>
-  <programme start="20230303090500 +0200" stop="20230303110000 +0200" channel="dstv_africa_magic_showcase">
-    <title lang="en-GB">Sin</title>
-    <desc lang="en-GB">Sin</desc>
-  </programme>
-  <programme start="20230303110000 +0200" stop="20230303123100 +0200" channel="dstv_africa_magic_showcase">
-    <title lang="en-GB">Misconception</title>
-    <desc lang="en-GB">Misconception</desc>
-  </programme>
-  <programme start="20230303123100 +0200" stop="20230303130000 +0200" channel="dstv_africa_magic_showcase">
-    <title lang="en-GB">My Flatmates</title>
-    <desc lang="en-GB">My Flatmates</desc>
-  </programme>
-  <programme start="20230303130000 +0200" stop="20230303143000 +0200" channel="dstv_africa_magic_showcase">
-    <title lang="en-GB">Broken Edges</title>
-    <desc lang="en-GB">Broken Edges</desc>
-  </programme>
-  <programme start="20230303143000 +0200" stop="20230303150000 +0200" channel="dstv_africa_magic_showcase">
-    <title lang="en-GB">Tinsel</title>
-    <desc lang="en-GB">Tinsel</desc>
-  </programme>
-  <programme start="20230303150000 +0200" stop="20230303165900 +0200" channel="dstv_africa_magic_showcase">
-    <title lang="en-GB">Watching Over You</title>
-    <desc lang="en-GB">Watching Over You</desc>
-  </programme>
-  <programme start="20230303165900 +0200" stop="20230303173000 +0200" channel="dstv_africa_magic_showcase">
-    <title lang="en-GB">Covenant</title>
-    <desc lang="en-GB">Covenant</desc>
-  </programme>
-  <programme start="20230303173000 +0200" stop="20230303180000 +0200" channel="dstv_africa_magic_showcase">
-    <title lang="en-GB">Itura</title>
-    <desc lang="en-GB">Itura</desc>
-  </programme>
-  <programme start="20230303180000 +0200" stop="20230303193100 +0200" channel="dstv_africa_magic_showcase">
-    <title lang="en-GB">Alone</title>
-    <desc lang="en-GB">Alone</desc>
-  </programme>
-  <programme start="20230303193100 +0200" stop="20230303195900 +0200" channel="dstv_africa_magic_showcase">
-    <title lang="en-GB">My Flatmates</title>
-    <desc lang="en-GB">My Flatmates</desc>
-  </programme>
-  <programme start="20230303195900 +0200" stop="20230303202900 +0200" channel="dstv_africa_magic_showcase">
-    <title lang="en-GB">The Johnsons</title>
-    <desc lang="en-GB">The Johnsons</desc>
-  </programme>
-  <programme start="20230303202900 +0200" stop="20230303210000 +0200" channel="dstv_africa_magic_showcase">
-    <title lang="en-GB">Tinsel</title>
-    <desc lang="en-GB">Tinsel</desc>
-  </programme>
-  <programme start="20230303210000 +0200" stop="20230303213200 +0200" channel="dstv_africa_magic_showcase">
-    <title lang="en-GB">Covenant</title>
-    <desc lang="en-GB">Covenant</desc>
-  </programme>
-  <programme start="20230303213200 +0200" stop="20230303220300 +0200" channel="dstv_africa_magic_showcase">
-    <title lang="en-GB">Itura</title>
-    <desc lang="en-GB">Itura</desc>
-  </programme>
-  <programme start="20230303220300 +0200" stop="20230303230000 +0200" channel="dstv_africa_magic_showcase">
-    <title lang="en-GB">Date My Family Nigeria</title>
-    <desc lang="en-GB">Date My Family Nigeria</desc>
-  </programme>
-  <programme start="20230303230000 +0200" stop="20230303233100 +0200" channel="dstv_africa_magic_showcase">
-    <title lang="en-GB">Big Brother Titans</title>
-    <desc lang="en-GB">Big Brother Titans</desc>
-  </programme>
-  <programme start="20230303233100 +0200" stop="20230304012000 +0200" channel="dstv_africa_magic_showcase">
-    <title lang="en-GB">All Things Fair</title>
-    <desc lang="en-GB">All Things Fair</desc>
-  </programme>
-  <programme start="20230302230600 +0200" stop="20230303011500 +0200">
-    <title lang="en-GB">Everything But A Child</title>
-    <desc lang="en-GB">Everything But A Child</desc>
-  </programme>
-  <programme start="20230303011500 +0200" stop="20230303043500 +0200">
-    <title lang="en-GB">Father Ele Ele</title>
-    <desc lang="en-GB">Father Ele Ele</desc>
-  </programme>
-  <programme start="20230303043500 +0200" stop="20230303070200 +0200">
-    <title lang="en-GB">Seed Of Sorrow</title>
-    <desc lang="en-GB">Seed Of Sorrow</desc>
-  </programme>
-  <programme start="20230303070200 +0200" stop="20230303093000 +0200">
-    <title lang="en-GB">Failed Oath</title>
-    <desc lang="en-GB">Failed Oath</desc>
-  </programme>
-  <programme start="20230303093000 +0200" stop="20230303124000 +0200">
-    <title lang="en-GB">Battle Of Love</title>
-    <desc lang="en-GB">Battle Of Love</desc>
-  </programme>
-  <programme start="20230303124000 +0200" stop="20230303145300 +0200">
-    <title lang="en-GB">Forbidden Truth</title>
-    <desc lang="en-GB">Forbidden Truth</desc>
-  </programme>
-  <programme start="20230303145300 +0200" stop="20230303163500 +0200">
-    <title lang="en-GB">Oro</title>
-    <desc lang="en-GB">Oro</desc>
-  </programme>
-  <programme start="20230303163500 +0200" stop="20230303190000 +0200">
-    <title lang="en-GB">Die Empty</title>
-    <desc lang="en-GB">Die Empty</desc>
-  </programme>
-  <programme start="20230303190000 +0200" stop="20230303193000 +0200">
-    <title lang="en-GB">Riona</title>
-    <desc lang="en-GB">Riona</desc>
-  </programme>
-  <programme start="20230303193000 +0200" stop="20230303200400 +0200">
-    <title lang="en-GB">Ajoche</title>
-    <desc lang="en-GB">Ajoche</desc>
-  </programme>
-  <programme start="20230303200400 +0200" stop="20230303234200 +0200">
-    <title lang="en-GB">Imperfection</title>
-    <desc lang="en-GB">Imperfection</desc>
-  </programme>
-  <programme start="20230303234200 +0200" stop="20230304015700 +0200">
-    <title lang="en-GB">Mother Of Ages</title>
-    <desc lang="en-GB">Mother Of Ages</desc>
-  </programme>
-  <programme start="20230302233100 +0200" stop="20230303010000 +0200" channel="dstv_afria_magic_urban">
-    <title lang="en-GB">Rave</title>
-    <desc lang="en-GB">Rave</desc>
-  </programme>
-  <programme start="20230303010000 +0200" stop="20230303024000 +0200" channel="dstv_afria_magic_urban">
-    <title lang="en-GB">Pills</title>
-    <desc lang="en-GB">Pills</desc>
-  </programme>
-  <programme start="20230303024000 +0200" stop="20230303045400 +0200" channel="dstv_afria_magic_urban">
-    <title lang="en-GB">Trauma</title>
-    <desc lang="en-GB">Trauma</desc>
-  </programme>
-  <programme start="20230303045400 +0200" stop="20230303060000 +0200" channel="dstv_afria_magic_urban">
-    <title lang="en-GB">Maid Of Honour</title>
-    <desc lang="en-GB">Maid Of Honour</desc>
-  </programme>
-  <programme start="20230303060000 +0200" stop="20230303080000 +0200" channel="dstv_afria_magic_urban">
-    <title lang="en-GB">Aima&apos;s Cross</title>
-    <desc lang="en-GB">Aima&apos;s Cross</desc>
-  </programme>
-  <programme start="20230303080000 +0200" stop="20230303093000 +0200" channel="dstv_afria_magic_urban">
-    <title lang="en-GB">About What&apos;s In 4 Me</title>
-    <desc lang="en-GB">About What&apos;s In 4 Me</desc>
-  </programme>
-  <programme start="20230303093000 +0200" stop="20230303100000 +0200" channel="dstv_afria_magic_urban">
-    <title lang="en-GB">Extra Miles</title>
-    <desc lang="en-GB">Extra Miles</desc>
-  </programme>
-  <programme start="20230303100000 +0200" stop="20230303103000 +0200" channel="dstv_afria_magic_urban">
-    <title lang="en-GB">The Johnsons</title>
-    <desc lang="en-GB">The Johnsons</desc>
-  </programme>
-  <programme start="20230303103000 +0200" stop="20230303110000 +0200" channel="dstv_afria_magic_urban">
-    <title lang="en-GB">My Flatmates</title>
-    <desc lang="en-GB">My Flatmates</desc>
-  </programme>
-  <programme start="20230303110000 +0200" stop="20230303113000 +0200" channel="dstv_afria_magic_urban">
-    <title lang="en-GB">My Siblings And I</title>
-    <desc lang="en-GB">My Siblings And I</desc>
-  </programme>
-  <programme start="20230303113000 +0200" stop="20230303125500 +0200" channel="dstv_afria_magic_urban">
-    <title lang="en-GB">Long Gone</title>
-    <desc lang="en-GB">Long Gone</desc>
-  </programme>
-  <programme start="20230303125500 +0200" stop="20230303143000 +0200" channel="dstv_afria_magic_urban">
-    <title lang="en-GB">Funny Money</title>
-    <desc lang="en-GB">Funny Money</desc>
-  </programme>
-  <programme start="20230303143000 +0200" stop="20230303152900 +0200" channel="dstv_afria_magic_urban">
-    <title lang="en-GB">Family Feud</title>
-    <desc lang="en-GB">Family Feud</desc>
-  </programme>
-  <programme start="20230303152900 +0200" stop="20230303165000 +0200" channel="dstv_afria_magic_urban">
-    <title lang="en-GB">No Man&apos;s Land</title>
-    <desc lang="en-GB">No Man&apos;s Land</desc>
-  </programme>
-  <programme start="20230303165000 +0200" stop="20230303190100 +0200" channel="dstv_afria_magic_urban">
-    <title lang="en-GB">Final Crisis</title>
-    <desc lang="en-GB">Final Crisis</desc>
-  </programme>
-  <programme start="20230303190100 +0200" stop="20230303193000 +0200" channel="dstv_afria_magic_urban">
-    <title lang="en-GB">Tinsel</title>
-    <desc lang="en-GB">Tinsel</desc>
-  </programme>
-  <programme start="20230303193000 +0200" stop="20230303200000 +0200" channel="dstv_afria_magic_urban">
-    <title lang="en-GB">Venge</title>
-    <desc lang="en-GB">Venge</desc>
-  </programme>
-  <programme start="20230303200000 +0200" stop="20230303203000 +0200" channel="dstv_afria_magic_urban">
-    <title lang="en-GB">My Flatmates</title>
-    <desc lang="en-GB">My Flatmates</desc>
-  </programme>
-  <programme start="20230303203000 +0200" stop="20230303210000 +0200" channel="dstv_afria_magic_urban">
-    <title lang="en-GB">Dilemma</title>
-    <desc lang="en-GB">Dilemma</desc>
-  </programme>
-  <programme start="20230303210000 +0200" stop="20230303213000 +0200" channel="dstv_afria_magic_urban">
-    <title lang="en-GB">Jenifa&apos;s Diary</title>
-    <desc lang="en-GB">Jenifa&apos;s Diary</desc>
-  </programme>
-  <programme start="20230303213000 +0200" stop="20230303220000 +0200" channel="dstv_afria_magic_urban">
-    <title lang="en-GB">My Siblings And I</title>
-    <desc lang="en-GB">My Siblings And I</desc>
-  </programme>
-  <programme start="20230303220000 +0200" stop="20230303223000 +0200" channel="dstv_afria_magic_urban">
-    <title lang="en-GB">The Johnsons</title>
-    <desc lang="en-GB">The Johnsons</desc>
-  </programme>
-  <programme start="20230303223000 +0200" stop="20230303230000 +0200" channel="dstv_afria_magic_urban">
-    <title lang="en-GB">Extra Miles</title>
-    <desc lang="en-GB">Extra Miles</desc>
-  </programme>
-  <programme start="20230303230000 +0200" stop="20230303233100 +0200" channel="dstv_afria_magic_urban">
-    <title lang="en-GB">Big Brother Titans</title>
-    <desc lang="en-GB">Big Brother Titans</desc>
-  </programme>
-  <programme start="20230303233100 +0200" stop="20230304010000 +0200" channel="dstv_afria_magic_urban">
-    <title lang="en-GB">Dirty Sunday</title>
-    <desc lang="en-GB">Dirty Sunday</desc>
-  </programme>
-  <programme start="20230302233000 +0200" stop="20230303023000 +0200" channel="dstv_africa_magic_family">
-    <title lang="en-GB">The Successor</title>
-    <desc lang="en-GB">The Successor</desc>
-  </programme>
-  <programme start="20230303023000 +0200" stop="20230303030000 +0200" channel="dstv_africa_magic_family">
-    <title lang="en-GB">Music Buzz</title>
-    <desc lang="en-GB">Music Buzz</desc>
-  </programme>
-  <programme start="20230303030000 +0200" stop="20230303035000 +0200" channel="dstv_africa_magic_family">
-    <title lang="en-GB">Eve</title>
-    <desc lang="en-GB">Eve</desc>
-  </programme>
-  <programme start="20230303035000 +0200" stop="20230303045500 +0200" channel="dstv_africa_magic_family">
-    <title lang="en-GB">Africa Magic Music</title>
-    <desc lang="en-GB">Africa Magic Music</desc>
-  </programme>
-  <programme start="20230303045500 +0200" stop="20230303060000 +0200" channel="dstv_africa_magic_family">
-    <title lang="en-GB">Africa Magic Music</title>
-    <desc lang="en-GB">Africa Magic Music</desc>
-  </programme>
-  <programme start="20230303060000 +0200" stop="20230303063000 +0200" channel="dstv_africa_magic_family">
-    <title lang="en-GB">Hush</title>
-    <desc lang="en-GB">Hush</desc>
-  </programme>
-  <programme start="20230303063000 +0200" stop="20230303070000 +0200" channel="dstv_africa_magic_family">
-    <title lang="en-GB">Music Buzz</title>
-    <desc lang="en-GB">Music Buzz</desc>
-  </programme>
-  <programme start="20230303070000 +0200" stop="20230303073000 +0200" channel="dstv_africa_magic_family">
-    <title lang="en-GB">Riona</title>
-    <desc lang="en-GB">Riona</desc>
-  </programme>
-  <programme start="20230303073000 +0200" stop="20230303080000 +0200" channel="dstv_africa_magic_family">
-    <title lang="en-GB">Hustle</title>
-    <desc lang="en-GB">Hustle</desc>
-  </programme>
-  <programme start="20230303080000 +0200" stop="20230303083000 +0200" channel="dstv_africa_magic_family">
-    <title lang="en-GB">Tinsel</title>
-    <desc lang="en-GB">Tinsel</desc>
-  </programme>
-  <programme start="20230303083000 +0200" stop="20230303090000 +0200" channel="dstv_africa_magic_family">
-    <title lang="en-GB">My Siblings And I</title>
-    <desc lang="en-GB">My Siblings And I</desc>
-  </programme>
-  <programme start="20230303090000 +0200" stop="20230303093500 +0200" channel="dstv_africa_magic_family">
-    <title lang="en-GB">My Flatmates</title>
-    <desc lang="en-GB">My Flatmates</desc>
-  </programme>
-  <programme start="20230303093500 +0200" stop="20230303100000 +0200" channel="dstv_africa_magic_family">
-    <title lang="en-GB">The Johnsons</title>
-    <desc lang="en-GB">The Johnsons</desc>
-  </programme>
-  <programme start="20230303100000 +0200" stop="20230303103000 +0200" channel="dstv_africa_magic_family">
-    <title lang="en-GB">Judging Matters</title>
-    <desc lang="en-GB">Judging Matters</desc>
-  </programme>
-  <programme start="20230303103000 +0200" stop="20230303110000 +0200" channel="dstv_africa_magic_family">
-    <title lang="en-GB">Shoot Your Shot</title>
-    <desc lang="en-GB">Shoot Your Shot</desc>
-  </programme>
-  <programme start="20230303110000 +0200" stop="20230303113000 +0200" channel="dstv_africa_magic_family">
-    <title lang="en-GB">Enakhe</title>
-    <desc lang="en-GB">Enakhe</desc>
-  </programme>
-  <programme start="20230303113000 +0200" stop="20230303123000 +0200" channel="dstv_africa_magic_family">
-    <title lang="en-GB">Eve</title>
-    <desc lang="en-GB">Eve</desc>
-  </programme>
-  <programme start="20230303123000 +0200" stop="20230303130000 +0200" channel="dstv_africa_magic_family">
-    <title lang="en-GB">My Siblings And I</title>
-    <desc lang="en-GB">My Siblings And I</desc>
-  </programme>
-  <programme start="20230303130000 +0200" stop="20230303133000 +0200" channel="dstv_africa_magic_family">
-    <title lang="en-GB">Hush</title>
-    <desc lang="en-GB">Hush</desc>
-  </programme>
-  <programme start="20230303133000 +0200" stop="20230303140000 +0200" channel="dstv_africa_magic_family">
-    <title lang="en-GB">The Johnsons</title>
-    <desc lang="en-GB">The Johnsons</desc>
-  </programme>
-  <programme start="20230303140000 +0200" stop="20230303143000 +0200" channel="dstv_africa_magic_family">
-    <title lang="en-GB">My Flatmates</title>
-    <desc lang="en-GB">My Flatmates</desc>
-  </programme>
-  <programme start="20230303143000 +0200" stop="20230303150000 +0200" channel="dstv_africa_magic_family">
-    <title lang="en-GB">Brotherhood Brethren</title>
-    <desc lang="en-GB">Brotherhood Brethren</desc>
-  </programme>
-  <programme start="20230303150000 +0200" stop="20230303153000 +0200" channel="dstv_africa_magic_family">
-    <title lang="en-GB">Shoot Your Shot</title>
-    <desc lang="en-GB">Shoot Your Shot</desc>
-  </programme>
-  <programme start="20230303153000 +0200" stop="20230303160000 +0200" channel="dstv_africa_magic_family">
-    <title lang="en-GB">Unbroken</title>
-    <desc lang="en-GB">Unbroken</desc>
-  </programme>
-  <programme start="20230303160000 +0200" stop="20230303163000 +0200" channel="dstv_africa_magic_family">
-    <title lang="en-GB">Tinsel</title>
-    <desc lang="en-GB">Tinsel</desc>
-  </programme>
-  <programme start="20230303163000 +0200" stop="20230303170000 +0200" channel="dstv_africa_magic_family">
-    <title lang="en-GB">You &amp; I With Monalisa</title>
-    <desc lang="en-GB">You &amp; I With Monalisa</desc>
-  </programme>
-  <programme start="20230303170000 +0200" stop="20230303173000 +0200" channel="dstv_africa_magic_family">
-    <title lang="en-GB">Once Upon A Time</title>
-    <desc lang="en-GB">Once Upon A Time</desc>
-  </programme>
-  <programme start="20230303173000 +0200" stop="20230303180000 +0200" channel="dstv_africa_magic_family">
-    <title lang="en-GB">Judging Matters</title>
-    <desc lang="en-GB">Judging Matters</desc>
-  </programme>
-  <programme start="20230303180000 +0200" stop="20230303183000 +0200" channel="dstv_africa_magic_family">
-    <title lang="en-GB">Comedy Nites</title>
-    <desc lang="en-GB">Comedy Nites</desc>
-  </programme>
-  <programme start="20230303183000 +0200" stop="20230303190000 +0200" channel="dstv_africa_magic_family">
-    <title lang="en-GB">Ify&apos;s Kitchen</title>
-    <desc lang="en-GB">Ify&apos;s Kitchen</desc>
-  </programme>
-  <programme start="20230303190000 +0200" stop="20230303193000 +0200" channel="dstv_africa_magic_family">
-    <title lang="en-GB">My Siblings And I</title>
-    <desc lang="en-GB">My Siblings And I</desc>
-  </programme>
-  <programme start="20230303193000 +0200" stop="20230303200000 +0200" channel="dstv_africa_magic_family">
-    <title lang="en-GB">My Flatmates</title>
-    <desc lang="en-GB">My Flatmates</desc>
-  </programme>
-  <programme start="20230303200000 +0200" stop="20230303203000 +0200" channel="dstv_africa_magic_family">
-    <title lang="en-GB">Enakhe</title>
-    <desc lang="en-GB">Enakhe</desc>
-  </programme>
-  <programme start="20230303203000 +0200" stop="20230303210000 +0200" channel="dstv_africa_magic_family">
-    <title lang="en-GB">Riona</title>
-    <desc lang="en-GB">Riona</desc>
-  </programme>
-  <programme start="20230303210000 +0200" stop="20230303213000 +0200" channel="dstv_africa_magic_family">
-    <title lang="en-GB">Tinsel</title>
-    <desc lang="en-GB">Tinsel</desc>
-  </programme>
-  <programme start="20230303213000 +0200" stop="20230303220000 +0200" channel="dstv_africa_magic_family">
-    <title lang="en-GB">The Johnsons</title>
-    <desc lang="en-GB">The Johnsons</desc>
-  </programme>
-  <programme start="20230303220000 +0200" stop="20230303230000 +0200" channel="dstv_africa_magic_family">
-    <title lang="en-GB">Family Feud</title>
-    <desc lang="en-GB">Family Feud</desc>
-  </programme>
-  <programme start="20230303230000 +0200" stop="20230303232600 +0200" channel="dstv_africa_magic_family">
-    <title lang="en-GB">Big Brother Titans</title>
-    <desc lang="en-GB">Big Brother Titans</desc>
-  </programme>
-  <programme start="20230303232600 +0200" stop="20230304023500 +0200" channel="dstv_africa_magic_family">
-    <title lang="en-GB">Against My Blood</title>
-    <desc lang="en-GB">Against My Blood</desc>
-  </programme>
-  <programme start="20230302233500 +0200" stop="20230303003000 +0200" channel="dstv_mzansi_magic">
-    <title lang="en-GB">The Talk</title>
-    <desc lang="en-GB">The Talk</desc>
-  </programme>
-  <programme start="20230303003000 +0200" stop="20230303010000 +0200" channel="dstv_mzansi_magic">
-    <title lang="en-GB">Mzansi Magic Music Specials</title>
-    <desc lang="en-GB">Mzansi Magic Music Specials</desc>
-  </programme>
-  <programme start="20230303010000 +0200" stop="20230303013000 +0200" channel="dstv_mzansi_magic">
-    <title lang="en-GB">Mzansi Magic Music Specials</title>
-    <desc lang="en-GB">Mzansi Magic Music Specials</desc>
-  </programme>
-  <programme start="20230303013000 +0200" stop="20230303030000 +0200" channel="dstv_mzansi_magic">
-    <title lang="en-GB">Family Man</title>
-    <desc lang="en-GB">Family Man</desc>
-  </programme>
-  <programme start="20230303030000 +0200" stop="20230303043000 +0200" channel="dstv_mzansi_magic">
-    <title lang="en-GB">Lokshin Bioskop: Ingadi</title>
-    <desc lang="en-GB">Lokshin Bioskop: Ingadi</desc>
-  </programme>
-  <programme start="20230303043000 +0200" stop="20230303060000 +0200" channel="dstv_mzansi_magic">
-    <title lang="en-GB">Lokshin Bioskop: 10 Steps To Make...</title>
-    <desc lang="en-GB">Lokshin Bioskop: 10 Steps To Make...</desc>
-  </programme>
-  <programme start="20230303060000 +0200" stop="20230303070000 +0200" channel="dstv_mzansi_magic">
-    <title lang="en-GB">Dr Phil</title>
-    <desc lang="en-GB">Dr Phil</desc>
-  </programme>
-  <programme start="20230303070000 +0200" stop="20230303080000 +0200" channel="dstv_mzansi_magic">
-    <title lang="en-GB">The Talk</title>
-    <desc lang="en-GB">The Talk</desc>
-  </programme>
-  <programme start="20230303080000 +0200" stop="20230303093000 +0200" channel="dstv_mzansi_magic">
-    <title lang="en-GB">Something About Busi</title>
-    <desc lang="en-GB">Something About Busi</desc>
-  </programme>
-  <programme start="20230303093000 +0200" stop="20230303100000 +0200" channel="dstv_mzansi_magic">
-    <title lang="en-GB">DiepCity</title>
-    <desc lang="en-GB">DiepCity</desc>
-  </programme>
-  <programme start="20230303100000 +0200" stop="20230303103000 +0200" channel="dstv_mzansi_magic">
-    <title lang="en-GB">Gqeberha: The Empire</title>
-    <desc lang="en-GB">Gqeberha: The Empire</desc>
-  </programme>
-  <programme start="20230303103000 +0200" stop="20230303110000 +0200" channel="dstv_mzansi_magic">
-    <title lang="en-GB">Gomora</title>
-    <desc lang="en-GB">Gomora</desc>
-  </programme>
-  <programme start="20230303110000 +0200" stop="20230303120000 +0200" channel="dstv_mzansi_magic">
-    <title lang="en-GB">Dr Phil</title>
-    <desc lang="en-GB">Dr Phil</desc>
-  </programme>
-  <programme start="20230303120000 +0200" stop="20230303123000 +0200" channel="dstv_mzansi_magic">
-    <title lang="en-GB">The River</title>
-    <desc lang="en-GB">The River</desc>
-  </programme>
-  <programme start="20230303123000 +0200" stop="20230303130000 +0200" channel="dstv_mzansi_magic">
-    <title lang="en-GB">DiepCity</title>
-    <desc lang="en-GB">DiepCity</desc>
-  </programme>
-  <programme start="20230303130000 +0200" stop="20230303133000 +0200" channel="dstv_mzansi_magic">
-    <title lang="en-GB">Gqeberha: The Empire</title>
-    <desc lang="en-GB">Gqeberha: The Empire</desc>
-  </programme>
-  <programme start="20230303133000 +0200" stop="20230303140000 +0200" channel="dstv_mzansi_magic">
-    <title lang="en-GB">Gomora</title>
-    <desc lang="en-GB">Gomora</desc>
-  </programme>
-  <programme start="20230303140000 +0200" stop="20230303153000 +0200" channel="dstv_mzansi_magic">
-    <title lang="en-GB">Lokshin Bioskop: Sebolelo</title>
-    <desc lang="en-GB">Lokshin Bioskop: Sebolelo</desc>
-  </programme>
-  <programme start="20230303153000 +0200" stop="20230303160100 +0200" channel="dstv_mzansi_magic">
-    <title lang="en-GB">Mzansi Magic Music Specials</title>
-    <desc lang="en-GB">Mzansi Magic Music Specials</desc>
-  </programme>
-  <programme start="20230303160100 +0200" stop="20230303170000 +0200" channel="dstv_mzansi_magic">
-    <title lang="en-GB">The Talk</title>
-    <desc lang="en-GB">The Talk</desc>
-  </programme>
-  <programme start="20230303170000 +0200" stop="20230303190000 +0200" channel="dstv_mzansi_magic">
-    <title lang="en-GB">Rise: The Siya Kolisi Story</title>
-    <desc lang="en-GB">Rise: The Siya Kolisi Story</desc>
-  </programme>
-  <programme start="20230303190000 +0200" stop="20230303193000 +0200" channel="dstv_mzansi_magic">
-    <title lang="en-GB">The River</title>
-    <desc lang="en-GB">The River</desc>
-  </programme>
-  <programme start="20230303193000 +0200" stop="20230303200000 +0200" channel="dstv_mzansi_magic">
-    <title lang="en-GB">Gomora</title>
-    <desc lang="en-GB">Gomora</desc>
-  </programme>
-  <programme start="20230303200000 +0200" stop="20230303203100 +0200" channel="dstv_mzansi_magic">
-    <title lang="en-GB">Themba: My Inked World</title>
-    <desc lang="en-GB">Themba: My Inked World</desc>
-  </programme>
-  <programme start="20230303203100 +0200" stop="20230303210200 +0200" channel="dstv_mzansi_magic">
-    <title lang="en-GB">DiepCity</title>
-    <desc lang="en-GB">DiepCity</desc>
-  </programme>
-  <programme start="20230303210200 +0200" stop="20230303213100 +0200" channel="dstv_mzansi_magic">
-    <title lang="en-GB">Gqeberha: The Empire</title>
-    <desc lang="en-GB">Gqeberha: The Empire</desc>
-  </programme>
-  <programme start="20230303213100 +0200" stop="20230303220200 +0200" channel="dstv_mzansi_magic">
-    <title lang="en-GB">Becoming...</title>
-    <desc lang="en-GB">Becoming...</desc>
-  </programme>
-  <programme start="20230303220200 +0200" stop="20230303223300 +0200" channel="dstv_mzansi_magic">
-    <title lang="en-GB">Big Brother Titans</title>
-    <desc lang="en-GB">Big Brother Titans</desc>
-  </programme>
-  <programme start="20230303223300 +0200" stop="20230303233000 +0200" channel="dstv_mzansi_magic">
-    <title lang="en-GB">WWE Raw</title>
-    <desc lang="en-GB">WWE Raw</desc>
-  </programme>
-  <programme start="20230303233000 +0200" stop="20230304003000 +0200" channel="dstv_mzansi_magic">
-    <title lang="en-GB">The Talk</title>
-    <desc lang="en-GB">The Talk</desc>
-  </programme>
-  <programme start="20230302233000 +0200" stop="20230303002500 +0200" channel="dstv_zambezi_magic">
-    <title lang="en-GB">Mpali</title>
-    <desc lang="en-GB">Mpali</desc>
-  </programme>
-  <programme start="20230303002500 +0200" stop="20230303010000 +0200" channel="dstv_zambezi_magic">
-    <title lang="en-GB">Vina</title>
-    <desc lang="en-GB">Vina</desc>
-  </programme>
-  <programme start="20230303010000 +0200" stop="20230303040500 +0200" channel="dstv_zambezi_magic">
-    <title lang="en-GB">Daughters Of Karishika</title>
-    <desc lang="en-GB">Daughters Of Karishika</desc>
-  </programme>
-  <programme start="20230303040500 +0200" stop="20230303050500 +0200" channel="dstv_zambezi_magic">
-    <title lang="en-GB">My Kitchen Party</title>
-    <desc lang="en-GB">My Kitchen Party</desc>
-  </programme>
-  <programme start="20230303050500 +0200" stop="20230303060000 +0200" channel="dstv_zambezi_magic">
-    <title lang="en-GB">Zed Top Ten</title>
-    <desc lang="en-GB">Zed Top Ten</desc>
-  </programme>
-  <programme start="20230303060000 +0200" stop="20230303070000 +0200" channel="dstv_zambezi_magic">
-    <title lang="en-GB">Date My Family Zambia</title>
-    <desc lang="en-GB">Date My Family Zambia</desc>
-  </programme>
-  <programme start="20230303070000 +0200" stop="20230303073000 +0200" channel="dstv_zambezi_magic">
-    <title lang="en-GB">Uncle Limbani</title>
-    <desc lang="en-GB">Uncle Limbani</desc>
-  </programme>
-  <programme start="20230303073000 +0200" stop="20230303080000 +0200" channel="dstv_zambezi_magic">
-    <title lang="en-GB">Shi Mumbi</title>
-    <desc lang="en-GB">Shi Mumbi</desc>
-  </programme>
-  <programme start="20230303080000 +0200" stop="20230303083000 +0200" channel="dstv_zambezi_magic">
-    <title lang="en-GB">Halita</title>
-    <desc lang="en-GB">Halita</desc>
-  </programme>
-  <programme start="20230303083000 +0200" stop="20230303090000 +0200" channel="dstv_zambezi_magic">
-    <title lang="en-GB">Zuba</title>
-    <desc lang="en-GB">Zuba</desc>
-  </programme>
-  <programme start="20230303090000 +0200" stop="20230303100000 +0200" channel="dstv_zambezi_magic">
-    <title lang="en-GB">Mpali</title>
-    <desc lang="en-GB">Mpali</desc>
-  </programme>
-  <programme start="20230303100000 +0200" stop="20230303103000 +0200" channel="dstv_zambezi_magic">
-    <title lang="en-GB">Zathu</title>
-    <desc lang="en-GB">Zathu</desc>
-  </programme>
-  <programme start="20230303103000 +0200" stop="20230303113000 +0200" channel="dstv_zambezi_magic">
-    <title lang="en-GB">Zed Top Ten</title>
-    <desc lang="en-GB">Zed Top Ten</desc>
-  </programme>
-  <programme start="20230303113000 +0200" stop="20230303144000 +0200" channel="dstv_zambezi_magic">
-    <title lang="en-GB">Agony Of A Billionaire</title>
-    <desc lang="en-GB">Agony Of A Billionaire</desc>
-  </programme>
-  <programme start="20230303144000 +0200" stop="20230303153000 +0200" channel="dstv_zambezi_magic">
-    <title lang="en-GB">Mpali</title>
-    <desc lang="en-GB">Mpali</desc>
-  </programme>
-  <programme start="20230303153000 +0200" stop="20230303160000 +0200" channel="dstv_zambezi_magic">
-    <title lang="en-GB">Zuba</title>
-    <desc lang="en-GB">Zuba</desc>
-  </programme>
-  <programme start="20230303160000 +0200" stop="20230303163000 +0200" channel="dstv_zambezi_magic">
-    <title lang="en-GB">Zathu</title>
-    <desc lang="en-GB">Zathu</desc>
-  </programme>
-  <programme start="20230303163000 +0200" stop="20230303170000 +0200" channel="dstv_zambezi_magic">
-    <title lang="en-GB">Halita</title>
-    <desc lang="en-GB">Halita</desc>
-  </programme>
-  <programme start="20230303170000 +0200" stop="20230303173000 +0200" channel="dstv_zambezi_magic">
-    <title lang="en-GB">Lusaka Maids</title>
-    <desc lang="en-GB">Lusaka Maids</desc>
-  </programme>
-  <programme start="20230303173000 +0200" stop="20230303180000 +0200" channel="dstv_zambezi_magic">
-    <title lang="en-GB">Shi Mumbi</title>
-    <desc lang="en-GB">Shi Mumbi</desc>
-  </programme>
-  <programme start="20230303180000 +0200" stop="20230303183000 +0200" channel="dstv_zambezi_magic">
-    <title lang="en-GB">Uncle Limbani</title>
-    <desc lang="en-GB">Uncle Limbani</desc>
-  </programme>
-  <programme start="20230303183000 +0200" stop="20230303193000 +0200" channel="dstv_zambezi_magic">
-    <title lang="en-GB">Date My Family Zambia</title>
-    <desc lang="en-GB">Date My Family Zambia</desc>
-  </programme>
-  <programme start="20230303193000 +0200" stop="20230303200000 +0200" channel="dstv_zambezi_magic">
-    <title lang="en-GB">Halita</title>
-    <desc lang="en-GB">Halita</desc>
-  </programme>
-  <programme start="20230303200000 +0200" stop="20230303203000 +0200" channel="dstv_zambezi_magic">
-    <title lang="en-GB">Zuba</title>
-    <desc lang="en-GB">Zuba</desc>
-  </programme>
-  <programme start="20230303203000 +0200" stop="20230303213000 +0200" channel="dstv_zambezi_magic">
-    <title lang="en-GB">Mpali</title>
-    <desc lang="en-GB">Mpali</desc>
-  </programme>
-  <programme start="20230303213000 +0200" stop="20230303220000 +0200" channel="dstv_zambezi_magic">
-    <title lang="en-GB">Uncle Limbani</title>
-    <desc lang="en-GB">Uncle Limbani</desc>
-  </programme>
-  <programme start="20230303220000 +0200" stop="20230303223000 +0200" channel="dstv_zambezi_magic">
-    <title lang="en-GB">Big Brother Titans</title>
-    <desc lang="en-GB">Big Brother Titans</desc>
-  </programme>
-  <programme start="20230303223000 +0200" stop="20230303230000 +0200" channel="dstv_zambezi_magic">
-    <title lang="en-GB">Umutenge</title>
-    <desc lang="en-GB">Umutenge</desc>
-  </programme>
-  <programme start="20230303230000 +0200" stop="20230303233000 +0200" channel="dstv_zambezi_magic">
-    <title lang="en-GB">Zuba</title>
-    <desc lang="en-GB">Zuba</desc>
-  </programme>
-  <programme start="20230303233000 +0200" stop="20230304002500 +0200" channel="dstv_zambezi_magic">
-    <title lang="en-GB">Mpali</title>
-    <desc lang="en-GB">Mpali</desc>
-  </programme>
-  <programme start="20230303000000 +0200" stop="20230303013000 +0200" channel="dstv_mzansi_wethu">
-    <title lang="en-GB">Lokshin Bioskop: Love Specialist</title>
-    <desc lang="en-GB">Lokshin Bioskop: Love Specialist</desc>
-  </programme>
-  <programme start="20230303013000 +0200" stop="20230303030000 +0200" channel="dstv_mzansi_wethu">
-    <title lang="en-GB">A Family Affair</title>
-    <desc lang="en-GB">A Family Affair</desc>
-  </programme>
-  <programme start="20230303030000 +0200" stop="20230303040000 +0200" channel="dstv_mzansi_wethu">
-    <title lang="en-GB">Gospel 10 At 10</title>
-    <desc lang="en-GB">Gospel 10 At 10</desc>
-  </programme>
-  <programme start="20230303040000 +0200" stop="20230303050000 +0200" channel="dstv_mzansi_wethu">
-    <title lang="en-GB">Gospel 10 At 10</title>
-    <desc lang="en-GB">Gospel 10 At 10</desc>
-  </programme>
-  <programme start="20230303050000 +0200" stop="20230303060000 +0200" channel="dstv_mzansi_wethu">
-    <title lang="en-GB">My Top 10: My Life In Music</title>
-    <desc lang="en-GB">My Top 10: My Life In Music</desc>
-  </programme>
-  <programme start="20230303060000 +0200" stop="20230303061500 +0200" channel="dstv_mzansi_wethu">
-    <title lang="en-GB">Tjiff En Tjaff: Speeltyd</title>
-    <desc lang="en-GB">Tjiff En Tjaff: Speeltyd</desc>
-  </programme>
-  <programme start="20230303061500 +0200" stop="20230303063000 +0200" channel="dstv_mzansi_wethu">
-    <title lang="en-GB">Trixi</title>
-    <desc lang="en-GB">Trixi</desc>
-  </programme>
-  <programme start="20230303063000 +0200" stop="20230303064500 +0200" channel="dstv_mzansi_wethu">
-    <title lang="en-GB">Rat-Tat-Tat</title>
-    <desc lang="en-GB">Rat-Tat-Tat</desc>
-  </programme>
-  <programme start="20230303064500 +0200" stop="20230303065900 +0200" channel="dstv_mzansi_wethu">
-    <title lang="en-GB">Tjiff En Tjaff: Speeltyd</title>
-    <desc lang="en-GB">Tjiff En Tjaff: Speeltyd</desc>
-  </programme>
-  <programme start="20230303065900 +0200" stop="20230303071500 +0200" channel="dstv_mzansi_wethu">
-    <title lang="en-GB">Zim Zim</title>
-    <desc lang="en-GB">Zim Zim</desc>
-  </programme>
-  <programme start="20230303071500 +0200" stop="20230303073000 +0200" channel="dstv_mzansi_wethu">
-    <title lang="en-GB">Froggies</title>
-    <desc lang="en-GB">Froggies</desc>
-  </programme>
-  <programme start="20230303073000 +0200" stop="20230303074400 +0200" channel="dstv_mzansi_wethu">
-    <title lang="en-GB">Dee Dee &amp; Spike</title>
-    <desc lang="en-GB">Dee Dee &amp; Spike</desc>
-  </programme>
-  <programme start="20230303074400 +0200" stop="20230303075900 +0200" channel="dstv_mzansi_wethu">
-    <title lang="en-GB">Rat-Tat-Tat</title>
-    <desc lang="en-GB">Rat-Tat-Tat</desc>
-  </programme>
-  <programme start="20230303075900 +0200" stop="20230303081400 +0200" channel="dstv_mzansi_wethu">
-    <title lang="en-GB">Tjiff En Tjaff: Speeltyd</title>
-    <desc lang="en-GB">Tjiff En Tjaff: Speeltyd</desc>
-  </programme>
-  <programme start="20230303081400 +0200" stop="20230303082900 +0200" channel="dstv_mzansi_wethu">
-    <title lang="en-GB">Trixi</title>
-    <desc lang="en-GB">Trixi</desc>
-  </programme>
-  <programme start="20230303082900 +0200" stop="20230303084500 +0200" channel="dstv_mzansi_wethu">
-    <title lang="en-GB">Lappies</title>
-    <desc lang="en-GB">Lappies</desc>
-  </programme>
-  <programme start="20230303084500 +0200" stop="20230303090000 +0200" channel="dstv_mzansi_wethu">
-    <title lang="en-GB">Dee Dee &amp; Spike</title>
-    <desc lang="en-GB">Dee Dee &amp; Spike</desc>
-  </programme>
-  <programme start="20230303090000 +0200" stop="20230303100100 +0200" channel="dstv_mzansi_wethu">
-    <title lang="en-GB">My Top 10: My Life In Music</title>
-    <desc lang="en-GB">My Top 10: My Life In Music</desc>
-  </programme>
-  <programme start="20230303100100 +0200" stop="20230303103100 +0200" channel="dstv_mzansi_wethu">
-    <title lang="en-GB">Greed And Desire</title>
-    <desc lang="en-GB">Greed And Desire</desc>
-  </programme>
-  <programme start="20230303103100 +0200" stop="20230303110100 +0200" channel="dstv_mzansi_wethu">
-    <title lang="en-GB">Gomora</title>
-    <desc lang="en-GB">Gomora</desc>
-  </programme>
-  <programme start="20230303110100 +0200" stop="20230303113000 +0200" channel="dstv_mzansi_wethu">
-    <title lang="en-GB">Lingashoni</title>
-    <desc lang="en-GB">Lingashoni</desc>
-  </programme>
-  <programme start="20230303113000 +0200" stop="20230303120100 +0200" channel="dstv_mzansi_wethu">
-    <title lang="en-GB">The Queen</title>
-    <desc lang="en-GB">The Queen</desc>
-  </programme>
-  <programme start="20230303120100 +0200" stop="20230303123100 +0200" channel="dstv_mzansi_wethu">
-    <title lang="en-GB">The River</title>
-    <desc lang="en-GB">The River</desc>
-  </programme>
-  <programme start="20230303123100 +0200" stop="20230303130200 +0200" channel="dstv_mzansi_wethu">
-    <title lang="en-GB">Greed And Desire</title>
-    <desc lang="en-GB">Greed And Desire</desc>
-  </programme>
-  <programme start="20230303130200 +0200" stop="20230303140000 +0200" channel="dstv_mzansi_wethu">
-    <title lang="en-GB">Kuyafiwa Eshogweni</title>
-    <desc lang="en-GB">Kuyafiwa Eshogweni</desc>
-  </programme>
-  <programme start="20230303140000 +0200" stop="20230303143000 +0200" channel="dstv_mzansi_wethu">
-    <title lang="en-GB">Gomora</title>
-    <desc lang="en-GB">Gomora</desc>
-  </programme>
-  <programme start="20230303143000 +0200" stop="20230303150000 +0200" channel="dstv_mzansi_wethu">
-    <title lang="en-GB">Lingashoni</title>
-    <desc lang="en-GB">Lingashoni</desc>
-  </programme>
-  <programme start="20230303150000 +0200" stop="20230303153100 +0200" channel="dstv_mzansi_wethu">
-    <title lang="en-GB">The Queen</title>
-    <desc lang="en-GB">The Queen</desc>
-  </programme>
-  <programme start="20230303153100 +0200" stop="20230303160100 +0200" channel="dstv_mzansi_wethu">
-    <title lang="en-GB">The River</title>
-    <desc lang="en-GB">The River</desc>
-  </programme>
-  <programme start="20230303160100 +0200" stop="20230303170200 +0200" channel="dstv_mzansi_wethu">
-    <title lang="en-GB">Monate Mpolaye</title>
-    <desc lang="en-GB">Monate Mpolaye</desc>
-  </programme>
-  <programme start="20230303170200 +0200" stop="20230303190000 +0200" channel="dstv_mzansi_wethu">
-    <title lang="en-GB">Idols SA</title>
-    <desc lang="en-GB">Idols SA</desc>
-  </programme>
-  <programme start="20230303190000 +0200" stop="20230303193000 +0200" channel="dstv_mzansi_wethu">
-    <title lang="en-GB">News On Wethu</title>
-    <desc lang="en-GB">News On Wethu</desc>
-  </programme>
-  <programme start="20230303193000 +0200" stop="20230303200000 +0200" channel="dstv_mzansi_wethu">
-    <title lang="en-GB">Gomora</title>
-    <desc lang="en-GB">Gomora</desc>
-  </programme>
-  <programme start="20230303200000 +0200" stop="20230303203000 +0200" channel="dstv_mzansi_wethu">
-    <title lang="en-GB">The River</title>
-    <desc lang="en-GB">The River</desc>
-  </programme>
-  <programme start="20230303203000 +0200" stop="20230303210000 +0200" channel="dstv_mzansi_wethu">
-    <title lang="en-GB">Mzali Wam</title>
-    <desc lang="en-GB">Mzali Wam</desc>
-  </programme>
-  <programme start="20230303210000 +0200" stop="20230303213100 +0200" channel="dstv_mzansi_wethu">
-    <title lang="en-GB">The Queen</title>
-    <desc lang="en-GB">The Queen</desc>
-  </programme>
-  <programme start="20230303213100 +0200" stop="20230303220100 +0200" channel="dstv_mzansi_wethu">
-    <title lang="en-GB">Unefa</title>
-    <desc lang="en-GB">Unefa</desc>
-  </programme>
-  <programme start="20230303220100 +0200" stop="20230303223200 +0200" channel="dstv_mzansi_wethu">
-    <title lang="en-GB">Big Brother Titans</title>
-    <desc lang="en-GB">Big Brother Titans</desc>
-  </programme>
-  <programme start="20230303223200 +0200" stop="20230303230200 +0200" channel="dstv_mzansi_wethu">
-    <title lang="en-GB">Ngithande Nam</title>
-    <desc lang="en-GB">Ngithande Nam</desc>
-  </programme>
-  <programme start="20230303230200 +0200" stop="20230303233100 +0200" channel="dstv_mzansi_wethu">
-    <title lang="en-GB">Ezomshado</title>
-    <desc lang="en-GB">Ezomshado</desc>
-  </programme>
-  <programme start="20230303233100 +0200" stop="20230304010700 +0200" channel="dstv_mzansi_wethu">
-    <title lang="en-GB">Peace Order</title>
-    <desc lang="en-GB">Peace Order</desc>
-  </programme>
-  <programme start="20230303000000 +0200" stop="20230303021500 +0200" channel="dstv_one_zed">
-    <title lang="en-GB">Abortion</title>
-    <desc lang="en-GB">Abortion</desc>
-  </programme>
-  <programme start="20230303021500 +0200" stop="20230303031000 +0200" channel="dstv_one_zed">
-    <title lang="en-GB">Dinner Will Be Late</title>
-    <desc lang="en-GB">Dinner Will Be Late</desc>
-  </programme>
-  <programme start="20230303031000 +0200" stop="20230303040500 +0200" channel="dstv_one_zed">
-    <title lang="en-GB">My Kitchen Party</title>
-    <desc lang="en-GB">My Kitchen Party</desc>
-  </programme>
-  <programme start="20230303040500 +0200" stop="20230303050000 +0200" channel="dstv_one_zed">
-    <title lang="en-GB">Our Perfect Wedding Zimbabwe</title>
-    <desc lang="en-GB">Our Perfect Wedding Zimbabwe</desc>
-  </programme>
-  <programme start="20230303050000 +0200" stop="20230303060000 +0200" channel="dstv_one_zed">
-    <title lang="en-GB">Mpali</title>
-    <desc lang="en-GB">Mpali</desc>
-  </programme>
-  <programme start="20230303060000 +0200" stop="20230303070000 +0200" channel="dstv_one_zed">
-    <title lang="en-GB">Ngoma Zathu (Our Rhythm)</title>
-    <desc lang="en-GB">Ngoma Zathu (Our Rhythm)</desc>
-  </programme>
-  <programme start="20230303070000 +0200" stop="20230303073000 +0200" channel="dstv_one_zed">
-    <title lang="en-GB">Dorika</title>
-    <desc lang="en-GB">Dorika</desc>
-  </programme>
-  <programme start="20230303073000 +0200" stop="20230303083000 +0200" channel="dstv_one_zed">
-    <title lang="en-GB">Tuvwange</title>
-    <desc lang="en-GB">Tuvwange</desc>
-  </programme>
-  <programme start="20230303083000 +0200" stop="20230303090000 +0200" channel="dstv_one_zed">
-    <title lang="en-GB">Landlady Meets Landlord</title>
-    <desc lang="en-GB">Landlady Meets Landlord</desc>
-  </programme>
-  <programme start="20230303090000 +0200" stop="20230303093000 +0200" channel="dstv_one_zed">
-    <title lang="en-GB">Uncle Limbani</title>
-    <desc lang="en-GB">Uncle Limbani</desc>
-  </programme>
-  <programme start="20230303093000 +0200" stop="20230303100000 +0200" channel="dstv_one_zed">
-    <title lang="en-GB">The Security Guard</title>
-    <desc lang="en-GB">The Security Guard</desc>
-  </programme>
-  <programme start="20230303100000 +0200" stop="20230303103000 +0200" channel="dstv_one_zed">
-    <title lang="en-GB">Security Guard Specials</title>
-    <desc lang="en-GB">Security Guard Specials</desc>
-  </programme>
-  <programme start="20230303103000 +0200" stop="20230303113000 +0200" channel="dstv_one_zed">
-    <title lang="en-GB">Mpali</title>
-    <desc lang="en-GB">Mpali</desc>
-  </programme>
-  <programme start="20230303113000 +0200" stop="20230303120000 +0200" channel="dstv_one_zed">
-    <title lang="en-GB">Zuba</title>
-    <desc lang="en-GB">Zuba</desc>
-  </programme>
-  <programme start="20230303120000 +0200" stop="20230303150500 +0200" channel="dstv_one_zed">
-    <title lang="en-GB">Ladies Of High Class</title>
-    <desc lang="en-GB">Ladies Of High Class</desc>
-  </programme>
-  <programme start="20230303150500 +0200" stop="20230303153500 +0200" channel="dstv_one_zed">
-    <title lang="en-GB">Vina</title>
-    <desc lang="en-GB">Vina</desc>
-  </programme>
-  <programme start="20230303153500 +0200" stop="20230303163000 +0200" channel="dstv_one_zed">
-    <title lang="en-GB">Mpali</title>
-    <desc lang="en-GB">Mpali</desc>
-  </programme>
-  <programme start="20230303163000 +0200" stop="20230303170000 +0200" channel="dstv_one_zed">
-    <title lang="en-GB">Zuba</title>
-    <desc lang="en-GB">Zuba</desc>
-  </programme>
-  <programme start="20230303170000 +0200" stop="20230303180000 +0200" channel="dstv_one_zed">
-    <title lang="en-GB">Zed Top Ten</title>
-    <desc lang="en-GB">Zed Top Ten</desc>
-  </programme>
-  <programme start="20230303180000 +0200" stop="20230303190000 +0200" channel="dstv_one_zed">
-    <title lang="en-GB">Tuvwange</title>
-    <desc lang="en-GB">Tuvwange</desc>
-  </programme>
-  <programme start="20230303190000 +0200" stop="20230303200000 +0200" channel="dstv_one_zed">
-    <title lang="en-GB">Our Perfect Wedding Zambia</title>
-    <desc lang="en-GB">Our Perfect Wedding Zambia</desc>
-  </programme>
-  <programme start="20230303200000 +0200" stop="20230303203000 +0200" channel="dstv_one_zed">
-    <title lang="en-GB">Zuba</title>
-    <desc lang="en-GB">Zuba</desc>
-  </programme>
-  <programme start="20230303203000 +0200" stop="20230303210000 +0200" channel="dstv_one_zed">
-    <title lang="en-GB">Landlady Meets Landlord</title>
-    <desc lang="en-GB">Landlady Meets Landlord</desc>
-  </programme>
-  <programme start="20230303210000 +0200" stop="20230303213000 +0200" channel="dstv_one_zed">
-    <title lang="en-GB">Uncle Limbani</title>
-    <desc lang="en-GB">Uncle Limbani</desc>
-  </programme>
-  <programme start="20230303213000 +0200" stop="20230303220000 +0200" channel="dstv_one_zed">
-    <title lang="en-GB">The Security Guard</title>
-    <desc lang="en-GB">The Security Guard</desc>
-  </programme>
-  <programme start="20230303220000 +0200" stop="20230303223200 +0200" channel="dstv_one_zed">
-    <title lang="en-GB">Big Brother Titans</title>
-    <desc lang="en-GB">Big Brother Titans</desc>
-  </programme>
-  <programme start="20230303223200 +0200" stop="20230304000000 +0200" channel="dstv_one_zed">
-    <title lang="en-GB">Date My Family Zambia</title>
-    <desc lang="en-GB">Date My Family Zambia</desc>
-  </programme>
-  <programme start="20230303000000 +0200" stop="20230303060000 +0200" channel="dstv_parliament_tv_zambia">
-    <title lang="en-GB">Parliament TV</title>
-    <desc lang="en-GB">Parliament TV</desc>
-  </programme>
-  <programme start="20230303060000 +0200" stop="20230303120000 +0200" channel="dstv_parliament_tv_zambia">
-    <title lang="en-GB">Parliament TV</title>
-    <desc lang="en-GB">Parliament TV</desc>
-  </programme>
-  <programme start="20230303120000 +0200" stop="20230303180000 +0200" channel="dstv_parliament_tv_zambia">
-    <title lang="en-GB">Parliament TV</title>
-    <desc lang="en-GB">Parliament TV</desc>
-  </programme>
-  <programme start="20230303180000 +0200" stop="20230304000000 +0200" channel="dstv_parliament_tv_zambia">
-    <title lang="en-GB">Parliament TV</title>
-    <desc lang="en-GB">Parliament TV</desc>
-  </programme>
-  <programme start="20230303000000 +0200" stop="20230303060000 +0200" channel="dstv_znbc2">
-    <title lang="en-GB">ZNBC 2</title>
-    <desc lang="en-GB">ZNBC 2</desc>
-  </programme>
-  <programme start="20230303060000 +0200" stop="20230303120000 +0200" channel="dstv_znbc2">
-    <title lang="en-GB">ZNBC 2</title>
-    <desc lang="en-GB">ZNBC 2</desc>
-  </programme>
-  <programme start="20230303120000 +0200" stop="20230303180000 +0200" channel="dstv_znbc2">
-    <title lang="en-GB">ZNBC 2</title>
-    <desc lang="en-GB">ZNBC 2</desc>
-  </programme>
-  <programme start="20230303180000 +0200" stop="20230304000000 +0200" channel="dstv_znbc2">
-    <title lang="en-GB">ZNBC 2</title>
-    <desc lang="en-GB">ZNBC 2</desc>
-  </programme>
-  <programme start="20230303000000 +0200" stop="20230303060000 +0200" channel="dstv_cbc">
-    <title lang="en-GB">CBC</title>
-    <desc lang="en-GB">CBC</desc>
-  </programme>
-  <programme start="20230303060000 +0200" stop="20230303120000 +0200" channel="dstv_cbc">
-    <title lang="en-GB">CBC</title>
-    <desc lang="en-GB">CBC</desc>
-  </programme>
-  <programme start="20230303120000 +0200" stop="20230303180000 +0200" channel="dstv_cbc">
-    <title lang="en-GB">CBC</title>
-    <desc lang="en-GB">CBC</desc>
-  </programme>
-  <programme start="20230303180000 +0200" stop="20230304000000 +0200" channel="dstv_cbc">
-    <title lang="en-GB">CBC</title>
-    <desc lang="en-GB">CBC</desc>
-  </programme>
   <programme start="20230303232500 +0200" stop="20230304001500 +0200" channel="dstv_1_magic">
     <title lang="en-GB">The Game</title>
     <desc lang="en-GB">The Game</desc>
@@ -11824,6 +10716,1086 @@
     <desc lang="en-GB">CBC</desc>
   </programme>
   <programme start="20230313180000 +0200" stop="20230314000000 +0200" channel="dstv_cbc">
+    <title lang="en-GB">CBC</title>
+    <desc lang="en-GB">CBC</desc>
+  </programme>
+  <programme start="20230313233000 +0200" stop="20230314003000 +0200" channel="dstv_1_magic">
+    <title lang="en-GB">Power Book 4: Force</title>
+    <desc lang="en-GB">Power Book 4: Force</desc>
+  </programme>
+  <programme start="20230314003000 +0200" stop="20230314010000 +0200" channel="dstv_1_magic">
+    <title lang="en-GB">The River</title>
+    <desc lang="en-GB">The River</desc>
+  </programme>
+  <programme start="20230314010000 +0200" stop="20230314013000 +0200" channel="dstv_1_magic">
+    <title lang="en-GB">Lingashoni</title>
+    <desc lang="en-GB">Lingashoni</desc>
+  </programme>
+  <programme start="20230314013000 +0200" stop="20230314023000 +0200" channel="dstv_1_magic">
+    <title lang="en-GB">Blood Psalms</title>
+    <desc lang="en-GB">Blood Psalms</desc>
+  </programme>
+  <programme start="20230314023000 +0200" stop="20230314030000 +0200" channel="dstv_1_magic">
+    <title lang="en-GB">1Magic: Zone In</title>
+    <desc lang="en-GB">1Magic: Zone In</desc>
+  </programme>
+  <programme start="20230314030000 +0200" stop="20230314033000 +0200" channel="dstv_1_magic">
+    <title lang="en-GB">1Magic: Zone In</title>
+    <desc lang="en-GB">1Magic: Zone In</desc>
+  </programme>
+  <programme start="20230314033000 +0200" stop="20230314050000 +0200" channel="dstv_1_magic">
+    <title lang="en-GB">1Magic: Hits</title>
+    <desc lang="en-GB">1Magic: Hits</desc>
+  </programme>
+  <programme start="20230314050000 +0200" stop="20230314060000 +0200" channel="dstv_1_magic">
+    <title lang="en-GB">The Talk</title>
+    <desc lang="en-GB">The Talk</desc>
+  </programme>
+  <programme start="20230314060000 +0200" stop="20230314073000 +0200" channel="dstv_1_magic">
+    <title lang="en-GB">1Magic: Hits</title>
+    <desc lang="en-GB">1Magic: Hits</desc>
+  </programme>
+  <programme start="20230314073000 +0200" stop="20230314080000 +0200" channel="dstv_1_magic">
+    <title lang="en-GB">The River</title>
+    <desc lang="en-GB">The River</desc>
+  </programme>
+  <programme start="20230314080000 +0200" stop="20230314083000 +0200" channel="dstv_1_magic">
+    <title lang="en-GB">Lingashoni</title>
+    <desc lang="en-GB">Lingashoni</desc>
+  </programme>
+  <programme start="20230314083000 +0200" stop="20230314090000 +0200" channel="dstv_1_magic">
+    <title lang="en-GB">Pastor Wants A Wife</title>
+    <desc lang="en-GB">Pastor Wants A Wife</desc>
+  </programme>
+  <programme start="20230314090000 +0200" stop="20230314100000 +0200" channel="dstv_1_magic">
+    <title lang="en-GB">Highlife</title>
+    <desc lang="en-GB">Highlife</desc>
+  </programme>
+  <programme start="20230314100000 +0200" stop="20230314103000 +0200" channel="dstv_1_magic">
+    <title lang="en-GB">Mr. Mayor</title>
+    <desc lang="en-GB">Mr. Mayor</desc>
+  </programme>
+  <programme start="20230314103000 +0200" stop="20230314110000 +0200" channel="dstv_1_magic">
+    <title lang="en-GB">The River</title>
+    <desc lang="en-GB">The River</desc>
+  </programme>
+  <programme start="20230314110000 +0200" stop="20230314120000 +0200" channel="dstv_1_magic">
+    <title lang="en-GB">The Talk</title>
+    <desc lang="en-GB">The Talk</desc>
+  </programme>
+  <programme start="20230314120000 +0200" stop="20230314123000 +0200" channel="dstv_1_magic">
+    <title lang="en-GB">1Magic: Zone In</title>
+    <desc lang="en-GB">1Magic: Zone In</desc>
+  </programme>
+  <programme start="20230314123000 +0200" stop="20230314130000 +0200" channel="dstv_1_magic">
+    <title lang="en-GB">1Magic: Zone In</title>
+    <desc lang="en-GB">1Magic: Zone In</desc>
+  </programme>
+  <programme start="20230314130000 +0200" stop="20230314140000 +0200" channel="dstv_1_magic">
+    <title lang="en-GB">Highlife</title>
+    <desc lang="en-GB">Highlife</desc>
+  </programme>
+  <programme start="20230314140000 +0200" stop="20230314143000 +0200" channel="dstv_1_magic">
+    <title lang="en-GB">Mr. Mayor</title>
+    <desc lang="en-GB">Mr. Mayor</desc>
+  </programme>
+  <programme start="20230314143000 +0200" stop="20230314153000 +0200" channel="dstv_1_magic">
+    <title lang="en-GB">The Talk</title>
+    <desc lang="en-GB">The Talk</desc>
+  </programme>
+  <programme start="20230314153000 +0200" stop="20230314160000 +0200" channel="dstv_1_magic">
+    <title lang="en-GB">The River</title>
+    <desc lang="en-GB">The River</desc>
+  </programme>
+  <programme start="20230314160000 +0200" stop="20230314163000 +0200" channel="dstv_1_magic">
+    <title lang="en-GB">Lingashoni</title>
+    <desc lang="en-GB">Lingashoni</desc>
+  </programme>
+  <programme start="20230314163000 +0200" stop="20230314170000 +0200" channel="dstv_1_magic">
+    <title lang="en-GB">Life With Kelly</title>
+    <desc lang="en-GB">Life With Kelly</desc>
+  </programme>
+  <programme start="20230314170000 +0200" stop="20230314173000 +0200" channel="dstv_1_magic">
+    <title lang="en-GB">Pastor Wants A Wife</title>
+    <desc lang="en-GB">Pastor Wants A Wife</desc>
+  </programme>
+  <programme start="20230314173000 +0200" stop="20230314180000 +0200" channel="dstv_1_magic">
+    <title lang="en-GB">Mnakwethu Happily Ever After?</title>
+    <desc lang="en-GB">Mnakwethu Happily Ever After?</desc>
+  </programme>
+  <programme start="20230314180000 +0200" stop="20230314190000 +0200" channel="dstv_1_magic">
+    <title lang="en-GB">The Talk</title>
+    <desc lang="en-GB">The Talk</desc>
+  </programme>
+  <programme start="20230314190000 +0200" stop="20230314200000 +0200" channel="dstv_1_magic">
+    <title lang="en-GB">Highlife</title>
+    <desc lang="en-GB">Highlife</desc>
+  </programme>
+  <programme start="20230314200000 +0200" stop="20230314203000 +0200" channel="dstv_1_magic">
+    <title lang="en-GB">The River</title>
+    <desc lang="en-GB">The River</desc>
+  </programme>
+  <programme start="20230314203000 +0200" stop="20230314213000 +0200" channel="dstv_1_magic">
+    <title lang="en-GB">The Equalizer</title>
+    <desc lang="en-GB">The Equalizer</desc>
+  </programme>
+  <programme start="20230314213000 +0200" stop="20230314220000 +0200" channel="dstv_1_magic">
+    <title lang="en-GB">Lingashoni</title>
+    <desc lang="en-GB">Lingashoni</desc>
+  </programme>
+  <programme start="20230314220000 +0200" stop="20230314230000 +0200" channel="dstv_1_magic">
+    <title lang="en-GB">Power Book 4: Force</title>
+    <desc lang="en-GB">Power Book 4: Force</desc>
+  </programme>
+  <programme start="20230314230000 +0200" stop="20230315000000 +0200" channel="dstv_1_magic">
+    <title lang="en-GB">Everything I Know About Love</title>
+    <desc lang="en-GB">Everything I Know About Love</desc>
+  </programme>
+  <programme start="20230314000000 +0200" stop="20230314013500 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">To All The Broken Hearted</title>
+    <desc lang="en-GB">To All The Broken Hearted</desc>
+  </programme>
+  <programme start="20230314013500 +0200" stop="20230314020000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Maskers</title>
+    <desc lang="en-GB">Maskers</desc>
+  </programme>
+  <programme start="20230314020000 +0200" stop="20230314023000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Chronicles Of Solo</title>
+    <desc lang="en-GB">Chronicles Of Solo</desc>
+  </programme>
+  <programme start="20230314023000 +0200" stop="20230314040000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Goldmine</title>
+    <desc lang="en-GB">Goldmine</desc>
+  </programme>
+  <programme start="20230314040000 +0200" stop="20230314043000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Nkoyo</title>
+    <desc lang="en-GB">Nkoyo</desc>
+  </programme>
+  <programme start="20230314043000 +0200" stop="20230314050000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Itura</title>
+    <desc lang="en-GB">Itura</desc>
+  </programme>
+  <programme start="20230314050000 +0200" stop="20230314060000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Finished</title>
+    <desc lang="en-GB">Finished</desc>
+  </programme>
+  <programme start="20230314060000 +0200" stop="20230314070000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Tough Ladies</title>
+    <desc lang="en-GB">Tough Ladies</desc>
+  </programme>
+  <programme start="20230314070000 +0200" stop="20230314102000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">The Johnsons</title>
+    <desc lang="en-GB">The Johnsons</desc>
+  </programme>
+  <programme start="20230314102000 +0200" stop="20230314123000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Devil&apos;s Angel</title>
+    <desc lang="en-GB">Devil&apos;s Angel</desc>
+  </programme>
+  <programme start="20230314123000 +0200" stop="20230314143000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">My Flatmates</title>
+    <desc lang="en-GB">My Flatmates</desc>
+  </programme>
+  <programme start="20230314143000 +0200" stop="20230314150000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Tinsel</title>
+    <desc lang="en-GB">Tinsel</desc>
+  </programme>
+  <programme start="20230314150000 +0200" stop="20230314170000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Mama Drama</title>
+    <desc lang="en-GB">Mama Drama</desc>
+  </programme>
+  <programme start="20230314170000 +0200" stop="20230314173000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Covenant</title>
+    <desc lang="en-GB">Covenant</desc>
+  </programme>
+  <programme start="20230314173000 +0200" stop="20230314175900 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Itura</title>
+    <desc lang="en-GB">Itura</desc>
+  </programme>
+  <programme start="20230314175900 +0200" stop="20230314193000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Ruse</title>
+    <desc lang="en-GB">Ruse</desc>
+  </programme>
+  <programme start="20230314193000 +0200" stop="20230314200000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">My Flatmates</title>
+    <desc lang="en-GB">My Flatmates</desc>
+  </programme>
+  <programme start="20230314200000 +0200" stop="20230314203000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">The Johnsons</title>
+    <desc lang="en-GB">The Johnsons</desc>
+  </programme>
+  <programme start="20230314203000 +0200" stop="20230314210000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Tinsel</title>
+    <desc lang="en-GB">Tinsel</desc>
+  </programme>
+  <programme start="20230314210000 +0200" stop="20230314213000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Covenant</title>
+    <desc lang="en-GB">Covenant</desc>
+  </programme>
+  <programme start="20230314213000 +0200" stop="20230314233000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Itura</title>
+    <desc lang="en-GB">Itura</desc>
+  </programme>
+  <programme start="20230314233000 +0200" stop="20230315013500 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Letting Go</title>
+    <desc lang="en-GB">Letting Go</desc>
+  </programme>
+  <programme start="20230313231000 +0200" stop="20230314022000 +0200">
+    <title lang="en-GB">Nnenna: My Love</title>
+    <desc lang="en-GB">Nnenna: My Love</desc>
+  </programme>
+  <programme start="20230314022000 +0200" stop="20230314030500 +0200">
+    <title lang="en-GB">Blue Blood In Red Soil</title>
+    <desc lang="en-GB">Blue Blood In Red Soil</desc>
+  </programme>
+  <programme start="20230314030500 +0200" stop="20230314063000 +0200">
+    <title lang="en-GB">Two Bad Men</title>
+    <desc lang="en-GB">Two Bad Men</desc>
+  </programme>
+  <programme start="20230314063000 +0200" stop="20230314070000 +0200">
+    <title lang="en-GB">Ajoche</title>
+    <desc lang="en-GB">Ajoche</desc>
+  </programme>
+  <programme start="20230314070000 +0200" stop="20230314100500 +0200">
+    <title lang="en-GB">Too Hard To Forget</title>
+    <desc lang="en-GB">Too Hard To Forget</desc>
+  </programme>
+  <programme start="20230314100500 +0200" stop="20230314131500 +0200">
+    <title lang="en-GB">Ladies Of High Class</title>
+    <desc lang="en-GB">Ladies Of High Class</desc>
+  </programme>
+  <programme start="20230314131500 +0200" stop="20230314155000 +0200">
+    <title lang="en-GB">Hunter Princess</title>
+    <desc lang="en-GB">Hunter Princess</desc>
+  </programme>
+  <programme start="20230314155000 +0200" stop="20230314190000 +0200">
+    <title lang="en-GB">Widow&apos;s Money</title>
+    <desc lang="en-GB">Widow&apos;s Money</desc>
+  </programme>
+  <programme start="20230314190000 +0200" stop="20230314193000 +0200">
+    <title lang="en-GB">Riona</title>
+    <desc lang="en-GB">Riona</desc>
+  </programme>
+  <programme start="20230314193000 +0200" stop="20230314200000 +0200">
+    <title lang="en-GB">Ajoche</title>
+    <desc lang="en-GB">Ajoche</desc>
+  </programme>
+  <programme start="20230314200000 +0200" stop="20230314230500 +0200">
+    <title lang="en-GB">Love Apart</title>
+    <desc lang="en-GB">Love Apart</desc>
+  </programme>
+  <programme start="20230314230500 +0200" stop="20230315020500 +0200">
+    <title lang="en-GB">My Sister&apos;s Blood</title>
+    <desc lang="en-GB">My Sister&apos;s Blood</desc>
+  </programme>
+  <programme start="20230314000000 +0200" stop="20230314012500 +0200" channel="dstv_afria_magic_urban">
+    <title lang="en-GB">The Rapist</title>
+    <desc lang="en-GB">The Rapist</desc>
+  </programme>
+  <programme start="20230314012500 +0200" stop="20230314031500 +0200" channel="dstv_afria_magic_urban">
+    <title lang="en-GB">The Altruist</title>
+    <desc lang="en-GB">The Altruist</desc>
+  </programme>
+  <programme start="20230314031500 +0200" stop="20230314043000 +0200" channel="dstv_afria_magic_urban">
+    <title lang="en-GB">Jonzing</title>
+    <desc lang="en-GB">Jonzing</desc>
+  </programme>
+  <programme start="20230314043000 +0200" stop="20230314060000 +0200" channel="dstv_afria_magic_urban">
+    <title lang="en-GB">Sweet Lies</title>
+    <desc lang="en-GB">Sweet Lies</desc>
+  </programme>
+  <programme start="20230314060000 +0200" stop="20230314075000 +0200" channel="dstv_afria_magic_urban">
+    <title lang="en-GB">Echoes Of Yesterday</title>
+    <desc lang="en-GB">Echoes Of Yesterday</desc>
+  </programme>
+  <programme start="20230314075000 +0200" stop="20230314093000 +0200" channel="dstv_afria_magic_urban">
+    <title lang="en-GB">Evol</title>
+    <desc lang="en-GB">Evol</desc>
+  </programme>
+  <programme start="20230314093000 +0200" stop="20230314100000 +0200" channel="dstv_afria_magic_urban">
+    <title lang="en-GB">Jack Of All Trades</title>
+    <desc lang="en-GB">Jack Of All Trades</desc>
+  </programme>
+  <programme start="20230314100000 +0200" stop="20230314103000 +0200" channel="dstv_afria_magic_urban">
+    <title lang="en-GB">The Johnsons</title>
+    <desc lang="en-GB">The Johnsons</desc>
+  </programme>
+  <programme start="20230314103000 +0200" stop="20230314110000 +0200" channel="dstv_afria_magic_urban">
+    <title lang="en-GB">My Flatmates</title>
+    <desc lang="en-GB">My Flatmates</desc>
+  </programme>
+  <programme start="20230314110000 +0200" stop="20230314113000 +0200" channel="dstv_afria_magic_urban">
+    <title lang="en-GB">My Siblings And I</title>
+    <desc lang="en-GB">My Siblings And I</desc>
+  </programme>
+  <programme start="20230314113000 +0200" stop="20230314134000 +0200" channel="dstv_afria_magic_urban">
+    <title lang="en-GB">Trauma</title>
+    <desc lang="en-GB">Trauma</desc>
+  </programme>
+  <programme start="20230314134000 +0200" stop="20230314154000 +0200" channel="dstv_afria_magic_urban">
+    <title lang="en-GB">So Long A Betrayal</title>
+    <desc lang="en-GB">So Long A Betrayal</desc>
+  </programme>
+  <programme start="20230314154000 +0200" stop="20230314174000 +0200" channel="dstv_afria_magic_urban">
+    <title lang="en-GB">Mutual Benefits</title>
+    <desc lang="en-GB">Mutual Benefits</desc>
+  </programme>
+  <programme start="20230314174000 +0200" stop="20230314190000 +0200" channel="dstv_afria_magic_urban">
+    <title lang="en-GB">Control</title>
+    <desc lang="en-GB">Control</desc>
+  </programme>
+  <programme start="20230314190000 +0200" stop="20230314193000 +0200" channel="dstv_afria_magic_urban">
+    <title lang="en-GB">Tinsel</title>
+    <desc lang="en-GB">Tinsel</desc>
+  </programme>
+  <programme start="20230314193000 +0200" stop="20230314200000 +0200" channel="dstv_afria_magic_urban">
+    <title lang="en-GB">Venge</title>
+    <desc lang="en-GB">Venge</desc>
+  </programme>
+  <programme start="20230314200000 +0200" stop="20230314203000 +0200" channel="dstv_afria_magic_urban">
+    <title lang="en-GB">My Flatmates</title>
+    <desc lang="en-GB">My Flatmates</desc>
+  </programme>
+  <programme start="20230314203000 +0200" stop="20230314210000 +0200" channel="dstv_afria_magic_urban">
+    <title lang="en-GB">Dilemma</title>
+    <desc lang="en-GB">Dilemma</desc>
+  </programme>
+  <programme start="20230314210000 +0200" stop="20230314213000 +0200" channel="dstv_afria_magic_urban">
+    <title lang="en-GB">Jenifa&apos;s Diary</title>
+    <desc lang="en-GB">Jenifa&apos;s Diary</desc>
+  </programme>
+  <programme start="20230314213000 +0200" stop="20230314220000 +0200" channel="dstv_afria_magic_urban">
+    <title lang="en-GB">My Siblings And I</title>
+    <desc lang="en-GB">My Siblings And I</desc>
+  </programme>
+  <programme start="20230314220000 +0200" stop="20230314223000 +0200" channel="dstv_afria_magic_urban">
+    <title lang="en-GB">The Johnsons</title>
+    <desc lang="en-GB">The Johnsons</desc>
+  </programme>
+  <programme start="20230314223000 +0200" stop="20230314230000 +0200" channel="dstv_afria_magic_urban">
+    <title lang="en-GB">Olive</title>
+    <desc lang="en-GB">Olive</desc>
+  </programme>
+  <programme start="20230314230000 +0200" stop="20230314233000 +0200" channel="dstv_afria_magic_urban">
+    <title lang="en-GB">Big Brother Titans</title>
+    <desc lang="en-GB">Big Brother Titans</desc>
+  </programme>
+  <programme start="20230314233000 +0200" stop="20230315011000 +0200" channel="dstv_afria_magic_urban">
+    <title lang="en-GB">A Love After Love Story</title>
+    <desc lang="en-GB">A Love After Love Story</desc>
+  </programme>
+  <programme start="20230313235500 +0200" stop="20230314030000 +0200" channel="dstv_africa_magic_family">
+    <title lang="en-GB">My Only Treasure</title>
+    <desc lang="en-GB">My Only Treasure</desc>
+  </programme>
+  <programme start="20230314030000 +0200" stop="20230314035000 +0200" channel="dstv_africa_magic_family">
+    <title lang="en-GB">Eve</title>
+    <desc lang="en-GB">Eve</desc>
+  </programme>
+  <programme start="20230314035000 +0200" stop="20230314045500 +0200" channel="dstv_africa_magic_family">
+    <title lang="en-GB">Africa Magic Music</title>
+    <desc lang="en-GB">Africa Magic Music</desc>
+  </programme>
+  <programme start="20230314045500 +0200" stop="20230314060000 +0200" channel="dstv_africa_magic_family">
+    <title lang="en-GB">Africa Magic Music</title>
+    <desc lang="en-GB">Africa Magic Music</desc>
+  </programme>
+  <programme start="20230314060000 +0200" stop="20230314063000 +0200" channel="dstv_africa_magic_family">
+    <title lang="en-GB">Hush</title>
+    <desc lang="en-GB">Hush</desc>
+  </programme>
+  <programme start="20230314063000 +0200" stop="20230314070000 +0200" channel="dstv_africa_magic_family">
+    <title lang="en-GB">Music Buzz</title>
+    <desc lang="en-GB">Music Buzz</desc>
+  </programme>
+  <programme start="20230314070000 +0200" stop="20230314073000 +0200" channel="dstv_africa_magic_family">
+    <title lang="en-GB">Riona</title>
+    <desc lang="en-GB">Riona</desc>
+  </programme>
+  <programme start="20230314073000 +0200" stop="20230314080000 +0200" channel="dstv_africa_magic_family">
+    <title lang="en-GB">Hustle</title>
+    <desc lang="en-GB">Hustle</desc>
+  </programme>
+  <programme start="20230314080000 +0200" stop="20230314083000 +0200" channel="dstv_africa_magic_family">
+    <title lang="en-GB">Tinsel</title>
+    <desc lang="en-GB">Tinsel</desc>
+  </programme>
+  <programme start="20230314083000 +0200" stop="20230314090000 +0200" channel="dstv_africa_magic_family">
+    <title lang="en-GB">My Siblings And I</title>
+    <desc lang="en-GB">My Siblings And I</desc>
+  </programme>
+  <programme start="20230314090000 +0200" stop="20230314093500 +0200" channel="dstv_africa_magic_family">
+    <title lang="en-GB">My Flatmates</title>
+    <desc lang="en-GB">My Flatmates</desc>
+  </programme>
+  <programme start="20230314093500 +0200" stop="20230314100000 +0200" channel="dstv_africa_magic_family">
+    <title lang="en-GB">The Johnsons</title>
+    <desc lang="en-GB">The Johnsons</desc>
+  </programme>
+  <programme start="20230314100000 +0200" stop="20230314103000 +0200" channel="dstv_africa_magic_family">
+    <title lang="en-GB">Judging Matters</title>
+    <desc lang="en-GB">Judging Matters</desc>
+  </programme>
+  <programme start="20230314103000 +0200" stop="20230314110000 +0200" channel="dstv_africa_magic_family">
+    <title lang="en-GB">Shoot Your Shot</title>
+    <desc lang="en-GB">Shoot Your Shot</desc>
+  </programme>
+  <programme start="20230314110000 +0200" stop="20230314113000 +0200" channel="dstv_africa_magic_family">
+    <title lang="en-GB">Enakhe</title>
+    <desc lang="en-GB">Enakhe</desc>
+  </programme>
+  <programme start="20230314113000 +0200" stop="20230314123000 +0200" channel="dstv_africa_magic_family">
+    <title lang="en-GB">Eve</title>
+    <desc lang="en-GB">Eve</desc>
+  </programme>
+  <programme start="20230314123000 +0200" stop="20230314130000 +0200" channel="dstv_africa_magic_family">
+    <title lang="en-GB">My Siblings And I</title>
+    <desc lang="en-GB">My Siblings And I</desc>
+  </programme>
+  <programme start="20230314130000 +0200" stop="20230314133000 +0200" channel="dstv_africa_magic_family">
+    <title lang="en-GB">Hush</title>
+    <desc lang="en-GB">Hush</desc>
+  </programme>
+  <programme start="20230314133000 +0200" stop="20230314140000 +0200" channel="dstv_africa_magic_family">
+    <title lang="en-GB">The Johnsons</title>
+    <desc lang="en-GB">The Johnsons</desc>
+  </programme>
+  <programme start="20230314140000 +0200" stop="20230314150000 +0200" channel="dstv_africa_magic_family">
+    <title lang="en-GB">Who Wants To Be A Millionaire</title>
+    <desc lang="en-GB">Who Wants To Be A Millionaire</desc>
+  </programme>
+  <programme start="20230314150000 +0200" stop="20230314160000 +0200" channel="dstv_africa_magic_family">
+    <title lang="en-GB">Family Feud</title>
+    <desc lang="en-GB">Family Feud</desc>
+  </programme>
+  <programme start="20230314160000 +0200" stop="20230314163000 +0200" channel="dstv_africa_magic_family">
+    <title lang="en-GB">Tinsel</title>
+    <desc lang="en-GB">Tinsel</desc>
+  </programme>
+  <programme start="20230314163000 +0200" stop="20230314170000 +0200" channel="dstv_africa_magic_family">
+    <title lang="en-GB">You &amp; I With Monalisa</title>
+    <desc lang="en-GB">You &amp; I With Monalisa</desc>
+  </programme>
+  <programme start="20230314170000 +0200" stop="20230314173000 +0200" channel="dstv_africa_magic_family">
+    <title lang="en-GB">Once Upon A Time</title>
+    <desc lang="en-GB">Once Upon A Time</desc>
+  </programme>
+  <programme start="20230314173000 +0200" stop="20230314180000 +0200" channel="dstv_africa_magic_family">
+    <title lang="en-GB">Judging Matters</title>
+    <desc lang="en-GB">Judging Matters</desc>
+  </programme>
+  <programme start="20230314180000 +0200" stop="20230314183000 +0200" channel="dstv_africa_magic_family">
+    <title lang="en-GB">Comedy Nites</title>
+    <desc lang="en-GB">Comedy Nites</desc>
+  </programme>
+  <programme start="20230314183000 +0200" stop="20230314190000 +0200" channel="dstv_africa_magic_family">
+    <title lang="en-GB">Ify&apos;s Kitchen</title>
+    <desc lang="en-GB">Ify&apos;s Kitchen</desc>
+  </programme>
+  <programme start="20230314190000 +0200" stop="20230314193000 +0200" channel="dstv_africa_magic_family">
+    <title lang="en-GB">My Siblings And I</title>
+    <desc lang="en-GB">My Siblings And I</desc>
+  </programme>
+  <programme start="20230314193000 +0200" stop="20230314200000 +0200" channel="dstv_africa_magic_family">
+    <title lang="en-GB">My Flatmates</title>
+    <desc lang="en-GB">My Flatmates</desc>
+  </programme>
+  <programme start="20230314200000 +0200" stop="20230314203000 +0200" channel="dstv_africa_magic_family">
+    <title lang="en-GB">Enakhe</title>
+    <desc lang="en-GB">Enakhe</desc>
+  </programme>
+  <programme start="20230314203000 +0200" stop="20230314210000 +0200" channel="dstv_africa_magic_family">
+    <title lang="en-GB">Riona</title>
+    <desc lang="en-GB">Riona</desc>
+  </programme>
+  <programme start="20230314210000 +0200" stop="20230314213000 +0200" channel="dstv_africa_magic_family">
+    <title lang="en-GB">Tinsel</title>
+    <desc lang="en-GB">Tinsel</desc>
+  </programme>
+  <programme start="20230314213000 +0200" stop="20230314220000 +0200" channel="dstv_africa_magic_family">
+    <title lang="en-GB">The Johnsons</title>
+    <desc lang="en-GB">The Johnsons</desc>
+  </programme>
+  <programme start="20230314220000 +0200" stop="20230314223000 +0200" channel="dstv_africa_magic_family">
+    <title lang="en-GB">Shoot Your Shot</title>
+    <desc lang="en-GB">Shoot Your Shot</desc>
+  </programme>
+  <programme start="20230314223000 +0200" stop="20230314230000 +0200" channel="dstv_africa_magic_family">
+    <title lang="en-GB">Comedy Nites</title>
+    <desc lang="en-GB">Comedy Nites</desc>
+  </programme>
+  <programme start="20230314230000 +0200" stop="20230314232500 +0200" channel="dstv_africa_magic_family">
+    <title lang="en-GB">Big Brother Titans</title>
+    <desc lang="en-GB">Big Brother Titans</desc>
+  </programme>
+  <programme start="20230314232500 +0200" stop="20230315023000 +0200" channel="dstv_africa_magic_family">
+    <title lang="en-GB">Cry Of A King</title>
+    <desc lang="en-GB">Cry Of A King</desc>
+  </programme>
+  <programme start="20230313233000 +0200" stop="20230314003000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Ngeculo</title>
+    <desc lang="en-GB">Ngeculo</desc>
+  </programme>
+  <programme start="20230314003000 +0200" stop="20230314013000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Hunt For Amamillions</title>
+    <desc lang="en-GB">Hunt For Amamillions</desc>
+  </programme>
+  <programme start="20230314013000 +0200" stop="20230314030000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Finding Mr Right</title>
+    <desc lang="en-GB">Finding Mr Right</desc>
+  </programme>
+  <programme start="20230314030000 +0200" stop="20230314043000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Noah</title>
+    <desc lang="en-GB">Noah</desc>
+  </programme>
+  <programme start="20230314043000 +0200" stop="20230314060000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">The Boy Is Mine</title>
+    <desc lang="en-GB">The Boy Is Mine</desc>
+  </programme>
+  <programme start="20230314060000 +0200" stop="20230314070000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Dr Phil</title>
+    <desc lang="en-GB">Dr Phil</desc>
+  </programme>
+  <programme start="20230314070000 +0200" stop="20230314080000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">The Talk</title>
+    <desc lang="en-GB">The Talk</desc>
+  </programme>
+  <programme start="20230314080000 +0200" stop="20230314093000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">The Boy Is Mine</title>
+    <desc lang="en-GB">The Boy Is Mine</desc>
+  </programme>
+  <programme start="20230314093000 +0200" stop="20230314100000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Umkhokha: The Curse</title>
+    <desc lang="en-GB">Umkhokha: The Curse</desc>
+  </programme>
+  <programme start="20230314100000 +0200" stop="20230314103000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Gqeberha: The Empire</title>
+    <desc lang="en-GB">Gqeberha: The Empire</desc>
+  </programme>
+  <programme start="20230314103000 +0200" stop="20230314110000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Gomora</title>
+    <desc lang="en-GB">Gomora</desc>
+  </programme>
+  <programme start="20230314110000 +0200" stop="20230314120000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Dr Phil</title>
+    <desc lang="en-GB">Dr Phil</desc>
+  </programme>
+  <programme start="20230314120000 +0200" stop="20230314123000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">The River</title>
+    <desc lang="en-GB">The River</desc>
+  </programme>
+  <programme start="20230314123000 +0200" stop="20230314130000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Umkhokha: The Curse</title>
+    <desc lang="en-GB">Umkhokha: The Curse</desc>
+  </programme>
+  <programme start="20230314130000 +0200" stop="20230314133000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Gqeberha: The Empire</title>
+    <desc lang="en-GB">Gqeberha: The Empire</desc>
+  </programme>
+  <programme start="20230314133000 +0200" stop="20230314140000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Gomora</title>
+    <desc lang="en-GB">Gomora</desc>
+  </programme>
+  <programme start="20230314140000 +0200" stop="20230314153000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Lokshin Bioskop: Urisho</title>
+    <desc lang="en-GB">Lokshin Bioskop: Urisho</desc>
+  </programme>
+  <programme start="20230314153000 +0200" stop="20230314160000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Mzansi Magic Music Specials</title>
+    <desc lang="en-GB">Mzansi Magic Music Specials</desc>
+  </programme>
+  <programme start="20230314160000 +0200" stop="20230314170000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Ubizo Lakhe</title>
+    <desc lang="en-GB">Ubizo Lakhe</desc>
+  </programme>
+  <programme start="20230314170000 +0200" stop="20230314180000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">The Talk</title>
+    <desc lang="en-GB">The Talk</desc>
+  </programme>
+  <programme start="20230314180000 +0200" stop="20230314190000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Date My Family</title>
+    <desc lang="en-GB">Date My Family</desc>
+  </programme>
+  <programme start="20230314190000 +0200" stop="20230314193000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">The River</title>
+    <desc lang="en-GB">The River</desc>
+  </programme>
+  <programme start="20230314193000 +0200" stop="20230314200000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Gomora</title>
+    <desc lang="en-GB">Gomora</desc>
+  </programme>
+  <programme start="20230314200000 +0200" stop="20230314203000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Face 2 Face</title>
+    <desc lang="en-GB">Face 2 Face</desc>
+  </programme>
+  <programme start="20230314203000 +0200" stop="20230314210000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Umkhokha: The Curse</title>
+    <desc lang="en-GB">Umkhokha: The Curse</desc>
+  </programme>
+  <programme start="20230314210000 +0200" stop="20230314213000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Gqeberha: The Empire</title>
+    <desc lang="en-GB">Gqeberha: The Empire</desc>
+  </programme>
+  <programme start="20230314213000 +0200" stop="20230314220000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">The Wife</title>
+    <desc lang="en-GB">The Wife</desc>
+  </programme>
+  <programme start="20230314220000 +0200" stop="20230314223000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Big Brother Titans</title>
+    <desc lang="en-GB">Big Brother Titans</desc>
+  </programme>
+  <programme start="20230314223000 +0200" stop="20230314230000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">I&apos;ll Bring The Wine With Nederburg</title>
+    <desc lang="en-GB">I&apos;ll Bring The Wine With Nederburg</desc>
+  </programme>
+  <programme start="20230314230000 +0200" stop="20230315000000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">The Talk</title>
+    <desc lang="en-GB">The Talk</desc>
+  </programme>
+  <programme start="20230313233000 +0200" stop="20230314002500 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Mpali</title>
+    <desc lang="en-GB">Mpali</desc>
+  </programme>
+  <programme start="20230314002500 +0200" stop="20230314005500 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Makofi</title>
+    <desc lang="en-GB">Makofi</desc>
+  </programme>
+  <programme start="20230314005500 +0200" stop="20230314040500 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Ezengwongwo</title>
+    <desc lang="en-GB">Ezengwongwo</desc>
+  </programme>
+  <programme start="20230314040500 +0200" stop="20230314050500 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">My Kitchen Party</title>
+    <desc lang="en-GB">My Kitchen Party</desc>
+  </programme>
+  <programme start="20230314050500 +0200" stop="20230314060000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Zed Top Ten</title>
+    <desc lang="en-GB">Zed Top Ten</desc>
+  </programme>
+  <programme start="20230314060000 +0200" stop="20230314063000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Zathu</title>
+    <desc lang="en-GB">Zathu</desc>
+  </programme>
+  <programme start="20230314063000 +0200" stop="20230314070000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">The Security Guard</title>
+    <desc lang="en-GB">The Security Guard</desc>
+  </programme>
+  <programme start="20230314070000 +0200" stop="20230314073000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Shi Mumbi</title>
+    <desc lang="en-GB">Shi Mumbi</desc>
+  </programme>
+  <programme start="20230314073000 +0200" stop="20230314080000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Uncle Limbani</title>
+    <desc lang="en-GB">Uncle Limbani</desc>
+  </programme>
+  <programme start="20230314080000 +0200" stop="20230314083000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Halita</title>
+    <desc lang="en-GB">Halita</desc>
+  </programme>
+  <programme start="20230314083000 +0200" stop="20230314090000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Zuba</title>
+    <desc lang="en-GB">Zuba</desc>
+  </programme>
+  <programme start="20230314090000 +0200" stop="20230314100000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Mpali</title>
+    <desc lang="en-GB">Mpali</desc>
+  </programme>
+  <programme start="20230314100000 +0200" stop="20230314103000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Makofi</title>
+    <desc lang="en-GB">Makofi</desc>
+  </programme>
+  <programme start="20230314103000 +0200" stop="20230314113000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Zed Top Ten</title>
+    <desc lang="en-GB">Zed Top Ten</desc>
+  </programme>
+  <programme start="20230314113000 +0200" stop="20230314144000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Father Ele Ele</title>
+    <desc lang="en-GB">Father Ele Ele</desc>
+  </programme>
+  <programme start="20230314144000 +0200" stop="20230314153000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Mpali</title>
+    <desc lang="en-GB">Mpali</desc>
+  </programme>
+  <programme start="20230314153000 +0200" stop="20230314160000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Zuba</title>
+    <desc lang="en-GB">Zuba</desc>
+  </programme>
+  <programme start="20230314160000 +0200" stop="20230314163000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Makofi</title>
+    <desc lang="en-GB">Makofi</desc>
+  </programme>
+  <programme start="20230314163000 +0200" stop="20230314170000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Halita</title>
+    <desc lang="en-GB">Halita</desc>
+  </programme>
+  <programme start="20230314170000 +0200" stop="20230314173000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Wanilata</title>
+    <desc lang="en-GB">Wanilata</desc>
+  </programme>
+  <programme start="20230314173000 +0200" stop="20230314180000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Shi Mumbi</title>
+    <desc lang="en-GB">Shi Mumbi</desc>
+  </programme>
+  <programme start="20230314180000 +0200" stop="20230314190000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Date My Family Zambia</title>
+    <desc lang="en-GB">Date My Family Zambia</desc>
+  </programme>
+  <programme start="20230314190000 +0200" stop="20230314193000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Uncle Limbani</title>
+    <desc lang="en-GB">Uncle Limbani</desc>
+  </programme>
+  <programme start="20230314193000 +0200" stop="20230314200000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Halita</title>
+    <desc lang="en-GB">Halita</desc>
+  </programme>
+  <programme start="20230314200000 +0200" stop="20230314203000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Zuba</title>
+    <desc lang="en-GB">Zuba</desc>
+  </programme>
+  <programme start="20230314203000 +0200" stop="20230314213000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Mpali</title>
+    <desc lang="en-GB">Mpali</desc>
+  </programme>
+  <programme start="20230314213000 +0200" stop="20230314220000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Makofi</title>
+    <desc lang="en-GB">Makofi</desc>
+  </programme>
+  <programme start="20230314220000 +0200" stop="20230314223000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Big Brother Titans</title>
+    <desc lang="en-GB">Big Brother Titans</desc>
+  </programme>
+  <programme start="20230314223000 +0200" stop="20230314230000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Wanilata</title>
+    <desc lang="en-GB">Wanilata</desc>
+  </programme>
+  <programme start="20230314230000 +0200" stop="20230314233000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Zuba</title>
+    <desc lang="en-GB">Zuba</desc>
+  </programme>
+  <programme start="20230314233000 +0200" stop="20230315002500 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Mpali</title>
+    <desc lang="en-GB">Mpali</desc>
+  </programme>
+  <programme start="20230314000000 +0200" stop="20230314013500 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Conversations With My Brother</title>
+    <desc lang="en-GB">Conversations With My Brother</desc>
+  </programme>
+  <programme start="20230314013500 +0200" stop="20230314030000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Rembrandt</title>
+    <desc lang="en-GB">Rembrandt</desc>
+  </programme>
+  <programme start="20230314030000 +0200" stop="20230314040000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Gospel 10 At 10</title>
+    <desc lang="en-GB">Gospel 10 At 10</desc>
+  </programme>
+  <programme start="20230314040000 +0200" stop="20230314050000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Gospel 10 At 10</title>
+    <desc lang="en-GB">Gospel 10 At 10</desc>
+  </programme>
+  <programme start="20230314050000 +0200" stop="20230314060000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">My Top 10: My Life In Music</title>
+    <desc lang="en-GB">My Top 10: My Life In Music</desc>
+  </programme>
+  <programme start="20230314060000 +0200" stop="20230314061500 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Tjiff En Tjaff: Speeltyd</title>
+    <desc lang="en-GB">Tjiff En Tjaff: Speeltyd</desc>
+  </programme>
+  <programme start="20230314061500 +0200" stop="20230314063000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Trixi</title>
+    <desc lang="en-GB">Trixi</desc>
+  </programme>
+  <programme start="20230314063000 +0200" stop="20230314064500 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Rat-Tat-Tat</title>
+    <desc lang="en-GB">Rat-Tat-Tat</desc>
+  </programme>
+  <programme start="20230314064500 +0200" stop="20230314070000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Tjiff En Tjaff: Speeltyd</title>
+    <desc lang="en-GB">Tjiff En Tjaff: Speeltyd</desc>
+  </programme>
+  <programme start="20230314070000 +0200" stop="20230314071500 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Zim Zim</title>
+    <desc lang="en-GB">Zim Zim</desc>
+  </programme>
+  <programme start="20230314071500 +0200" stop="20230314073000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Froggies</title>
+    <desc lang="en-GB">Froggies</desc>
+  </programme>
+  <programme start="20230314073000 +0200" stop="20230314074500 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Dee Dee &amp; Spike</title>
+    <desc lang="en-GB">Dee Dee &amp; Spike</desc>
+  </programme>
+  <programme start="20230314074500 +0200" stop="20230314080000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Rat-Tat-Tat</title>
+    <desc lang="en-GB">Rat-Tat-Tat</desc>
+  </programme>
+  <programme start="20230314080000 +0200" stop="20230314081500 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Tjiff En Tjaff: Speeltyd</title>
+    <desc lang="en-GB">Tjiff En Tjaff: Speeltyd</desc>
+  </programme>
+  <programme start="20230314081500 +0200" stop="20230314083000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Trixi</title>
+    <desc lang="en-GB">Trixi</desc>
+  </programme>
+  <programme start="20230314083000 +0200" stop="20230314084500 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Lappies</title>
+    <desc lang="en-GB">Lappies</desc>
+  </programme>
+  <programme start="20230314084500 +0200" stop="20230314090000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Dee Dee &amp; Spike</title>
+    <desc lang="en-GB">Dee Dee &amp; Spike</desc>
+  </programme>
+  <programme start="20230314090000 +0200" stop="20230314100000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">My Top 10: My Life In Music</title>
+    <desc lang="en-GB">My Top 10: My Life In Music</desc>
+  </programme>
+  <programme start="20230314100000 +0200" stop="20230314103000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Greed And Desire</title>
+    <desc lang="en-GB">Greed And Desire</desc>
+  </programme>
+  <programme start="20230314103000 +0200" stop="20230314110000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Gomora</title>
+    <desc lang="en-GB">Gomora</desc>
+  </programme>
+  <programme start="20230314110000 +0200" stop="20230314113000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Lingashoni</title>
+    <desc lang="en-GB">Lingashoni</desc>
+  </programme>
+  <programme start="20230314113000 +0200" stop="20230314120000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">The Queen</title>
+    <desc lang="en-GB">The Queen</desc>
+  </programme>
+  <programme start="20230314120000 +0200" stop="20230314123000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">The River</title>
+    <desc lang="en-GB">The River</desc>
+  </programme>
+  <programme start="20230314123000 +0200" stop="20230314130000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Greed And Desire</title>
+    <desc lang="en-GB">Greed And Desire</desc>
+  </programme>
+  <programme start="20230314130000 +0200" stop="20230314140000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Manong</title>
+    <desc lang="en-GB">Manong</desc>
+  </programme>
+  <programme start="20230314140000 +0200" stop="20230314143000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Gomora</title>
+    <desc lang="en-GB">Gomora</desc>
+  </programme>
+  <programme start="20230314143000 +0200" stop="20230314150000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Lingashoni</title>
+    <desc lang="en-GB">Lingashoni</desc>
+  </programme>
+  <programme start="20230314150000 +0200" stop="20230314153000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">The Queen</title>
+    <desc lang="en-GB">The Queen</desc>
+  </programme>
+  <programme start="20230314153000 +0200" stop="20230314160000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">The River</title>
+    <desc lang="en-GB">The River</desc>
+  </programme>
+  <programme start="20230314160000 +0200" stop="20230314170000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Lentswe</title>
+    <desc lang="en-GB">Lentswe</desc>
+  </programme>
+  <programme start="20230314170000 +0200" stop="20230314180000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Chakido</title>
+    <desc lang="en-GB">Chakido</desc>
+  </programme>
+  <programme start="20230314180000 +0200" stop="20230314183000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">I&apos;m With Your Ex</title>
+    <desc lang="en-GB">I&apos;m With Your Ex</desc>
+  </programme>
+  <programme start="20230314183000 +0200" stop="20230314190000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Celebrity Mystery Box</title>
+    <desc lang="en-GB">Celebrity Mystery Box</desc>
+  </programme>
+  <programme start="20230314190000 +0200" stop="20230314193000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">News On Wethu</title>
+    <desc lang="en-GB">News On Wethu</desc>
+  </programme>
+  <programme start="20230314193000 +0200" stop="20230314200000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Gomora</title>
+    <desc lang="en-GB">Gomora</desc>
+  </programme>
+  <programme start="20230314200000 +0200" stop="20230314203000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">The River</title>
+    <desc lang="en-GB">The River</desc>
+  </programme>
+  <programme start="20230314203000 +0200" stop="20230314210000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Lingashoni</title>
+    <desc lang="en-GB">Lingashoni</desc>
+  </programme>
+  <programme start="20230314210000 +0200" stop="20230314213000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">The Queen</title>
+    <desc lang="en-GB">The Queen</desc>
+  </programme>
+  <programme start="20230314213000 +0200" stop="20230314220000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">The Wife</title>
+    <desc lang="en-GB">The Wife</desc>
+  </programme>
+  <programme start="20230314220000 +0200" stop="20230314223000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Big Brother Titans</title>
+    <desc lang="en-GB">Big Brother Titans</desc>
+  </programme>
+  <programme start="20230314223000 +0200" stop="20230314233000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">The Republic</title>
+    <desc lang="en-GB">The Republic</desc>
+  </programme>
+  <programme start="20230314233000 +0200" stop="20230315000000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Greed And Desire</title>
+    <desc lang="en-GB">Greed And Desire</desc>
+  </programme>
+  <programme start="20230314000000 +0200" stop="20230314031000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Violent Princess</title>
+    <desc lang="en-GB">Violent Princess</desc>
+  </programme>
+  <programme start="20230314031000 +0200" stop="20230314040500 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">My Kitchen Party</title>
+    <desc lang="en-GB">My Kitchen Party</desc>
+  </programme>
+  <programme start="20230314040500 +0200" stop="20230314050000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Zed Top Ten</title>
+    <desc lang="en-GB">Zed Top Ten</desc>
+  </programme>
+  <programme start="20230314050000 +0200" stop="20230314060000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Mpali</title>
+    <desc lang="en-GB">Mpali</desc>
+  </programme>
+  <programme start="20230314060000 +0200" stop="20230314070000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Zed Top Ten</title>
+    <desc lang="en-GB">Zed Top Ten</desc>
+  </programme>
+  <programme start="20230314070000 +0200" stop="20230314080000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Date My Family Zambia</title>
+    <desc lang="en-GB">Date My Family Zambia</desc>
+  </programme>
+  <programme start="20230314080000 +0200" stop="20230314083000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Uncle Limbani</title>
+    <desc lang="en-GB">Uncle Limbani</desc>
+  </programme>
+  <programme start="20230314083000 +0200" stop="20230314090000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Landlady Meets Landlord</title>
+    <desc lang="en-GB">Landlady Meets Landlord</desc>
+  </programme>
+  <programme start="20230314090000 +0200" stop="20230314100000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Zed Top Ten</title>
+    <desc lang="en-GB">Zed Top Ten</desc>
+  </programme>
+  <programme start="20230314100000 +0200" stop="20230314103000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Makofi</title>
+    <desc lang="en-GB">Makofi</desc>
+  </programme>
+  <programme start="20230314103000 +0200" stop="20230314113000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Mpali</title>
+    <desc lang="en-GB">Mpali</desc>
+  </programme>
+  <programme start="20230314113000 +0200" stop="20230314120000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Zuba</title>
+    <desc lang="en-GB">Zuba</desc>
+  </programme>
+  <programme start="20230314120000 +0200" stop="20230314150500 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Arrows Of Pain</title>
+    <desc lang="en-GB">Arrows Of Pain</desc>
+  </programme>
+  <programme start="20230314150500 +0200" stop="20230314153500 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Makofi</title>
+    <desc lang="en-GB">Makofi</desc>
+  </programme>
+  <programme start="20230314153500 +0200" stop="20230314163000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Mpali</title>
+    <desc lang="en-GB">Mpali</desc>
+  </programme>
+  <programme start="20230314163000 +0200" stop="20230314170000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Zuba</title>
+    <desc lang="en-GB">Zuba</desc>
+  </programme>
+  <programme start="20230314170000 +0200" stop="20230314173000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Landlady Meets Landlord</title>
+    <desc lang="en-GB">Landlady Meets Landlord</desc>
+  </programme>
+  <programme start="20230314173000 +0200" stop="20230314180000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Uncle Limbani</title>
+    <desc lang="en-GB">Uncle Limbani</desc>
+  </programme>
+  <programme start="20230314180000 +0200" stop="20230314190000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Our Perfect Wedding Zambia</title>
+    <desc lang="en-GB">Our Perfect Wedding Zambia</desc>
+  </programme>
+  <programme start="20230314190000 +0200" stop="20230314193000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">The Security Guard</title>
+    <desc lang="en-GB">The Security Guard</desc>
+  </programme>
+  <programme start="20230314193000 +0200" stop="20230314200000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Dorika</title>
+    <desc lang="en-GB">Dorika</desc>
+  </programme>
+  <programme start="20230314200000 +0200" stop="20230314203000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Zuba</title>
+    <desc lang="en-GB">Zuba</desc>
+  </programme>
+  <programme start="20230314203000 +0200" stop="20230314213000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Mpali</title>
+    <desc lang="en-GB">Mpali</desc>
+  </programme>
+  <programme start="20230314213000 +0200" stop="20230314220000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Makofi</title>
+    <desc lang="en-GB">Makofi</desc>
+  </programme>
+  <programme start="20230314220000 +0200" stop="20230314223000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Landlady Meets Landlord</title>
+    <desc lang="en-GB">Landlady Meets Landlord</desc>
+  </programme>
+  <programme start="20230314223000 +0200" stop="20230314230000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Uncle Limbani</title>
+    <desc lang="en-GB">Uncle Limbani</desc>
+  </programme>
+  <programme start="20230314230000 +0200" stop="20230315000000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Mpali</title>
+    <desc lang="en-GB">Mpali</desc>
+  </programme>
+  <programme start="20230314000000 +0200" stop="20230314060000 +0200" channel="dstv_parliament_tv_zambia">
+    <title lang="en-GB">Parliament TV</title>
+    <desc lang="en-GB">Parliament TV</desc>
+  </programme>
+  <programme start="20230314060000 +0200" stop="20230314120000 +0200" channel="dstv_parliament_tv_zambia">
+    <title lang="en-GB">Parliament TV</title>
+    <desc lang="en-GB">Parliament TV</desc>
+  </programme>
+  <programme start="20230314120000 +0200" stop="20230314180000 +0200" channel="dstv_parliament_tv_zambia">
+    <title lang="en-GB">Parliament TV</title>
+    <desc lang="en-GB">Parliament TV</desc>
+  </programme>
+  <programme start="20230314180000 +0200" stop="20230315000000 +0200" channel="dstv_parliament_tv_zambia">
+    <title lang="en-GB">Parliament TV</title>
+    <desc lang="en-GB">Parliament TV</desc>
+  </programme>
+  <programme start="20230314000000 +0200" stop="20230314060000 +0200" channel="dstv_znbc2">
+    <title lang="en-GB">ZNBC 2</title>
+    <desc lang="en-GB">ZNBC 2</desc>
+  </programme>
+  <programme start="20230314060000 +0200" stop="20230314120000 +0200" channel="dstv_znbc2">
+    <title lang="en-GB">ZNBC 2</title>
+    <desc lang="en-GB">ZNBC 2</desc>
+  </programme>
+  <programme start="20230314120000 +0200" stop="20230314180000 +0200" channel="dstv_znbc2">
+    <title lang="en-GB">ZNBC 2</title>
+    <desc lang="en-GB">ZNBC 2</desc>
+  </programme>
+  <programme start="20230314180000 +0200" stop="20230315000000 +0200" channel="dstv_znbc2">
+    <title lang="en-GB">ZNBC 2</title>
+    <desc lang="en-GB">ZNBC 2</desc>
+  </programme>
+  <programme start="20230314000000 +0200" stop="20230314060000 +0200" channel="dstv_cbc">
+    <title lang="en-GB">CBC</title>
+    <desc lang="en-GB">CBC</desc>
+  </programme>
+  <programme start="20230314060000 +0200" stop="20230314120000 +0200" channel="dstv_cbc">
+    <title lang="en-GB">CBC</title>
+    <desc lang="en-GB">CBC</desc>
+  </programme>
+  <programme start="20230314120000 +0200" stop="20230314180000 +0200" channel="dstv_cbc">
+    <title lang="en-GB">CBC</title>
+    <desc lang="en-GB">CBC</desc>
+  </programme>
+  <programme start="20230314180000 +0200" stop="20230315000000 +0200" channel="dstv_cbc">
     <title lang="en-GB">CBC</title>
     <desc lang="en-GB">CBC</desc>
   </programme>
