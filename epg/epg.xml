@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+invalid
+//<?xml version="1.0" encoding="UTF-8"?> 
 <tv generator-info-name="dstv-epg-bot" generator-info-url="https://github.com/e-goodman/dstv-epg-bot">
   <channel id="dstv_zambezi_magic">
     <display-name>Zambezi Magic HD</display-name>
