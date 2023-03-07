@@ -1,7 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 <tv generator-info-name="dstv-epg-bot" generator-info-url="https://github.com/e-goodman/dstv-epg-bot">
-  <channel></channel>
-  <channel></channel>
+  <channel id="dstv_mzansi_magic">
+    <display-name>Mzansi Magic</display-name>
+  </channel>
+  <channel id="dstv_mzansi_wethu">
+    <display-name>Mzansi Wethu</display-name>
+  </channel>
+  <channel id="dstv_africa_magic_epic">
+    <display-name>Africa Magic Epic</display-name>
+  </channel>
+  <channel id="dstv_africa_magic_family">
+    <display-name>Africa Magic Family</display-name>
+  </channel>
+  <channel id="dstv_cbc">
+    <display-name>CBC</display-name>
+  </channel>
+  <channel id="dstv_afria_magic_urban">
+    <display-name>Africa Magic Urban</display-name>
+  </channel>
+  <channel id="dstv_afria_magic_urban">
+    <display-name>Africa Magic Urban</display-name>
+  </channel>
+  <channel id="dstv_honey">
+    <display-name>Honey</display-name>
+  </channel>
+  <channel id="dstv_one_zed">
+    <display-name>OneZED</display-name>
+  </channel>
+  <channel id="dstv_africa_magic_showcase">
+    <display-name>Africa Magic Showcase</display-name>
+  </channel>
+  <channel id="dstv_parliament_tv_zambia">
+    <display-name>Parliament TV Zambia</display-name>
+  </channel>
+  <channel id="dstv_znbc2">
+    <display-name>Zambian National Broadcast Corporation 2</display-name>
+  </channel>
   <channel id="dstv_zambezi_magic">
     <display-name>Zambezi Magic HD</display-name>
   </channel>
