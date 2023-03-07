@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 <tv generator-info-name="dstv-epg-bot" generator-info-url="https://github.com/e-goodman/dstv-epg-bot">
+  <channel></channel>
+  <channel></channel>
+  <channel id="dstv_zambezi_magic">
+    <display-name>Zambezi Magic HD</display-name>
+  </channel>
+  <channel id="dstv_one_magic">
+    <display-name>1Magic</display-name>
+  </channel>
   <programme start="20230306231000 +0200" stop="20230307021900 +0200" channel="dstv_africa_magic_epic">
     <title lang="en-GB">My Capital</title>
     <desc lang="en-GB">My Capital</desc>
