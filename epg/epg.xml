@@ -51,6 +51,9 @@
   <channel id="dstv_e_toonz">
     <display-name>eToonz</display-name>
   </channel>
+  <channel id="dstv_tlc_sa">
+    <display-name>TLC Entertainment South Africa</display-name>
+  </channel>
   <channel id="dstv_africa_magic_showcase">
     <display-name>Africa Magic Showcase</display-name>
   </channel>
@@ -191,6 +194,114 @@
   <programme start="20230321230000 +0200" stop="20230322000000 +0200" channel="dstv_e_entertainment">
     <title lang="en-GB">Vanderpump Rules</title>
     <desc lang="en-GB">Vanderpump Rules</desc>
+  </programme>
+  <programme start="20230320235000 +0200" stop="20230321012400 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">My 600-lb Life</title>
+    <desc lang="en-GB">My 600-lb Life</desc>
+  </programme>
+  <programme start="20230321012400 +0200" stop="20230321021000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">1000-lb Best Friends</title>
+    <desc lang="en-GB">1000-lb Best Friends</desc>
+  </programme>
+  <programme start="20230321021000 +0200" stop="20230321025600 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Dr. Pimple Popper: Pop Ups</title>
+    <desc lang="en-GB">Dr. Pimple Popper: Pop Ups</desc>
+  </programme>
+  <programme start="20230321025600 +0200" stop="20230321031900 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Extreme Couponing</title>
+    <desc lang="en-GB">Extreme Couponing</desc>
+  </programme>
+  <programme start="20230321031900 +0200" stop="20230321040500 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Dr. Pimple Popper</title>
+    <desc lang="en-GB">Dr. Pimple Popper</desc>
+  </programme>
+  <programme start="20230321040500 +0200" stop="20230321042800 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Say Yes To The Dress</title>
+    <desc lang="en-GB">Say Yes To The Dress</desc>
+  </programme>
+  <programme start="20230321042800 +0200" stop="20230321060000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé</title>
+    <desc lang="en-GB">90 Day Fiancé</desc>
+  </programme>
+  <programme start="20230321060000 +0200" stop="20230321064600 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Hoarding: Buried Alive</title>
+    <desc lang="en-GB">Hoarding: Buried Alive</desc>
+  </programme>
+  <programme start="20230321064600 +0200" stop="20230321070900 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Say Yes To The Dress</title>
+    <desc lang="en-GB">Say Yes To The Dress</desc>
+  </programme>
+  <programme start="20230321070900 +0200" stop="20230321075500 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Dr. Pimple Popper</title>
+    <desc lang="en-GB">Dr. Pimple Popper</desc>
+  </programme>
+  <programme start="20230321075500 +0200" stop="20230321093000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day: The Single Life</title>
+    <desc lang="en-GB">90 Day: The Single Life</desc>
+  </programme>
+  <programme start="20230321093000 +0200" stop="20230321102000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Sister Wives</title>
+    <desc lang="en-GB">Sister Wives</desc>
+  </programme>
+  <programme start="20230321102000 +0200" stop="20230321111000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Sister Wives</title>
+    <desc lang="en-GB">Sister Wives</desc>
+  </programme>
+  <programme start="20230321111000 +0200" stop="20230321120000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Sister Wives</title>
+    <desc lang="en-GB">Sister Wives</desc>
+  </programme>
+  <programme start="20230321120000 +0200" stop="20230321125500 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Sister Wives</title>
+    <desc lang="en-GB">Sister Wives</desc>
+  </programme>
+  <programme start="20230321125500 +0200" stop="20230321144000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">My 600-lb Life</title>
+    <desc lang="en-GB">My 600-lb Life</desc>
+  </programme>
+  <programme start="20230321144000 +0200" stop="20230321163000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé</title>
+    <desc lang="en-GB">90 Day Fiancé</desc>
+  </programme>
+  <programme start="20230321163000 +0200" stop="20230321170000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Cake Boss</title>
+    <desc lang="en-GB">Cake Boss</desc>
+  </programme>
+  <programme start="20230321170000 +0200" stop="20230321173000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Kitchen Boss</title>
+    <desc lang="en-GB">Kitchen Boss</desc>
+  </programme>
+  <programme start="20230321173000 +0200" stop="20230321180000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Extreme Couponing</title>
+    <desc lang="en-GB">Extreme Couponing</desc>
+  </programme>
+  <programme start="20230321180000 +0200" stop="20230321190000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Hoarding: Buried Alive</title>
+    <desc lang="en-GB">Hoarding: Buried Alive</desc>
+  </programme>
+  <programme start="20230321190000 +0200" stop="20230321200000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Dr. Pimple Popper</title>
+    <desc lang="en-GB">Dr. Pimple Popper</desc>
+  </programme>
+  <programme start="20230321200000 +0200" stop="20230321210000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé UK</title>
+    <desc lang="en-GB">90 Day Fiancé UK</desc>
+  </programme>
+  <programme start="20230321210000 +0200" stop="20230321220000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">I am Shauna Rae</title>
+    <desc lang="en-GB">I am Shauna Rae</desc>
+  </programme>
+  <programme start="20230321220000 +0200" stop="20230321225500 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Say Yes To The Dress</title>
+    <desc lang="en-GB">Say Yes To The Dress</desc>
+  </programme>
+  <programme start="20230321225500 +0200" stop="20230321235000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">My Feet Are Killing Me</title>
+    <desc lang="en-GB">My Feet Are Killing Me</desc>
+  </programme>
+  <programme start="20230321235000 +0200" stop="20230322003800 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé UK</title>
+    <desc lang="en-GB">90 Day Fiancé UK</desc>
   </programme>
   <programme start="20230320233000 +0200" stop="20230321010000 +0200" channel="dstv_e_movies">
     <title lang="en-GB">Fruitvale Station</title>
@@ -404,19 +515,19 @@
     <title lang="en-GB">The Johnsons</title>
     <desc lang="en-GB">The Johnsons</desc>
   </programme>
-  <programme start="20230321103000 +0200" stop="20230321110000 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230321103000 +0200" stop="20230321105900 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">My Flatmates</title>
     <desc lang="en-GB">My Flatmates</desc>
   </programme>
-  <programme start="20230321110000 +0200" stop="20230321113000 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230321105900 +0200" stop="20230321112900 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">My Siblings And I</title>
     <desc lang="en-GB">My Siblings And I</desc>
   </programme>
-  <programme start="20230321113000 +0200" stop="20230321125500 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230321112900 +0200" stop="20230321125400 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">After Fail</title>
     <desc lang="en-GB">After Fail</desc>
   </programme>
-  <programme start="20230321125500 +0200" stop="20230321142500 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230321125400 +0200" stop="20230321142500 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">The Less You Look</title>
     <desc lang="en-GB">The Less You Look</desc>
   </programme>
@@ -424,11 +535,11 @@
     <title lang="en-GB">Fatal Mistake</title>
     <desc lang="en-GB">Fatal Mistake</desc>
   </programme>
-  <programme start="20230321160000 +0200" stop="20230321173000 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230321160000 +0200" stop="20230321172900 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">Mad Wife</title>
     <desc lang="en-GB">Mad Wife</desc>
   </programme>
-  <programme start="20230321173000 +0200" stop="20230321190100 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230321172900 +0200" stop="20230321190100 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">A Lasting Chance</title>
     <desc lang="en-GB">A Lasting Chance</desc>
   </programme>
@@ -444,31 +555,31 @@
     <title lang="en-GB">My Flatmates</title>
     <desc lang="en-GB">My Flatmates</desc>
   </programme>
-  <programme start="20230321203000 +0200" stop="20230321210000 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230321203000 +0200" stop="20230321205900 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">Dilemma</title>
     <desc lang="en-GB">Dilemma</desc>
   </programme>
-  <programme start="20230321210000 +0200" stop="20230321213100 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230321205900 +0200" stop="20230321213000 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">Jenifa&apos;s Diary</title>
     <desc lang="en-GB">Jenifa&apos;s Diary</desc>
   </programme>
-  <programme start="20230321213100 +0200" stop="20230321220100 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230321213000 +0200" stop="20230321220000 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">My Siblings And I</title>
     <desc lang="en-GB">My Siblings And I</desc>
   </programme>
-  <programme start="20230321220100 +0200" stop="20230321223100 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230321220000 +0200" stop="20230321222900 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">The Johnsons</title>
     <desc lang="en-GB">The Johnsons</desc>
   </programme>
-  <programme start="20230321223100 +0200" stop="20230321230100 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230321222900 +0200" stop="20230321225900 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">Olive</title>
     <desc lang="en-GB">Olive</desc>
   </programme>
-  <programme start="20230321230100 +0200" stop="20230321233100 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230321225900 +0200" stop="20230321233000 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">Big Brother Titans</title>
     <desc lang="en-GB">Big Brother Titans</desc>
   </programme>
-  <programme start="20230321233100 +0200" stop="20230322010100 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230321233000 +0200" stop="20230322010000 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">Love At 1st Bumb</title>
     <desc lang="en-GB">Love At 1st Bumb</desc>
   </programme>
@@ -500,31 +611,31 @@
     <title lang="en-GB">Riona</title>
     <desc lang="en-GB">Riona</desc>
   </programme>
-  <programme start="20230321073000 +0200" stop="20230321080000 +0200" channel="dstv_africa_magic_family">
+  <programme start="20230321073000 +0200" stop="20230321075900 +0200" channel="dstv_africa_magic_family">
     <title lang="en-GB">Hustle</title>
     <desc lang="en-GB">Hustle</desc>
   </programme>
-  <programme start="20230321080000 +0200" stop="20230321083000 +0200" channel="dstv_africa_magic_family">
+  <programme start="20230321075900 +0200" stop="20230321083000 +0200" channel="dstv_africa_magic_family">
     <title lang="en-GB">Tinsel</title>
     <desc lang="en-GB">Tinsel</desc>
   </programme>
-  <programme start="20230321083000 +0200" stop="20230321090000 +0200" channel="dstv_africa_magic_family">
+  <programme start="20230321083000 +0200" stop="20230321085900 +0200" channel="dstv_africa_magic_family">
     <title lang="en-GB">My Siblings And I</title>
     <desc lang="en-GB">My Siblings And I</desc>
   </programme>
-  <programme start="20230321090000 +0200" stop="20230321093400 +0200" channel="dstv_africa_magic_family">
+  <programme start="20230321085900 +0200" stop="20230321093300 +0200" channel="dstv_africa_magic_family">
     <title lang="en-GB">My Flatmates</title>
     <desc lang="en-GB">My Flatmates</desc>
   </programme>
-  <programme start="20230321093400 +0200" stop="20230321100000 +0200" channel="dstv_africa_magic_family">
+  <programme start="20230321093300 +0200" stop="20230321095900 +0200" channel="dstv_africa_magic_family">
     <title lang="en-GB">The Johnsons</title>
     <desc lang="en-GB">The Johnsons</desc>
   </programme>
-  <programme start="20230321100000 +0200" stop="20230321103000 +0200" channel="dstv_africa_magic_family">
+  <programme start="20230321095900 +0200" stop="20230321102900 +0200" channel="dstv_africa_magic_family">
     <title lang="en-GB">Judging Matters</title>
     <desc lang="en-GB">Judging Matters</desc>
   </programme>
-  <programme start="20230321103000 +0200" stop="20230321110000 +0200" channel="dstv_africa_magic_family">
+  <programme start="20230321102900 +0200" stop="20230321110000 +0200" channel="dstv_africa_magic_family">
     <title lang="en-GB">Shoot Your Shot</title>
     <desc lang="en-GB">Shoot Your Shot</desc>
   </programme>
@@ -556,11 +667,11 @@
     <title lang="en-GB">Brotherhood Brethren</title>
     <desc lang="en-GB">Brotherhood Brethren</desc>
   </programme>
-  <programme start="20230321150000 +0200" stop="20230321160000 +0200" channel="dstv_africa_magic_family">
+  <programme start="20230321150000 +0200" stop="20230321155900 +0200" channel="dstv_africa_magic_family">
     <title lang="en-GB">Family Feud</title>
     <desc lang="en-GB">Family Feud</desc>
   </programme>
-  <programme start="20230321160000 +0200" stop="20230321163000 +0200" channel="dstv_africa_magic_family">
+  <programme start="20230321155900 +0200" stop="20230321163000 +0200" channel="dstv_africa_magic_family">
     <title lang="en-GB">Tinsel</title>
     <desc lang="en-GB">Tinsel</desc>
   </programme>
@@ -572,11 +683,11 @@
     <title lang="en-GB">Once Upon A Time</title>
     <desc lang="en-GB">Once Upon A Time</desc>
   </programme>
-  <programme start="20230321173000 +0200" stop="20230321180000 +0200" channel="dstv_africa_magic_family">
+  <programme start="20230321173000 +0200" stop="20230321175900 +0200" channel="dstv_africa_magic_family">
     <title lang="en-GB">Judging Matters</title>
     <desc lang="en-GB">Judging Matters</desc>
   </programme>
-  <programme start="20230321180000 +0200" stop="20230321183000 +0200" channel="dstv_africa_magic_family">
+  <programme start="20230321175900 +0200" stop="20230321183000 +0200" channel="dstv_africa_magic_family">
     <title lang="en-GB">Thankful Hour</title>
     <desc lang="en-GB">Thankful Hour</desc>
   </programme>
@@ -616,11 +727,11 @@
     <title lang="en-GB">Comedy Nites</title>
     <desc lang="en-GB">Comedy Nites</desc>
   </programme>
-  <programme start="20230321230000 +0200" stop="20230321233800 +0200" channel="dstv_africa_magic_family">
+  <programme start="20230321230000 +0200" stop="20230321233600 +0200" channel="dstv_africa_magic_family">
     <title lang="en-GB">Big Brother Titans</title>
     <desc lang="en-GB">Big Brother Titans</desc>
   </programme>
-  <programme start="20230321233800 +0200" stop="20230322023100 +0200" channel="dstv_africa_magic_family">
+  <programme start="20230321233600 +0200" stop="20230322023000 +0200" channel="dstv_africa_magic_family">
     <title lang="en-GB">Amanda My Humble Wife</title>
     <desc lang="en-GB">Amanda My Humble Wife</desc>
   </programme>
@@ -836,11 +947,11 @@
     <title lang="en-GB">The River</title>
     <desc lang="en-GB">The River</desc>
   </programme>
-  <programme start="20230321123000 +0200" stop="20230321130100 +0200" channel="dstv_mzansi_wethu">
+  <programme start="20230321123000 +0200" stop="20230321130000 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Greed And Desire</title>
     <desc lang="en-GB">Greed And Desire</desc>
   </programme>
-  <programme start="20230321130100 +0200" stop="20230321140000 +0200" channel="dstv_mzansi_wethu">
+  <programme start="20230321130000 +0200" stop="20230321140000 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Lentswe</title>
     <desc lang="en-GB">Lentswe</desc>
   </programme>
@@ -864,15 +975,15 @@
     <title lang="en-GB">Umzi Watsha</title>
     <desc lang="en-GB">Umzi Watsha</desc>
   </programme>
-  <programme start="20230321170000 +0200" stop="20230321180000 +0200" channel="dstv_mzansi_wethu">
+  <programme start="20230321170000 +0200" stop="20230321175800 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Bopapago</title>
     <desc lang="en-GB">Bopapago</desc>
   </programme>
-  <programme start="20230321180000 +0200" stop="20230321183000 +0200" channel="dstv_mzansi_wethu">
+  <programme start="20230321175800 +0200" stop="20230321182900 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">I&apos;m With Your Ex</title>
     <desc lang="en-GB">I&apos;m With Your Ex</desc>
   </programme>
-  <programme start="20230321183000 +0200" stop="20230321190000 +0200" channel="dstv_mzansi_wethu">
+  <programme start="20230321182900 +0200" stop="20230321190000 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Celebrity Mystery Box</title>
     <desc lang="en-GB">Celebrity Mystery Box</desc>
   </programme>
@@ -896,19 +1007,19 @@
     <title lang="en-GB">The Queen</title>
     <desc lang="en-GB">The Queen</desc>
   </programme>
-  <programme start="20230321213000 +0200" stop="20230321220000 +0200" channel="dstv_mzansi_wethu">
+  <programme start="20230321213000 +0200" stop="20230321220100 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Ezomshado</title>
     <desc lang="en-GB">Ezomshado</desc>
   </programme>
-  <programme start="20230321220000 +0200" stop="20230321223200 +0200" channel="dstv_mzansi_wethu">
+  <programme start="20230321220100 +0200" stop="20230321223300 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Big Brother Titans</title>
     <desc lang="en-GB">Big Brother Titans</desc>
   </programme>
-  <programme start="20230321223200 +0200" stop="20230321233000 +0200" channel="dstv_mzansi_wethu">
+  <programme start="20230321223300 +0200" stop="20230321233000 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">The Republic</title>
     <desc lang="en-GB">The Republic</desc>
   </programme>
-  <programme start="20230321233000 +0200" stop="20230322000100 +0200" channel="dstv_mzansi_wethu">
+  <programme start="20230321233000 +0200" stop="20230322000000 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Greed And Desire</title>
     <desc lang="en-GB">Greed And Desire</desc>
   </programme>
@@ -988,11 +1099,11 @@
     <title lang="en-GB">Phanda More</title>
     <desc lang="en-GB">Phanda More</desc>
   </programme>
-  <programme start="20230321190000 +0200" stop="20230321200000 +0200" channel="dstv_mzansi_bioskop">
+  <programme start="20230321190000 +0200" stop="20230321200400 +0200" channel="dstv_mzansi_bioskop">
     <title lang="en-GB">The Certificate</title>
     <desc lang="en-GB">The Certificate</desc>
   </programme>
-  <programme start="20230321200000 +0200" stop="20230321210000 +0200" channel="dstv_mzansi_bioskop">
+  <programme start="20230321200400 +0200" stop="20230321210000 +0200" channel="dstv_mzansi_bioskop">
     <title lang="en-GB">Osbali</title>
     <desc lang="en-GB">Osbali</desc>
   </programme>
@@ -1992,11 +2103,11 @@
     <title lang="en-GB">Makofi: Season 3, Episode 17</title>
     <desc lang="en-GB">&apos;S3/E17 of 60&apos;. Anna is buried deeper in her own lies as an excited Izukanji makes travel plans to visit her pregnant daughter.</desc>
   </programme>
-  <programme start="20230321220200 +0200" stop="20230321223400 +0200" channel="dstv_zambezi_magic">
+  <programme start="20230321220200 +0200" stop="20230321223200 +0200" channel="dstv_zambezi_magic">
     <title lang="en-GB">Big Brother Titans: Season 6, Episode 37</title>
     <desc lang="en-GB">&apos;S6/E37 of 44&apos;. Biggie knows what they get up to. Don&apos;t miss out in any of the actions, as alliances form, friendships are tested and what happens in the dark.</desc>
   </programme>
-  <programme start="20230321223400 +0200" stop="20230321230000 +0200" channel="dstv_zambezi_magic">
+  <programme start="20230321223200 +0200" stop="20230321230000 +0200" channel="dstv_zambezi_magic">
     <title lang="en-GB">Wanilata: Season 2, Episode 5</title>
     <desc lang="en-GB">&apos;S2/E5 of 13&apos;. Singletons get the chance to connect with their crush. Every episode sees the singletons go on a date, with the final question being, Wanilata?</desc>
   </programme>
@@ -2376,6 +2487,126 @@
     <title lang="en-GB">Vanderpump Rules</title>
     <desc lang="en-GB">Vanderpump Rules</desc>
   </programme>
+  <programme start="20230321235000 +0200" stop="20230322003800 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé UK</title>
+    <desc lang="en-GB">90 Day Fiancé UK</desc>
+  </programme>
+  <programme start="20230322003800 +0200" stop="20230322012400 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">I am Shauna Rae</title>
+    <desc lang="en-GB">I am Shauna Rae</desc>
+  </programme>
+  <programme start="20230322012400 +0200" stop="20230322021000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Say Yes To The Dress</title>
+    <desc lang="en-GB">Say Yes To The Dress</desc>
+  </programme>
+  <programme start="20230322021000 +0200" stop="20230322025600 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">My Feet Are Killing Me</title>
+    <desc lang="en-GB">My Feet Are Killing Me</desc>
+  </programme>
+  <programme start="20230322025600 +0200" stop="20230322031900 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Extreme Couponing</title>
+    <desc lang="en-GB">Extreme Couponing</desc>
+  </programme>
+  <programme start="20230322031900 +0200" stop="20230322040500 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Dr. Pimple Popper</title>
+    <desc lang="en-GB">Dr. Pimple Popper</desc>
+  </programme>
+  <programme start="20230322040500 +0200" stop="20230322042800 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Say Yes To The Dress</title>
+    <desc lang="en-GB">Say Yes To The Dress</desc>
+  </programme>
+  <programme start="20230322042800 +0200" stop="20230322060000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé</title>
+    <desc lang="en-GB">90 Day Fiancé</desc>
+  </programme>
+  <programme start="20230322060000 +0200" stop="20230322064600 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Hoarding: Buried Alive</title>
+    <desc lang="en-GB">Hoarding: Buried Alive</desc>
+  </programme>
+  <programme start="20230322064600 +0200" stop="20230322070900 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Say Yes To The Dress</title>
+    <desc lang="en-GB">Say Yes To The Dress</desc>
+  </programme>
+  <programme start="20230322070900 +0200" stop="20230322075500 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Dr. Pimple Popper</title>
+    <desc lang="en-GB">Dr. Pimple Popper</desc>
+  </programme>
+  <programme start="20230322075500 +0200" stop="20230322093000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">My 600-lb Life</title>
+    <desc lang="en-GB">My 600-lb Life</desc>
+  </programme>
+  <programme start="20230322093000 +0200" stop="20230322102000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Outdaughtered</title>
+    <desc lang="en-GB">Outdaughtered</desc>
+  </programme>
+  <programme start="20230322102000 +0200" stop="20230322111000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Outdaughtered</title>
+    <desc lang="en-GB">Outdaughtered</desc>
+  </programme>
+  <programme start="20230322111000 +0200" stop="20230322120000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Outdaughtered</title>
+    <desc lang="en-GB">Outdaughtered</desc>
+  </programme>
+  <programme start="20230322120000 +0200" stop="20230322125500 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Outdaughtered</title>
+    <desc lang="en-GB">Outdaughtered</desc>
+  </programme>
+  <programme start="20230322125500 +0200" stop="20230322134500 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé UK</title>
+    <desc lang="en-GB">90 Day Fiancé UK</desc>
+  </programme>
+  <programme start="20230322134500 +0200" stop="20230322144000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">I am Shauna Rae</title>
+    <desc lang="en-GB">I am Shauna Rae</desc>
+  </programme>
+  <programme start="20230322144000 +0200" stop="20230322163000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé</title>
+    <desc lang="en-GB">90 Day Fiancé</desc>
+  </programme>
+  <programme start="20230322163000 +0200" stop="20230322170000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Cake Boss</title>
+    <desc lang="en-GB">Cake Boss</desc>
+  </programme>
+  <programme start="20230322170000 +0200" stop="20230322173000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Kitchen Boss</title>
+    <desc lang="en-GB">Kitchen Boss</desc>
+  </programme>
+  <programme start="20230322173000 +0200" stop="20230322180000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Extreme Couponing</title>
+    <desc lang="en-GB">Extreme Couponing</desc>
+  </programme>
+  <programme start="20230322180000 +0200" stop="20230322190000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Hoarding: Buried Alive</title>
+    <desc lang="en-GB">Hoarding: Buried Alive</desc>
+  </programme>
+  <programme start="20230322190000 +0200" stop="20230322200000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Dr. Pimple Popper</title>
+    <desc lang="en-GB">Dr. Pimple Popper</desc>
+  </programme>
+  <programme start="20230322200000 +0200" stop="20230322210000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Darcey &amp; Stacey</title>
+    <desc lang="en-GB">Darcey &amp; Stacey</desc>
+  </programme>
+  <programme start="20230322210000 +0200" stop="20230322213000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">David &amp; Annie: After The 90 Days</title>
+    <desc lang="en-GB">David &amp; Annie: After The 90 Days</desc>
+  </programme>
+  <programme start="20230322213000 +0200" stop="20230322220000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Loren &amp; Alexei: After The 90 Days</title>
+    <desc lang="en-GB">Loren &amp; Alexei: After The 90 Days</desc>
+  </programme>
+  <programme start="20230322220000 +0200" stop="20230322225500 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Trixie Motel</title>
+    <desc lang="en-GB">Trixie Motel</desc>
+  </programme>
+  <programme start="20230322225500 +0200" stop="20230322235000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">My Feet Are Killing Me</title>
+    <desc lang="en-GB">My Feet Are Killing Me</desc>
+  </programme>
+  <programme start="20230322235000 +0200" stop="20230323003800 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Darcey &amp; Stacey</title>
+    <desc lang="en-GB">Darcey &amp; Stacey</desc>
+  </programme>
   <programme start="20230321233000 +0200" stop="20230322011000 +0200" channel="dstv_e_movies">
     <title lang="en-GB">Someday This Pain Will Be Useful To...</title>
     <desc lang="en-GB">Someday This Pain Will Be Useful To...</desc>
@@ -2540,55 +2771,55 @@
     <title lang="en-GB">What I Did For Love</title>
     <desc lang="en-GB">What I Did For Love</desc>
   </programme>
-  <programme start="20230321233100 +0200" stop="20230322010100 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230321233000 +0200" stop="20230322010000 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">Love At 1st Bumb</title>
     <desc lang="en-GB">Love At 1st Bumb</desc>
   </programme>
-  <programme start="20230322010100 +0200" stop="20230322024100 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230322010000 +0200" stop="20230322024000 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">Almost Had You</title>
     <desc lang="en-GB">Almost Had You</desc>
   </programme>
-  <programme start="20230322024100 +0200" stop="20230322044000 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230322024000 +0200" stop="20230322043900 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">The Tribunal</title>
     <desc lang="en-GB">The Tribunal</desc>
   </programme>
-  <programme start="20230322044000 +0200" stop="20230322060000 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230322043900 +0200" stop="20230322060000 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">Jonzing</title>
     <desc lang="en-GB">Jonzing</desc>
   </programme>
-  <programme start="20230322060000 +0200" stop="20230322074500 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230322060000 +0200" stop="20230322074400 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">Eluku</title>
     <desc lang="en-GB">Eluku</desc>
   </programme>
-  <programme start="20230322074500 +0200" stop="20230322093000 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230322074400 +0200" stop="20230322092900 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">Looking Back</title>
     <desc lang="en-GB">Looking Back</desc>
   </programme>
-  <programme start="20230322093000 +0200" stop="20230322100000 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230322092900 +0200" stop="20230322095900 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">Judging Matters</title>
     <desc lang="en-GB">Judging Matters</desc>
   </programme>
-  <programme start="20230322100000 +0200" stop="20230322103000 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230322095900 +0200" stop="20230322102900 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">The Johnsons</title>
     <desc lang="en-GB">The Johnsons</desc>
   </programme>
-  <programme start="20230322103000 +0200" stop="20230322110000 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230322102900 +0200" stop="20230322105900 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">My Flatmates</title>
     <desc lang="en-GB">My Flatmates</desc>
   </programme>
-  <programme start="20230322110000 +0200" stop="20230322113000 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230322105900 +0200" stop="20230322112900 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">My Siblings And I</title>
     <desc lang="en-GB">My Siblings And I</desc>
   </programme>
-  <programme start="20230322113000 +0200" stop="20230322130000 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230322112900 +0200" stop="20230322125900 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">No Man&apos;s Land</title>
     <desc lang="en-GB">No Man&apos;s Land</desc>
   </programme>
-  <programme start="20230322130000 +0200" stop="20230322142300 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230322125900 +0200" stop="20230322142200 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">The Voice Nigeria</title>
     <desc lang="en-GB">The Voice Nigeria</desc>
   </programme>
-  <programme start="20230322142300 +0200" stop="20230322163200 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230322142200 +0200" stop="20230322163200 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">Paradise At A Price</title>
     <desc lang="en-GB">Paradise At A Price</desc>
   </programme>
@@ -2624,11 +2855,11 @@
     <title lang="en-GB">The Johnsons</title>
     <desc lang="en-GB">The Johnsons</desc>
   </programme>
-  <programme start="20230322222900 +0200" stop="20230322230000 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230322222900 +0200" stop="20230322225900 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">Judging Matters</title>
     <desc lang="en-GB">Judging Matters</desc>
   </programme>
-  <programme start="20230322230000 +0200" stop="20230322233200 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230322225900 +0200" stop="20230322233200 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">Big Brother Titans</title>
     <desc lang="en-GB">Big Brother Titans</desc>
   </programme>
@@ -2636,19 +2867,19 @@
     <title lang="en-GB">A Man For Daphne</title>
     <desc lang="en-GB">A Man For Daphne</desc>
   </programme>
-  <programme start="20230321233800 +0200" stop="20230322023100 +0200" channel="dstv_africa_magic_family">
+  <programme start="20230321233600 +0200" stop="20230322023000 +0200" channel="dstv_africa_magic_family">
     <title lang="en-GB">Amanda My Humble Wife</title>
     <desc lang="en-GB">Amanda My Humble Wife</desc>
   </programme>
-  <programme start="20230322023100 +0200" stop="20230322030000 +0200" channel="dstv_africa_magic_family">
+  <programme start="20230322023000 +0200" stop="20230322030000 +0200" channel="dstv_africa_magic_family">
     <title lang="en-GB">Music Buzz</title>
     <desc lang="en-GB">Music Buzz</desc>
   </programme>
-  <programme start="20230322030000 +0200" stop="20230322035100 +0200" channel="dstv_africa_magic_family">
+  <programme start="20230322030000 +0200" stop="20230322035000 +0200" channel="dstv_africa_magic_family">
     <title lang="en-GB">Eve</title>
     <desc lang="en-GB">Eve</desc>
   </programme>
-  <programme start="20230322035100 +0200" stop="20230322045500 +0200" channel="dstv_africa_magic_family">
+  <programme start="20230322035000 +0200" stop="20230322045500 +0200" channel="dstv_africa_magic_family">
     <title lang="en-GB">Africa Magic Music</title>
     <desc lang="en-GB">Africa Magic Music</desc>
   </programme>
@@ -2740,11 +2971,11 @@
     <title lang="en-GB">You &amp; I With Monalisa</title>
     <desc lang="en-GB">You &amp; I With Monalisa</desc>
   </programme>
-  <programme start="20230322170000 +0200" stop="20230322173000 +0200" channel="dstv_africa_magic_family">
+  <programme start="20230322170000 +0200" stop="20230322172900 +0200" channel="dstv_africa_magic_family">
     <title lang="en-GB">Once Upon A Time</title>
     <desc lang="en-GB">Once Upon A Time</desc>
   </programme>
-  <programme start="20230322173000 +0200" stop="20230322180000 +0200" channel="dstv_africa_magic_family">
+  <programme start="20230322172900 +0200" stop="20230322180000 +0200" channel="dstv_africa_magic_family">
     <title lang="en-GB">Judging Matters</title>
     <desc lang="en-GB">Judging Matters</desc>
   </programme>
@@ -2760,11 +2991,11 @@
     <title lang="en-GB">Enakhe</title>
     <desc lang="en-GB">Enakhe</desc>
   </programme>
-  <programme start="20230322203000 +0200" stop="20230322210000 +0200" channel="dstv_africa_magic_family">
+  <programme start="20230322203000 +0200" stop="20230322205900 +0200" channel="dstv_africa_magic_family">
     <title lang="en-GB">Riona</title>
     <desc lang="en-GB">Riona</desc>
   </programme>
-  <programme start="20230322210000 +0200" stop="20230322213000 +0200" channel="dstv_africa_magic_family">
+  <programme start="20230322205900 +0200" stop="20230322213000 +0200" channel="dstv_africa_magic_family">
     <title lang="en-GB">Tinsel</title>
     <desc lang="en-GB">Tinsel</desc>
   </programme>
@@ -2852,11 +3083,11 @@
     <title lang="en-GB">Lokshin Bioskop: Bad Throw</title>
     <desc lang="en-GB">Lokshin Bioskop: Bad Throw</desc>
   </programme>
-  <programme start="20230322153000 +0200" stop="20230322160000 +0200" channel="dstv_mzansi_magic">
+  <programme start="20230322153000 +0200" stop="20230322160400 +0200" channel="dstv_mzansi_magic">
     <title lang="en-GB">Mzansi Magic Music Specials</title>
     <desc lang="en-GB">Mzansi Magic Music Specials</desc>
   </programme>
-  <programme start="20230322160000 +0200" stop="20230322170000 +0200" channel="dstv_mzansi_magic">
+  <programme start="20230322160400 +0200" stop="20230322170000 +0200" channel="dstv_mzansi_magic">
     <title lang="en-GB">Ubhuti Wami Lona</title>
     <desc lang="en-GB">Ubhuti Wami Lona</desc>
   </programme>
@@ -2868,35 +3099,35 @@
     <title lang="en-GB">Mngani Wam</title>
     <desc lang="en-GB">Mngani Wam</desc>
   </programme>
-  <programme start="20230322190000 +0200" stop="20230322193000 +0200" channel="dstv_mzansi_magic">
+  <programme start="20230322190000 +0200" stop="20230322193100 +0200" channel="dstv_mzansi_magic">
     <title lang="en-GB">The River</title>
     <desc lang="en-GB">The River</desc>
   </programme>
-  <programme start="20230322193000 +0200" stop="20230322200000 +0200" channel="dstv_mzansi_magic">
+  <programme start="20230322193100 +0200" stop="20230322200200 +0200" channel="dstv_mzansi_magic">
     <title lang="en-GB">Gomora</title>
     <desc lang="en-GB">Gomora</desc>
   </programme>
-  <programme start="20230322200000 +0200" stop="20230322203000 +0200" channel="dstv_mzansi_magic">
+  <programme start="20230322200200 +0200" stop="20230322203300 +0200" channel="dstv_mzansi_magic">
     <title lang="en-GB">Nganele</title>
     <desc lang="en-GB">Nganele</desc>
   </programme>
-  <programme start="20230322203000 +0200" stop="20230322210000 +0200" channel="dstv_mzansi_magic">
+  <programme start="20230322203300 +0200" stop="20230322210200 +0200" channel="dstv_mzansi_magic">
     <title lang="en-GB">Umkhokha: The Curse</title>
     <desc lang="en-GB">Umkhokha: The Curse</desc>
   </programme>
-  <programme start="20230322210000 +0200" stop="20230322213000 +0200" channel="dstv_mzansi_magic">
+  <programme start="20230322210200 +0200" stop="20230322213000 +0200" channel="dstv_mzansi_magic">
     <title lang="en-GB">Gqeberha: The Empire</title>
     <desc lang="en-GB">Gqeberha: The Empire</desc>
   </programme>
-  <programme start="20230322213000 +0200" stop="20230322220000 +0200" channel="dstv_mzansi_magic">
+  <programme start="20230322213000 +0200" stop="20230322220300 +0200" channel="dstv_mzansi_magic">
     <title lang="en-GB">The Wife</title>
     <desc lang="en-GB">The Wife</desc>
   </programme>
-  <programme start="20230322220000 +0200" stop="20230322223000 +0200" channel="dstv_mzansi_magic">
+  <programme start="20230322220300 +0200" stop="20230322223400 +0200" channel="dstv_mzansi_magic">
     <title lang="en-GB">Big Brother Titans</title>
     <desc lang="en-GB">Big Brother Titans</desc>
   </programme>
-  <programme start="20230322223000 +0200" stop="20230322233000 +0200" channel="dstv_mzansi_magic">
+  <programme start="20230322223400 +0200" stop="20230322233000 +0200" channel="dstv_mzansi_magic">
     <title lang="en-GB">The Real Housewives Of Durban</title>
     <desc lang="en-GB">The Real Housewives Of Durban</desc>
   </programme>
@@ -2904,11 +3135,7 @@
     <title lang="en-GB">The Talk</title>
     <desc lang="en-GB">The Talk</desc>
   </programme>
-  <programme start="20230321233000 +0200" stop="20230322000100 +0200" channel="dstv_mzansi_wethu">
-    <title lang="en-GB">Greed And Desire</title>
-    <desc lang="en-GB">Greed And Desire</desc>
-  </programme>
-  <programme start="20230322000100 +0200" stop="20230322012500 +0200" channel="dstv_mzansi_wethu">
+  <programme start="20230322000000 +0200" stop="20230322012500 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Lokshin Bioskop: Love &amp; A Broken Rose</title>
     <desc lang="en-GB">Lokshin Bioskop: Love &amp; A Broken Rose</desc>
   </programme>
@@ -2928,19 +3155,19 @@
     <title lang="en-GB">My Top 10: My Life In Music</title>
     <desc lang="en-GB">My Top 10: My Life In Music</desc>
   </programme>
-  <programme start="20230322060000 +0200" stop="20230322061500 +0200" channel="dstv_mzansi_wethu">
+  <programme start="20230322060000 +0200" stop="20230322061400 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Tjiff En Tjaff: Speeltyd</title>
     <desc lang="en-GB">Tjiff En Tjaff: Speeltyd</desc>
   </programme>
-  <programme start="20230322061500 +0200" stop="20230322063000 +0200" channel="dstv_mzansi_wethu">
+  <programme start="20230322061400 +0200" stop="20230322063000 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Trixi</title>
     <desc lang="en-GB">Trixi</desc>
   </programme>
-  <programme start="20230322063000 +0200" stop="20230322064500 +0200" channel="dstv_mzansi_wethu">
+  <programme start="20230322063000 +0200" stop="20230322064400 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Rat-Tat-Tat</title>
     <desc lang="en-GB">Rat-Tat-Tat</desc>
   </programme>
-  <programme start="20230322064500 +0200" stop="20230322070000 +0200" channel="dstv_mzansi_wethu">
+  <programme start="20230322064400 +0200" stop="20230322070000 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Tjiff En Tjaff: Speeltyd</title>
     <desc lang="en-GB">Tjiff En Tjaff: Speeltyd</desc>
   </programme>
@@ -2952,15 +3179,15 @@
     <title lang="en-GB">Froggies</title>
     <desc lang="en-GB">Froggies</desc>
   </programme>
-  <programme start="20230322073000 +0200" stop="20230322074500 +0200" channel="dstv_mzansi_wethu">
+  <programme start="20230322073000 +0200" stop="20230322074400 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Dee Dee &amp; Spike</title>
     <desc lang="en-GB">Dee Dee &amp; Spike</desc>
   </programme>
-  <programme start="20230322074500 +0200" stop="20230322080000 +0200" channel="dstv_mzansi_wethu">
+  <programme start="20230322074400 +0200" stop="20230322075900 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Rat-Tat-Tat</title>
     <desc lang="en-GB">Rat-Tat-Tat</desc>
   </programme>
-  <programme start="20230322080000 +0200" stop="20230322081500 +0200" channel="dstv_mzansi_wethu">
+  <programme start="20230322075900 +0200" stop="20230322081500 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Tjiff En Tjaff: Speeltyd</title>
     <desc lang="en-GB">Tjiff En Tjaff: Speeltyd</desc>
   </programme>
@@ -2968,23 +3195,23 @@
     <title lang="en-GB">Trixi</title>
     <desc lang="en-GB">Trixi</desc>
   </programme>
-  <programme start="20230322083000 +0200" stop="20230322084500 +0200" channel="dstv_mzansi_wethu">
+  <programme start="20230322083000 +0200" stop="20230322084400 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Lappies</title>
     <desc lang="en-GB">Lappies</desc>
   </programme>
-  <programme start="20230322084500 +0200" stop="20230322090000 +0200" channel="dstv_mzansi_wethu">
+  <programme start="20230322084400 +0200" stop="20230322090000 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Dee Dee &amp; Spike</title>
     <desc lang="en-GB">Dee Dee &amp; Spike</desc>
   </programme>
-  <programme start="20230322090000 +0200" stop="20230322100000 +0200" channel="dstv_mzansi_wethu">
+  <programme start="20230322090000 +0200" stop="20230322100100 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">My Top 10: My Life In Music</title>
     <desc lang="en-GB">My Top 10: My Life In Music</desc>
   </programme>
-  <programme start="20230322100000 +0200" stop="20230322103000 +0200" channel="dstv_mzansi_wethu">
+  <programme start="20230322100100 +0200" stop="20230322103200 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Greed And Desire</title>
     <desc lang="en-GB">Greed And Desire</desc>
   </programme>
-  <programme start="20230322103000 +0200" stop="20230322110000 +0200" channel="dstv_mzansi_wethu">
+  <programme start="20230322103200 +0200" stop="20230322110000 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Gomora</title>
     <desc lang="en-GB">Gomora</desc>
   </programme>
@@ -3000,43 +3227,43 @@
     <title lang="en-GB">The River</title>
     <desc lang="en-GB">The River</desc>
   </programme>
-  <programme start="20230322123000 +0200" stop="20230322130000 +0200" channel="dstv_mzansi_wethu">
+  <programme start="20230322123000 +0200" stop="20230322130100 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Greed And Desire</title>
     <desc lang="en-GB">Greed And Desire</desc>
   </programme>
-  <programme start="20230322130000 +0200" stop="20230322140000 +0200" channel="dstv_mzansi_wethu">
+  <programme start="20230322130100 +0200" stop="20230322135800 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Lerato Lethola Wena</title>
     <desc lang="en-GB">Lerato Lethola Wena</desc>
   </programme>
-  <programme start="20230322140000 +0200" stop="20230322143000 +0200" channel="dstv_mzansi_wethu">
+  <programme start="20230322135800 +0200" stop="20230322142800 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Gomora</title>
     <desc lang="en-GB">Gomora</desc>
   </programme>
-  <programme start="20230322143000 +0200" stop="20230322150000 +0200" channel="dstv_mzansi_wethu">
+  <programme start="20230322142800 +0200" stop="20230322145800 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Lingashoni</title>
     <desc lang="en-GB">Lingashoni</desc>
   </programme>
-  <programme start="20230322150000 +0200" stop="20230322153000 +0200" channel="dstv_mzansi_wethu">
+  <programme start="20230322145800 +0200" stop="20230322152800 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">The Queen</title>
     <desc lang="en-GB">The Queen</desc>
   </programme>
-  <programme start="20230322153000 +0200" stop="20230322160000 +0200" channel="dstv_mzansi_wethu">
+  <programme start="20230322152800 +0200" stop="20230322155800 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">The River</title>
     <desc lang="en-GB">The River</desc>
   </programme>
-  <programme start="20230322160000 +0200" stop="20230322170000 +0200" channel="dstv_mzansi_wethu">
+  <programme start="20230322155800 +0200" stop="20230322165800 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Umhlukanisi</title>
     <desc lang="en-GB">Umhlukanisi</desc>
   </programme>
-  <programme start="20230322170000 +0200" stop="20230322180000 +0200" channel="dstv_mzansi_wethu">
+  <programme start="20230322165800 +0200" stop="20230322175800 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Makoti, Are You The One?</title>
     <desc lang="en-GB">Makoti, Are You The One?</desc>
   </programme>
-  <programme start="20230322180000 +0200" stop="20230322183000 +0200" channel="dstv_mzansi_wethu">
+  <programme start="20230322175800 +0200" stop="20230322182900 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Umthwalo - Black Tax</title>
     <desc lang="en-GB">Umthwalo - Black Tax</desc>
   </programme>
-  <programme start="20230322183000 +0200" stop="20230322190000 +0200" channel="dstv_mzansi_wethu">
+  <programme start="20230322182900 +0200" stop="20230322190000 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Ingane Yam</title>
     <desc lang="en-GB">Ingane Yam</desc>
   </programme>
@@ -3064,19 +3291,19 @@
     <title lang="en-GB">Ezomshado</title>
     <desc lang="en-GB">Ezomshado</desc>
   </programme>
-  <programme start="20230322220000 +0200" stop="20230322223000 +0200" channel="dstv_mzansi_wethu">
+  <programme start="20230322220000 +0200" stop="20230322223200 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Big Brother Titans</title>
     <desc lang="en-GB">Big Brother Titans</desc>
   </programme>
-  <programme start="20230322223000 +0200" stop="20230322230000 +0200" channel="dstv_mzansi_wethu">
+  <programme start="20230322223200 +0200" stop="20230322230300 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Twice As Bold</title>
     <desc lang="en-GB">Twice As Bold</desc>
   </programme>
-  <programme start="20230322230000 +0200" stop="20230322233000 +0200" channel="dstv_mzansi_wethu">
+  <programme start="20230322230300 +0200" stop="20230322233300 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">I&apos;m With Your Ex</title>
     <desc lang="en-GB">I&apos;m With Your Ex</desc>
   </programme>
-  <programme start="20230322233000 +0200" stop="20230323000300 +0200" channel="dstv_mzansi_wethu">
+  <programme start="20230322233300 +0200" stop="20230323000300 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Greed And Desire</title>
     <desc lang="en-GB">Greed And Desire</desc>
   </programme>
@@ -3148,11 +3375,11 @@
     <title lang="en-GB">Umdlalo Wempilo</title>
     <desc lang="en-GB">Umdlalo Wempilo</desc>
   </programme>
-  <programme start="20230322170000 +0200" stop="20230322180000 +0200" channel="dstv_mzansi_bioskop">
+  <programme start="20230322170000 +0200" stop="20230322180100 +0200" channel="dstv_mzansi_bioskop">
     <title lang="en-GB">Kortes</title>
     <desc lang="en-GB">Kortes</desc>
   </programme>
-  <programme start="20230322180000 +0200" stop="20230322190000 +0200" channel="dstv_mzansi_bioskop">
+  <programme start="20230322180100 +0200" stop="20230322190000 +0200" channel="dstv_mzansi_bioskop">
     <title lang="en-GB">Mfana Ke Mfana</title>
     <desc lang="en-GB">Mfana Ke Mfana</desc>
   </programme>
@@ -3164,11 +3391,11 @@
     <title lang="en-GB">Sawubona We Lova</title>
     <desc lang="en-GB">Sawubona We Lova</desc>
   </programme>
-  <programme start="20230322210000 +0200" stop="20230322220000 +0200" channel="dstv_mzansi_bioskop">
+  <programme start="20230322210000 +0200" stop="20230322220500 +0200" channel="dstv_mzansi_bioskop">
     <title lang="en-GB">Panda</title>
     <desc lang="en-GB">Panda</desc>
   </programme>
-  <programme start="20230322220000 +0200" stop="20230322230000 +0200" channel="dstv_mzansi_bioskop">
+  <programme start="20230322220500 +0200" stop="20230322230000 +0200" channel="dstv_mzansi_bioskop">
     <title lang="en-GB">Gog&apos;flo</title>
     <desc lang="en-GB">Gog&apos;flo</desc>
   </programme>
@@ -4520,6 +4747,130 @@
     <title lang="en-GB">Vanderpump Rules</title>
     <desc lang="en-GB">Vanderpump Rules</desc>
   </programme>
+  <programme start="20230322235000 +0200" stop="20230323003800 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Darcey &amp; Stacey</title>
+    <desc lang="en-GB">Darcey &amp; Stacey</desc>
+  </programme>
+  <programme start="20230323003800 +0200" stop="20230323010100 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">David &amp; Annie: After The 90 Days</title>
+    <desc lang="en-GB">David &amp; Annie: After The 90 Days</desc>
+  </programme>
+  <programme start="20230323010100 +0200" stop="20230323012400 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Loren &amp; Alexei: After The 90 Days</title>
+    <desc lang="en-GB">Loren &amp; Alexei: After The 90 Days</desc>
+  </programme>
+  <programme start="20230323012400 +0200" stop="20230323021000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Trixie Motel</title>
+    <desc lang="en-GB">Trixie Motel</desc>
+  </programme>
+  <programme start="20230323021000 +0200" stop="20230323025600 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">My Feet Are Killing Me</title>
+    <desc lang="en-GB">My Feet Are Killing Me</desc>
+  </programme>
+  <programme start="20230323025600 +0200" stop="20230323031900 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Extreme Couponing</title>
+    <desc lang="en-GB">Extreme Couponing</desc>
+  </programme>
+  <programme start="20230323031900 +0200" stop="20230323040500 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Dr. Pimple Popper</title>
+    <desc lang="en-GB">Dr. Pimple Popper</desc>
+  </programme>
+  <programme start="20230323040500 +0200" stop="20230323042800 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Say Yes To The Dress</title>
+    <desc lang="en-GB">Say Yes To The Dress</desc>
+  </programme>
+  <programme start="20230323042800 +0200" stop="20230323060000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé</title>
+    <desc lang="en-GB">90 Day Fiancé</desc>
+  </programme>
+  <programme start="20230323060000 +0200" stop="20230323064600 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Hoarding: Buried Alive</title>
+    <desc lang="en-GB">Hoarding: Buried Alive</desc>
+  </programme>
+  <programme start="20230323064600 +0200" stop="20230323070900 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Say Yes To The Dress</title>
+    <desc lang="en-GB">Say Yes To The Dress</desc>
+  </programme>
+  <programme start="20230323070900 +0200" stop="20230323075500 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Dr. Pimple Popper</title>
+    <desc lang="en-GB">Dr. Pimple Popper</desc>
+  </programme>
+  <programme start="20230323075500 +0200" stop="20230323084100 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé UK</title>
+    <desc lang="en-GB">90 Day Fiancé UK</desc>
+  </programme>
+  <programme start="20230323084100 +0200" stop="20230323093000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">I am Shauna Rae</title>
+    <desc lang="en-GB">I am Shauna Rae</desc>
+  </programme>
+  <programme start="20230323093000 +0200" stop="20230323102000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé: Before The 90 Days</title>
+    <desc lang="en-GB">90 Day Fiancé: Before The 90 Days</desc>
+  </programme>
+  <programme start="20230323102000 +0200" stop="20230323111000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé: Before The 90 Days</title>
+    <desc lang="en-GB">90 Day Fiancé: Before The 90 Days</desc>
+  </programme>
+  <programme start="20230323111000 +0200" stop="20230323120000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé: Before The 90 Days</title>
+    <desc lang="en-GB">90 Day Fiancé: Before The 90 Days</desc>
+  </programme>
+  <programme start="20230323120000 +0200" stop="20230323125500 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé: Before The 90 Days</title>
+    <desc lang="en-GB">90 Day Fiancé: Before The 90 Days</desc>
+  </programme>
+  <programme start="20230323125500 +0200" stop="20230323134500 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Darcey &amp; Stacey</title>
+    <desc lang="en-GB">Darcey &amp; Stacey</desc>
+  </programme>
+  <programme start="20230323134500 +0200" stop="20230323141500 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">David &amp; Annie: After The 90 Days</title>
+    <desc lang="en-GB">David &amp; Annie: After The 90 Days</desc>
+  </programme>
+  <programme start="20230323141500 +0200" stop="20230323144000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Loren &amp; Alexei: After The 90 Days</title>
+    <desc lang="en-GB">Loren &amp; Alexei: After The 90 Days</desc>
+  </programme>
+  <programme start="20230323144000 +0200" stop="20230323163000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé</title>
+    <desc lang="en-GB">90 Day Fiancé</desc>
+  </programme>
+  <programme start="20230323163000 +0200" stop="20230323170000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Cake Boss</title>
+    <desc lang="en-GB">Cake Boss</desc>
+  </programme>
+  <programme start="20230323170000 +0200" stop="20230323173000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Kitchen Boss</title>
+    <desc lang="en-GB">Kitchen Boss</desc>
+  </programme>
+  <programme start="20230323173000 +0200" stop="20230323180000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Extreme Couponing</title>
+    <desc lang="en-GB">Extreme Couponing</desc>
+  </programme>
+  <programme start="20230323180000 +0200" stop="20230323190000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Hoarding: Buried Alive</title>
+    <desc lang="en-GB">Hoarding: Buried Alive</desc>
+  </programme>
+  <programme start="20230323190000 +0200" stop="20230323200000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Dr. Pimple Popper</title>
+    <desc lang="en-GB">Dr. Pimple Popper</desc>
+  </programme>
+  <programme start="20230323200000 +0200" stop="20230323220000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé: The Other Way</title>
+    <desc lang="en-GB">90 Day Fiancé: The Other Way</desc>
+  </programme>
+  <programme start="20230323220000 +0200" stop="20230323225500 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">MILF Manor</title>
+    <desc lang="en-GB">MILF Manor</desc>
+  </programme>
+  <programme start="20230323225500 +0200" stop="20230323235000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé: The Other Way</title>
+    <desc lang="en-GB">90 Day Fiancé: The Other Way</desc>
+  </programme>
+  <programme start="20230323235000 +0200" stop="20230324012400 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé: The Other Way</title>
+    <desc lang="en-GB">90 Day Fiancé: The Other Way</desc>
+  </programme>
   <programme start="20230322234000 +0200" stop="20230323011000 +0200" channel="dstv_e_movies">
     <title lang="en-GB">Murder, She Baked: A Peach Cobbler...</title>
     <desc lang="en-GB">Murder, She Baked: A Peach Cobbler...</desc>
@@ -4688,19 +5039,19 @@
     <title lang="en-GB">A Man For Daphne</title>
     <desc lang="en-GB">A Man For Daphne</desc>
   </programme>
-  <programme start="20230323011500 +0200" stop="20230323041900 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230323011500 +0200" stop="20230323042000 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">Money Hustle</title>
     <desc lang="en-GB">Money Hustle</desc>
   </programme>
-  <programme start="20230323041900 +0200" stop="20230323060000 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230323042000 +0200" stop="20230323060000 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">Broken Vine</title>
     <desc lang="en-GB">Broken Vine</desc>
   </programme>
-  <programme start="20230323060000 +0200" stop="20230323074500 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230323060000 +0200" stop="20230323074400 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">August Visitor</title>
     <desc lang="en-GB">August Visitor</desc>
   </programme>
-  <programme start="20230323074500 +0200" stop="20230323093000 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230323074400 +0200" stop="20230323093000 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">Lies Are Beautiful</title>
     <desc lang="en-GB">Lies Are Beautiful</desc>
   </programme>
@@ -4716,15 +5067,15 @@
     <title lang="en-GB">My Flatmates</title>
     <desc lang="en-GB">My Flatmates</desc>
   </programme>
-  <programme start="20230323110000 +0200" stop="20230323113000 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230323110000 +0200" stop="20230323112900 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">My Siblings And I</title>
     <desc lang="en-GB">My Siblings And I</desc>
   </programme>
-  <programme start="20230323113000 +0200" stop="20230323125500 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230323112900 +0200" stop="20230323125400 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">The Rapist</title>
     <desc lang="en-GB">The Rapist</desc>
   </programme>
-  <programme start="20230323125500 +0200" stop="20230323143000 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230323125400 +0200" stop="20230323143000 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">Time</title>
     <desc lang="en-GB">Time</desc>
   </programme>
@@ -4732,11 +5083,11 @@
     <title lang="en-GB">Family Feud</title>
     <desc lang="en-GB">Family Feud</desc>
   </programme>
-  <programme start="20230323153000 +0200" stop="20230323163000 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230323153000 +0200" stop="20230323163100 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">Big Brother Titans</title>
     <desc lang="en-GB">Big Brother Titans</desc>
   </programme>
-  <programme start="20230323163000 +0200" stop="20230323165500 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230323163100 +0200" stop="20230323165500 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">Lifelines With Mima</title>
     <desc lang="en-GB">Lifelines With Mima</desc>
   </programme>
@@ -4776,11 +5127,11 @@
     <title lang="en-GB">Offline With Gbemi And Toolz</title>
     <desc lang="en-GB">Offline With Gbemi And Toolz</desc>
   </programme>
-  <programme start="20230323230000 +0200" stop="20230323233000 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230323230000 +0200" stop="20230323233200 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">Big Brother Titans</title>
     <desc lang="en-GB">Big Brother Titans</desc>
   </programme>
-  <programme start="20230323233000 +0200" stop="20230324012000 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230323233200 +0200" stop="20230324012000 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">My London Slave</title>
     <desc lang="en-GB">My London Slave</desc>
   </programme>
@@ -4796,15 +5147,15 @@
     <title lang="en-GB">Eve</title>
     <desc lang="en-GB">Eve</desc>
   </programme>
-  <programme start="20230323035500 +0200" stop="20230323045500 +0200" channel="dstv_africa_magic_family">
+  <programme start="20230323035500 +0200" stop="20230323045400 +0200" channel="dstv_africa_magic_family">
     <title lang="en-GB">Africa Magic Music</title>
     <desc lang="en-GB">Africa Magic Music</desc>
   </programme>
-  <programme start="20230323045500 +0200" stop="20230323060000 +0200" channel="dstv_africa_magic_family">
+  <programme start="20230323045400 +0200" stop="20230323055900 +0200" channel="dstv_africa_magic_family">
     <title lang="en-GB">Africa Magic Music</title>
     <desc lang="en-GB">Africa Magic Music</desc>
   </programme>
-  <programme start="20230323060000 +0200" stop="20230323063000 +0200" channel="dstv_africa_magic_family">
+  <programme start="20230323055900 +0200" stop="20230323063000 +0200" channel="dstv_africa_magic_family">
     <title lang="en-GB">Hush</title>
     <desc lang="en-GB">Hush</desc>
   </programme>
@@ -4976,11 +5327,11 @@
     <title lang="en-GB">Gqeberha: The Empire</title>
     <desc lang="en-GB">Gqeberha: The Empire</desc>
   </programme>
-  <programme start="20230323103000 +0200" stop="20230323110000 +0200" channel="dstv_mzansi_magic">
+  <programme start="20230323103000 +0200" stop="20230323110100 +0200" channel="dstv_mzansi_magic">
     <title lang="en-GB">Gomora</title>
     <desc lang="en-GB">Gomora</desc>
   </programme>
-  <programme start="20230323110000 +0200" stop="20230323120000 +0200" channel="dstv_mzansi_magic">
+  <programme start="20230323110100 +0200" stop="20230323120000 +0200" channel="dstv_mzansi_magic">
     <title lang="en-GB">Dr Phil</title>
     <desc lang="en-GB">Dr Phil</desc>
   </programme>
@@ -4996,19 +5347,19 @@
     <title lang="en-GB">Gqeberha: The Empire</title>
     <desc lang="en-GB">Gqeberha: The Empire</desc>
   </programme>
-  <programme start="20230323133000 +0200" stop="20230323140000 +0200" channel="dstv_mzansi_magic">
+  <programme start="20230323133000 +0200" stop="20230323140200 +0200" channel="dstv_mzansi_magic">
     <title lang="en-GB">Gomora</title>
     <desc lang="en-GB">Gomora</desc>
   </programme>
-  <programme start="20230323140000 +0200" stop="20230323153000 +0200" channel="dstv_mzansi_magic">
+  <programme start="20230323140200 +0200" stop="20230323153000 +0200" channel="dstv_mzansi_magic">
     <title lang="en-GB">Never Say Goodbye</title>
     <desc lang="en-GB">Never Say Goodbye</desc>
   </programme>
-  <programme start="20230323153000 +0200" stop="20230323160000 +0200" channel="dstv_mzansi_magic">
+  <programme start="20230323153000 +0200" stop="20230323160300 +0200" channel="dstv_mzansi_magic">
     <title lang="en-GB">Mzansi Magic Music Specials</title>
     <desc lang="en-GB">Mzansi Magic Music Specials</desc>
   </programme>
-  <programme start="20230323160000 +0200" stop="20230323170000 +0200" channel="dstv_mzansi_magic">
+  <programme start="20230323160300 +0200" stop="20230323170000 +0200" channel="dstv_mzansi_magic">
     <title lang="en-GB">Moriri Waka</title>
     <desc lang="en-GB">Moriri Waka</desc>
   </programme>
@@ -5020,43 +5371,43 @@
     <title lang="en-GB">Our Perfect Wedding</title>
     <desc lang="en-GB">Our Perfect Wedding</desc>
   </programme>
-  <programme start="20230323190000 +0200" stop="20230323193000 +0200" channel="dstv_mzansi_magic">
+  <programme start="20230323190000 +0200" stop="20230323193100 +0200" channel="dstv_mzansi_magic">
     <title lang="en-GB">The River</title>
     <desc lang="en-GB">The River</desc>
   </programme>
-  <programme start="20230323193000 +0200" stop="20230323200000 +0200" channel="dstv_mzansi_magic">
+  <programme start="20230323193100 +0200" stop="20230323200200 +0200" channel="dstv_mzansi_magic">
     <title lang="en-GB">Gomora</title>
     <desc lang="en-GB">Gomora</desc>
   </programme>
-  <programme start="20230323200000 +0200" stop="20230323203000 +0200" channel="dstv_mzansi_magic">
+  <programme start="20230323200200 +0200" stop="20230323203200 +0200" channel="dstv_mzansi_magic">
     <title lang="en-GB">O Fuze</title>
     <desc lang="en-GB">O Fuze</desc>
   </programme>
-  <programme start="20230323203000 +0200" stop="20230323210000 +0200" channel="dstv_mzansi_magic">
+  <programme start="20230323203200 +0200" stop="20230323210200 +0200" channel="dstv_mzansi_magic">
     <title lang="en-GB">Umkhokha: The Curse</title>
     <desc lang="en-GB">Umkhokha: The Curse</desc>
   </programme>
-  <programme start="20230323210000 +0200" stop="20230323213000 +0200" channel="dstv_mzansi_magic">
+  <programme start="20230323210200 +0200" stop="20230323213200 +0200" channel="dstv_mzansi_magic">
     <title lang="en-GB">Gqeberha: The Empire</title>
     <desc lang="en-GB">Gqeberha: The Empire</desc>
   </programme>
-  <programme start="20230323213000 +0200" stop="20230323220000 +0200" channel="dstv_mzansi_magic">
+  <programme start="20230323213200 +0200" stop="20230323220400 +0200" channel="dstv_mzansi_magic">
     <title lang="en-GB">Mzansi Cribs Makeover</title>
     <desc lang="en-GB">Mzansi Cribs Makeover</desc>
   </programme>
-  <programme start="20230323220000 +0200" stop="20230323223000 +0200" channel="dstv_mzansi_magic">
+  <programme start="20230323220400 +0200" stop="20230323223600 +0200" channel="dstv_mzansi_magic">
     <title lang="en-GB">Big Brother Titans</title>
     <desc lang="en-GB">Big Brother Titans</desc>
   </programme>
-  <programme start="20230323223000 +0200" stop="20230323233000 +0200" channel="dstv_mzansi_magic">
+  <programme start="20230323223600 +0200" stop="20230323233300 +0200" channel="dstv_mzansi_magic">
     <title lang="en-GB">Ay&apos;phakelwa</title>
     <desc lang="en-GB">Ay&apos;phakelwa</desc>
   </programme>
-  <programme start="20230323233000 +0200" stop="20230324003000 +0200" channel="dstv_mzansi_magic">
+  <programme start="20230323233300 +0200" stop="20230324003000 +0200" channel="dstv_mzansi_magic">
     <title lang="en-GB">The Talk</title>
     <desc lang="en-GB">The Talk</desc>
   </programme>
-  <programme start="20230322233000 +0200" stop="20230323000300 +0200" channel="dstv_mzansi_wethu">
+  <programme start="20230322233300 +0200" stop="20230323000300 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Greed And Desire</title>
     <desc lang="en-GB">Greed And Desire</desc>
   </programme>
@@ -6224,45 +6575,45 @@
     <title lang="en-GB">My Kitchen Party: Season 2, Episode 9</title>
     <desc lang="en-GB">&apos;S2/E9 of 13&apos;. A reality television show that narrates a bride&apos;s story capturing her experience through an authentically rich Zambian traditional bridal shower.</desc>
   </programme>
-  <programme start="20230323050500 +0200" stop="20230323060000 +0200" channel="dstv_zambezi_magic">
+  <programme start="20230323050500 +0200" stop="20230323060100 +0200" channel="dstv_zambezi_magic">
     <title lang="en-GB">Zed Top Ten: Season 5, Episode 18</title>
     <desc lang="en-GB">&apos;S5/E18 of 30&apos;. Zed Top 10 is a countdown of ten of the biggest music video hits in Zambia, designed to support the growing of Zambian music industry.</desc>
   </programme>
-  <programme start="20230323060000 +0200" stop="20230323063000 +0200" channel="dstv_zambezi_magic">
+  <programme start="20230323060100 +0200" stop="20230323063000 +0200" channel="dstv_zambezi_magic">
     <title lang="en-GB">Uncle Limbani: Season 3, Episode 11</title>
-    <desc lang="en-GB">&apos;S3/E11&apos;. Limbani finds himself in a love triangle when Tinashe tells him that he is going to be a father and Gertrude won&apos;t let go. To please both women, his hustle for money goes into full throttle.</desc>
+    <desc lang="en-GB">&apos;S3/E11 of 26&apos;. Limbani finds himself in a love triangle when Tinashe tells him that he is going to be a father and Gertrude won&apos;t let go. To please both women, his hustle for money goes into full throttle.</desc>
   </programme>
   <programme start="20230323063000 +0200" stop="20230323070000 +0200" channel="dstv_zambezi_magic">
     <title lang="en-GB">Zathu: Season 2, Episode 13</title>
-    <desc lang="en-GB">&apos;S2/E13&apos;. Zathu is a Chewa word from the eastern part of Zambia, which means OURS. This is a fast paced magazine show that explores arts, culture and lifestyle.</desc>
+    <desc lang="en-GB">&apos;S2/E13 of 32&apos;. Zathu is a Chewa word from the eastern part of Zambia, which means OURS. This is a fast paced magazine show that explores arts, culture and lifestyle.</desc>
   </programme>
   <programme start="20230323070000 +0200" stop="20230323073000 +0200" channel="dstv_zambezi_magic">
     <title lang="en-GB">The Security Guard: Season 3, Episode 25</title>
-    <desc lang="en-GB">&apos;S3/E25&apos;. A single female client develops a platonic relationship with a guard who has been assigned to guard her house.</desc>
+    <desc lang="en-GB">&apos;S3/E25 of 30&apos;. A single female client develops a platonic relationship with a guard who has been assigned to guard her house.</desc>
   </programme>
   <programme start="20230323073000 +0200" stop="20230323080000 +0200" channel="dstv_zambezi_magic">
     <title lang="en-GB">Wanilata: Season 2, Episode 5</title>
-    <desc lang="en-GB">&apos;S2/E5&apos;. Singletons get the chance to connect with their crush. Every episode sees the singletons go on a date, with the final question being, Wanilata?</desc>
+    <desc lang="en-GB">&apos;S2/E5 of 13&apos;. Singletons get the chance to connect with their crush. Every episode sees the singletons go on a date, with the final question being, Wanilata?</desc>
   </programme>
   <programme start="20230323080000 +0200" stop="20230323083000 +0200" channel="dstv_zambezi_magic">
     <title lang="en-GB">Halita: Season 1, Episode 85</title>
-    <desc lang="en-GB">&apos;S1/E85 of 40&apos;. Halita discovers how much she really earns. Kaza sets Nenrot straight. Halita is overwhelmed by the kindness of the Zamani kids.</desc>
+    <desc lang="en-GB">&apos;S1/E85 of 120&apos;. Halita discovers how much she really earns. Kaza sets Nenrot straight. Halita is overwhelmed by the kindness of the Zamani kids.</desc>
   </programme>
   <programme start="20230323083000 +0200" stop="20230323090000 +0200" channel="dstv_zambezi_magic">
     <title lang="en-GB">Zuba: Season 6, Episode 235</title>
-    <desc lang="en-GB">&apos;S6/E235&apos;. There is an arrival of a new villain in Zuba&apos;s life - except, it&apos;s someone we already know. Will Zuba survive their campaign against her unscathed?</desc>
+    <desc lang="en-GB">&apos;S6/E235 of 260&apos;. There is an arrival of a new villain in Zuba&apos;s life - except, it&apos;s someone we already know. Will Zuba survive their campaign against her unscathed?</desc>
   </programme>
   <programme start="20230323090000 +0200" stop="20230323100000 +0200" channel="dstv_zambezi_magic">
     <title lang="en-GB">Mpali: Season 6, Episode 15</title>
-    <desc lang="en-GB">&apos;S6/E15&apos;. The return of Lindiwe and Mwiza brings jubilation at the farm. Nguzu learns that Junza is hospitalised. Logic throws a tantrum when he learns that Shupiwe is still missing.</desc>
+    <desc lang="en-GB">&apos;S6/E15 of 87&apos;. The return of Lindiwe and Mwiza brings jubilation at the farm. Nguzu learns that Junza is hospitalised. Logic throws a tantrum when he learns that Shupiwe is still missing.</desc>
   </programme>
   <programme start="20230323100000 +0200" stop="20230323103000 +0200" channel="dstv_zambezi_magic">
     <title lang="en-GB">Makofi: Season 3, Episode 18</title>
-    <desc lang="en-GB">&apos;S3/E18&apos;. Anna agrees to hosting a tournament after clashing with a cunning Ms. Lydia. Dr. Prashant teaches Anna a technique to deal with her anxiety attacks.</desc>
+    <desc lang="en-GB">&apos;S3/E18 of 60&apos;. Anna agrees to hosting a tournament after clashing with a cunning Ms. Lydia. Dr. Prashant teaches Anna a technique to deal with her anxiety attacks.</desc>
   </programme>
   <programme start="20230323103000 +0200" stop="20230323113000 +0200" channel="dstv_zambezi_magic">
     <title lang="en-GB">Zed Top Ten: Season 1, Episode 5</title>
-    <desc lang="en-GB">&apos;S1/E5&apos;. We count down Zambia&apos;s Top 10 music videos.</desc>
+    <desc lang="en-GB">&apos;S1/E5 of 5&apos;. We count down Zambia&apos;s Top 10 music videos.</desc>
   </programme>
   <programme start="20230323113000 +0200" stop="20230323143500 +0200" channel="dstv_zambezi_magic">
     <title lang="en-GB">Love Of Margaret: Rating: 16, Drama, 2020</title>
@@ -6270,71 +6621,71 @@
   </programme>
   <programme start="20230323143500 +0200" stop="20230323153000 +0200" channel="dstv_zambezi_magic">
     <title lang="en-GB">Mpali: Season 6, Episode 15</title>
-    <desc lang="en-GB">&apos;S6/E15&apos;. The return of Lindiwe and Mwiza brings jubilation at the farm. Nguzu learns that Junza is hospitalised. Logic throws a tantrum when he learns that Shupiwe is still missing.</desc>
+    <desc lang="en-GB">&apos;S6/E15 of 87&apos;. The return of Lindiwe and Mwiza brings jubilation at the farm. Nguzu learns that Junza is hospitalised. Logic throws a tantrum when he learns that Shupiwe is still missing.</desc>
   </programme>
   <programme start="20230323153000 +0200" stop="20230323160000 +0200" channel="dstv_zambezi_magic">
     <title lang="en-GB">Zuba: Season 6, Episode 235</title>
-    <desc lang="en-GB">&apos;S6/E235&apos;. There is an arrival of a new villain in Zuba&apos;s life - except, it&apos;s someone we already know. Will Zuba survive their campaign against her unscathed?</desc>
+    <desc lang="en-GB">&apos;S6/E235 of 260&apos;. There is an arrival of a new villain in Zuba&apos;s life - except, it&apos;s someone we already know. Will Zuba survive their campaign against her unscathed?</desc>
   </programme>
-  <programme start="20230323160000 +0200" stop="20230323163000 +0200" channel="dstv_zambezi_magic">
+  <programme start="20230323160000 +0200" stop="20230323163100 +0200" channel="dstv_zambezi_magic">
     <title lang="en-GB">Makofi: Season 3, Episode 18</title>
-    <desc lang="en-GB">&apos;S3/E18&apos;. Anna agrees to hosting a tournament after clashing with a cunning Ms. Lydia. Dr. Prashant teaches Anna a technique to deal with her anxiety attacks.</desc>
+    <desc lang="en-GB">&apos;S3/E18 of 60&apos;. Anna agrees to hosting a tournament after clashing with a cunning Ms. Lydia. Dr. Prashant teaches Anna a technique to deal with her anxiety attacks.</desc>
   </programme>
-  <programme start="20230323163000 +0200" stop="20230323170000 +0200" channel="dstv_zambezi_magic">
+  <programme start="20230323163100 +0200" stop="20230323170000 +0200" channel="dstv_zambezi_magic">
     <title lang="en-GB">Halita: Season 1, Episode 85</title>
-    <desc lang="en-GB">&apos;S1/E85 of 40&apos;. Halita discovers how much she really earns. Kaza sets Nenrot straight. Halita is overwhelmed by the kindness of the Zamani kids.</desc>
+    <desc lang="en-GB">&apos;S1/E85 of 120&apos;. Halita discovers how much she really earns. Kaza sets Nenrot straight. Halita is overwhelmed by the kindness of the Zamani kids.</desc>
   </programme>
   <programme start="20230323170000 +0200" stop="20230323173000 +0200" channel="dstv_zambezi_magic">
     <title lang="en-GB">Lusaka Maids: Season 1, Episode 5</title>
-    <desc lang="en-GB">&apos;S1/E5&apos;. After failing to avoid a police officer, Chilufya stumbles upon a mysterious bag that leads him to confidently decide to break and throw away his stock.</desc>
+    <desc lang="en-GB">&apos;S1/E5 of 13&apos;. After failing to avoid a police officer, Chilufya stumbles upon a mysterious bag that leads him to confidently decide to break and throw away his stock.</desc>
   </programme>
   <programme start="20230323173000 +0200" stop="20230323180000 +0200" channel="dstv_zambezi_magic">
     <title lang="en-GB">Wanilata: Season 2, Episode 5</title>
-    <desc lang="en-GB">&apos;S2/E5&apos;. Singletons get the chance to connect with their crush. Every episode sees the singletons go on a date, with the final question being, Wanilata?</desc>
+    <desc lang="en-GB">&apos;S2/E5 of 13&apos;. Singletons get the chance to connect with their crush. Every episode sees the singletons go on a date, with the final question being, Wanilata?</desc>
   </programme>
   <programme start="20230323180000 +0200" stop="20230323183000 +0200" channel="dstv_zambezi_magic">
     <title lang="en-GB">Shi Mumbi: Season 4, Episode 3</title>
-    <desc lang="en-GB">&apos;S4/E3&apos;. With Belinda enjoying some new found freedom, Shimumbi tries to look for a house for her but ends up getting into his old habits of being a con man when an opportunity arises.</desc>
+    <desc lang="en-GB">&apos;S4/E3 of 18&apos;. With Belinda enjoying some new found freedom, Shimumbi tries to look for a house for her but ends up getting into his old habits of being a con man when an opportunity arises.</desc>
   </programme>
   <programme start="20230323183000 +0200" stop="20230323190000 +0200" channel="dstv_zambezi_magic">
     <title lang="en-GB">The Security Guard: Season 3, Episode 25</title>
-    <desc lang="en-GB">&apos;S3/E25&apos;. A single female client develops a platonic relationship with a guard who has been assigned to guard her house.</desc>
+    <desc lang="en-GB">&apos;S3/E25 of 30&apos;. A single female client develops a platonic relationship with a guard who has been assigned to guard her house.</desc>
   </programme>
   <programme start="20230323190000 +0200" stop="20230323193000 +0200" channel="dstv_zambezi_magic">
     <title lang="en-GB">Uncle Limbani: Season 3, Episode 11</title>
-    <desc lang="en-GB">&apos;S3/E11&apos;. Limbani finds himself in a love triangle when Tinashe tells him that he is going to be a father and Gertrude won&apos;t let go. To please both women, his hustle for money goes into full throttle.</desc>
+    <desc lang="en-GB">&apos;S3/E11 of 26&apos;. Limbani finds himself in a love triangle when Tinashe tells him that he is going to be a father and Gertrude won&apos;t let go. To please both women, his hustle for money goes into full throttle.</desc>
   </programme>
   <programme start="20230323193000 +0200" stop="20230323200000 +0200" channel="dstv_zambezi_magic">
     <title lang="en-GB">Halita: Season 1, Episode 86</title>
-    <desc lang="en-GB">&apos;S1/E86 of 40&apos;. Halita prepares to travel back to her village. Matilda&apos;s search for a new personal assistant intensifies, Vicoco is interested in the job. Halita tells King that she&apos;s leaving.</desc>
+    <desc lang="en-GB">&apos;S1/E86 of 120&apos;. Halita prepares to travel back to her village. Matilda&apos;s search for a new personal assistant intensifies, Vicoco is interested in the job. Halita tells King that she&apos;s leaving.</desc>
   </programme>
   <programme start="20230323200000 +0200" stop="20230323203000 +0200" channel="dstv_zambezi_magic">
     <title lang="en-GB">Zuba: Season 6, Episode 236</title>
-    <desc lang="en-GB">&apos;S6/E236&apos;. There is an arrival of a new villain in Zuba&apos;s life - except, it&apos;s someone we already know. Will Zuba survive their campaign against her unscathed?</desc>
+    <desc lang="en-GB">&apos;S6/E236 of 260&apos;. There is an arrival of a new villain in Zuba&apos;s life - except, it&apos;s someone we already know. Will Zuba survive their campaign against her unscathed?</desc>
   </programme>
   <programme start="20230323203000 +0200" stop="20230323213000 +0200" channel="dstv_zambezi_magic">
     <title lang="en-GB">Mpali: Season 6, Episode 16</title>
-    <desc lang="en-GB">&apos;S6/E16&apos;. The wives refuse to spend a night at the main house. Sitali decides to take matters into his own hands. Mwiza learns that Frank is behind bars.</desc>
+    <desc lang="en-GB">&apos;S6/E16 of 87&apos;. The wives refuse to spend a night at the main house. Sitali decides to take matters into his own hands. Mwiza learns that Frank is behind bars.</desc>
   </programme>
   <programme start="20230323213000 +0200" stop="20230323220000 +0200" channel="dstv_zambezi_magic">
     <title lang="en-GB">Shi Mumbi: Season 4, Episode 4</title>
-    <desc lang="en-GB">&apos;S4/E4&apos;. Bana Mumbi tries to get answers from Belinda since Shimumbi said he owes Belinda some money that is why she moved in with them.</desc>
+    <desc lang="en-GB">&apos;S4/E4 of 18&apos;. Bana Mumbi tries to get answers from Belinda since Shimumbi said he owes Belinda some money that is why she moved in with them.</desc>
   </programme>
-  <programme start="20230323220000 +0200" stop="20230323223000 +0200" channel="dstv_zambezi_magic">
+  <programme start="20230323220000 +0200" stop="20230323223200 +0200" channel="dstv_zambezi_magic">
     <title lang="en-GB">Big Brother Titans: Season 6, Episode 39</title>
     <desc lang="en-GB">&apos;S6/E39 of 44&apos;. Biggie knows what they get up to. Don&apos;t miss out in any of the actions, as alliances form, friendships are tested and what happens in the dark.</desc>
   </programme>
-  <programme start="20230323223000 +0200" stop="20230323230000 +0200" channel="dstv_zambezi_magic">
+  <programme start="20230323223200 +0200" stop="20230323230000 +0200" channel="dstv_zambezi_magic">
     <title lang="en-GB">Uncle Limbani: Season 3, Episode 11</title>
-    <desc lang="en-GB">&apos;S3/E11&apos;. Limbani finds himself in a love triangle when Tinashe tells him that he is going to be a father and Gertrude won&apos;t let go. To please both women, his hustle for money goes into full throttle.</desc>
+    <desc lang="en-GB">&apos;S3/E11 of 26&apos;. Limbani finds himself in a love triangle when Tinashe tells him that he is going to be a father and Gertrude won&apos;t let go. To please both women, his hustle for money goes into full throttle.</desc>
   </programme>
   <programme start="20230323230000 +0200" stop="20230323233000 +0200" channel="dstv_zambezi_magic">
     <title lang="en-GB">Zuba: Season 6, Episode 236</title>
-    <desc lang="en-GB">&apos;S6/E236&apos;. There is an arrival of a new villain in Zuba&apos;s life - except, it&apos;s someone we already know. Will Zuba survive their campaign against her unscathed?</desc>
+    <desc lang="en-GB">&apos;S6/E236 of 260&apos;. There is an arrival of a new villain in Zuba&apos;s life - except, it&apos;s someone we already know. Will Zuba survive their campaign against her unscathed?</desc>
   </programme>
   <programme start="20230323233000 +0200" stop="20230324002500 +0200" channel="dstv_zambezi_magic">
     <title lang="en-GB">Mpali: Season 6, Episode 16</title>
-    <desc lang="en-GB">&apos;S6/E16&apos;. The wives refuse to spend a night at the main house. Sitali decides to take matters into his own hands. Mwiza learns that Frank is behind bars.</desc>
+    <desc lang="en-GB">&apos;S6/E16 of 87&apos;. The wives refuse to spend a night at the main house. Sitali decides to take matters into his own hands. Mwiza learns that Frank is behind bars.</desc>
   </programme>
   <programme start="20230323000000 +0200" stop="20230323031000 +0200" channel="dstv_one_zed">
     <title lang="en-GB">Royal War: Rating: 16, Drama, 2020</title>
@@ -6688,6 +7039,122 @@
     <title lang="en-GB">Vanderpump Rules</title>
     <desc lang="en-GB">Vanderpump Rules</desc>
   </programme>
+  <programme start="20230323235000 +0200" stop="20230324012400 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé: The Other Way</title>
+    <desc lang="en-GB">90 Day Fiancé: The Other Way</desc>
+  </programme>
+  <programme start="20230324012400 +0200" stop="20230324021000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">MILF Manor</title>
+    <desc lang="en-GB">MILF Manor</desc>
+  </programme>
+  <programme start="20230324021000 +0200" stop="20230324025600 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé: The Other Way</title>
+    <desc lang="en-GB">90 Day Fiancé: The Other Way</desc>
+  </programme>
+  <programme start="20230324025600 +0200" stop="20230324031900 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Extreme Couponing</title>
+    <desc lang="en-GB">Extreme Couponing</desc>
+  </programme>
+  <programme start="20230324031900 +0200" stop="20230324040500 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Dr. Pimple Popper</title>
+    <desc lang="en-GB">Dr. Pimple Popper</desc>
+  </programme>
+  <programme start="20230324040500 +0200" stop="20230324042800 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Say Yes To The Dress</title>
+    <desc lang="en-GB">Say Yes To The Dress</desc>
+  </programme>
+  <programme start="20230324042800 +0200" stop="20230324060000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé</title>
+    <desc lang="en-GB">90 Day Fiancé</desc>
+  </programme>
+  <programme start="20230324060000 +0200" stop="20230324064600 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Hoarding: Buried Alive</title>
+    <desc lang="en-GB">Hoarding: Buried Alive</desc>
+  </programme>
+  <programme start="20230324064600 +0200" stop="20230324070900 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Say Yes To The Dress</title>
+    <desc lang="en-GB">Say Yes To The Dress</desc>
+  </programme>
+  <programme start="20230324070900 +0200" stop="20230324075500 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Dr. Pimple Popper</title>
+    <desc lang="en-GB">Dr. Pimple Popper</desc>
+  </programme>
+  <programme start="20230324075500 +0200" stop="20230324084100 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Darcey &amp; Stacey</title>
+    <desc lang="en-GB">Darcey &amp; Stacey</desc>
+  </programme>
+  <programme start="20230324084100 +0200" stop="20230324090500 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">David &amp; Annie: After The 90 Days</title>
+    <desc lang="en-GB">David &amp; Annie: After The 90 Days</desc>
+  </programme>
+  <programme start="20230324090500 +0200" stop="20230324093000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Loren &amp; Alexei: After The 90 Days</title>
+    <desc lang="en-GB">Loren &amp; Alexei: After The 90 Days</desc>
+  </programme>
+  <programme start="20230324093000 +0200" stop="20230324102000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">The Family Chantel</title>
+    <desc lang="en-GB">The Family Chantel</desc>
+  </programme>
+  <programme start="20230324102000 +0200" stop="20230324111000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">The Family Chantel</title>
+    <desc lang="en-GB">The Family Chantel</desc>
+  </programme>
+  <programme start="20230324111000 +0200" stop="20230324120000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">The Family Chantel</title>
+    <desc lang="en-GB">The Family Chantel</desc>
+  </programme>
+  <programme start="20230324120000 +0200" stop="20230324125500 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">The Family Chantel</title>
+    <desc lang="en-GB">The Family Chantel</desc>
+  </programme>
+  <programme start="20230324125500 +0200" stop="20230324144000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé: The Other Way</title>
+    <desc lang="en-GB">90 Day Fiancé: The Other Way</desc>
+  </programme>
+  <programme start="20230324144000 +0200" stop="20230324163000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé</title>
+    <desc lang="en-GB">90 Day Fiancé</desc>
+  </programme>
+  <programme start="20230324163000 +0200" stop="20230324170000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Cake Boss</title>
+    <desc lang="en-GB">Cake Boss</desc>
+  </programme>
+  <programme start="20230324170000 +0200" stop="20230324173000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Kitchen Boss</title>
+    <desc lang="en-GB">Kitchen Boss</desc>
+  </programme>
+  <programme start="20230324173000 +0200" stop="20230324180000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Extreme Couponing</title>
+    <desc lang="en-GB">Extreme Couponing</desc>
+  </programme>
+  <programme start="20230324180000 +0200" stop="20230324190000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Hoarding: Buried Alive</title>
+    <desc lang="en-GB">Hoarding: Buried Alive</desc>
+  </programme>
+  <programme start="20230324190000 +0200" stop="20230324200000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Dr. Pimple Popper</title>
+    <desc lang="en-GB">Dr. Pimple Popper</desc>
+  </programme>
+  <programme start="20230324200000 +0200" stop="20230324210000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">The Bad Skin Clinic</title>
+    <desc lang="en-GB">The Bad Skin Clinic</desc>
+  </programme>
+  <programme start="20230324210000 +0200" stop="20230324220000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Helicopter ER</title>
+    <desc lang="en-GB">Helicopter ER</desc>
+  </programme>
+  <programme start="20230324220000 +0200" stop="20230324225500 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Dr. Mercy</title>
+    <desc lang="en-GB">Dr. Mercy</desc>
+  </programme>
+  <programme start="20230324225500 +0200" stop="20230324235000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">My Feet Are Killing Me</title>
+    <desc lang="en-GB">My Feet Are Killing Me</desc>
+  </programme>
+  <programme start="20230324235000 +0200" stop="20230325003800 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">The Bad Skin Clinic</title>
+    <desc lang="en-GB">The Bad Skin Clinic</desc>
+  </programme>
   <programme start="20230323215000 +0200" stop="20230324002000 +0200" channel="dstv_e_movies">
     <title lang="en-GB">As Good As It Gets</title>
     <desc lang="en-GB">As Good As It Gets</desc>
@@ -6872,15 +7339,15 @@
     <title lang="en-GB">Pain And Glory</title>
     <desc lang="en-GB">Pain And Glory</desc>
   </programme>
-  <programme start="20230323233000 +0200" stop="20230324012000 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230323233200 +0200" stop="20230324012000 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">My London Slave</title>
     <desc lang="en-GB">My London Slave</desc>
   </programme>
-  <programme start="20230324012000 +0200" stop="20230324030000 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230324012000 +0200" stop="20230324025500 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">Imaginary Husband</title>
     <desc lang="en-GB">Imaginary Husband</desc>
   </programme>
-  <programme start="20230324030000 +0200" stop="20230324043000 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230324025500 +0200" stop="20230324043000 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">Sweet Lies</title>
     <desc lang="en-GB">Sweet Lies</desc>
   </programme>
@@ -7128,7 +7595,7 @@
     <title lang="en-GB">Ozor Burial</title>
     <desc lang="en-GB">Ozor Burial</desc>
   </programme>
-  <programme start="20230323233000 +0200" stop="20230324003000 +0200" channel="dstv_mzansi_magic">
+  <programme start="20230323233300 +0200" stop="20230324003000 +0200" channel="dstv_mzansi_magic">
     <title lang="en-GB">The Talk</title>
     <desc lang="en-GB">The Talk</desc>
   </programme>
@@ -8899,6 +9366,134 @@
   <programme start="20230325230000 +0200" stop="20230326000000 +0200" channel="dstv_e_entertainment">
     <title lang="en-GB">Vanderpump Rules</title>
     <desc lang="en-GB">Vanderpump Rules</desc>
+  </programme>
+  <programme start="20230324235000 +0200" stop="20230325003800 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">The Bad Skin Clinic</title>
+    <desc lang="en-GB">The Bad Skin Clinic</desc>
+  </programme>
+  <programme start="20230325003800 +0200" stop="20230325012400 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Helicopter ER</title>
+    <desc lang="en-GB">Helicopter ER</desc>
+  </programme>
+  <programme start="20230325012400 +0200" stop="20230325021000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Dr. Mercy</title>
+    <desc lang="en-GB">Dr. Mercy</desc>
+  </programme>
+  <programme start="20230325021000 +0200" stop="20230325025600 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">My Feet Are Killing Me</title>
+    <desc lang="en-GB">My Feet Are Killing Me</desc>
+  </programme>
+  <programme start="20230325025600 +0200" stop="20230325031900 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Extreme Couponing</title>
+    <desc lang="en-GB">Extreme Couponing</desc>
+  </programme>
+  <programme start="20230325031900 +0200" stop="20230325040500 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Dr. Pimple Popper</title>
+    <desc lang="en-GB">Dr. Pimple Popper</desc>
+  </programme>
+  <programme start="20230325040500 +0200" stop="20230325042800 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Say Yes To The Dress</title>
+    <desc lang="en-GB">Say Yes To The Dress</desc>
+  </programme>
+  <programme start="20230325042800 +0200" stop="20230325060000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé</title>
+    <desc lang="en-GB">90 Day Fiancé</desc>
+  </programme>
+  <programme start="20230325060000 +0200" stop="20230325064600 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Trixie Motel</title>
+    <desc lang="en-GB">Trixie Motel</desc>
+  </programme>
+  <programme start="20230325064600 +0200" stop="20230325070900 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Extreme Cheapskates</title>
+    <desc lang="en-GB">Extreme Cheapskates</desc>
+  </programme>
+  <programme start="20230325070900 +0200" stop="20230325073200 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Extreme Cheapskates</title>
+    <desc lang="en-GB">Extreme Cheapskates</desc>
+  </programme>
+  <programme start="20230325073200 +0200" stop="20230325075500 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Extreme Couponing</title>
+    <desc lang="en-GB">Extreme Couponing</desc>
+  </programme>
+  <programme start="20230325075500 +0200" stop="20230325081800 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Say Yes To The Dress</title>
+    <desc lang="en-GB">Say Yes To The Dress</desc>
+  </programme>
+  <programme start="20230325081800 +0200" stop="20230325084100 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Say Yes To The Dress</title>
+    <desc lang="en-GB">Say Yes To The Dress</desc>
+  </programme>
+  <programme start="20230325084100 +0200" stop="20230325090500 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Extreme Couponing</title>
+    <desc lang="en-GB">Extreme Couponing</desc>
+  </programme>
+  <programme start="20230325090500 +0200" stop="20230325093000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Extreme Couponing</title>
+    <desc lang="en-GB">Extreme Couponing</desc>
+  </programme>
+  <programme start="20230325093000 +0200" stop="20230325102000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Hoarding: Buried Alive</title>
+    <desc lang="en-GB">Hoarding: Buried Alive</desc>
+  </programme>
+  <programme start="20230325102000 +0200" stop="20230325111000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Hoarding: Buried Alive</title>
+    <desc lang="en-GB">Hoarding: Buried Alive</desc>
+  </programme>
+  <programme start="20230325111000 +0200" stop="20230325125500 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé</title>
+    <desc lang="en-GB">90 Day Fiancé</desc>
+  </programme>
+  <programme start="20230325125500 +0200" stop="20230325144000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé</title>
+    <desc lang="en-GB">90 Day Fiancé</desc>
+  </programme>
+  <programme start="20230325144000 +0200" stop="20230325163000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé</title>
+    <desc lang="en-GB">90 Day Fiancé</desc>
+  </programme>
+  <programme start="20230325163000 +0200" stop="20230325170000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Cake Boss</title>
+    <desc lang="en-GB">Cake Boss</desc>
+  </programme>
+  <programme start="20230325170000 +0200" stop="20230325173000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Cake Boss</title>
+    <desc lang="en-GB">Cake Boss</desc>
+  </programme>
+  <programme start="20230325173000 +0200" stop="20230325180000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Cake Boss</title>
+    <desc lang="en-GB">Cake Boss</desc>
+  </programme>
+  <programme start="20230325180000 +0200" stop="20230325183000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Cake Boss</title>
+    <desc lang="en-GB">Cake Boss</desc>
+  </programme>
+  <programme start="20230325183000 +0200" stop="20230325190000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Cake Boss</title>
+    <desc lang="en-GB">Cake Boss</desc>
+  </programme>
+  <programme start="20230325190000 +0200" stop="20230325200000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">I am Shauna Rae</title>
+    <desc lang="en-GB">I am Shauna Rae</desc>
+  </programme>
+  <programme start="20230325200000 +0200" stop="20230325210000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">The Bad Skin Clinic</title>
+    <desc lang="en-GB">The Bad Skin Clinic</desc>
+  </programme>
+  <programme start="20230325210000 +0200" stop="20230325220000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Helicopter ER</title>
+    <desc lang="en-GB">Helicopter ER</desc>
+  </programme>
+  <programme start="20230325220000 +0200" stop="20230325225500 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">My Feet Are Killing Me</title>
+    <desc lang="en-GB">My Feet Are Killing Me</desc>
+  </programme>
+  <programme start="20230325225500 +0200" stop="20230325235000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">1000-lb Best Friends</title>
+    <desc lang="en-GB">1000-lb Best Friends</desc>
+  </programme>
+  <programme start="20230325235000 +0200" stop="20230326003800 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Say Yes To The Dress</title>
+    <desc lang="en-GB">Say Yes To The Dress</desc>
   </programme>
   <programme start="20230324231500 +0200" stop="20230325010500 +0200" channel="dstv_e_movies">
     <title lang="en-GB">The Humbling</title>
@@ -11040,6 +11635,118 @@
     <title lang="en-GB">Below Deck Mediterranean</title>
     <desc lang="en-GB">Below Deck Mediterranean</desc>
   </programme>
+  <programme start="20230325235000 +0200" stop="20230326003800 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Say Yes To The Dress</title>
+    <desc lang="en-GB">Say Yes To The Dress</desc>
+  </programme>
+  <programme start="20230326003800 +0200" stop="20230326022400 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Trixie Motel</title>
+    <desc lang="en-GB">Trixie Motel</desc>
+  </programme>
+  <programme start="20230326022400 +0200" stop="20230326021000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">MILF Manor</title>
+    <desc lang="en-GB">MILF Manor</desc>
+  </programme>
+  <programme start="20230326021000 +0200" stop="20230326025600 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Dr. Mercy</title>
+    <desc lang="en-GB">Dr. Mercy</desc>
+  </programme>
+  <programme start="20230326025600 +0200" stop="20230326034200 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">The Bad Skin Clinic</title>
+    <desc lang="en-GB">The Bad Skin Clinic</desc>
+  </programme>
+  <programme start="20230326034200 +0200" stop="20230326051400 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé: The Other Way</title>
+    <desc lang="en-GB">90 Day Fiancé: The Other Way</desc>
+  </programme>
+  <programme start="20230326051400 +0200" stop="20230326060000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">1000-lb Best Friends</title>
+    <desc lang="en-GB">1000-lb Best Friends</desc>
+  </programme>
+  <programme start="20230326060000 +0200" stop="20230326064600 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Darcey &amp; Stacey</title>
+    <desc lang="en-GB">Darcey &amp; Stacey</desc>
+  </programme>
+  <programme start="20230326064600 +0200" stop="20230326073200 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Extreme Cheapskates</title>
+    <desc lang="en-GB">Extreme Cheapskates</desc>
+  </programme>
+  <programme start="20230326073200 +0200" stop="20230326075500 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Extreme Couponing</title>
+    <desc lang="en-GB">Extreme Couponing</desc>
+  </programme>
+  <programme start="20230326075500 +0200" stop="20230326081800 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Say Yes To The Dress</title>
+    <desc lang="en-GB">Say Yes To The Dress</desc>
+  </programme>
+  <programme start="20230326081800 +0200" stop="20230326084100 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Say Yes To The Dress</title>
+    <desc lang="en-GB">Say Yes To The Dress</desc>
+  </programme>
+  <programme start="20230326084100 +0200" stop="20230326090500 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Extreme Couponing</title>
+    <desc lang="en-GB">Extreme Couponing</desc>
+  </programme>
+  <programme start="20230326090500 +0200" stop="20230326093000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Extreme Couponing</title>
+    <desc lang="en-GB">Extreme Couponing</desc>
+  </programme>
+  <programme start="20230326093000 +0200" stop="20230326102000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Hoarding: Buried Alive</title>
+    <desc lang="en-GB">Hoarding: Buried Alive</desc>
+  </programme>
+  <programme start="20230326102000 +0200" stop="20230326111000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Hoarding: Buried Alive</title>
+    <desc lang="en-GB">Hoarding: Buried Alive</desc>
+  </programme>
+  <programme start="20230326111000 +0200" stop="20230326125500 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé</title>
+    <desc lang="en-GB">90 Day Fiancé</desc>
+  </programme>
+  <programme start="20230326125500 +0200" stop="20230326144000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé</title>
+    <desc lang="en-GB">90 Day Fiancé</desc>
+  </programme>
+  <programme start="20230326144000 +0200" stop="20230326163000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">My 600-lb Life</title>
+    <desc lang="en-GB">My 600-lb Life</desc>
+  </programme>
+  <programme start="20230326163000 +0200" stop="20230326173000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Darcey &amp; Stacey</title>
+    <desc lang="en-GB">Darcey &amp; Stacey</desc>
+  </programme>
+  <programme start="20230326173000 +0200" stop="20230326180000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Extreme Couponing</title>
+    <desc lang="en-GB">Extreme Couponing</desc>
+  </programme>
+  <programme start="20230326180000 +0200" stop="20230326190000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé UK</title>
+    <desc lang="en-GB">90 Day Fiancé UK</desc>
+  </programme>
+  <programme start="20230326190000 +0200" stop="20230326193000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">David &amp; Annie: After The 90 Days</title>
+    <desc lang="en-GB">David &amp; Annie: After The 90 Days</desc>
+  </programme>
+  <programme start="20230326193000 +0200" stop="20230326200000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Loren &amp; Alexei: After The 90 Days</title>
+    <desc lang="en-GB">Loren &amp; Alexei: After The 90 Days</desc>
+  </programme>
+  <programme start="20230326200000 +0200" stop="20230326220000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé: The Other Way</title>
+    <desc lang="en-GB">90 Day Fiancé: The Other Way</desc>
+  </programme>
+  <programme start="20230326220000 +0200" stop="20230326225500 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">I am Shauna Rae</title>
+    <desc lang="en-GB">I am Shauna Rae</desc>
+  </programme>
+  <programme start="20230326225500 +0200" stop="20230326235000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Dr. Pimple Popper: Pop Ups</title>
+    <desc lang="en-GB">Dr. Pimple Popper: Pop Ups</desc>
+  </programme>
+  <programme start="20230326235000 +0200" stop="20230327003800 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">My Feet Are Killing Me</title>
+    <desc lang="en-GB">My Feet Are Killing Me</desc>
+  </programme>
   <programme start="20230325232000 +0200" stop="20230326004000 +0200" channel="dstv_e_movies">
     <title lang="en-GB">Bogoši Bjaka</title>
     <desc lang="en-GB">Bogoši Bjaka</desc>
@@ -13139,6 +13846,118 @@
   <programme start="20230327230000 +0200" stop="20230328000000 +0200" channel="dstv_e_entertainment">
     <title lang="en-GB">Vanderpump Rules</title>
     <desc lang="en-GB">Vanderpump Rules</desc>
+  </programme>
+  <programme start="20230326235000 +0200" stop="20230327003800 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">My Feet Are Killing Me</title>
+    <desc lang="en-GB">My Feet Are Killing Me</desc>
+  </programme>
+  <programme start="20230327003800 +0200" stop="20230327012400 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">My Feet Are Killing Me</title>
+    <desc lang="en-GB">My Feet Are Killing Me</desc>
+  </programme>
+  <programme start="20230327012400 +0200" stop="20230327021000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé: The Other Way</title>
+    <desc lang="en-GB">90 Day Fiancé: The Other Way</desc>
+  </programme>
+  <programme start="20230327021000 +0200" stop="20230327025600 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">My Feet Are Killing Me</title>
+    <desc lang="en-GB">My Feet Are Killing Me</desc>
+  </programme>
+  <programme start="20230327025600 +0200" stop="20230327034200 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé UK</title>
+    <desc lang="en-GB">90 Day Fiancé UK</desc>
+  </programme>
+  <programme start="20230327034200 +0200" stop="20230327042800 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">I am Shauna Rae</title>
+    <desc lang="en-GB">I am Shauna Rae</desc>
+  </programme>
+  <programme start="20230327042800 +0200" stop="20230327051400 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Trixie Motel</title>
+    <desc lang="en-GB">Trixie Motel</desc>
+  </programme>
+  <programme start="20230327051400 +0200" stop="20230327060000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Darcey &amp; Stacey</title>
+    <desc lang="en-GB">Darcey &amp; Stacey</desc>
+  </programme>
+  <programme start="20230327060000 +0200" stop="20230327064600 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Hoarding: Buried Alive</title>
+    <desc lang="en-GB">Hoarding: Buried Alive</desc>
+  </programme>
+  <programme start="20230327064600 +0200" stop="20230327070900 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Say Yes To The Dress</title>
+    <desc lang="en-GB">Say Yes To The Dress</desc>
+  </programme>
+  <programme start="20230327070900 +0200" stop="20230327075500 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Dr. Pimple Popper</title>
+    <desc lang="en-GB">Dr. Pimple Popper</desc>
+  </programme>
+  <programme start="20230327075500 +0200" stop="20230327093000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé: The Other Way</title>
+    <desc lang="en-GB">90 Day Fiancé: The Other Way</desc>
+  </programme>
+  <programme start="20230327093000 +0200" stop="20230327102000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Little People, Big World</title>
+    <desc lang="en-GB">Little People, Big World</desc>
+  </programme>
+  <programme start="20230327102000 +0200" stop="20230327111000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Little People, Big World</title>
+    <desc lang="en-GB">Little People, Big World</desc>
+  </programme>
+  <programme start="20230327111000 +0200" stop="20230327120000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Little People, Big World</title>
+    <desc lang="en-GB">Little People, Big World</desc>
+  </programme>
+  <programme start="20230327120000 +0200" stop="20230327125500 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Little People, Big World</title>
+    <desc lang="en-GB">Little People, Big World</desc>
+  </programme>
+  <programme start="20230327125500 +0200" stop="20230327134500 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Say Yes To The Dress</title>
+    <desc lang="en-GB">Say Yes To The Dress</desc>
+  </programme>
+  <programme start="20230327134500 +0200" stop="20230327144000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Trixie Motel</title>
+    <desc lang="en-GB">Trixie Motel</desc>
+  </programme>
+  <programme start="20230327144000 +0200" stop="20230327163000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé</title>
+    <desc lang="en-GB">90 Day Fiancé</desc>
+  </programme>
+  <programme start="20230327163000 +0200" stop="20230327170000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Cake Boss</title>
+    <desc lang="en-GB">Cake Boss</desc>
+  </programme>
+  <programme start="20230327170000 +0200" stop="20230327173000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Kitchen Boss</title>
+    <desc lang="en-GB">Kitchen Boss</desc>
+  </programme>
+  <programme start="20230327173000 +0200" stop="20230327180000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Extreme Couponing</title>
+    <desc lang="en-GB">Extreme Couponing</desc>
+  </programme>
+  <programme start="20230327180000 +0200" stop="20230327190000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Hoarding: Buried Alive</title>
+    <desc lang="en-GB">Hoarding: Buried Alive</desc>
+  </programme>
+  <programme start="20230327190000 +0200" stop="20230327200000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Dr. Pimple Popper</title>
+    <desc lang="en-GB">Dr. Pimple Popper</desc>
+  </programme>
+  <programme start="20230327200000 +0200" stop="20230327220000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">My 600-lb Life</title>
+    <desc lang="en-GB">My 600-lb Life</desc>
+  </programme>
+  <programme start="20230327220000 +0200" stop="20230327225500 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">1000-lb Best Friends</title>
+    <desc lang="en-GB">1000-lb Best Friends</desc>
+  </programme>
+  <programme start="20230327225500 +0200" stop="20230327235000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">My Feet Are Killing Me</title>
+    <desc lang="en-GB">My Feet Are Killing Me</desc>
+  </programme>
+  <programme start="20230327235000 +0200" stop="20230328012400 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">My 600-lb Life</title>
+    <desc lang="en-GB">My 600-lb Life</desc>
   </programme>
   <programme start="20230326233500 +0200" stop="20230327000500 +0200" channel="dstv_e_movies">
     <title lang="en-GB">Films And Stars</title>
@@ -15356,6 +16175,118 @@
     <title lang="en-GB">Vanderpump Rules</title>
     <desc lang="en-GB">Vanderpump Rules</desc>
   </programme>
+  <programme start="20230327235000 +0200" stop="20230328012400 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">My 600-lb Life</title>
+    <desc lang="en-GB">My 600-lb Life</desc>
+  </programme>
+  <programme start="20230328012400 +0200" stop="20230328021000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">1000-lb Best Friends</title>
+    <desc lang="en-GB">1000-lb Best Friends</desc>
+  </programme>
+  <programme start="20230328021000 +0200" stop="20230328025600 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">My Feet Are Killing Me</title>
+    <desc lang="en-GB">My Feet Are Killing Me</desc>
+  </programme>
+  <programme start="20230328025600 +0200" stop="20230328031900 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Extreme Couponing</title>
+    <desc lang="en-GB">Extreme Couponing</desc>
+  </programme>
+  <programme start="20230328031900 +0200" stop="20230328040500 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Dr. Pimple Popper</title>
+    <desc lang="en-GB">Dr. Pimple Popper</desc>
+  </programme>
+  <programme start="20230328040500 +0200" stop="20230328042800 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Say Yes To The Dress</title>
+    <desc lang="en-GB">Say Yes To The Dress</desc>
+  </programme>
+  <programme start="20230328042800 +0200" stop="20230328060000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé</title>
+    <desc lang="en-GB">90 Day Fiancé</desc>
+  </programme>
+  <programme start="20230328060000 +0200" stop="20230328064600 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Hoarding: Buried Alive</title>
+    <desc lang="en-GB">Hoarding: Buried Alive</desc>
+  </programme>
+  <programme start="20230328064600 +0200" stop="20230328070900 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Say Yes To The Dress</title>
+    <desc lang="en-GB">Say Yes To The Dress</desc>
+  </programme>
+  <programme start="20230328070900 +0200" stop="20230328075500 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Dr. Pimple Popper</title>
+    <desc lang="en-GB">Dr. Pimple Popper</desc>
+  </programme>
+  <programme start="20230328075500 +0200" stop="20230328084100 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Say Yes To The Dress</title>
+    <desc lang="en-GB">Say Yes To The Dress</desc>
+  </programme>
+  <programme start="20230328084100 +0200" stop="20230328093000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Trixie Motel</title>
+    <desc lang="en-GB">Trixie Motel</desc>
+  </programme>
+  <programme start="20230328093000 +0200" stop="20230328102000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Sister Wives</title>
+    <desc lang="en-GB">Sister Wives</desc>
+  </programme>
+  <programme start="20230328102000 +0200" stop="20230328111000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Sister Wives</title>
+    <desc lang="en-GB">Sister Wives</desc>
+  </programme>
+  <programme start="20230328111000 +0200" stop="20230328120000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Sister Wives</title>
+    <desc lang="en-GB">Sister Wives</desc>
+  </programme>
+  <programme start="20230328120000 +0200" stop="20230328125500 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Sister Wives</title>
+    <desc lang="en-GB">Sister Wives</desc>
+  </programme>
+  <programme start="20230328125500 +0200" stop="20230328144000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">My 600-lb Life</title>
+    <desc lang="en-GB">My 600-lb Life</desc>
+  </programme>
+  <programme start="20230328144000 +0200" stop="20230328163000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé</title>
+    <desc lang="en-GB">90 Day Fiancé</desc>
+  </programme>
+  <programme start="20230328163000 +0200" stop="20230328170000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Cake Boss</title>
+    <desc lang="en-GB">Cake Boss</desc>
+  </programme>
+  <programme start="20230328170000 +0200" stop="20230328173000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Kitchen Boss</title>
+    <desc lang="en-GB">Kitchen Boss</desc>
+  </programme>
+  <programme start="20230328173000 +0200" stop="20230328180000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Extreme Couponing</title>
+    <desc lang="en-GB">Extreme Couponing</desc>
+  </programme>
+  <programme start="20230328180000 +0200" stop="20230328190000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Hoarding: Buried Alive</title>
+    <desc lang="en-GB">Hoarding: Buried Alive</desc>
+  </programme>
+  <programme start="20230328190000 +0200" stop="20230328200000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Dr. Pimple Popper</title>
+    <desc lang="en-GB">Dr. Pimple Popper</desc>
+  </programme>
+  <programme start="20230328200000 +0200" stop="20230328210000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé UK</title>
+    <desc lang="en-GB">90 Day Fiancé UK</desc>
+  </programme>
+  <programme start="20230328210000 +0200" stop="20230328220000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Extreme Sisters</title>
+    <desc lang="en-GB">Extreme Sisters</desc>
+  </programme>
+  <programme start="20230328220000 +0200" stop="20230328225500 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Dr. Pimple Popper: Pop Ups</title>
+    <desc lang="en-GB">Dr. Pimple Popper: Pop Ups</desc>
+  </programme>
+  <programme start="20230328225500 +0200" stop="20230328235000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">My Feet Are Killing Me</title>
+    <desc lang="en-GB">My Feet Are Killing Me</desc>
+  </programme>
+  <programme start="20230328235000 +0200" stop="20230329003800 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé UK</title>
+    <desc lang="en-GB">90 Day Fiancé UK</desc>
+  </programme>
   <programme start="20230327232000 +0200" stop="20230328011500 +0200" channel="dstv_e_movies">
     <title lang="en-GB">Beyond The River</title>
     <desc lang="en-GB">Beyond The River</desc>
@@ -17527,6 +18458,126 @@
   <programme start="20230329230000 +0200" stop="20230330000000 +0200" channel="dstv_e_entertainment">
     <title lang="en-GB">Vanderpump Rules</title>
     <desc lang="en-GB">Vanderpump Rules</desc>
+  </programme>
+  <programme start="20230328235000 +0200" stop="20230329003800 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé UK</title>
+    <desc lang="en-GB">90 Day Fiancé UK</desc>
+  </programme>
+  <programme start="20230329003800 +0200" stop="20230329012400 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Extreme Sisters</title>
+    <desc lang="en-GB">Extreme Sisters</desc>
+  </programme>
+  <programme start="20230329012400 +0200" stop="20230329021000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Dr. Pimple Popper: Pop Ups</title>
+    <desc lang="en-GB">Dr. Pimple Popper: Pop Ups</desc>
+  </programme>
+  <programme start="20230329021000 +0200" stop="20230329025600 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">My Feet Are Killing Me</title>
+    <desc lang="en-GB">My Feet Are Killing Me</desc>
+  </programme>
+  <programme start="20230329025600 +0200" stop="20230329031900 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Extreme Couponing</title>
+    <desc lang="en-GB">Extreme Couponing</desc>
+  </programme>
+  <programme start="20230329031900 +0200" stop="20230329040500 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Dr. Pimple Popper</title>
+    <desc lang="en-GB">Dr. Pimple Popper</desc>
+  </programme>
+  <programme start="20230329040500 +0200" stop="20230329042800 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Say Yes To The Dress</title>
+    <desc lang="en-GB">Say Yes To The Dress</desc>
+  </programme>
+  <programme start="20230329042800 +0200" stop="20230329060000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé</title>
+    <desc lang="en-GB">90 Day Fiancé</desc>
+  </programme>
+  <programme start="20230329060000 +0200" stop="20230329064600 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Hoarding: Buried Alive</title>
+    <desc lang="en-GB">Hoarding: Buried Alive</desc>
+  </programme>
+  <programme start="20230329064600 +0200" stop="20230329070900 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Say Yes To The Dress</title>
+    <desc lang="en-GB">Say Yes To The Dress</desc>
+  </programme>
+  <programme start="20230329070900 +0200" stop="20230329075500 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Dr. Pimple Popper</title>
+    <desc lang="en-GB">Dr. Pimple Popper</desc>
+  </programme>
+  <programme start="20230329075500 +0200" stop="20230329093000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">My 600-lb Life</title>
+    <desc lang="en-GB">My 600-lb Life</desc>
+  </programme>
+  <programme start="20230329093000 +0200" stop="20230329102000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Outdaughtered</title>
+    <desc lang="en-GB">Outdaughtered</desc>
+  </programme>
+  <programme start="20230329102000 +0200" stop="20230329111000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Outdaughtered</title>
+    <desc lang="en-GB">Outdaughtered</desc>
+  </programme>
+  <programme start="20230329111000 +0200" stop="20230329120000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Outdaughtered</title>
+    <desc lang="en-GB">Outdaughtered</desc>
+  </programme>
+  <programme start="20230329120000 +0200" stop="20230329125500 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Outdaughtered</title>
+    <desc lang="en-GB">Outdaughtered</desc>
+  </programme>
+  <programme start="20230329125500 +0200" stop="20230329134500 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé UK</title>
+    <desc lang="en-GB">90 Day Fiancé UK</desc>
+  </programme>
+  <programme start="20230329134500 +0200" stop="20230329144000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Extreme Sisters</title>
+    <desc lang="en-GB">Extreme Sisters</desc>
+  </programme>
+  <programme start="20230329144000 +0200" stop="20230329163000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé: Before The 90 Days</title>
+    <desc lang="en-GB">90 Day Fiancé: Before The 90 Days</desc>
+  </programme>
+  <programme start="20230329163000 +0200" stop="20230329170000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Cake Boss</title>
+    <desc lang="en-GB">Cake Boss</desc>
+  </programme>
+  <programme start="20230329170000 +0200" stop="20230329173000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Kitchen Boss</title>
+    <desc lang="en-GB">Kitchen Boss</desc>
+  </programme>
+  <programme start="20230329173000 +0200" stop="20230329180000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Extreme Couponing</title>
+    <desc lang="en-GB">Extreme Couponing</desc>
+  </programme>
+  <programme start="20230329180000 +0200" stop="20230329190000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Hoarding: Buried Alive</title>
+    <desc lang="en-GB">Hoarding: Buried Alive</desc>
+  </programme>
+  <programme start="20230329190000 +0200" stop="20230329200000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Dr. Pimple Popper</title>
+    <desc lang="en-GB">Dr. Pimple Popper</desc>
+  </programme>
+  <programme start="20230329200000 +0200" stop="20230329210000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Darcey &amp; Stacey</title>
+    <desc lang="en-GB">Darcey &amp; Stacey</desc>
+  </programme>
+  <programme start="20230329210000 +0200" stop="20230329213000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">David &amp; Annie: After The 90 Days</title>
+    <desc lang="en-GB">David &amp; Annie: After The 90 Days</desc>
+  </programme>
+  <programme start="20230329213000 +0200" stop="20230329220000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Loren &amp; Alexei: After The 90 Days</title>
+    <desc lang="en-GB">Loren &amp; Alexei: After The 90 Days</desc>
+  </programme>
+  <programme start="20230329220000 +0200" stop="20230329225500 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Trixie Motel</title>
+    <desc lang="en-GB">Trixie Motel</desc>
+  </programme>
+  <programme start="20230329225500 +0200" stop="20230329235000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">My Feet Are Killing Me</title>
+    <desc lang="en-GB">My Feet Are Killing Me</desc>
+  </programme>
+  <programme start="20230329235000 +0200" stop="20230330003800 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Darcey &amp; Stacey</title>
+    <desc lang="en-GB">Darcey &amp; Stacey</desc>
   </programme>
   <programme start="20230328215000 +0200" stop="20230329002000 +0200" channel="dstv_e_movies">
     <title lang="en-GB">Third Person</title>
@@ -19711,6 +20762,130 @@
   <programme start="20230330233000 +0200" stop="20230331000000 +0200" channel="dstv_e_entertainment">
     <title lang="en-GB">Ice Loves Coco</title>
     <desc lang="en-GB">Ice Loves Coco</desc>
+  </programme>
+  <programme start="20230329235000 +0200" stop="20230330003800 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Darcey &amp; Stacey</title>
+    <desc lang="en-GB">Darcey &amp; Stacey</desc>
+  </programme>
+  <programme start="20230330003800 +0200" stop="20230330010100 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">David &amp; Annie: After The 90 Days</title>
+    <desc lang="en-GB">David &amp; Annie: After The 90 Days</desc>
+  </programme>
+  <programme start="20230330010100 +0200" stop="20230330012400 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Loren &amp; Alexei: After The 90 Days</title>
+    <desc lang="en-GB">Loren &amp; Alexei: After The 90 Days</desc>
+  </programme>
+  <programme start="20230330012400 +0200" stop="20230330021000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Trixie Motel</title>
+    <desc lang="en-GB">Trixie Motel</desc>
+  </programme>
+  <programme start="20230330021000 +0200" stop="20230330025600 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">My Feet Are Killing Me</title>
+    <desc lang="en-GB">My Feet Are Killing Me</desc>
+  </programme>
+  <programme start="20230330025600 +0200" stop="20230330031900 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Extreme Couponing</title>
+    <desc lang="en-GB">Extreme Couponing</desc>
+  </programme>
+  <programme start="20230330031900 +0200" stop="20230330040500 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Dr. Pimple Popper</title>
+    <desc lang="en-GB">Dr. Pimple Popper</desc>
+  </programme>
+  <programme start="20230330040500 +0200" stop="20230330042800 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Say Yes To The Dress</title>
+    <desc lang="en-GB">Say Yes To The Dress</desc>
+  </programme>
+  <programme start="20230330042800 +0200" stop="20230330060000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé: Before The 90 Days</title>
+    <desc lang="en-GB">90 Day Fiancé: Before The 90 Days</desc>
+  </programme>
+  <programme start="20230330060000 +0200" stop="20230330064600 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Hoarding: Buried Alive</title>
+    <desc lang="en-GB">Hoarding: Buried Alive</desc>
+  </programme>
+  <programme start="20230330064600 +0200" stop="20230330070900 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Say Yes To The Dress</title>
+    <desc lang="en-GB">Say Yes To The Dress</desc>
+  </programme>
+  <programme start="20230330070900 +0200" stop="20230330075500 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Dr. Pimple Popper</title>
+    <desc lang="en-GB">Dr. Pimple Popper</desc>
+  </programme>
+  <programme start="20230330075500 +0200" stop="20230330084100 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé UK</title>
+    <desc lang="en-GB">90 Day Fiancé UK</desc>
+  </programme>
+  <programme start="20230330084100 +0200" stop="20230330093000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Extreme Sisters</title>
+    <desc lang="en-GB">Extreme Sisters</desc>
+  </programme>
+  <programme start="20230330093000 +0200" stop="20230330102000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé: Before The 90 Days</title>
+    <desc lang="en-GB">90 Day Fiancé: Before The 90 Days</desc>
+  </programme>
+  <programme start="20230330102000 +0200" stop="20230330111000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé: Before The 90 Days</title>
+    <desc lang="en-GB">90 Day Fiancé: Before The 90 Days</desc>
+  </programme>
+  <programme start="20230330111000 +0200" stop="20230330120000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé: Before The 90 Days</title>
+    <desc lang="en-GB">90 Day Fiancé: Before The 90 Days</desc>
+  </programme>
+  <programme start="20230330120000 +0200" stop="20230330125500 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé: Before The 90 Days</title>
+    <desc lang="en-GB">90 Day Fiancé: Before The 90 Days</desc>
+  </programme>
+  <programme start="20230330125500 +0200" stop="20230330134500 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Darcey &amp; Stacey</title>
+    <desc lang="en-GB">Darcey &amp; Stacey</desc>
+  </programme>
+  <programme start="20230330134500 +0200" stop="20230330141500 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">David &amp; Annie: After The 90 Days</title>
+    <desc lang="en-GB">David &amp; Annie: After The 90 Days</desc>
+  </programme>
+  <programme start="20230330141500 +0200" stop="20230330144000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Loren &amp; Alexei: After The 90 Days</title>
+    <desc lang="en-GB">Loren &amp; Alexei: After The 90 Days</desc>
+  </programme>
+  <programme start="20230330144000 +0200" stop="20230330163000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé: Before The 90 Days</title>
+    <desc lang="en-GB">90 Day Fiancé: Before The 90 Days</desc>
+  </programme>
+  <programme start="20230330163000 +0200" stop="20230330170000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Cake Boss</title>
+    <desc lang="en-GB">Cake Boss</desc>
+  </programme>
+  <programme start="20230330170000 +0200" stop="20230330173000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Kitchen Boss</title>
+    <desc lang="en-GB">Kitchen Boss</desc>
+  </programme>
+  <programme start="20230330173000 +0200" stop="20230330180000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Extreme Couponing</title>
+    <desc lang="en-GB">Extreme Couponing</desc>
+  </programme>
+  <programme start="20230330180000 +0200" stop="20230330190000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Hoarding: Buried Alive</title>
+    <desc lang="en-GB">Hoarding: Buried Alive</desc>
+  </programme>
+  <programme start="20230330190000 +0200" stop="20230330200000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Dr. Pimple Popper</title>
+    <desc lang="en-GB">Dr. Pimple Popper</desc>
+  </programme>
+  <programme start="20230330200000 +0200" stop="20230330220000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé: The Other Way</title>
+    <desc lang="en-GB">90 Day Fiancé: The Other Way</desc>
+  </programme>
+  <programme start="20230330220000 +0200" stop="20230330225500 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">MILF Manor</title>
+    <desc lang="en-GB">MILF Manor</desc>
+  </programme>
+  <programme start="20230330225500 +0200" stop="20230330235000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé: The Other Way</title>
+    <desc lang="en-GB">90 Day Fiancé: The Other Way</desc>
+  </programme>
+  <programme start="20230330235000 +0200" stop="20230331012400 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé: The Other Way</title>
+    <desc lang="en-GB">90 Day Fiancé: The Other Way</desc>
   </programme>
   <programme start="20230329231000 +0200" stop="20230330005500 +0200" channel="dstv_e_movies">
     <title lang="en-GB">Begin Again</title>
@@ -22007,6 +23182,122 @@
   <programme start="20230331230000 +0200" stop="20230401000000 +0200" channel="dstv_e_entertainment">
     <title lang="en-GB">Vanderpump Rules</title>
     <desc lang="en-GB">Vanderpump Rules</desc>
+  </programme>
+  <programme start="20230330235000 +0200" stop="20230331012400 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé: The Other Way</title>
+    <desc lang="en-GB">90 Day Fiancé: The Other Way</desc>
+  </programme>
+  <programme start="20230331012400 +0200" stop="20230331021000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">MILF Manor</title>
+    <desc lang="en-GB">MILF Manor</desc>
+  </programme>
+  <programme start="20230331021000 +0200" stop="20230331025600 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé: The Other Way</title>
+    <desc lang="en-GB">90 Day Fiancé: The Other Way</desc>
+  </programme>
+  <programme start="20230331025600 +0200" stop="20230331031900 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Extreme Couponing</title>
+    <desc lang="en-GB">Extreme Couponing</desc>
+  </programme>
+  <programme start="20230331031900 +0200" stop="20230331040500 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Dr. Pimple Popper</title>
+    <desc lang="en-GB">Dr. Pimple Popper</desc>
+  </programme>
+  <programme start="20230331040500 +0200" stop="20230331042800 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Say Yes To The Dress</title>
+    <desc lang="en-GB">Say Yes To The Dress</desc>
+  </programme>
+  <programme start="20230331042800 +0200" stop="20230331060000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé: Before The 90 Days</title>
+    <desc lang="en-GB">90 Day Fiancé: Before The 90 Days</desc>
+  </programme>
+  <programme start="20230331060000 +0200" stop="20230331064600 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Hoarding: Buried Alive</title>
+    <desc lang="en-GB">Hoarding: Buried Alive</desc>
+  </programme>
+  <programme start="20230331064600 +0200" stop="20230331070900 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Say Yes To The Dress</title>
+    <desc lang="en-GB">Say Yes To The Dress</desc>
+  </programme>
+  <programme start="20230331070900 +0200" stop="20230331075500 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Dr. Pimple Popper</title>
+    <desc lang="en-GB">Dr. Pimple Popper</desc>
+  </programme>
+  <programme start="20230331075500 +0200" stop="20230331084100 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Darcey &amp; Stacey</title>
+    <desc lang="en-GB">Darcey &amp; Stacey</desc>
+  </programme>
+  <programme start="20230331084100 +0200" stop="20230331090500 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">David &amp; Annie: After The 90 Days</title>
+    <desc lang="en-GB">David &amp; Annie: After The 90 Days</desc>
+  </programme>
+  <programme start="20230331090500 +0200" stop="20230331093000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Loren &amp; Alexei: After The 90 Days</title>
+    <desc lang="en-GB">Loren &amp; Alexei: After The 90 Days</desc>
+  </programme>
+  <programme start="20230331093000 +0200" stop="20230331102000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">The Family Chantel</title>
+    <desc lang="en-GB">The Family Chantel</desc>
+  </programme>
+  <programme start="20230331102000 +0200" stop="20230331111000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">The Family Chantel</title>
+    <desc lang="en-GB">The Family Chantel</desc>
+  </programme>
+  <programme start="20230331111000 +0200" stop="20230331120000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">The Family Chantel</title>
+    <desc lang="en-GB">The Family Chantel</desc>
+  </programme>
+  <programme start="20230331120000 +0200" stop="20230331125500 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">The Family Chantel</title>
+    <desc lang="en-GB">The Family Chantel</desc>
+  </programme>
+  <programme start="20230331125500 +0200" stop="20230331144000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé: The Other Way</title>
+    <desc lang="en-GB">90 Day Fiancé: The Other Way</desc>
+  </programme>
+  <programme start="20230331144000 +0200" stop="20230331163000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">90 Day Fiancé: Before The 90 Days</title>
+    <desc lang="en-GB">90 Day Fiancé: Before The 90 Days</desc>
+  </programme>
+  <programme start="20230331163000 +0200" stop="20230331170000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Cake Boss</title>
+    <desc lang="en-GB">Cake Boss</desc>
+  </programme>
+  <programme start="20230331170000 +0200" stop="20230331173000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Kitchen Boss</title>
+    <desc lang="en-GB">Kitchen Boss</desc>
+  </programme>
+  <programme start="20230331173000 +0200" stop="20230331180000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Extreme Couponing</title>
+    <desc lang="en-GB">Extreme Couponing</desc>
+  </programme>
+  <programme start="20230331180000 +0200" stop="20230331190000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Hoarding: Buried Alive</title>
+    <desc lang="en-GB">Hoarding: Buried Alive</desc>
+  </programme>
+  <programme start="20230331190000 +0200" stop="20230331200000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Dr. Pimple Popper</title>
+    <desc lang="en-GB">Dr. Pimple Popper</desc>
+  </programme>
+  <programme start="20230331200000 +0200" stop="20230331210000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">The Bad Skin Clinic</title>
+    <desc lang="en-GB">The Bad Skin Clinic</desc>
+  </programme>
+  <programme start="20230331210000 +0200" stop="20230331220000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Helicopter ER</title>
+    <desc lang="en-GB">Helicopter ER</desc>
+  </programme>
+  <programme start="20230331220000 +0200" stop="20230331225500 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">Dr. Mercy</title>
+    <desc lang="en-GB">Dr. Mercy</desc>
+  </programme>
+  <programme start="20230331225500 +0200" stop="20230331235000 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">My Feet Are Killing Me</title>
+    <desc lang="en-GB">My Feet Are Killing Me</desc>
+  </programme>
+  <programme start="20230331235000 +0200" stop="20230401003800 +0200" channel="dstv_tlc_sa">
+    <title lang="en-GB">The Bad Skin Clinic</title>
+    <desc lang="en-GB">The Bad Skin Clinic</desc>
   </programme>
   <programme start="20230330232000 +0200" stop="20230331010500 +0200" channel="dstv_e_movies">
     <title lang="en-GB">The Brothers</title>
