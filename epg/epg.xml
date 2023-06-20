@@ -780,8 +780,8 @@
     <desc lang="en-GB">Drum: Behind The Headlines</desc>
   </programme>
   <programme start="20230620043000 +0200" stop="20230620050000 +0200" channel="dstv_honey">
-    <title lang="en-GB">My Horror Love Story: Kenya</title>
-    <desc lang="en-GB">My Horror Love Story: Kenya</desc>
+    <title lang="en-GB">S1/E5. My Horror Love Story: Kenya</title>
+    <desc lang="en-GB">&apos;S1/E5&apos;. Janet&apos;s husband changed for the worse once he started earning more money. Fed up, she decided to leave the marriage, but he did not agree. He stabbed her, but she survived. Finally, he poured kerosene on her and burned her alive.</desc>
   </programme>
   <programme start="20230620050000 +0200" stop="20230620053000 +0200" channel="dstv_honey">
     <title lang="en-GB">The Big Bozza Cook-off</title>
@@ -808,8 +808,8 @@
     <desc lang="en-GB">My Zim Plate</desc>
   </programme>
   <programme start="20230620083000 +0200" stop="20230620090000 +0200" channel="dstv_honey">
-    <title lang="en-GB">Yes, I Have HIV: Zimbabwe</title>
-    <desc lang="en-GB">Yes, I Have HIV: Zimbabwe</desc>
+    <title lang="en-GB">S1/E2. Yes, I Have HIV: Zimbabwe</title>
+    <desc lang="en-GB">&apos;S1/E2&apos;. Bridget Timayi pulled out of an abusive marriage which left her infected with HIV and traumatised from losing two children to the virus. Today she will reveal her status to her daughter.</desc>
   </programme>
   <programme start="20230620090000 +0200" stop="20230620093000 +0200" channel="dstv_honey">
     <title lang="en-GB">Where Are You?</title>
@@ -860,8 +860,8 @@
     <desc lang="en-GB">My Zim Plate</desc>
   </programme>
   <programme start="20230620163000 +0200" stop="20230620170000 +0200" channel="dstv_honey">
-    <title lang="en-GB">Yes, I Have HIV: Zimbabwe</title>
-    <desc lang="en-GB">Yes, I Have HIV: Zimbabwe</desc>
+    <title lang="en-GB">S1/E3. Yes, I Have HIV: Zimbabwe</title>
+    <desc lang="en-GB">&apos;S1/E3&apos;. Ruva was born HIV positive but only found out in her teenage years. She is ready to confide in her best friend of about five years and hopes the news won&apos;t affect their friendship.</desc>
   </programme>
   <programme start="20230620170000 +0200" stop="20230620173000 +0200" channel="dstv_honey">
     <title lang="en-GB">Where Are You?</title>
@@ -1651,6 +1651,830 @@
     <title lang="en-GB">ZNBC 2</title>
     <desc lang="en-GB">ZNBC 2</desc>
   </programme>
+  <programme start="20230620002500 +0200" stop="20230620010000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Makofi: Season 3, Episode 55</title>
+    <desc lang="en-GB">&apos;S3/E55&apos;. Gideon mistreats Jabulani to the point of betrayal, he joins forces with the whistle blower, Kafupi to get Gideon off his back.</desc>
+  </programme>
+  <programme start="20230620010000 +0200" stop="20230620040500 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Royal Blackmail: Rating: 16, Drama, 2019</title>
+    <desc lang="en-GB">A king is secretly involved with his business associate and comes face to face with a strange woman who knows him inside out and tries to blackmail him.</desc>
+  </programme>
+  <programme start="20230620040500 +0200" stop="20230620050000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Tuvwange: Season 2, Episode 25</title>
+    <desc lang="en-GB">&apos;S2/E25&apos;. This week, the ladies unpack the topic of feminism. Aunty stylish runs us through a quick fashion hack and wrap up the show with renowned activist, Samba Yonga.</desc>
+  </programme>
+  <programme start="20230620050000 +0200" stop="20230620060100 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Date My Family Zambia: Season 3, Episode 2</title>
+    <desc lang="en-GB">&apos;S3/E2&apos;. Date My Family helps singletons find love by sending them on dates with their potential partner&apos;s family. Can you really trust your family to help you find love?</desc>
+  </programme>
+  <programme start="20230620060100 +0200" stop="20230620063000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Zathu: Season 2, Episode 27</title>
+    <desc lang="en-GB">&apos;S2/E27 of 32&apos;. Zathu is a Chewa word from the eastern part of Zambia, which means OURS. This is a fast paced magazine show that explores arts, culture and lifestyle.</desc>
+  </programme>
+  <programme start="20230620063000 +0200" stop="20230620070000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">The Security Guard: Season 4, Episode 8</title>
+    <desc lang="en-GB">&apos;S4/E8 of 26&apos;. All undisciplined officers find it difficult during exercises.Kili who was with her girlfriend in the Guest house all along is seen completely exhausted.</desc>
+  </programme>
+  <programme start="20230620070000 +0200" stop="20230620073000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Shi Mumbi: Season 4, Episode 16</title>
+    <desc lang="en-GB">&apos;S4/E16 of 26&apos;. Cop Darlington rejects his niece who faked the kidnapping to come and stay with them again. Bana Mumbi arrives from Kapiri in hurry to come and see Rex, only to discover he is not sick.</desc>
+  </programme>
+  <programme start="20230620073000 +0200" stop="20230620080000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Uncle Limbani: Season 3, Episode 24</title>
+    <desc lang="en-GB">&apos;S3/E24 of 26&apos;. Limbani finds himself in a love triangle when Tinashe tells him that he is going to be a father and Gertrude won&apos;t let go. To please both women, his hustle for money goes into full throttle.</desc>
+  </programme>
+  <programme start="20230620080000 +0200" stop="20230620083000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Ten Tamanga Street: Season 1, Episode 7</title>
+    <desc lang="en-GB">&apos;S1/E7 of 51&apos;. Fundi fails to convince Kafiru his meeting with Socks was coincidence. Socks gets angry and challenges Kafiru to a fight. Mama Jessie starts a petition.</desc>
+  </programme>
+  <programme start="20230620083000 +0200" stop="20230620090000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Zuba: Season 7, Episode 36</title>
+    <desc lang="en-GB">&apos;S7/E36 of 110&apos;. Four families are inseparably linked, but struggle to coexist with one another, in their quest for riches, power, and fame.</desc>
+  </programme>
+  <programme start="20230620090000 +0200" stop="20230620100000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Mpali: Season 6, Episode 78</title>
+    <desc lang="en-GB">&apos;S6/E78 of 152&apos;. Phil is pulled in every direction. Junza spots Lindiwe burning something in the middle of the night. Kuzo and Chola discuss Brown, meanwhile Mwanida has a surprise up her sleeve.</desc>
+  </programme>
+  <programme start="20230620100000 +0200" stop="20230620103000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Makofi: Season 3, Episode 55</title>
+    <desc lang="en-GB">&apos;S3/E55 of 60&apos;. Gideon mistreats Jabulani to the point of betrayal, he joins forces with the whistle blower, Kafupi to get Gideon off his back.</desc>
+  </programme>
+  <programme start="20230620103000 +0200" stop="20230620113000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">My Kitchen Party: Season 5, Episode 4</title>
+    <desc lang="en-GB">&apos;S5/E4 of 13&apos;. Celebrating the joyous right of passage for the brides , as they pick their committees and gifts to start their new journey.</desc>
+  </programme>
+  <programme start="20230620113000 +0200" stop="20230620143000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Royal Blackmail: Rating: 16, Drama, 2019</title>
+    <desc lang="en-GB">A king is secretly involved with his business associate and comes face to face with a strange woman who knows him inside out and tries to blackmail him.</desc>
+  </programme>
+  <programme start="20230620143000 +0200" stop="20230620153000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Mpali: Season 6, Episode 78</title>
+    <desc lang="en-GB">&apos;S6/E78 of 152&apos;. Phil is pulled in every direction. Junza spots Lindiwe burning something in the middle of the night. Kuzo and Chola discuss Brown, meanwhile Mwanida has a surprise up her sleeve.</desc>
+  </programme>
+  <programme start="20230620153000 +0200" stop="20230620160000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Zuba: Season 7, Episode 36</title>
+    <desc lang="en-GB">&apos;S7/E36 of 110&apos;. Four families are inseparably linked, but struggle to coexist with one another, in their quest for riches, power, and fame.</desc>
+  </programme>
+  <programme start="20230620160000 +0200" stop="20230620163000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Makofi: Season 3, Episode 55</title>
+    <desc lang="en-GB">&apos;S3/E55 of 60&apos;. Gideon mistreats Jabulani to the point of betrayal, he joins forces with the whistle blower, Kafupi to get Gideon off his back.</desc>
+  </programme>
+  <programme start="20230620163000 +0200" stop="20230620170000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Ten Tamanga Street: Season 1, Episode 7</title>
+    <desc lang="en-GB">&apos;S1/E7 of 51&apos;. Fundi fails to convince Kafiru his meeting with Socks was coincidence. Socks gets angry and challenges Kafiru to a fight. Mama Jessie starts a petition.</desc>
+  </programme>
+  <programme start="20230620170000 +0200" stop="20230620173000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Will He Say Yes? Zambia: Season 1, Episode 8</title>
+    <desc lang="en-GB">&apos;S1/E8 of 9&apos;. Women who are ready to take fate into their own hands propose to their men. Will he say yes?</desc>
+  </programme>
+  <programme start="20230620173000 +0200" stop="20230620180000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Shi Mumbi: Season 4, Episode 16</title>
+    <desc lang="en-GB">&apos;S4/E16 of 26&apos;. Cop Darlington rejects his niece who faked the kidnapping to come and stay with them again. Bana Mumbi arrives from Kapiri in hurry to come and see Rex, only to discover he is not sick.</desc>
+  </programme>
+  <programme start="20230620180000 +0200" stop="20230620190000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Mutale Mwanza Unscripted: Season 1, Episode 11</title>
+    <desc lang="en-GB">&apos;S1/E11 of 15&apos;. Mutale invites Natasha Van Der Maas on a trip to Samfya, a breather they both need especially now that Natasha is the newest single lady in town. Mrs. Freda has the &apos;talk&apos; with the boys.</desc>
+  </programme>
+  <programme start="20230620190000 +0200" stop="20230620193000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Uncle Limbani: Season 3, Episode 24</title>
+    <desc lang="en-GB">&apos;S3/E24 of 26&apos;. Limbani finds himself in a love triangle when Tinashe tells him that he is going to be a father and Gertrude won&apos;t let go. To please both women, his hustle for money goes into full throttle.</desc>
+  </programme>
+  <programme start="20230620193000 +0200" stop="20230620200000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Ten Tamanga Street: Season 1, Episode 8</title>
+    <desc lang="en-GB">&apos;S1/E8 of 51&apos;. Aunty Geraldine is furious to discover that Mama Jessie is behind a campaign to kick the Ngoma Brothers out. Fundi is angry when he finds out Kafiru followed him on his date with Wamiza.</desc>
+  </programme>
+  <programme start="20230620200000 +0200" stop="20230620203000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Zuba: Season 7, Episode 37</title>
+    <desc lang="en-GB">&apos;S7/E37 of 110&apos;. Four families are inseparably linked, but struggle to coexist with one another, in their quest for riches, power, and fame.</desc>
+  </programme>
+  <programme start="20230620203000 +0200" stop="20230620213000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Mpali: Season 6, Episode 79</title>
+    <desc lang="en-GB">&apos;S6/E79 of 152&apos;. Uncle Patrick maliciously points an accusing finger at Mwanida. Shupiwe has a hidden agenda. Kuzo is in a dilemma over a failed project, meanwhile Junza puts Phil in his place.</desc>
+  </programme>
+  <programme start="20230620213000 +0200" stop="20230620220000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Makofi: Season 3, Episode 56</title>
+    <desc lang="en-GB">&apos;S3/E56 of 60&apos;. Cece takes her career into her own hands when Anna refuses to support her turning professional. Meanwhile, Moses has second thoughts about working with Gideon.</desc>
+  </programme>
+  <programme start="20230620220000 +0200" stop="20230620230500 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Shaka Ilembe: Season 1, Episode 1</title>
+    <desc lang="en-GB">&apos;S1/E1&apos;. Set in the 1700s, Shaka iLembe tells the story of the making of the iconic African king, with iterations from his early childhood through to adulthood.</desc>
+  </programme>
+  <programme start="20230620230500 +0200" stop="20230620233100 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Zuba: Season 7, Episode 37</title>
+    <desc lang="en-GB">&apos;S7/E37 of 110&apos;. Four families are inseparably linked, but struggle to coexist with one another, in their quest for riches, power, and fame.</desc>
+  </programme>
+  <programme start="20230620233100 +0200" stop="20230621002600 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Mpali: Season 6, Episode 79</title>
+    <desc lang="en-GB">&apos;S6/E79 of 152&apos;. Uncle Patrick maliciously points an accusing finger at Mwanida. Shupiwe has a hidden agenda. Kuzo is in a dilemma over a failed project, meanwhile Junza puts Phil in his place.</desc>
+  </programme>
+  <programme start="20230620000000 +0200" stop="20230620031000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Royal Blackmail: Rating: 16, Drama, 2019</title>
+    <desc lang="en-GB">A king is secretly involved with his business associate and comes face to face with a strange woman who knows him inside out and tries to blackmail him.</desc>
+  </programme>
+  <programme start="20230620031000 +0200" stop="20230620040500 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">My Kitchen Party: Season 5, Episode 1</title>
+    <desc lang="en-GB">&apos;S5/E1 of 13&apos;. Celebrating the joyous right of passage for the brides , as they pick their committees and gifts to start their new journey.</desc>
+  </programme>
+  <programme start="20230620040500 +0200" stop="20230620050000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Zed Top Ten: Season 2, Episode 5</title>
+    <desc lang="en-GB">&apos;S2/E5 of 36&apos;. ZED Top Ten is a weekly 13 part music series that countdowns Zambia&apos;s top ten music videos. Viewers participate by choosing their weekly favourates online.</desc>
+  </programme>
+  <programme start="20230620050000 +0200" stop="20230620060000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Mpali: Season 3, Episode 207</title>
+    <desc lang="en-GB">&apos;S3/E207 of 210&apos;. Jairos and his aunt decide to end the search of his father and move on. Nguzu calls for a meeting with his children, what is it about?</desc>
+  </programme>
+  <programme start="20230620060000 +0200" stop="20230620070000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Zed Top Ten: Season 1, Episode 3</title>
+    <desc lang="en-GB">&apos;S1/E3 of 13&apos;. ZED Top Ten is a weekly 13 part music series that countdowns Zambia&apos;s top ten music videos. Viewers participate by choosing their weekly favourites online.</desc>
+  </programme>
+  <programme start="20230620070000 +0200" stop="20230620080000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">My Kitchen Party: Season 1, Episode 13</title>
+    <desc lang="en-GB">&apos;S1/E13 of 13&apos;. A reality television show that narrates a bride&apos;s story capturing her experience through an authentically rich Zambian traditional bridal shower.</desc>
+  </programme>
+  <programme start="20230620080000 +0200" stop="20230620083000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Uncle Limbani: Season 1, Episode 20</title>
+    <desc lang="en-GB">&apos;S1/E20 of 26&apos;. Limbani and Tobias rescue Make Liznet when she buys expired alcohol and her customers get sick. Beatrice is almost fired after a fight with her boyfriend&apos;s wife.</desc>
+  </programme>
+  <programme start="20230620083000 +0200" stop="20230620090000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">My Family Wahala: Season 1, Episode 9</title>
+    <desc lang="en-GB">&apos;S1/E9 of 26&apos;. Daka&apos;s gambling adventure lands him in trouble. Grandma Kaleza is baffled when their tv set goes missing and miraculously reappears.</desc>
+  </programme>
+  <programme start="20230620090000 +0200" stop="20230620100000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Zed Top Ten: Season 1, Episode 4</title>
+    <desc lang="en-GB">&apos;S1/E4 of 13&apos;. ZED Top Ten is a weekly 13 part music series that countdowns Zambia&apos;s top ten music videos. Viewers participate by choosing their weekly favourites online.</desc>
+  </programme>
+  <programme start="20230620100000 +0200" stop="20230620103000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Tizibika: Season 1, Episode 1</title>
+    <desc lang="en-GB">&apos;S1/E1 of 13&apos;. Wezi &apos;accidentally&apos; leaked her sex tape and Thandie is looking for a new man.</desc>
+  </programme>
+  <programme start="20230620103000 +0200" stop="20230620113000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Mpali: Season 3, Episode 207</title>
+    <desc lang="en-GB">&apos;S3/E207 of 210&apos;. Jairos and his aunt decide to end the search of his father and move on. Nguzu calls for a meeting with his children, what is it about?</desc>
+  </programme>
+  <programme start="20230620113000 +0200" stop="20230620120000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Zuba: Season 5, Episode 167</title>
+    <desc lang="en-GB">&apos;S5/E167 of 260&apos;. Phingiwe pledges support for Zuba&apos;s marriage to Niko in Thando&apos;s presence. Thando fails to transcend the finality of losing Zuba to Niko.</desc>
+  </programme>
+  <programme start="20230620120000 +0200" stop="20230620150500 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Royal Battle: Rating: 16, Romantic Drama, 2021</title>
+    <desc lang="en-GB">Two people are passionately in love with each other but the powers that be want to stop them. Will they succeed?</desc>
+  </programme>
+  <programme start="20230620150500 +0200" stop="20230620153500 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Tizibika: Season 1, Episode 1</title>
+    <desc lang="en-GB">&apos;S1/E1 of 13&apos;. Wezi &apos;accidentally&apos; leaked her sex tape and Thandie is looking for a new man.</desc>
+  </programme>
+  <programme start="20230620153500 +0200" stop="20230620163500 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Mpali: Season 3, Episode 207</title>
+    <desc lang="en-GB">&apos;S3/E207 of 210&apos;. Jairos and his aunt decide to end the search of his father and move on. Nguzu calls for a meeting with his children, what is it about?</desc>
+  </programme>
+  <programme start="20230620163500 +0200" stop="20230620170500 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Zuba: Season 5, Episode 167</title>
+    <desc lang="en-GB">&apos;S5/E167 of 260&apos;. Phingiwe pledges support for Zuba&apos;s marriage to Niko in Thando&apos;s presence. Thando fails to transcend the finality of losing Zuba to Niko.</desc>
+  </programme>
+  <programme start="20230620170500 +0200" stop="20230620173500 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">My Family Wahala: Season 1, Episode 9</title>
+    <desc lang="en-GB">&apos;S1/E9 of 26&apos;. Daka&apos;s gambling adventure lands him in trouble. Grandma Kaleza is baffled when their tv set goes missing and miraculously reappears.</desc>
+  </programme>
+  <programme start="20230620173500 +0200" stop="20230620180500 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Uncle Limbani: Season 1, Episode 20</title>
+    <desc lang="en-GB">&apos;S1/E20 of 26&apos;. Limbani and Tobias rescue Make Liznet when she buys expired alcohol and her customers get sick. Beatrice is almost fired after a fight with her boyfriend&apos;s wife.</desc>
+  </programme>
+  <programme start="20230620180500 +0200" stop="20230620190000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Ngoma Zathu: Our Rhythm: Season 1, Episode 8</title>
+    <desc lang="en-GB">&apos;S1/E8 of 52&apos;. This is a weekly general Zambian music video show. We showcase fresh and hot Zambian music videos and the play list get refreshed weekly.</desc>
+  </programme>
+  <programme start="20230620190000 +0200" stop="20230620193000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Bogade: A Crazy House: Season 1, Episode 2</title>
+    <desc lang="en-GB">&apos;S1/E2 of 13&apos;. The fight for the TV is on, Mwansa decides to turn on everything in the house so that she can finish the electric power.</desc>
+  </programme>
+  <programme start="20230620193000 +0200" stop="20230620200000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Dorika: Season 3, Episode 4</title>
+    <desc lang="en-GB">&apos;S3/E4 of 26&apos;. Dorika is a high rolling social lite who has established herself as a woman of influence in the suburbs of Kitwe. We catch up with her new philosophies and mannerisms</desc>
+  </programme>
+  <programme start="20230620200000 +0200" stop="20230620203000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Zuba: Season 5, Episode 168</title>
+    <desc lang="en-GB">&apos;S5/E168 of 260&apos;. Thando&apos;s painful reaction to the news of the Niko/Zuba wedding takes center stage as word even reaches Maluba Village.</desc>
+  </programme>
+  <programme start="20230620203000 +0200" stop="20230620213000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Mpali: Season 3, Episode 208</title>
+    <desc lang="en-GB">&apos;S3/E208 of 210&apos;. As Mwiza&apos;s dark secrets begin to haunt her, this leads to her arguing with Zondani. The workers decide to take matters into their hands in order to get back at Nguzu.</desc>
+  </programme>
+  <programme start="20230620213000 +0200" stop="20230620220000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Tizibika: Season 1, Episode 2</title>
+    <desc lang="en-GB">&apos;S1/E2 of 13&apos;. Wezi is bailed out of jail by a mystery man and Thandie forces herself on to the Cool Beatz team that are presenting at the Zambia Radio Forum.</desc>
+  </programme>
+  <programme start="20230620220000 +0200" stop="20230620223000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">My Family Wahala: Season 1, Episode 9</title>
+    <desc lang="en-GB">&apos;S1/E9 of 26&apos;. Daka&apos;s gambling adventure lands him in trouble. Grandma Kaleza is baffled when their tv set goes missing and miraculously reappears.</desc>
+  </programme>
+  <programme start="20230620223000 +0200" stop="20230620230000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Uncle Limbani: Season 1, Episode 20</title>
+    <desc lang="en-GB">&apos;S1/E20 of 26&apos;. Limbani and Tobias rescue Make Liznet when she buys expired alcohol and her customers get sick. Beatrice is almost fired after a fight with her boyfriend&apos;s wife.</desc>
+  </programme>
+  <programme start="20230620230000 +0200" stop="20230621000000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Mpali: Season 3, Episode 208</title>
+    <desc lang="en-GB">&apos;S3/E208 of 210&apos;. As Mwiza&apos;s dark secrets begin to haunt her, this leads to her arguing with Zondani. The workers decide to take matters into their hands in order to get back at Nguzu.</desc>
+  </programme>
+  <programme start="20230621000000 +0200" stop="20230621031000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">My Trouble Son: Rating: 16, Drama, 2020</title>
+    <desc lang="en-GB">Njo&apos;s choice of wife threw his family and the entire community into a dilemma while Oba atrocities in the village backfired.</desc>
+  </programme>
+  <programme start="20230620005500 +0200" stop="20230620013000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">The River: Season 6, Episode 96</title>
+    <desc lang="en-GB">&apos;S6/E96&apos;. Andile finds himself falling deeper and deeper into a rabbit hole. Nkanyiso&apos;s plans take an unexpected turn.</desc>
+  </programme>
+  <programme start="20230620013000 +0200" stop="20230620020000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">1802: Love Defies Time: Season 1, Episode 22</title>
+    <desc lang="en-GB">&apos;S1/E22&apos;. Longamo receives an unexpected reaction after murdering Zanemwula. Nkosazana goes to Khosi&apos;s father&apos;s family to get answers. Khosi and Melisizwe share a passionate kiss.</desc>
+  </programme>
+  <programme start="20230620020000 +0200" stop="20230620033000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">1Magic: Hits: Season 3, Episode 17</title>
+    <desc lang="en-GB">&apos;S3/E17&apos;. Catch the best in local and international music hits.</desc>
+  </programme>
+  <programme start="20230620033000 +0200" stop="20230620050000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">1Magic: Hits: Season 3, Episode 18</title>
+    <desc lang="en-GB">&apos;S3/E18&apos;. Catch the best in local and international music hits.</desc>
+  </programme>
+  <programme start="20230620050000 +0200" stop="20230620060000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">The Talk: Season 13, Episode 145</title>
+    <desc lang="en-GB">&apos;S13/E145&apos;. Celebrity hosts discuss entertainment, politics and current events.</desc>
+  </programme>
+  <programme start="20230620060000 +0200" stop="20230620073000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">1Magic: Hits: Season 3, Episode 12</title>
+    <desc lang="en-GB">&apos;S3/E12&apos;. Catch the best in local and international music hits.</desc>
+  </programme>
+  <programme start="20230620073000 +0200" stop="20230620080000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">The River: Season 6, Episode 96</title>
+    <desc lang="en-GB">&apos;S6/E96&apos;. Andile finds himself falling deeper and deeper into a rabbit hole. Nkanyiso&apos;s plans take an unexpected turn.</desc>
+  </programme>
+  <programme start="20230620080000 +0200" stop="20230620083000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">Please Step In: Season 3, Episode 4</title>
+    <desc lang="en-GB">&apos;S3/E4&apos;. Relationships counsellor, Angie Diale, assists in staging an intervention in situations where a participant&apos;s family is struggling with a personal problem.</desc>
+  </programme>
+  <programme start="20230620083000 +0200" stop="20230620090000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">Please Step In: Season 3, Episode 5</title>
+    <desc lang="en-GB">&apos;S3/E5&apos;. Relationships counsellor, Angie Diale, assists in staging an intervention in situations where a participant&apos;s family is struggling with a personal problem.</desc>
+  </programme>
+  <programme start="20230620090000 +0200" stop="20230620100000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">Basketball Wives LA: Season 10, Episode 23</title>
+    <desc lang="en-GB">&apos;S10/E23&apos;. Brittish hires a new attorney in hopes of losing her monitor. Jackie and Jennifer&apos;s feud threatens to boil over at Duffy&apos;s re-engagement party.</desc>
+  </programme>
+  <programme start="20230620100000 +0200" stop="20230620103000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">1802: Love Defies Time: Season 1, Episode 22</title>
+    <desc lang="en-GB">&apos;S1/E22&apos;. Longamo receives an unexpected reaction after murdering Zanemwula. Nkosazana goes to Khosi&apos;s father&apos;s family to get answers. Khosi and Melisizwe share a passionate kiss.</desc>
+  </programme>
+  <programme start="20230620103000 +0200" stop="20230620110000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">The River: Season 6, Episode 96</title>
+    <desc lang="en-GB">&apos;S6/E96&apos;. Andile finds himself falling deeper and deeper into a rabbit hole. Nkanyiso&apos;s plans take an unexpected turn.</desc>
+  </programme>
+  <programme start="20230620110000 +0200" stop="20230620120000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">The Real Housewives Of Durban: Season 2, Episode 13</title>
+    <desc lang="en-GB">&apos;S2/E13&apos;. Durban&apos;s beautiful queens of Real housewives meet up for part 1 of the Reunion with the handsome Donovan Goliath as host.</desc>
+  </programme>
+  <programme start="20230620120000 +0200" stop="20230620123000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">1Magic: Zone In: Season 2, Episode 11</title>
+    <desc lang="en-GB">&apos;S2/E11&apos;. Zone In showcases the freshest local and international stars and music genres.</desc>
+  </programme>
+  <programme start="20230620123000 +0200" stop="20230620130000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">1Magic: Zone In: Season 2, Episode 13</title>
+    <desc lang="en-GB">&apos;S2/E13&apos;. Zone In showcases the freshest local and international stars and music genres.</desc>
+  </programme>
+  <programme start="20230620130000 +0200" stop="20230620140000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">Basketball Wives LA: Season 10, Episode 23</title>
+    <desc lang="en-GB">&apos;S10/E23&apos;. Brittish hires a new attorney in hopes of losing her monitor. Jackie and Jennifer&apos;s feud threatens to boil over at Duffy&apos;s re-engagement party.</desc>
+  </programme>
+  <programme start="20230620140000 +0200" stop="20230620143000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">1802: Love Defies Time: Season 1, Episode 22</title>
+    <desc lang="en-GB">&apos;S1/E22&apos;. Longamo receives an unexpected reaction after murdering Zanemwula. Nkosazana goes to Khosi&apos;s father&apos;s family to get answers. Khosi and Melisizwe share a passionate kiss.</desc>
+  </programme>
+  <programme start="20230620143000 +0200" stop="20230620153000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">The Talk: Season 13, Episode 145</title>
+    <desc lang="en-GB">&apos;S13/E145&apos;. Celebrity hosts discuss entertainment, politics and current events.</desc>
+  </programme>
+  <programme start="20230620153000 +0200" stop="20230620160000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">The River: Season 6, Episode 96</title>
+    <desc lang="en-GB">&apos;S6/E96&apos;. Andile finds himself falling deeper and deeper into a rabbit hole. Nkanyiso&apos;s plans take an unexpected turn.</desc>
+  </programme>
+  <programme start="20230620160000 +0200" stop="20230620170000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">The Real Housewives Of Durban: Season 2, Episode 14</title>
+    <desc lang="en-GB">&apos;S2/E14&apos;. Nonku takes on Londie for pushing her drinking narrative in part two of the reunion. Will this group of women survive the shake-up tonight or is this the end of some friendships?</desc>
+  </programme>
+  <programme start="20230620170000 +0200" stop="20230620173000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">Mnakwethu: Season 3, Episode 2</title>
+    <desc lang="en-GB">&apos;S3/E2&apos;. Masuku asks Mr. Mseleku to assist him to ask his sangoma wife to permit him to take another wife because of the restrictions that come with her calling.</desc>
+  </programme>
+  <programme start="20230620173000 +0200" stop="20230620180000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">Mnakwethu: Season 3, Episode 3</title>
+    <desc lang="en-GB">&apos;S3/E3&apos;. Xaba&apos;s wife breaks down just at the sight of Mr. Mseleku walking in with her husband because she knows what they are here for.</desc>
+  </programme>
+  <programme start="20230620180000 +0200" stop="20230620190000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">The Talk: Season 13, Episode 146</title>
+    <desc lang="en-GB">&apos;S13/E146&apos;. Celebrity hosts discuss entertainment, politics and current events.</desc>
+  </programme>
+  <programme start="20230620190000 +0200" stop="20230620200000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">Basketball Wives LA: Season 10, Episode 24</title>
+    <desc lang="en-GB">&apos;S10/E24&apos;. The ladies take a day cruise. Duffey arranges a group therapy session. Angel deliberates joining the group in Mexico, and Brooke deals with conflicting emotions over ending her marriage.</desc>
+  </programme>
+  <programme start="20230620200000 +0200" stop="20230620203000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">The River: Season 6, Episode 97</title>
+    <desc lang="en-GB">&apos;S6/E97&apos;. Lindiwe is sidelined as the new person in Andile&apos;s life sinks their claws deeper into him. Ndumiso finds other ways to get to Bonolo. Nkanyiso finds himself languishing in a heartbreak hotel.</desc>
+  </programme>
+  <programme start="20230620203000 +0200" stop="20230620210000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">1802: Love Defies Time: Season 1, Episode 23</title>
+    <desc lang="en-GB">&apos;S1/E23&apos;. Kumkani Jonginamba is conflicted when his dream reveals who should be the next king. Nkosazana discovers Lukhanyo&apos;s whereabouts and receives shocking news from MaXhanti.</desc>
+  </programme>
+  <programme start="20230620210000 +0200" stop="20230620220000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">Bel-Air: Season 1, Episode 8</title>
+    <desc lang="en-GB">&apos;S1/E8 - No One Wins When The Family Feuds&apos;. As the Banks family celebrates Will&apos;s birthday, his mum comes to visit, causing unexpected tension. The adults consider whether it&apos;s time to tell Will about his father.</desc>
+  </programme>
+  <programme start="20230620220000 +0200" stop="20230620231000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">Blood Psalms: Season 1, Episode 2</title>
+    <desc lang="en-GB">&apos;S1/E2&apos;. Upon Zazi&apos;s 18th birthday, the tribes of the realm begin to gather for the wedding of King Letsha to an Uchawi princess. He learns that to save himself and his throne, he must sacrifice his daughter.</desc>
+  </programme>
+  <programme start="20230620231000 +0200" stop="20230621000100 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">American Gigolo: Season 1, Episode 2</title>
+    <desc lang="en-GB">&apos;S1/E2 - Pretty Baby&apos;. Julian&apos;s attempts to break free and start a new life of honest means is sabotaged when his old madam delivers a cryptic message about a young girl&apos;s suicide.</desc>
+  </programme>
+  <programme start="20230620000200 +0200" stop="20230620013300 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">A Family Affair: Rating: PG13, Comedy, 2014</title>
+    <desc lang="en-GB">A young couple decides to take their parents on holiday so they may get to know one another. Things start getting tricky when the subject of marriage is brought up.</desc>
+  </programme>
+  <programme start="20230620013300 +0200" stop="20230620030200 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Mashonisa, The Dragon: Rating: PG13, Comedy, 2013</title>
+    <desc lang="en-GB">A cruel 50-year-old mashonisa forces everyone to take part in making his childhood dream come true - starring in his very own Bruce Lee inspired action movie.</desc>
+  </programme>
+  <programme start="20230620030200 +0200" stop="20230620043200 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">An Honest Living: Rating: PG13, Drama, 2013</title>
+    <desc lang="en-GB">A man, desperate to keep a promise to his son, meets a woman who entices him with the possibility to do just that. Until she reveals what she wants in return.</desc>
+  </programme>
+  <programme start="20230620043200 +0200" stop="20230620060000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Lokshin Bioskop: Play The Playa: Rating: PG, Drama, 2013</title>
+    <desc lang="en-GB">A wannabe player&apos;s luck runs out when the two girls he&apos;s dating find out about each other. Instead of dumping him, they decide to teach him a lesson.</desc>
+  </programme>
+  <programme start="20230620060000 +0200" stop="20230620070000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">The Talk: Season 13, Episode 120</title>
+    <desc lang="en-GB">&apos;S13/E120 of 205 - Mark Strong&apos;. Celebrity hosts discuss entertainment, politics and current events.</desc>
+  </programme>
+  <programme start="20230620070000 +0200" stop="20230620080000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">The Talk: Season 13, Episode 121</title>
+    <desc lang="en-GB">&apos;S13/E121 of 205&apos;. Celebrity hosts discuss entertainment, politics and current events.</desc>
+  </programme>
+  <programme start="20230620080000 +0200" stop="20230620093100 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Lokshin Bioskop: 10 Steps To Make...: Rating: PG13, Romance, 2014</title>
+    <desc lang="en-GB">Desperate for a ring, a young woman turns to a magazine article to get her boyfriend of seven years to go down on one knee.</desc>
+  </programme>
+  <programme start="20230620093100 +0200" stop="20230620100100 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Umkhokha: The Curse: Season 1, Episode 76</title>
+    <desc lang="en-GB">&apos;S1/E76 of 150&apos;. MaNzimande is hurt when the last person she expected takes a knee before the new king. Nokubonga shares gossip with Nobuntu about Mlungisi. MaMzobe learns the news that shatters her heart.</desc>
+  </programme>
+  <programme start="20230620100100 +0200" stop="20230620103200 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Gqeberha: The Empire: Season 1, Episode 111</title>
+    <desc lang="en-GB">&apos;S1/E111 of 185&apos;. Thulani gains relief from getting answers, but the pressure on Anathi doesn&apos;t ease. Msimelelo&apos;s bold move triggers a boiling point in his war with Funeka.</desc>
+  </programme>
+  <programme start="20230620103200 +0200" stop="20230620110200 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Gomora: Season 4, Episode 41</title>
+    <desc lang="en-GB">&apos;S4/E41 of 115&apos;. Stompie sets up the kidnapping. Teddy&apos;s pre-recorded love message to Tshiamo.</desc>
+  </programme>
+  <programme start="20230620110200 +0200" stop="20230620120000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Dr Phil: Season 21, Episode 117</title>
+    <desc lang="en-GB">&apos;S21/E117 of 175&apos;. Phil McGraw is a life strategist who offers advice on a wide range of topics, including marital, financial and self-image issues.</desc>
+  </programme>
+  <programme start="20230620120000 +0200" stop="20230620123000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">The River: Season 4, Episode 191</title>
+    <desc lang="en-GB">&apos;S4/E191 of 260&apos;. Angelina feels something doesn&apos;t add up with Kedibone&apos;s story. Detective Tshabalala dirty laundry spills over into the Dikanas&apos; lives.</desc>
+  </programme>
+  <programme start="20230620123000 +0200" stop="20230620130000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Umkhokha: The Curse: Season 1, Episode 76</title>
+    <desc lang="en-GB">&apos;S1/E76 of 150&apos;. MaNzimande is hurt when the last person she expected takes a knee before the new king. Nokubonga shares gossip with Nobuntu about Mlungisi. MaMzobe learns the news that shatters her heart.</desc>
+  </programme>
+  <programme start="20230620130000 +0200" stop="20230620133100 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Gqeberha: The Empire: Season 1, Episode 111</title>
+    <desc lang="en-GB">&apos;S1/E111 of 185&apos;. Thulani gains relief from getting answers, but the pressure on Anathi doesn&apos;t ease. Msimelelo&apos;s bold move triggers a boiling point in his war with Funeka.</desc>
+  </programme>
+  <programme start="20230620133100 +0200" stop="20230620140000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Gomora: Season 4, Episode 41</title>
+    <desc lang="en-GB">&apos;S4/E41 of 115&apos;. Stompie sets up the kidnapping. Teddy&apos;s pre-recorded love message to Tshiamo.</desc>
+  </programme>
+  <programme start="20230620140000 +0200" stop="20230620153000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Izintombi Zodwa: Rating: PG13, Drama, 2013</title>
+    <desc lang="en-GB">A conservative girl is the leader of a group of girls who vowed to stay celibate and focus on their school work. Things change when she falls in love with a boy.</desc>
+  </programme>
+  <programme start="20230620153000 +0200" stop="20230620160100 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Mzansi Magic Music Specials: Season 3, Episode 4</title>
+    <desc lang="en-GB">&apos;S3/E4 of 10 - Zonke&apos;. Afrosoul singer and songwriter, Zonke, bares her soul in this intimate interview with Bob Mabena. They talk music, loss and all the things that make her heart smile.</desc>
+  </programme>
+  <programme start="20230620160100 +0200" stop="20230620170000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Mapetla: Rating: 13, Drama, 2017</title>
+    <desc lang="en-GB">Three girls find themselves faced with the hardship of township life. It seems their only way out of this life is through promiscuity.</desc>
+  </programme>
+  <programme start="20230620170000 +0200" stop="20230620180000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">The Talk: Season 13, Episode 122</title>
+    <desc lang="en-GB">&apos;S13/E122 of 205&apos;. Celebrity hosts discuss entertainment, politics and current events.</desc>
+  </programme>
+  <programme start="20230620180000 +0200" stop="20230620190000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Date My Family: Season 11, Episode 10</title>
+    <desc lang="en-GB">&apos;S11/E10 of 13&apos;. Wendy-Moira Mashile from Vereeniging is a single woman looking for love. She wants someone who understands the difference between spirituality and religion and can share her life with.</desc>
+  </programme>
+  <programme start="20230620190000 +0200" stop="20230620193000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">The River: Season 4, Episode 192</title>
+    <desc lang="en-GB">&apos;S4/E192 of 260&apos;. The Dikanas find themselves with their hands full with an uninvited guest. Cobra declares war on one of his own.</desc>
+  </programme>
+  <programme start="20230620193000 +0200" stop="20230620200000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Gomora: Season 4, Episode 42</title>
+    <desc lang="en-GB">&apos;S4/E42 of 115&apos;. DJ Ora rocks Stompie&apos;s world when she takes a turn for the worst. Letsatsi manages to steal Tshiamo&apos;s heart.</desc>
+  </programme>
+  <programme start="20230620200000 +0200" stop="20230620203200 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">I Blew It: Season 5, Episode 13</title>
+    <desc lang="en-GB">&apos;S5/E13 of 13&apos;. Bongani, son of famous musician Brenda Fassie, was caught in a web of partying, alcohol and drugs, which led him to be irresponsible about handling his mother&apos;s estate and his own music career.</desc>
+  </programme>
+  <programme start="20230620203200 +0200" stop="20230620210200 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Umkhokha: The Curse: Season 1, Episode 77</title>
+    <desc lang="en-GB">&apos;S1/E77 of 150&apos;. MaMzobe&apos;s troubles escalate as Mlungisi and Sibusiso make changes in the church. MaNzimande eats before Siphamandla and refuses anyone to bow to him anymore.</desc>
+  </programme>
+  <programme start="20230620210200 +0200" stop="20230620213100 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Gqeberha: The Empire: Season 1, Episode 112</title>
+    <desc lang="en-GB">&apos;S1/E112 of 185&apos;. Nozuko feels like Anathi is living her life. Nozuko decides to see Ixhwele for a solution to help her fall pregnant. Bulelwa&apos;s brother arrives with his wife and sparks a fly.</desc>
+  </programme>
+  <programme start="20230620213100 +0200" stop="20230620220100 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">The Bala Family: Season 1, Episode 9</title>
+    <desc lang="en-GB">&apos;S1/E9 of 13&apos;. The Bala siblings want to understand where they stand with their mother since her marriage to Bab&apos; Jafta. Will he be leading the family? Jen believes the elders should be allowed space to enjoy their union.</desc>
+  </programme>
+  <programme start="20230620220100 +0200" stop="20230620230000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Uk&apos;Phandela Uthando: Rating: 13, Drama, 2018</title>
+    <desc lang="en-GB">A homeless couple only has each other and find themselves having to choose between money or entering a competition that could change their lives forever.</desc>
+  </programme>
+  <programme start="20230620230000 +0200" stop="20230621000000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">The Talk: Season 13, Episode 122</title>
+    <desc lang="en-GB">&apos;S13/E122 of 205&apos;. Celebrity hosts discuss entertainment, politics and current events.</desc>
+  </programme>
+  <programme start="20230621000000 +0200" stop="20230621013000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Ingoma: Rating: PG13, Drama, 2014</title>
+    <desc lang="en-GB">A young man lost his mother at the tender age of five and never knew his father. His life starts to change when he meets three exciting characters.</desc>
+  </programme>
+  <programme start="20230620000000 +0200" stop="20230620013000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Finding Mr Right: Rating: 13, Drama, 2014</title>
+    <desc lang="en-GB">When a politician is offered the ambassador job, he believes that it&apos;s time to start afresh. However, that includes getting rid of his supportive wife.</desc>
+  </programme>
+  <programme start="20230620013000 +0200" stop="20230620030000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">The Boy Is Mine: Rating: PG13, Drama, 2014</title>
+    <desc lang="en-GB">A friendship is put to the test when two friends discover they are both dating the same man.</desc>
+  </programme>
+  <programme start="20230620030000 +0200" stop="20230620040000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Gospel 10 At 10: Season 1, Episode 21</title>
+    <desc lang="en-GB">&apos;S1/E21&apos;. We bring you a count down of your favorite top ten gospel hits. Only on Mzansi Wethu.</desc>
+  </programme>
+  <programme start="20230620040000 +0200" stop="20230620050000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Gospel 10 At 10: Season 1, Episode 22</title>
+    <desc lang="en-GB">&apos;S1/E22&apos;. We bring you a count down of your favorite top ten gospel hits. Only on Mzansi Wethu.</desc>
+  </programme>
+  <programme start="20230620050000 +0200" stop="20230620060000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">My Top 10: My Life In Music: Season 1, Episode 19</title>
+    <desc lang="en-GB">&apos;S1/E19&apos;. Hosted by Thabo Mokwele and filmed entirely in a radio studio, inspirational people tell their life stories, set against the background of and influenced by music.</desc>
+  </programme>
+  <programme start="20230620060000 +0200" stop="20230620061500 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Tjiff En Tjaff: Speeltyd: Season 1, Episode 14</title>
+    <desc lang="en-GB">&apos;S1/E14&apos;. The lively animal kingdom twins, Tjiff and Tjaff, are very inquisitive! They can&apos;t wait to play outside each day. But what can they do outside? Come and play with Tjiff and Tjaff.</desc>
+  </programme>
+  <programme start="20230620061500 +0200" stop="20230620063000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Trixi: Season 1, Episode 6</title>
+    <desc lang="en-GB">&apos;S1/E6&apos;. Trixi plays on the computer to learn more about wild animals and plants.</desc>
+  </programme>
+  <programme start="20230620063000 +0200" stop="20230620064400 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Rat-Tat-Tat: Season 1, Episode 14</title>
+    <desc lang="en-GB">&apos;S1/E14&apos;. The clever antelope and skunk are travelling through the country. They discover all sorts of interesting places and meet a lot of friends along the way.</desc>
+  </programme>
+  <programme start="20230620064400 +0200" stop="20230620065900 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Tjiff En Tjaff: Speeltyd: Season 2, Episode 33</title>
+    <desc lang="en-GB">&apos;S2/E33&apos;. The lively animal kingdom twins, Tjiff and Tjaff, are very inquisitive! They can&apos;t wait to play outside each day. But what can they do outside? Come and play with Tjiff and Tjaff.</desc>
+  </programme>
+  <programme start="20230620065900 +0200" stop="20230620071400 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Zim Zim: Season 1, Episode 28</title>
+    <desc lang="en-GB">&apos;S1/E28&apos;. Zim Zim is an ordinary six-year-old boy who shrinks when he makes a mistake. He goes to a secret place where he learns not to make the same mistake again.</desc>
+  </programme>
+  <programme start="20230620071400 +0200" stop="20230620073000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Froggies: Season 1, Episode 3</title>
+    <desc lang="en-GB">&apos;S1/E3&apos;. Auntie Hop the frog tells stories that make you sit up and listen. Her chatty little frog companions can&apos;t get enough of her stories about the African animal kingdom.</desc>
+  </programme>
+  <programme start="20230620073000 +0200" stop="20230620074400 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Dee Dee &amp; Spike: Season 1, Episode 21</title>
+    <desc lang="en-GB">&apos;S1/E21&apos;. Dee Dee and Spike, the children&apos;s dance series: Each episode takes you to a fun place and teaches children playful dance moves, whilst building on their vocabulary.</desc>
+  </programme>
+  <programme start="20230620074400 +0200" stop="20230620075900 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Rat-Tat-Tat: Season 1, Episode 5</title>
+    <desc lang="en-GB">&apos;S1/E5&apos;. The clever antelope and skunk are travelling through the country. They discover all sorts of interesting places and meet a lot of friends along the way.</desc>
+  </programme>
+  <programme start="20230620075900 +0200" stop="20230620081500 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Tjiff En Tjaff: Speeltyd: Season 2, Episode 29</title>
+    <desc lang="en-GB">&apos;S2/E29&apos;. The lively animal kingdom twins, Tjiff and Tjaff, are very inquisitive! They can&apos;t wait to play outside each day. But what can they do outside? Come and play with Tjiff and Tjaff.</desc>
+  </programme>
+  <programme start="20230620081500 +0200" stop="20230620082900 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Trixi: Season 1, Episode 3</title>
+    <desc lang="en-GB">&apos;S1/E3&apos;. Trixi plays on the computer to learn more about wild animals and plants.</desc>
+  </programme>
+  <programme start="20230620082900 +0200" stop="20230620084400 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Lappies: Season 1, Episode 48</title>
+    <desc lang="en-GB">&apos;S1/E48&apos;. Lappies the lion is the prince of the bushveld and heir to the throne because his dad is the king. Lappies learns, plays and experiences as many adventures everyday with his friends.</desc>
+  </programme>
+  <programme start="20230620084400 +0200" stop="20230620090000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Dee Dee &amp; Spike: Season 1, Episode 47</title>
+    <desc lang="en-GB">&apos;S1/E47&apos;. Dee Dee and Spike, the children&apos;s dance series: Each episode takes you to a fun place and teaches children playful dance moves, whilst building on their vocabulary.</desc>
+  </programme>
+  <programme start="20230620090000 +0200" stop="20230620100000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">My Top 10: My Life In Music: Season 1, Episode 20</title>
+    <desc lang="en-GB">&apos;S1/E20&apos;. Hosted by Thabo Mokwele and filmed entirely in a radio studio, inspirational people tell their life stories, set against the background of and influenced by music.</desc>
+  </programme>
+  <programme start="20230620100000 +0200" stop="20230620103000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Greed And Desire: Season 1, Episode </title>
+    <desc lang="en-GB">&apos;S1 - Pressure Of Lies&apos;. Tselane persuades a reluctant doctor to discharge Maru, even though he&apos;s still terribly wounded. Mapule thinks she&apos;s found a new best friend.</desc>
+  </programme>
+  <programme start="20230620103000 +0200" stop="20230620110000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Gomora: Season 2, Episode 191</title>
+    <desc lang="en-GB">&apos;S2/E191&apos;. Thathi announced her engagement to Phumlani but not everyone is happy. Ntokozo questions Mazet&apos;s friendship with Phumlani.</desc>
+  </programme>
+  <programme start="20230620110000 +0200" stop="20230620113000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Lingashoni: Season 2, Episode 29</title>
+    <desc lang="en-GB">&apos;S2/E29&apos;. Puleng exposes Seipati of being the one who tried to kill her. Sarah learns it was Robert who threw her under the bus. Brenda and Puleng come face to face, and it is fireworks.</desc>
+  </programme>
+  <programme start="20230620113000 +0200" stop="20230620120000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">The Queen: Season 6, Episode 16</title>
+    <desc lang="en-GB">&apos;S6/E16&apos;. Just when Vuyiswa and Georgina think they have reached a dead end, a new lead appears.</desc>
+  </programme>
+  <programme start="20230620120000 +0200" stop="20230620123000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">The River: Season 2, Episode 251</title>
+    <desc lang="en-GB">&apos;S2/E251 - Always A Suspect&apos;. Lindani gets caught in his own web of lies and Lindiwe will stop at nothing to get her precious diamonds back.</desc>
+  </programme>
+  <programme start="20230620123000 +0200" stop="20230620130000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Greed And Desire: Season 1, Episode </title>
+    <desc lang="en-GB">&apos;S1 - Pressure Of Lies&apos;. Tselane persuades a reluctant doctor to discharge Maru, even though he&apos;s still terribly wounded. Mapule thinks she&apos;s found a new best friend.</desc>
+  </programme>
+  <programme start="20230620130000 +0200" stop="20230620140000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Umsasazi: Rating: 13, Drama, 2020</title>
+    <desc lang="en-GB">Two women&apos;s lives are brought together by death and an uncomfortable family secret. When they discover that they share a passion for radio, they go on a journey of healing and forgiveness.</desc>
+  </programme>
+  <programme start="20230620140000 +0200" stop="20230620143000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Gomora: Season 2, Episode 191</title>
+    <desc lang="en-GB">&apos;S2/E191&apos;. Thathi announced her engagement to Phumlani but not everyone is happy. Ntokozo questions Mazet&apos;s friendship with Phumlani.</desc>
+  </programme>
+  <programme start="20230620143000 +0200" stop="20230620150000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Lingashoni: Season 2, Episode 29</title>
+    <desc lang="en-GB">&apos;S2/E29&apos;. Puleng exposes Seipati of being the one who tried to kill her. Sarah learns it was Robert who threw her under the bus. Brenda and Puleng come face to face, and it is fireworks.</desc>
+  </programme>
+  <programme start="20230620150000 +0200" stop="20230620153000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">The Queen: Season 6, Episode 16</title>
+    <desc lang="en-GB">&apos;S6/E16&apos;. Just when Vuyiswa and Georgina think they have reached a dead end, a new lead appears.</desc>
+  </programme>
+  <programme start="20230620153000 +0200" stop="20230620160000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">The River: Season 2, Episode 251</title>
+    <desc lang="en-GB">&apos;S2/E251 - Always A Suspect&apos;. Lindani gets caught in his own web of lies and Lindiwe will stop at nothing to get her precious diamonds back.</desc>
+  </programme>
+  <programme start="20230620160000 +0200" stop="20230620170000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Themba Lam: Rating: 13, Drama, 2018</title>
+    <desc lang="en-GB">After landing a high paying commercial, a man pays for his lover&apos;s studies. Two years later, the roles are reversed and the man is now an unemployed actor.</desc>
+  </programme>
+  <programme start="20230620170000 +0200" stop="20230620175800 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Nnake: Rating: 13, Drama, 2020</title>
+    <desc lang="en-GB">Returning home from university, Lesego attends a street party with her sister. Koketso realises that the fun may have gone too far when she discovers that her sister is missing.</desc>
+  </programme>
+  <programme start="20230620175800 +0200" stop="20230620182800 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Ingane Yam: Season 3, Episode 10</title>
+    <desc lang="en-GB">&apos;S3/E10&apos;. Charlie Mothibedi wants to tell his partner about his 8-year-old daughter that he is co-parenting with another woman.</desc>
+  </programme>
+  <programme start="20230620182800 +0200" stop="20230620190000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Mzansi Cribs Makeover: Season 2, Episode 11</title>
+    <desc lang="en-GB">&apos;S2/E11&apos;. Nonkuleleko lost her father when she was young and she&apos;s called on the team to help update her grandfather&apos;s kitchen in order to say thank you to him for helping raise her.</desc>
+  </programme>
+  <programme start="20230620190000 +0200" stop="20230620193000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">News On Wethu: Season 1, Episode 114</title>
+    <desc lang="en-GB">&apos;S1/E114&apos;. The daily news bulletin covering the latest breaking news locally and internationally. Presented in IsiZulu and IsiXhosa, we bring you a new era of current and reliable news coverage.</desc>
+  </programme>
+  <programme start="20230620193000 +0200" stop="20230620200000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Gomora: Season 2, Episode 192</title>
+    <desc lang="en-GB">&apos;S2/E192&apos;. Melusi reveals to Phumlani he had Thathi first. Zodwa empties her cupboards to starve Teddy and Sibongile.</desc>
+  </programme>
+  <programme start="20230620200000 +0200" stop="20230620203000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">The River: Season 2, Episode 251</title>
+    <desc lang="en-GB">&apos;S2/E251 - Always A Suspect&apos;. Lindani prays that Charlie will keep his secret, while the stakes have just increased, putting Charlie under pressure.</desc>
+  </programme>
+  <programme start="20230620203000 +0200" stop="20230620210000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Lingashoni: Season 2, Episode 30</title>
+    <desc lang="en-GB">&apos;S2/E30&apos;. Seipati expects Mandla to sign the marriage contract. Robert tries his best to make things right with Sarah. Poppy discovers an intimate secret between Brenda and an admirer.</desc>
+  </programme>
+  <programme start="20230620210000 +0200" stop="20230620213000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">The Queen: Season 6, Episode 17</title>
+    <desc lang="en-GB">&apos;S6/E17&apos;. Hector and Thando corner Vuyiswa&apos;s witness.</desc>
+  </programme>
+  <programme start="20230620213000 +0200" stop="20230620220400 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">The Wife: Behind The Veil: Season 1, Episode 2</title>
+    <desc lang="en-GB">&apos;S1/E2&apos;. Follow the journey from concept to execution, and from popular books to the screen. Get insights from the writers and directors on how they adapted the story and take a look at key scenes.</desc>
+  </programme>
+  <programme start="20230620220400 +0200" stop="20230620230000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Umbuso: Season 1, Episode 10</title>
+    <desc lang="en-GB">&apos;S1/E10&apos;. Thembelihle is in love and quite surprised to be so happy. Without her best friend to confide in, she finds herself sharing that intimacy with her Gogo, who surprisingly approves.</desc>
+  </programme>
+  <programme start="20230620230000 +0200" stop="20230620233000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Lingashoni: Season 2, Episode 30</title>
+    <desc lang="en-GB">&apos;S2/E30&apos;. Seipati expects Mandla to sign the marriage contract. Robert tries his best to make things right with Sarah. Poppy discovers an intimate secret between Brenda and an admirer.</desc>
+  </programme>
+  <programme start="20230620233000 +0200" stop="20230621000000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Greed And Desire: Season 1, Episode </title>
+    <desc lang="en-GB">&apos;S1 - We&apos;re Pregnant&apos;. Tselane persuades a reluctant doctor to discharge Maru, even though he&apos;s still terribly wounded. Mapule thinks she&apos;s found a new best friend.</desc>
+  </programme>
+  <programme start="20230621000000 +0200" stop="20230621013000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Lokshin Bioskop: 10 Steps To Make...: Rating: PG13, Romance, 2014</title>
+    <desc lang="en-GB">Desperate for a ring, a young woman turns to a &apos;10 Steps to Make Him Propose&apos; article to get her boyfriend to go down on one knee.</desc>
+  </programme>
+  <programme start="20230620003000 +0200" stop="20230620013000 +0200" channel="dstv_mzansi_bioskop">
+    <title lang="en-GB">Ukholo: Rating: 13, Drama, 2017</title>
+    <desc lang="en-GB">After being dumped by his wife on their anniversary, a decent man becomes depressed, until a kind voice nurses his faith back to life.</desc>
+  </programme>
+  <programme start="20230620013000 +0200" stop="20230620023000 +0200" channel="dstv_mzansi_bioskop">
+    <title lang="en-GB">Isikhundla: Rating: PG13, Drama, 2018</title>
+    <desc lang="en-GB">Two ambitious lawyers from different backgrounds battle it out for a promotion. One to help finance her mother&apos;s operation, the other to win his father&apos;s approval.</desc>
+  </programme>
+  <programme start="20230620023000 +0200" stop="20230620033000 +0200" channel="dstv_mzansi_bioskop">
+    <title lang="en-GB">Iphupho Lam: Rating: PG13, Drama, 2017</title>
+    <desc lang="en-GB">After losing his daughter in a tragic accident, a loving family man embarks on a mission to avenge her death, but ends up losing much more due to his obsession.</desc>
+  </programme>
+  <programme start="20230620033000 +0200" stop="20230620043000 +0200" channel="dstv_mzansi_bioskop">
+    <title lang="en-GB">Isipho Sothando: Rating: 13, Drama, 2018</title>
+    <desc lang="en-GB">A young and naïve couple from notorious money laundering families put their lives in danger when they choose to stay together, despite their families&apos; disapproval.</desc>
+  </programme>
+  <programme start="20230620043000 +0200" stop="20230620060000 +0200" channel="dstv_mzansi_bioskop">
+    <title lang="en-GB">Izintombi Zodwa: Rating: PG13, Drama, 2013</title>
+    <desc lang="en-GB">A conservative girl is the leader of a group of girls who vowed to stay celibate and focus on their school work. Things change when she falls in love with a boy.</desc>
+  </programme>
+  <programme start="20230620060000 +0200" stop="20230620070000 +0200" channel="dstv_mzansi_bioskop">
+    <title lang="en-GB">Iphupho Lam: Rating: PG13, Drama, 2017</title>
+    <desc lang="en-GB">After losing his daughter in a tragic accident, a loving family man embarks on a mission to avenge her death, but ends up losing much more due to his obsession.</desc>
+  </programme>
+  <programme start="20230620070000 +0200" stop="20230620080000 +0200" channel="dstv_mzansi_bioskop">
+    <title lang="en-GB">Ngixolele: Rating: 13, Drama, 2021</title>
+    <desc lang="en-GB">Staring at the site of death, a father returns to his son seeking forgiveness after abandoning him and his mother.</desc>
+  </programme>
+  <programme start="20230620080000 +0200" stop="20230620090000 +0200" channel="dstv_mzansi_bioskop">
+    <title lang="en-GB">Ilifa: Rating: 13, Drama, 2017</title>
+    <desc lang="en-GB">Once successful and very close, two siblings find themselves fighting for their parents&apos; riches after they pass away suddenly.</desc>
+  </programme>
+  <programme start="20230620090000 +0200" stop="20230620100000 +0200" channel="dstv_mzansi_bioskop">
+    <title lang="en-GB">Umdlalo Wempilo: Rating: 13, Drama, 2018</title>
+    <desc lang="en-GB">A young, promising soccer player puts his career in jeopardy when he&apos;s forced to dabble in illegal activities to save his sister&apos;s life.</desc>
+  </programme>
+  <programme start="20230620100000 +0200" stop="20230620110000 +0200" channel="dstv_mzansi_bioskop">
+    <title lang="en-GB">Mim: Dipoloko: Rating: 13, Drama, 2018</title>
+    <desc lang="en-GB">When a polygamous family man dies, his son finds himself between two feuding mothers.</desc>
+  </programme>
+  <programme start="20230620110000 +0200" stop="20230620120000 +0200" channel="dstv_mzansi_bioskop">
+    <title lang="en-GB">Inkinga Uben: Rating: 13, Drama, 2017</title>
+    <desc lang="en-GB">What began as a mission to stop her husband&apos;s wandering eye turns into a journey of self-discovery for a woman in a polygamous marriage.</desc>
+  </programme>
+  <programme start="20230620120000 +0200" stop="20230620130000 +0200" channel="dstv_mzansi_bioskop">
+    <title lang="en-GB">One Coffin: Rating: 13, Drama, 2018</title>
+    <desc lang="en-GB">A funeral parlour owner is in desperate need of heart surgery. He decides to steal and re-use the coffin he buries his clients in to fund the procedure.</desc>
+  </programme>
+  <programme start="20230620130000 +0200" stop="20230620140000 +0200" channel="dstv_mzansi_bioskop">
+    <title lang="en-GB">Imbeleko: Rating: PG13, Drama, 2017</title>
+    <desc lang="en-GB">A young wife is keeping a secret about the paternity of her child, but things get complicated when there&apos;s a request for an ancestral ceremony to be done.</desc>
+  </programme>
+  <programme start="20230620140000 +0200" stop="20230620150000 +0200" channel="dstv_mzansi_bioskop">
+    <title lang="en-GB">Usolo: Rating: 13, Drama, 2021</title>
+    <desc lang="en-GB">Solo is wrongfully declared a hero in his community and awarded R50 000 for taking down an armed robber.</desc>
+  </programme>
+  <programme start="20230620150000 +0200" stop="20230620160300 +0200" channel="dstv_mzansi_bioskop">
+    <title lang="en-GB">Iwashi: Rating: 16, Horror, 2019</title>
+    <desc lang="en-GB">A notorious township criminal decides to steal a wristwatch. The wristwatch starts to haunt him, but will he return it to the rightful owner?</desc>
+  </programme>
+  <programme start="20230620160300 +0200" stop="20230620170000 +0200" channel="dstv_mzansi_bioskop">
+    <title lang="en-GB">Hawe Ma: Rating: 13, Drama, 2018</title>
+    <desc lang="en-GB">A former actress registers in the same university drama course as her daughter. Rivalry erupts between the pair when the mom is cast in the lead role.</desc>
+  </programme>
+  <programme start="20230620170000 +0200" stop="20230620180000 +0200" channel="dstv_mzansi_bioskop">
+    <title lang="en-GB">Indodakazi Yami: Rating: 13, Drama, 2022</title>
+    <desc lang="en-GB">A recently widowed man learns that his daughter is not biologically his when her real father rocks up one-day demanding full custody.</desc>
+  </programme>
+  <programme start="20230620180000 +0200" stop="20230620190000 +0200" channel="dstv_mzansi_bioskop">
+    <title lang="en-GB">Isikhukhukazi: Rating: 13, Drama, 2021</title>
+    <desc lang="en-GB">A quiet, mysterious old man disappears suddenly without a trace, leaving Sipho with a cage filled with three chickens that may change his life completely.</desc>
+  </programme>
+  <programme start="20230620190000 +0200" stop="20230620200000 +0200" channel="dstv_mzansi_bioskop">
+    <title lang="en-GB">Lesiba: Rating: 13, Drama, 2020</title>
+    <desc lang="en-GB">A nerdy matriculant finally scores the date of his dreams for his Matric dance, only to find out that his brother paid her to be his date.</desc>
+  </programme>
+  <programme start="20230620200000 +0200" stop="20230620210000 +0200" channel="dstv_mzansi_bioskop">
+    <title lang="en-GB">Inkanuko: Rating: 13, Drama, 2019</title>
+    <desc lang="en-GB">When jealousy comes between two sisters, innocent lives are endangered and lust rules in one sister&apos;s life.</desc>
+  </programme>
+  <programme start="20230620210000 +0200" stop="20230620223300 +0200" channel="dstv_mzansi_bioskop">
+    <title lang="en-GB">Lokshin Bioskop: Jackpot Mathambo: Rating: PG, Comedy, 2013</title>
+    <desc lang="en-GB">An unemployed man&apos;s life turns around when he wins the lottery, but as the saying goes, &apos;more money, more problems&apos;.</desc>
+  </programme>
+  <programme start="20230620223300 +0200" stop="20230620233000 +0200" channel="dstv_mzansi_bioskop">
+    <title lang="en-GB">Mmangwana: Rating: 13, Drama, 2017</title>
+    <desc lang="en-GB">Inspired by the Sesotho idiom, &apos;Mmangwana o tshwara thipa ka bohaleng&apos;, this emotional drama is about women and the sacrifices they make for those they love.</desc>
+  </programme>
+  <programme start="20230620233000 +0200" stop="20230621003000 +0200" channel="dstv_mzansi_bioskop">
+    <title lang="en-GB">One Coffin: Rating: 13, Drama, 2018</title>
+    <desc lang="en-GB">A funeral parlour owner is in desperate need of heart surgery. He decides to steal and re-use the coffin he buries his clients in to fund the procedure.</desc>
+  </programme>
+  <programme start="20230620000000 +0200" stop="20230620010000 +0200" channel="dstv_mzansi_magic_music_hd">
+    <title lang="en-GB">Namba Namba: Rating: 16, Music Mix, 2022</title>
+    <desc lang="en-GB">Do not miss the best local and international adult contemporary music, fresh on Mzansi Magic Music.</desc>
+  </programme>
+  <programme start="20230620010000 +0200" stop="20230620020000 +0200" channel="dstv_mzansi_magic_music_hd">
+    <title lang="en-GB">House Grooves: Rating: 16, Music, 2023</title>
+    <desc lang="en-GB">A delightful mix of some of your favourite house music hits.</desc>
+  </programme>
+  <programme start="20230620020000 +0200" stop="20230620030000 +0200" channel="dstv_mzansi_magic_music_hd">
+    <title lang="en-GB">Magic Music: Rating: 16, Music Mix, 2022</title>
+    <desc lang="en-GB">We bring you nothing but the best music videos of your favourite artist.</desc>
+  </programme>
+  <programme start="20230620030000 +0200" stop="20230620040000 +0200" channel="dstv_mzansi_magic_music_hd">
+    <title lang="en-GB">Soul Food: Rating: 16, Music Mix, 2022</title>
+    <desc lang="en-GB">If music is your language of love, then we&apos;ve got just what you need. Don&apos;t miss the best in Soul and RNB.</desc>
+  </programme>
+  <programme start="20230620040000 +0200" stop="20230620050000 +0200" channel="dstv_mzansi_magic_music_hd">
+    <title lang="en-GB">R&amp;B Wave: Rating: 16, Music, 2023</title>
+    <desc lang="en-GB">Relax, unwind and reminisce to your favourite classic luv Jams.</desc>
+  </programme>
+  <programme start="20230620050000 +0200" stop="20230620060000 +0200" channel="dstv_mzansi_magic_music_hd">
+    <title lang="en-GB">Siyakhonza: Rating: 16, Music, 2023</title>
+    <desc lang="en-GB">Mzansi Magic Music showcases the best in contemporary gospel songs.</desc>
+  </programme>
+  <programme start="20230620060000 +0200" stop="20230620070000 +0200" channel="dstv_mzansi_magic_music_hd">
+    <title lang="en-GB">Ziyaduma: Rating: 16, Maskandi, 2022</title>
+    <desc lang="en-GB">Mzansi Magic Music brings you an eight-part series featuring music and spoken-word performances.</desc>
+  </programme>
+  <programme start="20230620070000 +0200" stop="20230620080000 +0200" channel="dstv_mzansi_magic_music_hd">
+    <title lang="en-GB">Afro-Pop Hits: Rating: 16, Music, 2022</title>
+    <desc lang="en-GB">We bring you nothing but the best music videos of your favourite artist.</desc>
+  </programme>
+  <programme start="20230620080000 +0200" stop="20230620090000 +0200" channel="dstv_mzansi_magic_music_hd">
+    <title lang="en-GB">House Grooves: Rating: 16, Music, 2023</title>
+    <desc lang="en-GB">A delightful mix of some of your favourite house music hits.</desc>
+  </programme>
+  <programme start="20230620090000 +0200" stop="20230620100000 +0200" channel="dstv_mzansi_magic_music_hd">
+    <title lang="en-GB">Soul Food: Rating: 16, Music Mix, 2022</title>
+    <desc lang="en-GB">If music is your language of love, then we&apos;ve got just what you need. Don&apos;t miss the best in Soul and RNB.</desc>
+  </programme>
+  <programme start="20230620100000 +0200" stop="20230620110000 +0200" channel="dstv_mzansi_magic_music_hd">
+    <title lang="en-GB">Magic Music: Rating: 16, Music Mix, 2022</title>
+    <desc lang="en-GB">We bring you nothing but the best music videos of your favourite artist.</desc>
+  </programme>
+  <programme start="20230620110000 +0200" stop="20230620120000 +0200" channel="dstv_mzansi_magic_music_hd">
+    <title lang="en-GB">MMM Features: Makhadzi: Rating: 16, Music, 2023</title>
+    <desc lang="en-GB">We bring you nothing but the best music videos of your favourite artist.</desc>
+  </programme>
+  <programme start="20230620120000 +0200" stop="20230620130000 +0200" channel="dstv_mzansi_magic_music_hd">
+    <title lang="en-GB">House Grooves: Rating: 16, Music, 2023</title>
+    <desc lang="en-GB">A delightful mix of some of your favourite house music hits.</desc>
+  </programme>
+  <programme start="20230620130000 +0200" stop="20230620140000 +0200" channel="dstv_mzansi_magic_music_hd">
+    <title lang="en-GB">Afro-Pop Hits: Rating: 16, Music, 2022</title>
+    <desc lang="en-GB">We bring you nothing but the best music videos of your favourite artist.</desc>
+  </programme>
+  <programme start="20230620140000 +0200" stop="20230620150000 +0200" channel="dstv_mzansi_magic_music_hd">
+    <title lang="en-GB">Hip Hop: Rating: 16, Music Mix, 2022</title>
+    <desc lang="en-GB">We bring you nothing but the best music videos of your favourite artist.</desc>
+  </programme>
+  <programme start="20230620150000 +0200" stop="20230620160000 +0200" channel="dstv_mzansi_magic_music_hd">
+    <title lang="en-GB">MMM Features: Afropop Kings: Rating: 16, Music, 2023</title>
+    <desc lang="en-GB">We bring you nothing but the best music videos of your favourite artist.</desc>
+  </programme>
+  <programme start="20230620160000 +0200" stop="20230620170000 +0200" channel="dstv_mzansi_magic_music_hd">
+    <title lang="en-GB">House Grooves: Rating: 16, Music, 2023</title>
+    <desc lang="en-GB">A delightful mix of some of your favourite house music hits.</desc>
+  </programme>
+  <programme start="20230620170000 +0200" stop="20230620180000 +0200" channel="dstv_mzansi_magic_music_hd">
+    <title lang="en-GB">Mzansi House Countdown: Rating: 16, House, 2022</title>
+    <desc lang="en-GB">We bring you nothing but the best music videos of your favourite artist.</desc>
+  </programme>
+  <programme start="20230620180000 +0200" stop="20230620190000 +0200" channel="dstv_mzansi_magic_music_hd">
+    <title lang="en-GB">Head2head: Sino Msolo &amp; Aymos: Rating: 16, Music, 2023</title>
+    <desc lang="en-GB">We bring you nothing but the best music videos of your favourite artist.</desc>
+  </programme>
+  <programme start="20230620190000 +0200" stop="20230620200000 +0200" channel="dstv_mzansi_magic_music_hd">
+    <title lang="en-GB">Magic Music: Rating: 16, Music Mix, 2022</title>
+    <desc lang="en-GB">We bring you nothing but the best music videos of your favourite artist.</desc>
+  </programme>
+  <programme start="20230620200000 +0200" stop="20230620210000 +0200" channel="dstv_mzansi_magic_music_hd">
+    <title lang="en-GB">Afro-Pop Hits: Rating: 16, Music, 2022</title>
+    <desc lang="en-GB">We bring you nothing but the best music videos of your favourite artist.</desc>
+  </programme>
+  <programme start="20230620210000 +0200" stop="20230620220000 +0200" channel="dstv_mzansi_magic_music_hd">
+    <title lang="en-GB">House Grooves: Rating: 16, Music, 2023</title>
+    <desc lang="en-GB">A delightful mix of some of your favourite house music hits.</desc>
+  </programme>
+  <programme start="20230620220000 +0200" stop="20230620230000 +0200" channel="dstv_mzansi_magic_music_hd">
+    <title lang="en-GB">Magic Music 10: Rating: 16, Music, 2023</title>
+    <desc lang="en-GB">We bring you nothing but the best music videos of your favourite artist.</desc>
+  </programme>
+  <programme start="20230620230000 +0200" stop="20230621000000 +0200" channel="dstv_mzansi_magic_music_hd">
+    <title lang="en-GB">Ziyaduma: Rating: 16, Maskandi, 2022</title>
+    <desc lang="en-GB">Mzansi Magic Music brings you an eight-part series featuring music and spoken-word performances.</desc>
+  </programme>
+  <programme start="20230621000000 +0200" stop="20230621010000 +0200" channel="dstv_mzansi_magic_music_hd">
+    <title lang="en-GB">Namba Namba: Rating: 16, Music Mix, 2022</title>
+    <desc lang="en-GB">Do not miss the best local and international adult contemporary music, fresh on Mzansi Magic Music.</desc>
+  </programme>
   <programme start="20230621000000 +0200" stop="20230621005500 +0200" channel="dstv_e_entertainment">
     <title lang="en-GB">Summer House</title>
     <desc lang="en-GB">Summer House</desc>
@@ -2324,8 +3148,8 @@
     <desc lang="en-GB">My Zim Plate</desc>
   </programme>
   <programme start="20230621003000 +0200" stop="20230621010000 +0200" channel="dstv_honey">
-    <title lang="en-GB">Yes, I Have HIV: Zimbabwe</title>
-    <desc lang="en-GB">Yes, I Have HIV: Zimbabwe</desc>
+    <title lang="en-GB">S1/E3. Yes, I Have HIV: Zimbabwe</title>
+    <desc lang="en-GB">&apos;S1/E3&apos;. Ruva was born HIV positive but only found out in her teenage years. She is ready to confide in her best friend of about five years and hopes the news won&apos;t affect their friendship.</desc>
   </programme>
   <programme start="20230621010000 +0200" stop="20230621013000 +0200" channel="dstv_honey">
     <title lang="en-GB">Where Are You?</title>
@@ -2372,12 +3196,12 @@
     <desc lang="en-GB">7 Colours</desc>
   </programme>
   <programme start="20230621080000 +0200" stop="20230621083000 +0200" channel="dstv_honey">
-    <title lang="en-GB">My Horror Love Story: Zambia</title>
-    <desc lang="en-GB">My Horror Love Story: Zambia</desc>
+    <title lang="en-GB">S2/E5. My Horror Love Story: Zambia</title>
+    <desc lang="en-GB">&apos;S2/E5&apos;. Tamara&apos;s husband brought another woman into their matrimonial bed. He threatened her with a knife and pushed her into the fire, causing burns to her bottom.</desc>
   </programme>
   <programme start="20230621083000 +0200" stop="20230621090000 +0200" channel="dstv_honey">
-    <title lang="en-GB">Yes, I Have HIV: Zambia</title>
-    <desc lang="en-GB">Yes, I Have HIV: Zambia</desc>
+    <title lang="en-GB">S2/E5. Yes, I Have HIV: Zambia</title>
+    <desc lang="en-GB">&apos;S2/E5&apos;. Fred has been living with HIV since birth and his older sister, Matilda, has never known about his status. Today, he is disclosing his status to her.</desc>
   </programme>
   <programme start="20230621090000 +0200" stop="20230621093000 +0200" channel="dstv_honey">
     <title lang="en-GB">Yes Ndio Beeni: Zambia</title>
@@ -2428,12 +3252,12 @@
     <desc lang="en-GB">7 Colours</desc>
   </programme>
   <programme start="20230621160000 +0200" stop="20230621163000 +0200" channel="dstv_honey">
-    <title lang="en-GB">My Horror Love Story: Zambia</title>
-    <desc lang="en-GB">My Horror Love Story: Zambia</desc>
+    <title lang="en-GB">S2/E6. My Horror Love Story: Zambia</title>
+    <desc lang="en-GB">&apos;S2/E6&apos;. Not every day is Sunday for this pastoress. Matildah&apos;s husband cheats, beats her, and flees from their marital home.</desc>
   </programme>
   <programme start="20230621163000 +0200" stop="20230621170000 +0200" channel="dstv_honey">
-    <title lang="en-GB">Yes, I Have HIV: Zambia</title>
-    <desc lang="en-GB">Yes, I Have HIV: Zambia</desc>
+    <title lang="en-GB">S2/E6. Yes, I Have HIV: Zambia</title>
+    <desc lang="en-GB">&apos;S2/E6&apos;. Keeping her HIV positive status a secret has been a burden for Natasha. She has decided to lighten her burden by sharing the secret with her cousin.</desc>
   </programme>
   <programme start="20230621170000 +0200" stop="20230621173000 +0200" channel="dstv_honey">
     <title lang="en-GB">Yes Ndio Beeni: Zambia</title>
@@ -3214,5 +4038,833 @@
   <programme start="20230621180000 +0200" stop="20230622000000 +0200" channel="dstv_znbc2">
     <title lang="en-GB">ZNBC 2</title>
     <desc lang="en-GB">ZNBC 2</desc>
+  </programme>
+  <programme start="20230621002600 +0200" stop="20230621010100 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Makofi: Season 3, Episode 56</title>
+    <desc lang="en-GB">&apos;S3/E56 of 60&apos;. Cece takes her career into her own hands when Anna refuses to support her turning professional. Meanwhile, Moses has second thoughts about working with Gideon.</desc>
+  </programme>
+  <programme start="20230621010100 +0200" stop="20230621040500 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Billionaire Brothers: Rating: 16, Drama, 2020</title>
+    <desc lang="en-GB">Frustration leads a man into money rituals, but he later discovers that such money does not solve much problems.</desc>
+  </programme>
+  <programme start="20230621040500 +0200" stop="20230621050000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Tuvwange: Season 2, Episode 26</title>
+    <desc lang="en-GB">&apos;S2/E26 of 26&apos;. The ladies end the season with the discussion of &apos;is it okay to date your best friends ex boyfriend&apos;&apos;? The ladies receive a surprise celebrity performance.</desc>
+  </programme>
+  <programme start="20230621050000 +0200" stop="20230621060100 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Date My Family Zambia: Season 3, Episode 3</title>
+    <desc lang="en-GB">&apos;S3/E3 of 7&apos;. Date My Family helps singletons find love by sending them on dates with their potential partner&apos;s family. Can you really trust your family to help you find love?</desc>
+  </programme>
+  <programme start="20230621060100 +0200" stop="20230621070000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Zed Top Ten: Season 6, Episode 23</title>
+    <desc lang="en-GB">&apos;S6/E23 of 30&apos;. Zed Top 10 is a countdown of ten of the biggest music video hits in Zambia. It is designed to support the growing Zambian music industry.</desc>
+  </programme>
+  <programme start="20230621070000 +0200" stop="20230621080000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Mutale Mwanza Unscripted: Season 1, Episode 11</title>
+    <desc lang="en-GB">&apos;S1/E11 of 15&apos;. Mutale invites Natasha Van Der Maas on a trip to Samfya, a breather they both need especially now that Natasha is the newest single lady in town. Mrs. Freda has the &apos;talk&apos; with the boys.</desc>
+  </programme>
+  <programme start="20230621080000 +0200" stop="20230621083000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Ten Tamanga Street: Season 1, Episode 8</title>
+    <desc lang="en-GB">&apos;S1/E8 of 51&apos;. Aunty Geraldine is furious to discover that Mama Jessie is behind a campaign to kick the Ngoma Brothers out. Fundi is angry when he finds out Kafiru followed him on his date with Wamiza.</desc>
+  </programme>
+  <programme start="20230621083000 +0200" stop="20230621090000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Zuba: Season 7, Episode 37</title>
+    <desc lang="en-GB">&apos;S7/E37 of 110&apos;. Four families are inseparably linked, but struggle to coexist with one another, in their quest for riches, power, and fame.</desc>
+  </programme>
+  <programme start="20230621090000 +0200" stop="20230621100000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Mpali: Season 6, Episode 79</title>
+    <desc lang="en-GB">&apos;S6/E79 of 152&apos;. Uncle Patrick maliciously points an accusing finger at Mwanida. Shupiwe has a hidden agenda. Kuzo is in a dilemma over a failed project, meanwhile Junza puts Phil in his place.</desc>
+  </programme>
+  <programme start="20230621100000 +0200" stop="20230621103000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Makofi: Season 3, Episode 56</title>
+    <desc lang="en-GB">&apos;S3/E56 of 60&apos;. Cece takes her career into her own hands when Anna refuses to support her turning professional. Meanwhile, Moses has second thoughts about working with Gideon.</desc>
+  </programme>
+  <programme start="20230621103000 +0200" stop="20230621113000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">My Kitchen Party: Season 5, Episode 5</title>
+    <desc lang="en-GB">&apos;S5/E5 of 13&apos;. Celebrating the joyous right of passage for the brides , as they pick their committees and gifts to start their new journey.</desc>
+  </programme>
+  <programme start="20230621113000 +0200" stop="20230621143000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Blood Sacrifice: Rating: 16, Drama, 2020</title>
+    <desc lang="en-GB">A man sacrifices himself and his two virgin daughters to save his land. Will the land honor him?</desc>
+  </programme>
+  <programme start="20230621143000 +0200" stop="20230621153000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Mpali: Season 6, Episode 79</title>
+    <desc lang="en-GB">&apos;S6/E79 of 152&apos;. Uncle Patrick maliciously points an accusing finger at Mwanida. Shupiwe has a hidden agenda. Kuzo is in a dilemma over a failed project, meanwhile Junza puts Phil in his place.</desc>
+  </programme>
+  <programme start="20230621153000 +0200" stop="20230621160000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Zuba: Season 7, Episode 37</title>
+    <desc lang="en-GB">&apos;S7/E37 of 110&apos;. Four families are inseparably linked, but struggle to coexist with one another, in their quest for riches, power, and fame.</desc>
+  </programme>
+  <programme start="20230621160000 +0200" stop="20230621163000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Makofi: Season 3, Episode 56</title>
+    <desc lang="en-GB">&apos;S3/E56 of 60&apos;. Cece takes her career into her own hands when Anna refuses to support her turning professional. Meanwhile, Moses has second thoughts about working with Gideon.</desc>
+  </programme>
+  <programme start="20230621163000 +0200" stop="20230621170000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Ten Tamanga Street: Season 1, Episode 8</title>
+    <desc lang="en-GB">&apos;S1/E8 of 51&apos;. Aunty Geraldine is furious to discover that Mama Jessie is behind a campaign to kick the Ngoma Brothers out. Fundi is angry when he finds out Kafiru followed him on his date with Wamiza.</desc>
+  </programme>
+  <programme start="20230621170000 +0200" stop="20230621173000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Will He Say Yes? Zambia: Season 1, Episode 8</title>
+    <desc lang="en-GB">&apos;S1/E8 of 9&apos;. Women who are ready to take fate into their own hands propose to their men. Will he say yes?</desc>
+  </programme>
+  <programme start="20230621173000 +0200" stop="20230621183000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Mutale Mwanza Unscripted: Season 1, Episode 11</title>
+    <desc lang="en-GB">&apos;S1/E11 of 15&apos;. Mutale invites Natasha Van Der Maas on a trip to Samfya, a breather they both need especially now that Natasha is the newest single lady in town. Mrs. Freda has the &apos;talk&apos; with the boys.</desc>
+  </programme>
+  <programme start="20230621183000 +0200" stop="20230621190000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Uncle Limbani: Season 3, Episode 24</title>
+    <desc lang="en-GB">&apos;S3/E24 of 26&apos;. Limbani finds himself in a love triangle when Tinashe tells him that he is going to be a father and Gertrude won&apos;t let go. To please both women, his hustle for money goes into full throttle.</desc>
+  </programme>
+  <programme start="20230621190000 +0200" stop="20230621193000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Shi Mumbi: Season 4, Episode 16</title>
+    <desc lang="en-GB">&apos;S4/E16 of 26&apos;. Cop Darlington rejects his niece who faked the kidnapping to come and stay with them again. Bana Mumbi arrives from Kapiri in hurry to come and see Rex, only to discover he is not sick.</desc>
+  </programme>
+  <programme start="20230621193000 +0200" stop="20230621200000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Ten Tamanga Street: Season 1, Episode 9</title>
+    <desc lang="en-GB">&apos;S1/E9 of 51&apos;. Fundi comes to Wamiza&apos;s rescue when Albert threatens to beat her up. Socks tells Fundi Johanna is dating his boss but misinterprets Fundi&apos;s concern.</desc>
+  </programme>
+  <programme start="20230621200000 +0200" stop="20230621203000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Zuba: Season 7, Episode 38</title>
+    <desc lang="en-GB">&apos;S7/E38 of 110&apos;. Four families are inseparably linked, but struggle to coexist with one another, in their quest for riches, power, and fame.</desc>
+  </programme>
+  <programme start="20230621203000 +0200" stop="20230621213000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Mpali: Season 6, Episode 80</title>
+    <desc lang="en-GB">&apos;S6/E80 of 152&apos;. Will Shupiwe manage to follow instructions? Hambe is suspicious of Chola as pressure mounts on her to complete her mission. Lindiwe rattles Tamara.</desc>
+  </programme>
+  <programme start="20230621213000 +0200" stop="20230621220000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Makofi: Season 3, Episode 57</title>
+    <desc lang="en-GB">&apos;S3/E57 of 60&apos;. Jabulani sends a message by firing corrupt boxing officials, Gideon feeling cornered retaliates with violence but fails when he realizes Jabulani is protected.</desc>
+  </programme>
+  <programme start="20230621220000 +0200" stop="20230621230000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Mutale Mwanza Unscripted: Season 1, Episode 11</title>
+    <desc lang="en-GB">&apos;S1/E11 of 15&apos;. Mutale invites Natasha Van Der Maas on a trip to Samfya, a breather they both need especially now that Natasha is the newest single lady in town. Mrs. Freda has the &apos;talk&apos; with the boys.</desc>
+  </programme>
+  <programme start="20230621230000 +0200" stop="20230621233000 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Zuba: Season 7, Episode 38</title>
+    <desc lang="en-GB">&apos;S7/E38 of 110&apos;. Four families are inseparably linked, but struggle to coexist with one another, in their quest for riches, power, and fame.</desc>
+  </programme>
+  <programme start="20230621233000 +0200" stop="20230622002500 +0200" channel="dstv_zambezi_magic">
+    <title lang="en-GB">Mpali: Season 6, Episode 80</title>
+    <desc lang="en-GB">&apos;S6/E80 of 152&apos;. Will Shupiwe manage to follow instructions? Hambe is suspicious of Chola as pressure mounts on her to complete her mission. Lindiwe rattles Tamara.</desc>
+  </programme>
+  <programme start="20230621000000 +0200" stop="20230621031000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">My Trouble Son: Rating: 16, Drama, 2020</title>
+    <desc lang="en-GB">Njo&apos;s choice of wife threw his family and the entire community into a dilemma while Oba atrocities in the village backfired.</desc>
+  </programme>
+  <programme start="20230621031000 +0200" stop="20230621040500 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">My Kitchen Party: Season 1, Episode 1</title>
+    <desc lang="en-GB">&apos;S1/E1 of 13&apos;. A reality television show that narrates a bride&apos;s story capturing her experience through an authentically rich Zambian traditional bridal shower.</desc>
+  </programme>
+  <programme start="20230621040500 +0200" stop="20230621050000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Zed Top Ten: Season 2, Episode 5</title>
+    <desc lang="en-GB">&apos;S2/E5 of 36&apos;. ZED Top Ten is a weekly 13 part music series that countdowns Zambia&apos;s top ten music videos. Viewers participate by choosing their weekly favourates online.</desc>
+  </programme>
+  <programme start="20230621050000 +0200" stop="20230621060000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Mpali: Season 3, Episode 208</title>
+    <desc lang="en-GB">&apos;S3/E208 of 210&apos;. As Mwiza&apos;s dark secrets begin to haunt her, this leads to her arguing with Zondani. The workers decide to take matters into their hands in order to get back at Nguzu.</desc>
+  </programme>
+  <programme start="20230621060000 +0200" stop="20230621070000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Zed Top Ten: Season 1, Episode 3</title>
+    <desc lang="en-GB">&apos;S1/E3 of 13&apos;. ZED Top Ten is a weekly 13 part music series that countdowns Zambia&apos;s top ten music videos. Viewers participate by choosing their weekly favourites online.</desc>
+  </programme>
+  <programme start="20230621070000 +0200" stop="20230621080000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">My Kitchen Party: Season 2, Episode 2</title>
+    <desc lang="en-GB">&apos;S2/E2 of 13&apos;. A reality television show that narrates a bride&apos;s story capturing her experience through an authentically rich Zambian traditional bridal shower.</desc>
+  </programme>
+  <programme start="20230621080000 +0200" stop="20230621083000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">My Family Wahala: Season 1, Episode 9</title>
+    <desc lang="en-GB">&apos;S1/E9 of 26&apos;. Daka&apos;s gambling adventure lands him in trouble. Grandma Kaleza is baffled when their tv set goes missing and miraculously reappears.</desc>
+  </programme>
+  <programme start="20230621083000 +0200" stop="20230621090000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Bogade: A Crazy House: Season 1, Episode 1</title>
+    <desc lang="en-GB">&apos;S1/E1 of 13&apos;. Smoke,Mwansa and Mulenga are left to take care of the house after their parents leave for USA. Pandemonium breaks out in the house as the kids get out of control.</desc>
+  </programme>
+  <programme start="20230621090000 +0200" stop="20230621100000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Ngoma Zathu: Our Rhythm: Season 1, Episode 19</title>
+    <desc lang="en-GB">&apos;S1/E19 of 52&apos;. This is a weekly general Zambian music video show. We showcase fresh and hot Zambian music videos and the play list get refreshed weekly.</desc>
+  </programme>
+  <programme start="20230621100000 +0200" stop="20230621103000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Tizibika: Season 1, Episode 2</title>
+    <desc lang="en-GB">&apos;S1/E2 of 13&apos;. Wezi is bailed out of jail by a mystery man and Thandie forces herself on to the Cool Beatz team that are presenting at the Zambia Radio Forum.</desc>
+  </programme>
+  <programme start="20230621103000 +0200" stop="20230621113000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Mpali: Season 3, Episode 208</title>
+    <desc lang="en-GB">&apos;S3/E208 of 210&apos;. As Mwiza&apos;s dark secrets begin to haunt her, this leads to her arguing with Zondani. The workers decide to take matters into their hands in order to get back at Nguzu.</desc>
+  </programme>
+  <programme start="20230621113000 +0200" stop="20230621120000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Zuba: Season 5, Episode 168</title>
+    <desc lang="en-GB">&apos;S5/E168 of 260&apos;. Thando&apos;s painful reaction to the news of the Niko/Zuba wedding takes center stage as word even reaches Maluba Village.</desc>
+  </programme>
+  <programme start="20230621120000 +0200" stop="20230621143100 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Not My Daughter: Rating: 16, Drama, 2020</title>
+    <desc lang="en-GB">A young girl returns to the village after her studies to introduce her love to her parents only for her father&apos;s dubious friend to ask her hand in marriage for his son.</desc>
+  </programme>
+  <programme start="20230621143100 +0200" stop="20230621150500 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Vina: Season 1, Episode 12</title>
+    <desc lang="en-GB">&apos;S1/E12 of 13&apos;. Sashiska&apos;s friends throw a graduation party that is filled with fun and dancing.</desc>
+  </programme>
+  <programme start="20230621150500 +0200" stop="20230621153500 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Tizibika: Season 1, Episode 2</title>
+    <desc lang="en-GB">&apos;S1/E2 of 13&apos;. Wezi is bailed out of jail by a mystery man and Thandie forces herself on to the Cool Beatz team that are presenting at the Zambia Radio Forum.</desc>
+  </programme>
+  <programme start="20230621153500 +0200" stop="20230621163500 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Mpali: Season 3, Episode 208</title>
+    <desc lang="en-GB">&apos;S3/E208 of 210&apos;. As Mwiza&apos;s dark secrets begin to haunt her, this leads to her arguing with Zondani. The workers decide to take matters into their hands in order to get back at Nguzu.</desc>
+  </programme>
+  <programme start="20230621163500 +0200" stop="20230621170500 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Zuba: Season 5, Episode 168</title>
+    <desc lang="en-GB">&apos;S5/E168 of 260&apos;. Thando&apos;s painful reaction to the news of the Niko/Zuba wedding takes center stage as word even reaches Maluba Village.</desc>
+  </programme>
+  <programme start="20230621170500 +0200" stop="20230621180000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Zed Top Ten: Season 6, Episode 21</title>
+    <desc lang="en-GB">&apos;S6/E21 of 30&apos;. Zed Top 10 is a countdown of ten of the biggest music video hits in Zambia. It is designed to support the growing Zambian music industry.</desc>
+  </programme>
+  <programme start="20230621180000 +0200" stop="20230621190000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Ngoma Zathu: Our Rhythm: Season 1, Episode 14</title>
+    <desc lang="en-GB">&apos;S1/E14 of 52&apos;. This is a weekly general Zambian music video show. We showcase fresh and hot Zambian music videos and the play list get refreshed weekly.</desc>
+  </programme>
+  <programme start="20230621190000 +0200" stop="20230621200000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">My Top Five: Season 1, Episode 3</title>
+    <desc lang="en-GB">&apos;S1/E3 of 15&apos;. King Dandy and Ruff Kid are kings in their respective genres and are different but alike in many ways. It will be a viewer&apos;s delight as they share their 5 Top songs.</desc>
+  </programme>
+  <programme start="20230621200000 +0200" stop="20230621203000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Zuba: Season 5, Episode 169</title>
+    <desc lang="en-GB">&apos;S5/E169 of 260&apos;. Thando continues to spiral down into depression over the Zuba/Niko wedding. He even starts talking about death. Mathew sees a common male-spouse flaw in Niko and advises him against it.</desc>
+  </programme>
+  <programme start="20230621203000 +0200" stop="20230621213000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Mpali: Season 3, Episode 209</title>
+    <desc lang="en-GB">&apos;S3/E209 of 210&apos;. The workers are caught red-handed by Nguzu as they try to sell cattle. Meanwhile, Chola is thrown out by her aunt and moves in with an unsuspecting Hambe.</desc>
+  </programme>
+  <programme start="20230621213000 +0200" stop="20230621220000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Tizibika: Season 1, Episode 3</title>
+    <desc lang="en-GB">&apos;S1/E3 of 13&apos;. Completely broke, Wezi is forced to look for a job at her once favourite place and Thandie&apos;s position at Cool Beatz is threatened by a new intern DJ.</desc>
+  </programme>
+  <programme start="20230621220000 +0200" stop="20230621223000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Uncle Limbani: Season 1, Episode 20</title>
+    <desc lang="en-GB">&apos;S1/E20 of 26&apos;. Limbani and Tobias rescue Make Liznet when she buys expired alcohol and her customers get sick. Beatrice is almost fired after a fight with her boyfriend&apos;s wife.</desc>
+  </programme>
+  <programme start="20230621223000 +0200" stop="20230621230000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Bogade: A Crazy House: Season 1, Episode 1</title>
+    <desc lang="en-GB">&apos;S1/E1 of 13&apos;. Smoke,Mwansa and Mulenga are left to take care of the house after their parents leave for USA. Pandemonium breaks out in the house as the kids get out of control.</desc>
+  </programme>
+  <programme start="20230621230000 +0200" stop="20230622000000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Mpali: Season 3, Episode 209</title>
+    <desc lang="en-GB">&apos;S3/E209 of 210&apos;. The workers are caught red-handed by Nguzu as they try to sell cattle. Meanwhile, Chola is thrown out by her aunt and moves in with an unsuspecting Hambe.</desc>
+  </programme>
+  <programme start="20230622000000 +0200" stop="20230622031000 +0200" channel="dstv_one_zed">
+    <title lang="en-GB">Blood Of Kings: Rating: 16, Drama, 2021</title>
+    <desc lang="en-GB">A princess is being tormented by an unknown spirit that causes her to faint every month. Her condition hampers her marriage to a prince from another kingdom.</desc>
+  </programme>
+  <programme start="20230621000100 +0200" stop="20230621003000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">The River: Season 6, Episode 97</title>
+    <desc lang="en-GB">&apos;S6/E97&apos;. Lindiwe is sidelined as the new person in Andile&apos;s life sinks their claws deeper into him. Ndumiso finds other ways to get to Bonolo. Nkanyiso finds himself languishing in a heartbreak hotel.</desc>
+  </programme>
+  <programme start="20230621003000 +0200" stop="20230621010000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">1802: Love Defies Time: Season 1, Episode 23</title>
+    <desc lang="en-GB">&apos;S1/E23&apos;. Kumkani Jonginamba is conflicted when his dream reveals who should be the next king. Nkosazana discovers Lukhanyo&apos;s whereabouts and receives shocking news from MaXhanti.</desc>
+  </programme>
+  <programme start="20230621010000 +0200" stop="20230621013000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">1Magic: Zone In: Season 2, Episode 41</title>
+    <desc lang="en-GB">&apos;S2/E41&apos;. Zone In showcases the freshest local and international stars and music genres.</desc>
+  </programme>
+  <programme start="20230621013000 +0200" stop="20230621020000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">1Magic: Zone In: Season 2, Episode 42</title>
+    <desc lang="en-GB">&apos;S2/E42&apos;. Zone In showcases the freshest local and international stars and music genres.</desc>
+  </programme>
+  <programme start="20230621020000 +0200" stop="20230621033000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">1Magic: Hits: Season 3, Episode 18</title>
+    <desc lang="en-GB">&apos;S3/E18&apos;. Catch the best in local and international music hits.</desc>
+  </programme>
+  <programme start="20230621033000 +0200" stop="20230621050000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">1Magic: Hits: Season 3, Episode 19</title>
+    <desc lang="en-GB">&apos;S3/E19&apos;. Catch the best in local and international music hits.</desc>
+  </programme>
+  <programme start="20230621050000 +0200" stop="20230621060000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">The Talk: Season 13, Episode 146</title>
+    <desc lang="en-GB">&apos;S13/E146&apos;. Celebrity hosts discuss entertainment, politics and current events.</desc>
+  </programme>
+  <programme start="20230621060000 +0200" stop="20230621073000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">1Magic: Hits: Season 3, Episode 13</title>
+    <desc lang="en-GB">&apos;S3/E13&apos;. Catch the best in local and international music hits.</desc>
+  </programme>
+  <programme start="20230621073000 +0200" stop="20230621080000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">The River: Season 6, Episode 97</title>
+    <desc lang="en-GB">&apos;S6/E97&apos;. Lindiwe is sidelined as the new person in Andile&apos;s life sinks their claws deeper into him. Ndumiso finds other ways to get to Bonolo. Nkanyiso finds himself languishing in a heartbreak hotel.</desc>
+  </programme>
+  <programme start="20230621080000 +0200" stop="20230621083000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">Please Step In: Season 3, Episode 5</title>
+    <desc lang="en-GB">&apos;S3/E5&apos;. Relationships counsellor, Angie Diale, assists in staging an intervention in situations where a participant&apos;s family is struggling with a personal problem.</desc>
+  </programme>
+  <programme start="20230621083000 +0200" stop="20230621090000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">Please Step In: Season 3, Episode 6</title>
+    <desc lang="en-GB">&apos;S3/E6&apos;. Relationships counsellor, Angie Diale, assists in staging an intervention in situations where a participant&apos;s family is struggling with a personal problem.</desc>
+  </programme>
+  <programme start="20230621090000 +0200" stop="20230621100000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">Basketball Wives LA: Season 10, Episode 24</title>
+    <desc lang="en-GB">&apos;S10/E24&apos;. The ladies take a day cruise. Duffey arranges a group therapy session. Angel deliberates joining the group in Mexico, and Brooke deals with conflicting emotions over ending her marriage.</desc>
+  </programme>
+  <programme start="20230621100000 +0200" stop="20230621103000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">1802: Love Defies Time: Season 1, Episode 23</title>
+    <desc lang="en-GB">&apos;S1/E23&apos;. Kumkani Jonginamba is conflicted when his dream reveals who should be the next king. Nkosazana discovers Lukhanyo&apos;s whereabouts and receives shocking news from MaXhanti.</desc>
+  </programme>
+  <programme start="20230621103000 +0200" stop="20230621110000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">The River: Season 6, Episode 97</title>
+    <desc lang="en-GB">&apos;S6/E97&apos;. Lindiwe is sidelined as the new person in Andile&apos;s life sinks their claws deeper into him. Ndumiso finds other ways to get to Bonolo. Nkanyiso finds himself languishing in a heartbreak hotel.</desc>
+  </programme>
+  <programme start="20230621110000 +0200" stop="20230621120000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">The Real Housewives Of Durban: Season 2, Episode 14</title>
+    <desc lang="en-GB">&apos;S2/E14&apos;. Nonku takes on Londie for pushing her drinking narrative in part two of the reunion. Will this group of women survive the shake-up tonight or is this the end of some friendships?</desc>
+  </programme>
+  <programme start="20230621120000 +0200" stop="20230621123000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">1Magic: Zone In: Season 2, Episode 12</title>
+    <desc lang="en-GB">&apos;S2/E12&apos;. Zone In showcases the freshest local and international stars and music genres.</desc>
+  </programme>
+  <programme start="20230621123000 +0200" stop="20230621130000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">1Magic: Zone In: Season 2, Episode 14</title>
+    <desc lang="en-GB">&apos;S2/E14&apos;. Zone In showcases the freshest local and international stars and music genres.</desc>
+  </programme>
+  <programme start="20230621130000 +0200" stop="20230621140000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">Basketball Wives LA: Season 10, Episode 24</title>
+    <desc lang="en-GB">&apos;S10/E24&apos;. The ladies take a day cruise. Duffey arranges a group therapy session. Angel deliberates joining the group in Mexico, and Brooke deals with conflicting emotions over ending her marriage.</desc>
+  </programme>
+  <programme start="20230621140000 +0200" stop="20230621143000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">1802: Love Defies Time: Season 1, Episode 23</title>
+    <desc lang="en-GB">&apos;S1/E23&apos;. Kumkani Jonginamba is conflicted when his dream reveals who should be the next king. Nkosazana discovers Lukhanyo&apos;s whereabouts and receives shocking news from MaXhanti.</desc>
+  </programme>
+  <programme start="20230621143000 +0200" stop="20230621153000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">Beat Shazam: Season 5, Episode 2</title>
+    <desc lang="en-GB">&apos;S5/E2 - Holding Out For A Hero&apos;. Fire safety officers, deputy sheriffs and a married military team face off for a life-changing fortune.</desc>
+  </programme>
+  <programme start="20230621153000 +0200" stop="20230621160000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">The River: Season 6, Episode 97</title>
+    <desc lang="en-GB">&apos;S6/E97&apos;. Lindiwe is sidelined as the new person in Andile&apos;s life sinks their claws deeper into him. Ndumiso finds other ways to get to Bonolo. Nkanyiso finds himself languishing in a heartbreak hotel.</desc>
+  </programme>
+  <programme start="20230621160000 +0200" stop="20230621163000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">Young Rock: Season 2, Episode 1</title>
+    <desc lang="en-GB">&apos;S2/E1 - A Christmas Peril&apos;. A chaos-filled premiere. Christmas Eve, 1982: An unexpected guest shows Dewey that this is the first of many terrible Christmases. In 1987, Rocky and Dwayne take jobs as a mall Santa and elf.</desc>
+  </programme>
+  <programme start="20230621163000 +0200" stop="20230621170000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">Young Rock: Season 2, Episode 2</title>
+    <desc lang="en-GB">&apos;S2/E2 - Unprecedented Fatherhood&apos;. As the 2032 election nears, Dwayne reflects on what it means to be a father. In 1984, little Dewey vies for his father&apos;s attention after Rocky becomes the WWF tag team champ.</desc>
+  </programme>
+  <programme start="20230621170000 +0200" stop="20230621173000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">Mnakwethu: Season 3, Episode 3</title>
+    <desc lang="en-GB">&apos;S3/E3&apos;. Xaba&apos;s wife breaks down just at the sight of Mr. Mseleku walking in with her husband because she knows what they are here for.</desc>
+  </programme>
+  <programme start="20230621173000 +0200" stop="20230621180000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">Mnakwethu: Season 3, Episode 4</title>
+    <desc lang="en-GB">&apos;S3/E4&apos;. Mchunu is from the Shembe church, and so didn&apos;t think Mr Mseleku would struggle in assisting him to ask his wife for a second wife, she surprised him.</desc>
+  </programme>
+  <programme start="20230621180000 +0200" stop="20230621190000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">The Talk: Season 13, Episode 100</title>
+    <desc lang="en-GB">&apos;S13/E100 - Alfrie Woodard, Marcus Scribner&apos;. Celebrity hosts discuss entertainment, politics and current events.</desc>
+  </programme>
+  <programme start="20230621190000 +0200" stop="20230621200000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">Basketball Wives LA: Season 10, Episode 25</title>
+    <desc lang="en-GB">&apos;S10/E25&apos;. Brooke&apos;s husband Steven joins her in Mexico. Brittish lands a new gig, and Jennifer&apos;s cease and desist letter to Jackie threatens to derail Duffey&apos;s party.</desc>
+  </programme>
+  <programme start="20230621200000 +0200" stop="20230621203000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">The River: Season 6, Episode 98</title>
+    <desc lang="en-GB">&apos;S6/E98&apos;. Lindiwe puts her foot in it. Ndumiso works his magic on Bonolo. Dimpho and Nkanyiso struggle to find each other again.</desc>
+  </programme>
+  <programme start="20230621203000 +0200" stop="20230621210000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">1802: Love Defies Time: Season 1, Episode 24</title>
+    <desc lang="en-GB">&apos;S1/E24&apos;. When the council of elders rules in favour of his brother, Melisizwe gives up the fight and walks away. Meanwhile, in the future, MaXhanti gives Nkosazana some glimmer of hope.</desc>
+  </programme>
+  <programme start="20230621210000 +0200" stop="20230621220000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">Bel-Air: Season 1, Episode 9</title>
+    <desc lang="en-GB">&apos;S1/E9 - Can&apos;t Knock The Hustle&apos;. The Banks family goes to church. Will considers taking the opportunity to find his father, unknowingly driving a wedge between Phil and Geoffrey.</desc>
+  </programme>
+  <programme start="20230621220000 +0200" stop="20230621230000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">The Cleaning Lady: Season 1, Episode 7</title>
+    <desc lang="en-GB">&apos;S1/E7 - Our Father, Who Art In Vegas&apos;. Thony&apos;s marital issues are amplified as Marco asks tough questions about her methods of getting Luca life-saving treatments. Arman is determined to make his way out from under Hayak.</desc>
+  </programme>
+  <programme start="20230621230000 +0200" stop="20230622001000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">Blood Psalms: Season 1, Episode 2</title>
+    <desc lang="en-GB">&apos;S1/E2&apos;. Upon Zazi&apos;s 18th birthday, the tribes of the realm begin to gather for the wedding of King Letsha to an Uchawi princess. He learns that to save himself and his throne, he must sacrifice his daughter.</desc>
+  </programme>
+  <programme start="20230621000000 +0200" stop="20230621013000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Ingoma: Rating: PG13, Drama, 2014</title>
+    <desc lang="en-GB">A young man lost his mother at the tender age of five and never knew his father. His life starts to change when he meets three exciting characters.</desc>
+  </programme>
+  <programme start="20230621013000 +0200" stop="20230621030000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Lokshin Bioskop: Skhoti Boy: Rating: PG13, Drama, 2013</title>
+    <desc lang="en-GB">On a mission to impress a girl and be cool, a nerdy matric student ends up on the wrong side of the law.</desc>
+  </programme>
+  <programme start="20230621030000 +0200" stop="20230621043000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Plastic Money: Rating: 13, Drama, 2013</title>
+    <desc lang="en-GB">Three young black women are tired of struggling financially, so they assume a life of credit card fraud so they can live the life of their dreams.</desc>
+  </programme>
+  <programme start="20230621043000 +0200" stop="20230621060000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">The Boy Is Mine: Rating: PG13, Drama, 2014</title>
+    <desc lang="en-GB">A friendship is put to the test when two friends discover they are both dating the same man.</desc>
+  </programme>
+  <programme start="20230621060000 +0200" stop="20230621070000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">The Talk: Season 13, Episode 121</title>
+    <desc lang="en-GB">&apos;S13/E121 of 205&apos;. Celebrity hosts discuss entertainment, politics and current events.</desc>
+  </programme>
+  <programme start="20230621070000 +0200" stop="20230621080000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">The Talk: Season 13, Episode 122</title>
+    <desc lang="en-GB">&apos;S13/E122 of 205&apos;. Celebrity hosts discuss entertainment, politics and current events.</desc>
+  </programme>
+  <programme start="20230621080000 +0200" stop="20230621093000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">The Price Of Njabulo: Rating: 13, Drama, 2013</title>
+    <desc lang="en-GB">A couple moves to the city as the hubby chases his dream to be an artist. When things don&apos;t work out, she resents him and starts borrowing money from a loan shark.</desc>
+  </programme>
+  <programme start="20230621093000 +0200" stop="20230621100000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Umkhokha: The Curse: Season 1, Episode 77</title>
+    <desc lang="en-GB">&apos;S1/E77 of 150&apos;. MaMzobe&apos;s troubles escalate as Mlungisi and Sibusiso make changes in the church. MaNzimande eats before Siphamandla and refuses anyone to bow to him anymore.</desc>
+  </programme>
+  <programme start="20230621100000 +0200" stop="20230621103100 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Gqeberha: The Empire: Season 1, Episode 112</title>
+    <desc lang="en-GB">&apos;S1/E112 of 185&apos;. Nozuko feels like Anathi is living her life. Nozuko decides to see Ixhwele for a solution to help her fall pregnant. Bulelwa&apos;s brother arrives with his wife and sparks a fly.</desc>
+  </programme>
+  <programme start="20230621103100 +0200" stop="20230621105900 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Gomora: Season 4, Episode 42</title>
+    <desc lang="en-GB">&apos;S4/E42 of 115&apos;. DJ Ora rocks Stompie&apos;s world when she takes a turn for the worst. Letsatsi manages to steal Tshiamo&apos;s heart.</desc>
+  </programme>
+  <programme start="20230621105900 +0200" stop="20230621120000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Dr Phil: Season 21, Episode 118</title>
+    <desc lang="en-GB">&apos;S21/E118 of 175&apos;. Phil McGraw is a life strategist who offers advice on a wide range of topics, including marital, financial and self-image issues.</desc>
+  </programme>
+  <programme start="20230621120000 +0200" stop="20230621123000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">The River: Season 4, Episode 192</title>
+    <desc lang="en-GB">&apos;S4/E192 of 260&apos;. The Dikanas find themselves with their hands full with an uninvited guest. Cobra declares war on one of his own.</desc>
+  </programme>
+  <programme start="20230621123000 +0200" stop="20230621130100 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Umkhokha: The Curse: Season 1, Episode 77</title>
+    <desc lang="en-GB">&apos;S1/E77 of 150&apos;. MaMzobe&apos;s troubles escalate as Mlungisi and Sibusiso make changes in the church. MaNzimande eats before Siphamandla and refuses anyone to bow to him anymore.</desc>
+  </programme>
+  <programme start="20230621130100 +0200" stop="20230621133000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Gqeberha: The Empire: Season 1, Episode 112</title>
+    <desc lang="en-GB">&apos;S1/E112 of 185&apos;. Nozuko feels like Anathi is living her life. Nozuko decides to see Ixhwele for a solution to help her fall pregnant. Bulelwa&apos;s brother arrives with his wife and sparks a fly.</desc>
+  </programme>
+  <programme start="20230621133000 +0200" stop="20230621140000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Gomora: Season 4, Episode 42</title>
+    <desc lang="en-GB">&apos;S4/E42 of 115&apos;. DJ Ora rocks Stompie&apos;s world when she takes a turn for the worst. Letsatsi manages to steal Tshiamo&apos;s heart.</desc>
+  </programme>
+  <programme start="20230621140000 +0200" stop="20230621152900 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Stepfather Se Voet: Rating: 13, Comedy, 2013</title>
+    <desc lang="en-GB">Two friends are thick as thieves, until one of them catches the other in the warm embrace of his girlfriend. Now revenge is on the cards.</desc>
+  </programme>
+  <programme start="20230621152900 +0200" stop="20230621160000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Mzansi Magic Music Specials: Season 3, Episode 5</title>
+    <desc lang="en-GB">&apos;S3/E5 of 10 - Rebecca Malope&apos;. Bob Mabena interviews veteran gospel megastar, Dr Rebecca Malope, to find out the secret behind her successful career and what keeps her on top of her game.</desc>
+  </programme>
+  <programme start="20230621160000 +0200" stop="20230621170000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Isitha: Rating: 13, Drama, 2016</title>
+    <desc lang="en-GB">An assassin is given a mission to take out his boss&apos;s enemy, but when he falls in love with the target, his boss decides it&apos;s time he&apos;s taught a lesson.</desc>
+  </programme>
+  <programme start="20230621170000 +0200" stop="20230621180000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">The Talk: Season 13, Episode 123</title>
+    <desc lang="en-GB">&apos;S13/E123 of 205&apos;. Celebrity hosts discuss entertainment, politics and current events.</desc>
+  </programme>
+  <programme start="20230621180000 +0200" stop="20230621190300 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Makoti, Are You The One?: Season 2, Episode 13</title>
+    <desc lang="en-GB">&apos;S2/E13 of 14&apos;. Lanconco catches up with the cast of season 2 to find out where they are now. She also delves more into Fifi and Pinky&apos;s journey.</desc>
+  </programme>
+  <programme start="20230621190300 +0200" stop="20230621193000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">The River: Season 4, Episode 193</title>
+    <desc lang="en-GB">&apos;S4/E193 of 260&apos;. Cobra grows desperate in his pursuit while the Dikanas feel tested by their unwanted guest.</desc>
+  </programme>
+  <programme start="20230621193000 +0200" stop="20230621200100 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Gomora: Season 4, Episode 43</title>
+    <desc lang="en-GB">&apos;S4/E43 of 115&apos;. A certain officer of the law threatens Sonto. Stompie resorts to desperate measures to secure the ransom. Sizwe uncovers something dangerous under Tumelo&apos;s bed.</desc>
+  </programme>
+  <programme start="20230621200100 +0200" stop="20230621203200 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Kings Of Maskandi: Season 1, Episode 8</title>
+    <desc lang="en-GB">&apos;S1/E8 of 10&apos;. Khulekani hosts the third imbizo. He faces a lot of challenges, forcing him to make alternative plans.</desc>
+  </programme>
+  <programme start="20230621203200 +0200" stop="20230621210200 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Umkhokha: The Curse: Season 1, Episode 78</title>
+    <desc lang="en-GB">&apos;S1/E78 of 150&apos;. Mlungisi shakes the AmaJudiya world into a panic. Nobuntu finally gets the truth from MaMzobe. Khulekani regrets his decisions, while Mabusi longs to do what she loves.</desc>
+  </programme>
+  <programme start="20230621210200 +0200" stop="20230621213200 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Gqeberha: The Empire: Season 1, Episode 113</title>
+    <desc lang="en-GB">&apos;S1/E113 of 185&apos;. Nozuko dismisses some information that could destroy Anathi for good. Chumani shows his true colours.</desc>
+  </programme>
+  <programme start="20230621213200 +0200" stop="20230621220000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Isifiso: Season 2, Episode 11</title>
+    <desc lang="en-GB">&apos;S2/E11 of 13&apos;. Realising just how powerful Delani is, Nokwanda sets her sights on him. Bazothini overhears Nokwanda talking to Kagiso on the phone, and Nokwanda declares war on Bazothini.</desc>
+  </programme>
+  <programme start="20230621220000 +0200" stop="20230621230000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Ifa Lethu: Rating: 13, Drama, 2018</title>
+    <desc lang="en-GB">A grieving wife and mother is dealt a big blow when she discovers that her husband has been hiding a secret that could destroy the whole family.</desc>
+  </programme>
+  <programme start="20230621230000 +0200" stop="20230622000000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">The Talk: Season 13, Episode 123</title>
+    <desc lang="en-GB">&apos;S13/E123 of 205&apos;. Celebrity hosts discuss entertainment, politics and current events.</desc>
+  </programme>
+  <programme start="20230622000000 +0200" stop="20230622013000 +0200" channel="dstv_mzansi_magic">
+    <title lang="en-GB">Lokshin Bioskop: Ingadi: Rating: 13, Comedy, 2014</title>
+    <desc lang="en-GB">A greedy domestic worker wants to dig out a money trunk buried in her employer&apos;s garden, but things go awry when all the neighbourhood workers want a share of the money.</desc>
+  </programme>
+  <programme start="20230621000000 +0200" stop="20230621013000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Lokshin Bioskop: 10 Steps To Make...: Rating: PG13, Romance, 2014</title>
+    <desc lang="en-GB">Desperate for a ring, a young woman turns to a &apos;10 Steps to Make Him Propose&apos; article to get her boyfriend to go down on one knee.</desc>
+  </programme>
+  <programme start="20230621013000 +0200" stop="20230621030000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Lokshin Bioskop: Ingadi: Rating: 13, Comedy, 2014</title>
+    <desc lang="en-GB">A greedy domestic worker wants to dig up a trunk full of money buried in her employer&apos;s garden. Things go awry when the neighbourhood servants want a share of the money.</desc>
+  </programme>
+  <programme start="20230621030000 +0200" stop="20230621040000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Gospel 10 At 10: Season 1, Episode 23</title>
+    <desc lang="en-GB">&apos;S1/E23&apos;. We bring you a count down of your favorite top ten gospel hits. Only on Mzansi Wethu.</desc>
+  </programme>
+  <programme start="20230621040000 +0200" stop="20230621050000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Gospel 10 At 10: Season 1, Episode 24</title>
+    <desc lang="en-GB">&apos;S1/E24&apos;. We bring you a count down of your favorite top ten gospel hits. Only on Mzansi Wethu.</desc>
+  </programme>
+  <programme start="20230621050000 +0200" stop="20230621060000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">My Top 10: My Life In Music: Season 1, Episode 20</title>
+    <desc lang="en-GB">&apos;S1/E20&apos;. Hosted by Thabo Mokwele and filmed entirely in a radio studio, inspirational people tell their life stories, set against the background of and influenced by music.</desc>
+  </programme>
+  <programme start="20230621060000 +0200" stop="20230621061500 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Tjiff En Tjaff: Speeltyd: Season 1, Episode 15</title>
+    <desc lang="en-GB">&apos;S1/E15&apos;. The lively animal kingdom twins, Tjiff and Tjaff, are very inquisitive! They can&apos;t wait to play outside each day. But what can they do outside? Come and play with Tjiff and Tjaff.</desc>
+  </programme>
+  <programme start="20230621061500 +0200" stop="20230621063000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Trixi: Season 1, Episode 7</title>
+    <desc lang="en-GB">&apos;S1/E7&apos;. Trixi plays on the computer to learn more about wild animals and plants.</desc>
+  </programme>
+  <programme start="20230621063000 +0200" stop="20230621064400 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Rat-Tat-Tat: Season 1, Episode 15</title>
+    <desc lang="en-GB">&apos;S1/E15&apos;. The clever antelope and skunk are travelling through the country. They discover all sorts of interesting places and meet a lot of friends along the way.</desc>
+  </programme>
+  <programme start="20230621064400 +0200" stop="20230621070000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Tjiff En Tjaff: Speeltyd: Season 2, Episode 34</title>
+    <desc lang="en-GB">&apos;S2/E34&apos;. The lively animal kingdom twins, Tjiff and Tjaff, are very inquisitive! They can&apos;t wait to play outside each day. But what can they do outside? Come and play with Tjiff and Tjaff.</desc>
+  </programme>
+  <programme start="20230621070000 +0200" stop="20230621071500 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Zim Zim: Season 1, Episode 29</title>
+    <desc lang="en-GB">&apos;S1/E29&apos;. Zim Zim is an ordinary six-year-old boy who shrinks when he makes a mistake. He goes to a secret place where he learns not to make the same mistake again.</desc>
+  </programme>
+  <programme start="20230621071500 +0200" stop="20230621072900 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Froggies: Season 1, Episode 4</title>
+    <desc lang="en-GB">&apos;S1/E4&apos;. Auntie Hop the frog tells stories that make you sit up and listen. Her chatty little frog companions can&apos;t get enough of her stories about the African animal kingdom.</desc>
+  </programme>
+  <programme start="20230621072900 +0200" stop="20230621074500 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Dee Dee &amp; Spike: Season 1, Episode 22</title>
+    <desc lang="en-GB">&apos;S1/E22&apos;. Dee Dee and Spike, the children&apos;s dance series: Each episode takes you to a fun place and teaches children playful dance moves, whilst building on their vocabulary.</desc>
+  </programme>
+  <programme start="20230621074500 +0200" stop="20230621080000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Rat-Tat-Tat: Season 1, Episode 6</title>
+    <desc lang="en-GB">&apos;S1/E6&apos;. The clever antelope and skunk are travelling through the country. They discover all sorts of interesting places and meet a lot of friends along the way.</desc>
+  </programme>
+  <programme start="20230621080000 +0200" stop="20230621081400 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Tjiff En Tjaff: Speeltyd: Season 2, Episode 30</title>
+    <desc lang="en-GB">&apos;S2/E30&apos;. The lively animal kingdom twins, Tjiff and Tjaff, are very inquisitive! They can&apos;t wait to play outside each day. But what can they do outside? Come and play with Tjiff and Tjaff.</desc>
+  </programme>
+  <programme start="20230621081400 +0200" stop="20230621083000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Trixi: Season 1, Episode 4</title>
+    <desc lang="en-GB">&apos;S1/E4&apos;. Trixi plays on the computer to learn more about wild animals and plants.</desc>
+  </programme>
+  <programme start="20230621083000 +0200" stop="20230621084400 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Lappies: Season 1, Episode 49</title>
+    <desc lang="en-GB">&apos;S1/E49&apos;. Lappies the lion is the prince of the bushveld and heir to the throne because his dad is the king. Lappies learns, plays and experiences as many adventures everyday with his friends.</desc>
+  </programme>
+  <programme start="20230621084400 +0200" stop="20230621090000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Dee Dee &amp; Spike: Season 1, Episode 48</title>
+    <desc lang="en-GB">&apos;S1/E48&apos;. Dee Dee and Spike, the children&apos;s dance series: Each episode takes you to a fun place and teaches children playful dance moves, whilst building on their vocabulary.</desc>
+  </programme>
+  <programme start="20230621090000 +0200" stop="20230621100000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">My Top 10: My Life In Music: Season 1, Episode 21</title>
+    <desc lang="en-GB">&apos;S1/E21&apos;. Hosted by Thabo Mokwele and filmed entirely in a radio studio, inspirational people tell their life stories, set against the background of and influenced by music.</desc>
+  </programme>
+  <programme start="20230621100000 +0200" stop="20230621103000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Greed And Desire: Season 1, Episode </title>
+    <desc lang="en-GB">&apos;S1 - Like Mother Like Daughter&apos;. Morakile tells Kgomotso he&apos;s taking over the hotel now that Maru&apos;s out of the picture. Noni opens up about her past to Tokelo.</desc>
+  </programme>
+  <programme start="20230621103000 +0200" stop="20230621110000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Gomora: Season 2, Episode 192</title>
+    <desc lang="en-GB">&apos;S2/E192&apos;. Melusi reveals to Phumlani he had Thathi first. Zodwa empties her cupboards to starve Teddy and Sibongile.</desc>
+  </programme>
+  <programme start="20230621110000 +0200" stop="20230621113000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Lingashoni: Season 2, Episode 30</title>
+    <desc lang="en-GB">&apos;S2/E30&apos;. Seipati expects Mandla to sign the marriage contract. Robert tries his best to make things right with Sarah. Poppy discovers an intimate secret between Brenda and an admirer.</desc>
+  </programme>
+  <programme start="20230621113000 +0200" stop="20230621120000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">The Queen: Season 6, Episode 17</title>
+    <desc lang="en-GB">&apos;S6/E17&apos;. Hector and Thando corner Vuyiswa&apos;s witness.</desc>
+  </programme>
+  <programme start="20230621120000 +0200" stop="20230621123000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">The River: Season 2, Episode 252</title>
+    <desc lang="en-GB">&apos;S2/E252 - Who To Trust?&apos;. Lindani prays that Charlie will keep his secret, while the stakes have just increased, putting Charlie under pressure.</desc>
+  </programme>
+  <programme start="20230621123000 +0200" stop="20230621130000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Greed And Desire: Season 1, Episode </title>
+    <desc lang="en-GB">&apos;S1 - Like Mother Like Daughter&apos;. Morakile tells Kgomotso he&apos;s taking over the hotel now that Maru&apos;s out of the picture. Noni opens up about her past to Tokelo.</desc>
+  </programme>
+  <programme start="20230621130000 +0200" stop="20230621135800 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Gog&apos;flo: Rating: 13, Drama, 2020</title>
+    <desc lang="en-GB">Gog&apos;Flo is assumed the evil village witch. After her twin sister set her up, the village cast her out, but her absence opens the village up to a series of misfortunes.</desc>
+  </programme>
+  <programme start="20230621135800 +0200" stop="20230621142800 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Gomora: Season 2, Episode 192</title>
+    <desc lang="en-GB">&apos;S2/E192&apos;. Melusi reveals to Phumlani he had Thathi first. Zodwa empties her cupboards to starve Teddy and Sibongile.</desc>
+  </programme>
+  <programme start="20230621142800 +0200" stop="20230621145900 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Lingashoni: Season 2, Episode 30</title>
+    <desc lang="en-GB">&apos;S2/E30&apos;. Seipati expects Mandla to sign the marriage contract. Robert tries his best to make things right with Sarah. Poppy discovers an intimate secret between Brenda and an admirer.</desc>
+  </programme>
+  <programme start="20230621145900 +0200" stop="20230621152800 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">The Queen: Season 6, Episode 17</title>
+    <desc lang="en-GB">&apos;S6/E17&apos;. Hector and Thando corner Vuyiswa&apos;s witness.</desc>
+  </programme>
+  <programme start="20230621152800 +0200" stop="20230621155800 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">The River: Season 2, Episode 252</title>
+    <desc lang="en-GB">&apos;S2/E252 - Who To Trust?&apos;. Lindani prays that Charlie will keep his secret, while the stakes have just increased, putting Charlie under pressure.</desc>
+  </programme>
+  <programme start="20230621155800 +0200" stop="20230621165800 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Mim: Dipoloko: Rating: 13, Drama, 2018</title>
+    <desc lang="en-GB">When a polygamous family man dies, his son finds himself between two feuding mothers.</desc>
+  </programme>
+  <programme start="20230621165800 +0200" stop="20230621175800 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Downtime With Somizi: Season 1, Episode 3</title>
+    <desc lang="en-GB">&apos;S1/E3&apos;. Somizi meets up with the leading men of SA entertainment, Vuyo Ngcukana and Warren Masemola to share what life is like on and off screen.</desc>
+  </programme>
+  <programme start="20230621175800 +0200" stop="20230621183000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Ubizo: Season 4, Episode 10</title>
+    <desc lang="en-GB">&apos;S4/E10&apos;. A young man, alongside his mom and brothers are seeking clarity on their ancestral alter. They discover that the spiritual gifts that are present in some of this family have sadly not been natured by the mom.</desc>
+  </programme>
+  <programme start="20230621183000 +0200" stop="20230621190000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Abandoned: Season 2, Episode 9</title>
+    <desc lang="en-GB">&apos;S2/E9&apos;. Given seeks to be reunited with his father, whom he lost contact with as an infant. Will Abandoned be able to find and reconnect the father and son?</desc>
+  </programme>
+  <programme start="20230621190000 +0200" stop="20230621193000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">News On Wethu: Season 1, Episode 115</title>
+    <desc lang="en-GB">&apos;S1/E115&apos;. The daily news bulletin covering the latest breaking news locally and internationally. Presented in IsiZulu and IsiXhosa, we bring you a new era of current and reliable news coverage.</desc>
+  </programme>
+  <programme start="20230621193000 +0200" stop="20230621200000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Gomora: Season 2, Episode 193</title>
+    <desc lang="en-GB">&apos;S2/E193&apos;. Thathi is surprised when Phumlani doesn&apos;t seem interested in her past. Sibongile and Teddy loot the Dlaminis&apos; kitchen.</desc>
+  </programme>
+  <programme start="20230621200000 +0200" stop="20230621203000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">The River: Season 2, Episode 253</title>
+    <desc lang="en-GB">&apos;S2/E253 - My Playground&apos;. Charlie finds himself in hot water when his attempts to get the reward go south. Lindani&apos;s secret takes its toll on his relationship with Tumi.</desc>
+  </programme>
+  <programme start="20230621203000 +0200" stop="20230621210000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Lingashoni: Season 2, Episode 31</title>
+    <desc lang="en-GB">&apos;S2/E31&apos;. Things fall apart in the Cele and Nondumo household in a major way. Bangizwe feels at home in Brenda&apos;s house.</desc>
+  </programme>
+  <programme start="20230621210000 +0200" stop="20230621213000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">The Queen: Season 6, Episode 18</title>
+    <desc lang="en-GB">&apos;S6/E18&apos;. Vuyiswa feels so close to cracking the case, but is always one step behind. Her frustrations are rising.</desc>
+  </programme>
+  <programme start="20230621213000 +0200" stop="20230621223500 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Shaka Ilembe: Season 1, Episode 1</title>
+    <desc lang="en-GB">&apos;S1/E1 of 12&apos;. Princess Nandi of the Langeni captures the heart of Prince Senzangakhona of the Zulu, but their romance is cut short by a clash with Prince Zwide of the Ndwandwe. Zwide declares war on the Zulus, blaming Senzangakhona.</desc>
+  </programme>
+  <programme start="20230621223500 +0200" stop="20230621231000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">The Wife: Behind The Veil: Season 1, Episode 3</title>
+    <desc lang="en-GB">&apos;S1/E3 of 8&apos;. The Zulu brothers were willing to do anything to get Zandile out of prison. As Nqoba concludes his plans, we take a look at the many loyalties and briberies that brought about this epic jailbreak.</desc>
+  </programme>
+  <programme start="20230621231000 +0200" stop="20230621234000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Short And Sweet: Season 1, Episode 10</title>
+    <desc lang="en-GB">&apos;S1/E10 of 13&apos;. Zenande experiences culture shock, Vovo and her girls paint the town red, and she finds a potential surrogate for her baby.</desc>
+  </programme>
+  <programme start="20230621234000 +0200" stop="20230622001000 +0200" channel="dstv_mzansi_wethu">
+    <title lang="en-GB">Ingane Yam: Season 3, Episode 10</title>
+    <desc lang="en-GB">&apos;S3/E10 of 13&apos;. Charlie Mothibedi wants to tell his partner about his 8-year-old daughter that he is co-parenting with another woman.</desc>
+  </programme>
+  <programme start="20230621003000 +0200" stop="20230621013000 +0200" channel="dstv_mzansi_bioskop">
+    <title lang="en-GB">Imbeleko: Rating: PG13, Drama, 2017</title>
+    <desc lang="en-GB">A young wife is keeping a secret about the paternity of her child, but things get complicated when there&apos;s a request for an ancestral ceremony to be done.</desc>
+  </programme>
+  <programme start="20230621013000 +0200" stop="20230621023000 +0200" channel="dstv_mzansi_bioskop">
+    <title lang="en-GB">Usolo: Rating: 13, Drama, 2021</title>
+    <desc lang="en-GB">Solo is wrongfully declared a hero in his community and awarded R50 000 for taking down an armed robber.</desc>
+  </programme>
+  <programme start="20230621023000 +0200" stop="20230621033000 +0200" channel="dstv_mzansi_bioskop">
+    <title lang="en-GB">Iwashi: Rating: 16, Horror, 2019</title>
+    <desc lang="en-GB">A notorious township criminal decides to steal a wristwatch. The wristwatch starts to haunt him, but will he return it to the rightful owner?</desc>
+  </programme>
+  <programme start="20230621033000 +0200" stop="20230621043000 +0200" channel="dstv_mzansi_bioskop">
+    <title lang="en-GB">Hawe Ma: Rating: 13, Drama, 2018</title>
+    <desc lang="en-GB">A former actress registers in the same university drama course as her daughter. Rivalry erupts between the pair when the mom is cast in the lead role.</desc>
+  </programme>
+  <programme start="20230621043000 +0200" stop="20230621060000 +0200" channel="dstv_mzansi_bioskop">
+    <title lang="en-GB">Lokshin Bioskop: Jackpot Mathambo: Rating: PG, Comedy, 2013</title>
+    <desc lang="en-GB">An unemployed man&apos;s life turns around when he wins the lottery, but as the saying goes, &apos;more money, more problems&apos;.</desc>
+  </programme>
+  <programme start="20230621060000 +0200" stop="20230621070000 +0200" channel="dstv_mzansi_bioskop">
+    <title lang="en-GB">Thojana: Rating: 13, Drama, 2018</title>
+    <desc lang="en-GB">A young and determined girl struggles with being loyal to her father&apos;s wishes and domestic life while being true to her heart&apos;s desires.</desc>
+  </programme>
+  <programme start="20230621070000 +0200" stop="20230621080000 +0200" channel="dstv_mzansi_bioskop">
+    <title lang="en-GB">Ntombinkulu: Rating: 13, Drama, 2018</title>
+    <desc lang="en-GB">An overweight teen battles her way through being body-shamed by her peers. With the help of an unsuspecting visitor, she finds her confidence.</desc>
+  </programme>
+  <programme start="20230621080000 +0200" stop="20230621090000 +0200" channel="dstv_mzansi_bioskop">
+    <title lang="en-GB">Thando Lwami: Rating: 13, Drama, 2017</title>
+    <desc lang="en-GB">When a young man falls for a wealthy woman, their love is tested as their families come against their union. Will their love crumble under the weight of the condemnation?</desc>
+  </programme>
+  <programme start="20230621090000 +0200" stop="20230621100000 +0200" channel="dstv_mzansi_bioskop">
+    <title lang="en-GB">Owami Nami: Rating: 13, Fantasy Drama, 2016</title>
+    <desc lang="en-GB">An insecure young woman turns to muti to stop her boyfriend from pursuing another woman, but she gets more than what she bargained for.</desc>
+  </programme>
+  <programme start="20230621100000 +0200" stop="20230621110000 +0200" channel="dstv_mzansi_bioskop">
+    <title lang="en-GB">Sekoloto: Rating: 13, Drama, 2021</title>
+    <desc lang="en-GB">Seipati is on the run from her gangster boyfriend after stealing money from him.</desc>
+  </programme>
+  <programme start="20230621110000 +0200" stop="20230621120000 +0200" channel="dstv_mzansi_bioskop">
+    <title lang="en-GB">Mme Wa Rona: Rating: 16, Drama, 2017</title>
+    <desc lang="en-GB">A mentally unstable lady allows her jealousy to get the better of her, resulting in unthinkable actions that destroy the lives of everyone around her.</desc>
+  </programme>
+  <programme start="20230621120000 +0200" stop="20230621130000 +0200" channel="dstv_mzansi_bioskop">
+    <title lang="en-GB">Ifour Room: Rating: 13, Drama, 2018</title>
+    <desc lang="en-GB">A fragile widower becomes the target of two scheming women who are determined to take over the house left by her husband.</desc>
+  </programme>
+  <programme start="20230621130000 +0200" stop="20230621140000 +0200" channel="dstv_mzansi_bioskop">
+    <title lang="en-GB">Umgcagco Wezinyembezi: Rating: 13, Drama, 2017</title>
+    <desc lang="en-GB">When a young girl is forced to marry an older man, her uncle decides to fight back against this cultural practice which forces women into arranged marriages.</desc>
+  </programme>
+  <programme start="20230621140000 +0200" stop="20230621150000 +0200" channel="dstv_mzansi_bioskop">
+    <title lang="en-GB">Umculo Emoyeni: Rating: 13, Drama, 2021</title>
+    <desc lang="en-GB">Mpumi is musically gifted but hides her passion for music from her father. An encounter with a jazz legend unravels truths about her past.</desc>
+  </programme>
+  <programme start="20230621150000 +0200" stop="20230621160000 +0200" channel="dstv_mzansi_bioskop">
+    <title lang="en-GB">Take Me Home Again: Rating: 13, Thriller, 2020</title>
+    <desc lang="en-GB">A young man just found himself a girlfriend. Just when he thinks life is about to be cozy for him, he encounters the angry spirit of a dead man who was transported home for a burial.</desc>
+  </programme>
+  <programme start="20230621160000 +0200" stop="20230621170000 +0200" channel="dstv_mzansi_bioskop">
+    <title lang="en-GB">Sawubona We Lova: Rating: 13, Drama, 2020</title>
+    <desc lang="en-GB">An ex gambling, orphaned and self destructive man decides to clean up his act and goes on a journey to find his biological father, but he finds more than he bargained for.</desc>
+  </programme>
+  <programme start="20230621170000 +0200" stop="20230621180000 +0200" channel="dstv_mzansi_bioskop">
+    <title lang="en-GB">Umshado Wethu: Rating: 13, Drama, 2021</title>
+    <desc lang="en-GB">A well-off woman finally weds the man of her dreams, but her parents refuse for her to proceed with the wedding because they want her to marry a trust fund baby.</desc>
+  </programme>
+  <programme start="20230621180000 +0200" stop="20230621190000 +0200" channel="dstv_mzansi_bioskop">
+    <title lang="en-GB">Emakhazeni: Rating: 13, Drama, 2020</title>
+    <desc lang="en-GB">A young man struggles to juggling his secret life of the party and being the perfect son to his father. He now has to take over the family business. Will he keep up with the double life.</desc>
+  </programme>
+  <programme start="20230621190000 +0200" stop="20230621200200 +0200" channel="dstv_mzansi_bioskop">
+    <title lang="en-GB">Korobela: Rating: 13, Comedy, 2021</title>
+    <desc lang="en-GB">To avoid being forced into an arranged marriage, Ntokozo hires a boyfriend to introduce to her family.</desc>
+  </programme>
+  <programme start="20230621200200 +0200" stop="20230621211000 +0200" channel="dstv_mzansi_bioskop">
+    <title lang="en-GB">Imfihlo: Rating: 16, Drama, 2020</title>
+    <desc lang="en-GB">Wendy and Mandla, lost touch but are reunited by destiny. Thabitha, Mandla&apos;s mother, is unhappy about their relationship and tries everything to keep them apart.</desc>
+  </programme>
+  <programme start="20230621211000 +0200" stop="20230621223400 +0200" channel="dstv_mzansi_bioskop">
+    <title lang="en-GB">Ke Summer Boss: Rating: PG13, Comedy, 2013</title>
+    <desc lang="en-GB">When a man steals Mam&apos;fundisi&apos;s panties off her washing line, the incident triggers chain reaction events that get him in and out of trouble.</desc>
+  </programme>
+  <programme start="20230621223400 +0200" stop="20230621233100 +0200" channel="dstv_mzansi_bioskop">
+    <title lang="en-GB">Nomalanga: Rating: PG13, Drama, 2017</title>
+    <desc lang="en-GB">A teenager embarks on a quest to find her biological mother after she discovers that she was kidnapped.</desc>
+  </programme>
+  <programme start="20230621233100 +0200" stop="20230622003000 +0200" channel="dstv_mzansi_bioskop">
+    <title lang="en-GB">Ifour Room: Rating: 13, Drama, 2018</title>
+    <desc lang="en-GB">A fragile widower becomes the target of two scheming women who are determined to take over the house left by her husband.</desc>
+  </programme>
+  <programme start="20230621000000 +0200" stop="20230621010000 +0200" channel="dstv_mzansi_magic_music_hd">
+    <title lang="en-GB">Namba Namba: Rating: 16, Music Mix, 2022</title>
+    <desc lang="en-GB">Do not miss the best local and international adult contemporary music, fresh on Mzansi Magic Music.</desc>
+  </programme>
+  <programme start="20230621010000 +0200" stop="20230621020000 +0200" channel="dstv_mzansi_magic_music_hd">
+    <title lang="en-GB">House Grooves: Rating: 16, Music, 2023</title>
+    <desc lang="en-GB">A delightful mix of some of your favourite house music hits.</desc>
+  </programme>
+  <programme start="20230621020000 +0200" stop="20230621030000 +0200" channel="dstv_mzansi_magic_music_hd">
+    <title lang="en-GB">Magic Music: Rating: 16, Music Mix, 2022</title>
+    <desc lang="en-GB">We bring you nothing but the best music videos of your favourite artist.</desc>
+  </programme>
+  <programme start="20230621030000 +0200" stop="20230621040000 +0200" channel="dstv_mzansi_magic_music_hd">
+    <title lang="en-GB">Soul Food: Rating: 16, Music Mix, 2022</title>
+    <desc lang="en-GB">If music is your language of love, then we&apos;ve got just what you need. Don&apos;t miss the best in Soul and RNB.</desc>
+  </programme>
+  <programme start="20230621040000 +0200" stop="20230621050000 +0200" channel="dstv_mzansi_magic_music_hd">
+    <title lang="en-GB">R&amp;B Wave: Rating: 16, Music, 2023</title>
+    <desc lang="en-GB">Relax, unwind and reminisce to your favourite classic luv Jams.</desc>
+  </programme>
+  <programme start="20230621050000 +0200" stop="20230621060000 +0200" channel="dstv_mzansi_magic_music_hd">
+    <title lang="en-GB">Siyakhonza: Rating: 16, Music, 2023</title>
+    <desc lang="en-GB">Mzansi Magic Music showcases the best in contemporary gospel songs.</desc>
+  </programme>
+  <programme start="20230621060000 +0200" stop="20230621070000 +0200" channel="dstv_mzansi_magic_music_hd">
+    <title lang="en-GB">Ziyaduma: Rating: 16, Maskandi, 2022</title>
+    <desc lang="en-GB">Mzansi Magic Music brings you an eight-part series featuring music and spoken-word performances.</desc>
+  </programme>
+  <programme start="20230621070000 +0200" stop="20230621080000 +0200" channel="dstv_mzansi_magic_music_hd">
+    <title lang="en-GB">Afro-Pop Hits: Rating: 16, Music, 2022</title>
+    <desc lang="en-GB">We bring you nothing but the best music videos of your favourite artist.</desc>
+  </programme>
+  <programme start="20230621080000 +0200" stop="20230621090000 +0200" channel="dstv_mzansi_magic_music_hd">
+    <title lang="en-GB">House Grooves: Rating: 16, Music, 2023</title>
+    <desc lang="en-GB">A delightful mix of some of your favourite house music hits.</desc>
+  </programme>
+  <programme start="20230621090000 +0200" stop="20230621100000 +0200" channel="dstv_mzansi_magic_music_hd">
+    <title lang="en-GB">Soul Food: Rating: 16, Music Mix, 2022</title>
+    <desc lang="en-GB">If music is your language of love, then we&apos;ve got just what you need. Don&apos;t miss the best in Soul and RNB.</desc>
+  </programme>
+  <programme start="20230621100000 +0200" stop="20230621110000 +0200" channel="dstv_mzansi_magic_music_hd">
+    <title lang="en-GB">Magic Music: Rating: 16, Music Mix, 2022</title>
+    <desc lang="en-GB">We bring you nothing but the best music videos of your favourite artist.</desc>
+  </programme>
+  <programme start="20230621110000 +0200" stop="20230621113000 +0200" channel="dstv_mzansi_magic_music_hd">
+    <title lang="en-GB">Daily 5: Ayanda Jiya: Rating: 16, Music, 2023</title>
+    <desc lang="en-GB">We pick 5 great music videos of your favourite genre, artists or music groups and play them for your enjoyment.</desc>
+  </programme>
+  <programme start="20230621113000 +0200" stop="20230621120000 +0200" channel="dstv_mzansi_magic_music_hd">
+    <title lang="en-GB">Daily 5: Azana: Rating: 16, Music, 2023</title>
+    <desc lang="en-GB">We pick 5 great music videos of your favourite genre, artists or music groups and play them for your enjoyment.</desc>
+  </programme>
+  <programme start="20230621120000 +0200" stop="20230621130000 +0200" channel="dstv_mzansi_magic_music_hd">
+    <title lang="en-GB">House Grooves: Rating: 16, Music, 2023</title>
+    <desc lang="en-GB">A delightful mix of some of your favourite house music hits.</desc>
+  </programme>
+  <programme start="20230621130000 +0200" stop="20230621140000 +0200" channel="dstv_mzansi_magic_music_hd">
+    <title lang="en-GB">Afro-Pop Hits: Rating: 16, Music, 2022</title>
+    <desc lang="en-GB">We bring you nothing but the best music videos of your favourite artist.</desc>
+  </programme>
+  <programme start="20230621140000 +0200" stop="20230621150000 +0200" channel="dstv_mzansi_magic_music_hd">
+    <title lang="en-GB">Hip Hop: Rating: 16, Music Mix, 2022</title>
+    <desc lang="en-GB">We bring you nothing but the best music videos of your favourite artist.</desc>
+  </programme>
+  <programme start="20230621150000 +0200" stop="20230621160000 +0200" channel="dstv_mzansi_magic_music_hd">
+    <title lang="en-GB">MMM Features: Blaq Diamond: Rating: 16, Music, 2023</title>
+    <desc lang="en-GB">We bring you nothing but the best music videos of your favourite artist.</desc>
+  </programme>
+  <programme start="20230621160000 +0200" stop="20230621170000 +0200" channel="dstv_mzansi_magic_music_hd">
+    <title lang="en-GB">House Grooves: Rating: 16, Music, 2023</title>
+    <desc lang="en-GB">A delightful mix of some of your favourite house music hits.</desc>
+  </programme>
+  <programme start="20230621170000 +0200" stop="20230621173000 +0200" channel="dstv_mzansi_magic_music_hd">
+    <title lang="en-GB">Afro Pop Nation: Khoisan: Rating: 16, Music, 2023</title>
+    <desc lang="en-GB">Mzansi&apos;s hottest Afropop artists give intimate, soulful performances featuring their most popular songs and in-depth interviews.</desc>
+  </programme>
+  <programme start="20230621173000 +0200" stop="20230621180000 +0200" channel="dstv_mzansi_magic_music_hd">
+    <title lang="en-GB">Afro-Pop Hits: Rating: 16, Music, 2022</title>
+    <desc lang="en-GB">We bring you nothing but the best music videos of your favourite artist.</desc>
+  </programme>
+  <programme start="20230621180000 +0200" stop="20230621190000 +0200" channel="dstv_mzansi_magic_music_hd">
+    <title lang="en-GB">MMM Features: Sjava: Rating: 16, Music, 2023</title>
+    <desc lang="en-GB">We bring you nothing but the best music videos of your favourite artist.</desc>
+  </programme>
+  <programme start="20230621190000 +0200" stop="20230621200000 +0200" channel="dstv_mzansi_magic_music_hd">
+    <title lang="en-GB">Magic Music: Rating: 16, Music Mix, 2022</title>
+    <desc lang="en-GB">We bring you nothing but the best music videos of your favourite artist.</desc>
+  </programme>
+  <programme start="20230621200000 +0200" stop="20230621210000 +0200" channel="dstv_mzansi_magic_music_hd">
+    <title lang="en-GB">Afro-Pop Hits: Rating: 16, Music, 2022</title>
+    <desc lang="en-GB">We bring you nothing but the best music videos of your favourite artist.</desc>
+  </programme>
+  <programme start="20230621210000 +0200" stop="20230621220000 +0200" channel="dstv_mzansi_magic_music_hd">
+    <title lang="en-GB">House Grooves: Rating: 16, Music, 2023</title>
+    <desc lang="en-GB">A delightful mix of some of your favourite house music hits.</desc>
+  </programme>
+  <programme start="20230621220000 +0200" stop="20230621230000 +0200" channel="dstv_mzansi_magic_music_hd">
+    <title lang="en-GB">Magic Music 10: Rating: 16, Music, 2023</title>
+    <desc lang="en-GB">We bring you nothing but the best music videos of your favourite artist.</desc>
+  </programme>
+  <programme start="20230621230000 +0200" stop="20230622000000 +0200" channel="dstv_mzansi_magic_music_hd">
+    <title lang="en-GB">Ziyaduma: Rating: 16, Maskandi, 2022</title>
+    <desc lang="en-GB">Mzansi Magic Music brings you an eight-part series featuring music and spoken-word performances.</desc>
+  </programme>
+  <programme start="20230622000000 +0200" stop="20230622010000 +0200" channel="dstv_mzansi_magic_music_hd">
+    <title lang="en-GB">Namba Namba: Rating: 16, Music Mix, 2022</title>
+    <desc lang="en-GB">Do not miss the best local and international adult contemporary music, fresh on Mzansi Magic Music.</desc>
   </programme>
 </tv>
