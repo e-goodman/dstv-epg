@@ -587,15 +587,15 @@
     <title lang="en-GB">The Johnsons</title>
     <desc lang="en-GB">The Johnsons</desc>
   </programme>
-  <programme start="20230620223200 +0200" stop="20230620230100 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230620223200 +0200" stop="20230620230000 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">What Will People Say</title>
     <desc lang="en-GB">What Will People Say</desc>
   </programme>
-  <programme start="20230620230100 +0200" stop="20230620233400 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230620230000 +0200" stop="20230620233100 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">Big Brother Naija</title>
     <desc lang="en-GB">Big Brother Naija</desc>
   </programme>
-  <programme start="20230620233400 +0200" stop="20230621010200 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230620233100 +0200" stop="20230621010000 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">Mad Wife</title>
     <desc lang="en-GB">Mad Wife</desc>
   </programme>
@@ -731,15 +731,15 @@
     <title lang="en-GB">The Johnsons</title>
     <desc lang="en-GB">The Johnsons</desc>
   </programme>
-  <programme start="20230620220000 +0200" stop="20230620232900 +0200" channel="dstv_africa_magic_family">
+  <programme start="20230620220000 +0200" stop="20230620233000 +0200" channel="dstv_africa_magic_family">
     <title lang="en-GB">Broken Vine</title>
     <desc lang="en-GB">Broken Vine</desc>
   </programme>
-  <programme start="20230620232900 +0200" stop="20230620235500 +0200" channel="dstv_africa_magic_family">
+  <programme start="20230620233000 +0200" stop="20230620235700 +0200" channel="dstv_africa_magic_family">
     <title lang="en-GB">Big Brother Naija</title>
     <desc lang="en-GB">Big Brother Naija</desc>
   </programme>
-  <programme start="20230620235500 +0200" stop="20230621030000 +0200" channel="dstv_africa_magic_family">
+  <programme start="20230620235700 +0200" stop="20230621030000 +0200" channel="dstv_africa_magic_family">
     <title lang="en-GB">Palace Love</title>
     <desc lang="en-GB">Palace Love</desc>
   </programme>
@@ -780,8 +780,8 @@
     <desc lang="en-GB">Drum: Behind The Headlines</desc>
   </programme>
   <programme start="20230620043000 +0200" stop="20230620050000 +0200" channel="dstv_honey">
-    <title lang="en-GB">My Horror Love Story: Kenya</title>
-    <desc lang="en-GB">My Horror Love Story: Kenya</desc>
+    <title lang="en-GB">S1/E5. My Horror Love Story: Kenya</title>
+    <desc lang="en-GB">&apos;S1/E5&apos;. Janet&apos;s husband changed for the worse once he started earning more money. Fed up, she decided to leave the marriage, but he did not agree. He stabbed her, but she survived. Finally, he poured kerosene on her and burned her alive.</desc>
   </programme>
   <programme start="20230620050000 +0200" stop="20230620053000 +0200" channel="dstv_honey">
     <title lang="en-GB">The Big Bozza Cook-off</title>
@@ -808,8 +808,8 @@
     <desc lang="en-GB">My Zim Plate</desc>
   </programme>
   <programme start="20230620083000 +0200" stop="20230620090000 +0200" channel="dstv_honey">
-    <title lang="en-GB">Yes, I Have HIV: Zimbabwe</title>
-    <desc lang="en-GB">Yes, I Have HIV: Zimbabwe</desc>
+    <title lang="en-GB">S1/E2. Yes, I Have HIV: Zimbabwe</title>
+    <desc lang="en-GB">&apos;S1/E2&apos;. Bridget Timayi pulled out of an abusive marriage which left her infected with HIV and traumatised from losing two children to the virus. Today she will reveal her status to her daughter.</desc>
   </programme>
   <programme start="20230620090000 +0200" stop="20230620093000 +0200" channel="dstv_honey">
     <title lang="en-GB">Where Are You?</title>
@@ -860,8 +860,8 @@
     <desc lang="en-GB">My Zim Plate</desc>
   </programme>
   <programme start="20230620163000 +0200" stop="20230620170000 +0200" channel="dstv_honey">
-    <title lang="en-GB">Yes, I Have HIV: Zimbabwe</title>
-    <desc lang="en-GB">Yes, I Have HIV: Zimbabwe</desc>
+    <title lang="en-GB">S1/E3. Yes, I Have HIV: Zimbabwe</title>
+    <desc lang="en-GB">&apos;S1/E3&apos;. Ruva was born HIV positive but only found out in her teenage years. She is ready to confide in her best friend of about five years and hopes the news won&apos;t affect their friendship.</desc>
   </programme>
   <programme start="20230620170000 +0200" stop="20230620173000 +0200" channel="dstv_honey">
     <title lang="en-GB">Where Are You?</title>
@@ -2895,11 +2895,11 @@
     <title lang="en-GB">Pos</title>
     <desc lang="en-GB">Pos</desc>
   </programme>
-  <programme start="20230620233400 +0200" stop="20230621010200 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230620233100 +0200" stop="20230621010000 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">Mad Wife</title>
     <desc lang="en-GB">Mad Wife</desc>
   </programme>
-  <programme start="20230621010200 +0200" stop="20230621023500 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230621010000 +0200" stop="20230621023500 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">The Benefactor</title>
     <desc lang="en-GB">The Benefactor</desc>
   </programme>
@@ -2991,15 +2991,15 @@
     <title lang="en-GB">My Beautyful Life</title>
     <desc lang="en-GB">My Beautyful Life</desc>
   </programme>
-  <programme start="20230621230300 +0200" stop="20230621233400 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230621230300 +0200" stop="20230621233500 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">Big Brother Naija</title>
     <desc lang="en-GB">Big Brother Naija</desc>
   </programme>
-  <programme start="20230621233400 +0200" stop="20230622010000 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230621233500 +0200" stop="20230622010000 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">Beyond Control</title>
     <desc lang="en-GB">Beyond Control</desc>
   </programme>
-  <programme start="20230620235500 +0200" stop="20230621030000 +0200" channel="dstv_africa_magic_family">
+  <programme start="20230620235700 +0200" stop="20230621030000 +0200" channel="dstv_africa_magic_family">
     <title lang="en-GB">Palace Love</title>
     <desc lang="en-GB">Palace Love</desc>
   </programme>
@@ -3039,11 +3039,11 @@
     <title lang="en-GB">You &amp; I With Monalisa</title>
     <desc lang="en-GB">You &amp; I With Monalisa</desc>
   </programme>
-  <programme start="20230621090000 +0200" stop="20230621093500 +0200" channel="dstv_africa_magic_family">
+  <programme start="20230621090000 +0200" stop="20230621093400 +0200" channel="dstv_africa_magic_family">
     <title lang="en-GB">My Flatmates</title>
     <desc lang="en-GB">My Flatmates</desc>
   </programme>
-  <programme start="20230621093500 +0200" stop="20230621100000 +0200" channel="dstv_africa_magic_family">
+  <programme start="20230621093400 +0200" stop="20230621100000 +0200" channel="dstv_africa_magic_family">
     <title lang="en-GB">The Johnsons</title>
     <desc lang="en-GB">The Johnsons</desc>
   </programme>
@@ -3063,11 +3063,11 @@
     <title lang="en-GB">My Flatmates</title>
     <desc lang="en-GB">My Flatmates</desc>
   </programme>
-  <programme start="20230621120500 +0200" stop="20230621123000 +0200" channel="dstv_africa_magic_family">
+  <programme start="20230621120500 +0200" stop="20230621123100 +0200" channel="dstv_africa_magic_family">
     <title lang="en-GB">The Johnsons</title>
     <desc lang="en-GB">The Johnsons</desc>
   </programme>
-  <programme start="20230621123000 +0200" stop="20230621130000 +0200" channel="dstv_africa_magic_family">
+  <programme start="20230621123100 +0200" stop="20230621130000 +0200" channel="dstv_africa_magic_family">
     <title lang="en-GB">The Rishantes</title>
     <desc lang="en-GB">The Rishantes</desc>
   </programme>
@@ -3079,19 +3079,19 @@
     <title lang="en-GB">Layole&apos;s Lounge</title>
     <desc lang="en-GB">Layole&apos;s Lounge</desc>
   </programme>
-  <programme start="20230621140000 +0200" stop="20230621142500 +0200" channel="dstv_africa_magic_family">
+  <programme start="20230621140000 +0200" stop="20230621143000 +0200" channel="dstv_africa_magic_family">
     <title lang="en-GB">Love Come Back</title>
     <desc lang="en-GB">Love Come Back</desc>
   </programme>
-  <programme start="20230621142500 +0200" stop="20230621150000 +0200" channel="dstv_africa_magic_family">
-    <title lang="en-GB">Comedy Nites</title>
-    <desc lang="en-GB">Comedy Nites</desc>
+  <programme start="20230621143000 +0200" stop="20230621150000 +0200" channel="dstv_africa_magic_family">
+    <title lang="en-GB">Binging With Game Changers</title>
+    <desc lang="en-GB">Binging With Game Changers</desc>
   </programme>
-  <programme start="20230621150000 +0200" stop="20230621153500 +0200" channel="dstv_africa_magic_family">
+  <programme start="20230621150000 +0200" stop="20230621153400 +0200" channel="dstv_africa_magic_family">
     <title lang="en-GB">The Big Family Dream</title>
     <desc lang="en-GB">The Big Family Dream</desc>
   </programme>
-  <programme start="20230621153500 +0200" stop="20230621160000 +0200" channel="dstv_africa_magic_family">
+  <programme start="20230621153400 +0200" stop="20230621160000 +0200" channel="dstv_africa_magic_family">
     <title lang="en-GB">Unbroken</title>
     <desc lang="en-GB">Unbroken</desc>
   </programme>
@@ -3127,21 +3127,29 @@
     <title lang="en-GB">Tinsel</title>
     <desc lang="en-GB">Tinsel</desc>
   </programme>
-  <programme start="20230621213000 +0200" stop="20230621220000 +0200" channel="dstv_africa_magic_family">
+  <programme start="20230621213000 +0200" stop="20230621220500 +0200" channel="dstv_africa_magic_family">
     <title lang="en-GB">The Johnsons</title>
     <desc lang="en-GB">The Johnsons</desc>
   </programme>
-  <programme start="20230621220000 +0200" stop="20230622010500 +0200" channel="dstv_africa_magic_family">
-    <title lang="en-GB">Brides At War</title>
-    <desc lang="en-GB">Brides At War</desc>
+  <programme start="20230621220500 +0200" stop="20230621230000 +0200" channel="dstv_africa_magic_family">
+    <title lang="en-GB">Date My Family Nigeria</title>
+    <desc lang="en-GB">Date My Family Nigeria</desc>
+  </programme>
+  <programme start="20230621230000 +0200" stop="20230621233000 +0200" channel="dstv_africa_magic_family">
+    <title lang="en-GB">My Flatmates</title>
+    <desc lang="en-GB">My Flatmates</desc>
+  </programme>
+  <programme start="20230621233000 +0200" stop="20230622000000 +0200" channel="dstv_africa_magic_family">
+    <title lang="en-GB">Big Brother Naija</title>
+    <desc lang="en-GB">Big Brother Naija</desc>
   </programme>
   <programme start="20230621000000 +0200" stop="20230621003000 +0200" channel="dstv_honey">
     <title lang="en-GB">My Zim Plate</title>
     <desc lang="en-GB">My Zim Plate</desc>
   </programme>
   <programme start="20230621003000 +0200" stop="20230621010000 +0200" channel="dstv_honey">
-    <title lang="en-GB">Yes, I Have HIV: Zimbabwe</title>
-    <desc lang="en-GB">Yes, I Have HIV: Zimbabwe</desc>
+    <title lang="en-GB">S1/E3. Yes, I Have HIV: Zimbabwe</title>
+    <desc lang="en-GB">&apos;S1/E3&apos;. Ruva was born HIV positive but only found out in her teenage years. She is ready to confide in her best friend of about five years and hopes the news won&apos;t affect their friendship.</desc>
   </programme>
   <programme start="20230621010000 +0200" stop="20230621013000 +0200" channel="dstv_honey">
     <title lang="en-GB">Where Are You?</title>
@@ -3188,12 +3196,12 @@
     <desc lang="en-GB">7 Colours</desc>
   </programme>
   <programme start="20230621080000 +0200" stop="20230621083000 +0200" channel="dstv_honey">
-    <title lang="en-GB">My Horror Love Story: Zambia</title>
-    <desc lang="en-GB">My Horror Love Story: Zambia</desc>
+    <title lang="en-GB">S2/E5. My Horror Love Story: Zambia</title>
+    <desc lang="en-GB">&apos;S2/E5&apos;. Tamara&apos;s husband brought another woman into their matrimonial bed. He threatened her with a knife and pushed her into the fire, causing burns to her bottom.</desc>
   </programme>
   <programme start="20230621083000 +0200" stop="20230621090000 +0200" channel="dstv_honey">
-    <title lang="en-GB">Yes, I Have HIV: Zambia</title>
-    <desc lang="en-GB">Yes, I Have HIV: Zambia</desc>
+    <title lang="en-GB">S2/E5. Yes, I Have HIV: Zambia</title>
+    <desc lang="en-GB">&apos;S2/E5&apos;. Fred has been living with HIV since birth and his older sister, Matilda, has never known about his status. Today, he is disclosing his status to her.</desc>
   </programme>
   <programme start="20230621090000 +0200" stop="20230621093000 +0200" channel="dstv_honey">
     <title lang="en-GB">Yes Ndio Beeni: Zambia</title>
@@ -3244,12 +3252,12 @@
     <desc lang="en-GB">7 Colours</desc>
   </programme>
   <programme start="20230621160000 +0200" stop="20230621163000 +0200" channel="dstv_honey">
-    <title lang="en-GB">My Horror Love Story: Zambia</title>
-    <desc lang="en-GB">My Horror Love Story: Zambia</desc>
+    <title lang="en-GB">S2/E6. My Horror Love Story: Zambia</title>
+    <desc lang="en-GB">&apos;S2/E6&apos;. Not every day is Sunday for this pastoress. Matildah&apos;s husband cheats, beats her, and flees from their marital home.</desc>
   </programme>
   <programme start="20230621163000 +0200" stop="20230621170000 +0200" channel="dstv_honey">
-    <title lang="en-GB">Yes, I Have HIV: Zambia</title>
-    <desc lang="en-GB">Yes, I Have HIV: Zambia</desc>
+    <title lang="en-GB">S2/E6. Yes, I Have HIV: Zambia</title>
+    <desc lang="en-GB">&apos;S2/E6&apos;. Keeping her HIV positive status a secret has been a burden for Natasha. She has decided to lighten her burden by sharing the secret with her cousin.</desc>
   </programme>
   <programme start="20230621170000 +0200" stop="20230621173000 +0200" channel="dstv_honey">
     <title lang="en-GB">Yes Ndio Beeni: Zambia</title>
@@ -3319,11 +3327,11 @@
     <title lang="en-GB">e.tv News</title>
     <desc lang="en-GB">e.tv News</desc>
   </programme>
-  <programme start="20230621053000 +0200" stop="20230621055500 +0200" channel="dstv_e_tv">
+  <programme start="20230621053000 +0200" stop="20230621055400 +0200" channel="dstv_e_tv">
     <title lang="en-GB">The Morning News</title>
     <desc lang="en-GB">The Morning News</desc>
   </programme>
-  <programme start="20230621055500 +0200" stop="20230621060000 +0200" channel="dstv_e_tv">
+  <programme start="20230621055400 +0200" stop="20230621060000 +0200" channel="dstv_e_tv">
     <title lang="en-GB">Worker&apos;s Prayer</title>
     <desc lang="en-GB">Worker&apos;s Prayer</desc>
   </programme>
@@ -3367,43 +3375,39 @@
     <title lang="en-GB">Nikiwe</title>
     <desc lang="en-GB">Nikiwe</desc>
   </programme>
-  <programme start="20230621140000 +0200" stop="20230621142700 +0200" channel="dstv_e_tv">
+  <programme start="20230621140000 +0200" stop="20230621143000 +0200" channel="dstv_e_tv">
     <title lang="en-GB">CrimeWatch</title>
     <desc lang="en-GB">CrimeWatch</desc>
   </programme>
-  <programme start="20230621142700 +0200" stop="20230621143000 +0200" channel="dstv_e_tv">
-    <title lang="en-GB">e-Insert</title>
-    <desc lang="en-GB">e-Insert</desc>
-  </programme>
-  <programme start="20230621143000 +0200" stop="20230621145500 +0200" channel="dstv_e_tv">
+  <programme start="20230621143000 +0200" stop="20230621145900 +0200" channel="dstv_e_tv">
     <title lang="en-GB">Takalani Sesame</title>
     <desc lang="en-GB">Takalani Sesame</desc>
   </programme>
-  <programme start="20230621145500 +0200" stop="20230621151000 +0200" channel="dstv_e_tv">
+  <programme start="20230621145900 +0200" stop="20230621151300 +0200" channel="dstv_e_tv">
     <title lang="en-GB">PJ Masks</title>
     <desc lang="en-GB">PJ Masks</desc>
   </programme>
-  <programme start="20230621151000 +0200" stop="20230621152000 +0200" channel="dstv_e_tv">
+  <programme start="20230621151300 +0200" stop="20230621152500 +0200" channel="dstv_e_tv">
     <title lang="en-GB">PJ Masks</title>
     <desc lang="en-GB">PJ Masks</desc>
   </programme>
-  <programme start="20230621152000 +0200" stop="20230621154500 +0200" channel="dstv_e_tv">
+  <programme start="20230621152500 +0200" stop="20230621154900 +0200" channel="dstv_e_tv">
     <title lang="en-GB">My Little Pony: Friendship Is Magic</title>
     <desc lang="en-GB">My Little Pony: Friendship Is Magic</desc>
   </programme>
-  <programme start="20230621154500 +0200" stop="20230621161000 +0200" channel="dstv_e_tv">
+  <programme start="20230621154900 +0200" stop="20230621161200 +0200" channel="dstv_e_tv">
     <title lang="en-GB">Power Rangers Beast Morphers</title>
     <desc lang="en-GB">Power Rangers Beast Morphers</desc>
   </programme>
-  <programme start="20230621161000 +0200" stop="20230621163500 +0200" channel="dstv_e_tv">
+  <programme start="20230621161200 +0200" stop="20230621163500 +0200" channel="dstv_e_tv">
     <title lang="en-GB">Paternity Court</title>
     <desc lang="en-GB">Paternity Court</desc>
   </programme>
-  <programme start="20230621163500 +0200" stop="20230621170000 +0200" channel="dstv_e_tv">
+  <programme start="20230621163500 +0200" stop="20230621170100 +0200" channel="dstv_e_tv">
     <title lang="en-GB">Judge Judy</title>
     <desc lang="en-GB">Judge Judy</desc>
   </programme>
-  <programme start="20230621170000 +0200" stop="20230621180000 +0200" channel="dstv_e_tv">
+  <programme start="20230621170100 +0200" stop="20230621180000 +0200" channel="dstv_e_tv">
     <title lang="en-GB">Roekelose Dade</title>
     <desc lang="en-GB">Roekelose Dade</desc>
   </programme>
@@ -5464,12 +5468,12 @@
     <desc lang="en-GB">Big Brother Naija</desc>
   </programme>
   <programme start="20230622000000 +0200" stop="20230622003000 +0200" channel="dstv_honey">
-    <title lang="en-GB">My Horror Love Story: Zambia</title>
-    <desc lang="en-GB">My Horror Love Story: Zambia</desc>
+    <title lang="en-GB">S2/E6. My Horror Love Story: Zambia</title>
+    <desc lang="en-GB">&apos;S2/E6&apos;. Not every day is Sunday for this pastoress. Matildah&apos;s husband cheats, beats her, and flees from their marital home.</desc>
   </programme>
   <programme start="20230622003000 +0200" stop="20230622010000 +0200" channel="dstv_honey">
-    <title lang="en-GB">Yes, I Have HIV: Zambia</title>
-    <desc lang="en-GB">Yes, I Have HIV: Zambia</desc>
+    <title lang="en-GB">S2/E6. Yes, I Have HIV: Zambia</title>
+    <desc lang="en-GB">&apos;S2/E6&apos;. Keeping her HIV positive status a secret has been a burden for Natasha. She has decided to lighten her burden by sharing the secret with her cousin.</desc>
   </programme>
   <programme start="20230622010000 +0200" stop="20230622013000 +0200" channel="dstv_honey">
     <title lang="en-GB">Yes Ndio Beeni: Zambia</title>
@@ -5540,8 +5544,8 @@
     <desc lang="en-GB">7 Colours</desc>
   </programme>
   <programme start="20230622110000 +0200" stop="20230622113000 +0200" channel="dstv_honey">
-    <title lang="en-GB">Yes, I Have HIV: Zambia</title>
-    <desc lang="en-GB">Yes, I Have HIV: Zambia</desc>
+    <title lang="en-GB">S2/E5. Yes, I Have HIV: Zambia</title>
+    <desc lang="en-GB">&apos;S2/E5&apos;. Fred has been living with HIV since birth and his older sister, Matilda, has never known about his status. Today, he is disclosing his status to her.</desc>
   </programme>
   <programme start="20230622113000 +0200" stop="20230622120000 +0200" channel="dstv_honey">
     <title lang="en-GB">A Prisoner Stole My Heart</title>
@@ -5592,8 +5596,8 @@
     <desc lang="en-GB">7 Colours</desc>
   </programme>
   <programme start="20230622190000 +0200" stop="20230622193000 +0200" channel="dstv_honey">
-    <title lang="en-GB">Yes, I Have HIV: Zambia</title>
-    <desc lang="en-GB">Yes, I Have HIV: Zambia</desc>
+    <title lang="en-GB">S2/E6. Yes, I Have HIV: Zambia</title>
+    <desc lang="en-GB">&apos;S2/E6&apos;. Keeping her HIV positive status a secret has been a burden for Natasha. She has decided to lighten her burden by sharing the secret with her cousin.</desc>
   </programme>
   <programme start="20230622193000 +0200" stop="20230622200000 +0200" channel="dstv_honey">
     <title lang="en-GB">A Prisoner Stole My Heart</title>
@@ -7679,17 +7683,21 @@
     <title lang="en-GB">Fire Brigade</title>
     <desc lang="en-GB">Fire Brigade</desc>
   </programme>
-  <programme start="20230622233000 +0200" stop="20230623012500 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230622233600 +0200" stop="20230623012700 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">Mended Heart</title>
     <desc lang="en-GB">Mended Heart</desc>
   </programme>
-  <programme start="20230623012500 +0200" stop="20230623031000 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230623012700 +0200" stop="20230623031100 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">Looking Back</title>
     <desc lang="en-GB">Looking Back</desc>
   </programme>
-  <programme start="20230623031000 +0200" stop="20230623060000 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230623031100 +0200" stop="20230623050800 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">Tears In My Eyes</title>
     <desc lang="en-GB">Tears In My Eyes</desc>
+  </programme>
+  <programme start="20230623050800 +0200" stop="20230623060000 +0200" channel="dstv_africa_magic_urban">
+    <title lang="en-GB">Sequence</title>
+    <desc lang="en-GB">Sequence</desc>
   </programme>
   <programme start="20230623060000 +0200" stop="20230623080000 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">One More Day</title>
@@ -7727,7 +7735,7 @@
     <title lang="en-GB">The Crush</title>
     <desc lang="en-GB">The Crush</desc>
   </programme>
-  <programme start="20230622220000 +0200" stop="20230623010000 +0200" channel="dstv_africa_magic_family">
+  <programme start="20230623000000 +0200" stop="20230623010000 +0200" channel="dstv_africa_magic_family">
     <title lang="en-GB">Emergency Marriage</title>
     <desc lang="en-GB">Emergency Marriage</desc>
   </programme>
@@ -7751,11 +7759,11 @@
     <title lang="en-GB">Eve</title>
     <desc lang="en-GB">Eve</desc>
   </programme>
-  <programme start="20230623035500 +0200" stop="20230623045500 +0200" channel="dstv_africa_magic_family">
+  <programme start="20230623035500 +0200" stop="20230623045900 +0200" channel="dstv_africa_magic_family">
     <title lang="en-GB">Africa Magic Music</title>
     <desc lang="en-GB">Africa Magic Music</desc>
   </programme>
-  <programme start="20230623045500 +0200" stop="20230623060000 +0200" channel="dstv_africa_magic_family">
+  <programme start="20230623045900 +0200" stop="20230623060000 +0200" channel="dstv_africa_magic_family">
     <title lang="en-GB">Africa Magic Music</title>
     <desc lang="en-GB">Africa Magic Music</desc>
   </programme>
@@ -7892,8 +7900,8 @@
     <desc lang="en-GB">7 Colours</desc>
   </programme>
   <programme start="20230623030000 +0200" stop="20230623033000 +0200" channel="dstv_honey">
-    <title lang="en-GB">Yes, I Have HIV: Zambia</title>
-    <desc lang="en-GB">Yes, I Have HIV: Zambia</desc>
+    <title lang="en-GB">S2/E6. Yes, I Have HIV: Zambia</title>
+    <desc lang="en-GB">&apos;S2/E6&apos;. Keeping her HIV positive status a secret has been a burden for Natasha. She has decided to lighten her burden by sharing the secret with her cousin.</desc>
   </programme>
   <programme start="20230623033000 +0200" stop="20230623040000 +0200" channel="dstv_honey">
     <title lang="en-GB">A Prisoner Stole My Heart</title>
@@ -7940,8 +7948,8 @@
     <desc lang="en-GB">Talk with Toke Makinwa</desc>
   </programme>
   <programme start="20230623110000 +0200" stop="20230623113000 +0200" channel="dstv_honey">
-    <title lang="en-GB">Yes, I Have HIV: Zimbabwe</title>
-    <desc lang="en-GB">Yes, I Have HIV: Zimbabwe</desc>
+    <title lang="en-GB">S1/E2. Yes, I Have HIV: Zimbabwe</title>
+    <desc lang="en-GB">&apos;S1/E2&apos;. Bridget Timayi pulled out of an abusive marriage which left her infected with HIV and traumatised from losing two children to the virus. Today she will reveal her status to her daughter.</desc>
   </programme>
   <programme start="20230623113000 +0200" stop="20230623120000 +0200" channel="dstv_honey">
     <title lang="en-GB">My Kenyan Plate</title>
@@ -7988,8 +7996,8 @@
     <desc lang="en-GB">Talk with Toke Makinwa</desc>
   </programme>
   <programme start="20230623190000 +0200" stop="20230623193000 +0200" channel="dstv_honey">
-    <title lang="en-GB">Yes, I Have HIV: Zimbabwe</title>
-    <desc lang="en-GB">Yes, I Have HIV: Zimbabwe</desc>
+    <title lang="en-GB">S1/E3. Yes, I Have HIV: Zimbabwe</title>
+    <desc lang="en-GB">&apos;S1/E3&apos;. Ruva was born HIV positive but only found out in her teenage years. She is ready to confide in her best friend of about five years and hopes the news won&apos;t affect their friendship.</desc>
   </programme>
   <programme start="20230623193000 +0200" stop="20230623200000 +0200" channel="dstv_honey">
     <title lang="en-GB">My Kenyan Plate</title>
@@ -10116,8 +10124,8 @@
     <desc lang="en-GB">Talk with Toke Makinwa</desc>
   </programme>
   <programme start="20230624030000 +0200" stop="20230624033000 +0200" channel="dstv_honey">
-    <title lang="en-GB">Yes, I Have HIV: Zimbabwe</title>
-    <desc lang="en-GB">Yes, I Have HIV: Zimbabwe</desc>
+    <title lang="en-GB">S1/E3. Yes, I Have HIV: Zimbabwe</title>
+    <desc lang="en-GB">&apos;S1/E3&apos;. Ruva was born HIV positive but only found out in her teenage years. She is ready to confide in her best friend of about five years and hopes the news won&apos;t affect their friendship.</desc>
   </programme>
   <programme start="20230624033000 +0200" stop="20230624040000 +0200" channel="dstv_honey">
     <title lang="en-GB">My Kenyan Plate</title>
@@ -10160,8 +10168,8 @@
     <desc lang="en-GB">A Prisoner Stole My Heart</desc>
   </programme>
   <programme start="20230624090000 +0200" stop="20230624093000 +0200" channel="dstv_honey">
-    <title lang="en-GB">My Horror Love Story: Zambia</title>
-    <desc lang="en-GB">My Horror Love Story: Zambia</desc>
+    <title lang="en-GB">S2/E6. My Horror Love Story: Zambia</title>
+    <desc lang="en-GB">&apos;S2/E6&apos;. Not every day is Sunday for this pastoress. Matildah&apos;s husband cheats, beats her, and flees from their marital home.</desc>
   </programme>
   <programme start="20230624093000 +0200" stop="20230624100000 +0200" channel="dstv_honey">
     <title lang="en-GB">Sangoma, Khanyisa!</title>
@@ -10220,8 +10228,8 @@
     <desc lang="en-GB">A Prisoner Stole My Heart</desc>
   </programme>
   <programme start="20230624170000 +0200" stop="20230624173000 +0200" channel="dstv_honey">
-    <title lang="en-GB">My Horror Love Story: Zambia</title>
-    <desc lang="en-GB">My Horror Love Story: Zambia</desc>
+    <title lang="en-GB">S2/E7. My Horror Love Story: Zambia</title>
+    <desc lang="en-GB">&apos;S2/E7&apos;. Beauty has given birth to two children but is unable to fall pregnant with a third. Enraged, her husband beats her up with a belt and strangles her.</desc>
   </programme>
   <programme start="20230624173000 +0200" stop="20230624180000 +0200" channel="dstv_honey">
     <title lang="en-GB">Sangoma, Khanyisa!</title>
@@ -12360,8 +12368,8 @@
     <desc lang="en-GB">A Prisoner Stole My Heart</desc>
   </programme>
   <programme start="20230625010000 +0200" stop="20230625013000 +0200" channel="dstv_honey">
-    <title lang="en-GB">My Horror Love Story: Zambia</title>
-    <desc lang="en-GB">My Horror Love Story: Zambia</desc>
+    <title lang="en-GB">S2/E7. My Horror Love Story: Zambia</title>
+    <desc lang="en-GB">&apos;S2/E7&apos;. Beauty has given birth to two children but is unable to fall pregnant with a third. Enraged, her husband beats her up with a belt and strangles her.</desc>
   </programme>
   <programme start="20230625013000 +0200" stop="20230625020000 +0200" channel="dstv_honey">
     <title lang="en-GB">Sangoma, Khanyisa!</title>
@@ -12428,12 +12436,12 @@
     <desc lang="en-GB">My Kenyan Plate</desc>
   </programme>
   <programme start="20230625110000 +0200" stop="20230625113000 +0200" channel="dstv_honey">
-    <title lang="en-GB">Yes, I Have HIV: Zambia</title>
-    <desc lang="en-GB">Yes, I Have HIV: Zambia</desc>
+    <title lang="en-GB">S2/E6. Yes, I Have HIV: Zambia</title>
+    <desc lang="en-GB">&apos;S2/E6&apos;. Keeping her HIV positive status a secret has been a burden for Natasha. She has decided to lighten her burden by sharing the secret with her cousin.</desc>
   </programme>
   <programme start="20230625113000 +0200" stop="20230625120000 +0200" channel="dstv_honey">
-    <title lang="en-GB">Yes, I Have HIV: Zimbabwe</title>
-    <desc lang="en-GB">Yes, I Have HIV: Zimbabwe</desc>
+    <title lang="en-GB">S1/E3. Yes, I Have HIV: Zimbabwe</title>
+    <desc lang="en-GB">&apos;S1/E3&apos;. Ruva was born HIV positive but only found out in her teenage years. She is ready to confide in her best friend of about five years and hopes the news won&apos;t affect their friendship.</desc>
   </programme>
   <programme start="20230625120000 +0200" stop="20230625130000 +0200" channel="dstv_honey">
     <title lang="en-GB">Date My Family: South Africa</title>
@@ -12472,12 +12480,12 @@
     <desc lang="en-GB">My Kenyan Plate</desc>
   </programme>
   <programme start="20230625190000 +0200" stop="20230625193000 +0200" channel="dstv_honey">
-    <title lang="en-GB">Yes, I Have HIV: Zambia</title>
-    <desc lang="en-GB">Yes, I Have HIV: Zambia</desc>
+    <title lang="en-GB">S2/E7. Yes, I Have HIV: Zambia</title>
+    <desc lang="en-GB">&apos;S2/E7&apos;. Kamfwa has been living with HIV for a couple of years and he has not opened up about his status to anyone. Today, he feels he is ready to share his secret.</desc>
   </programme>
   <programme start="20230625193000 +0200" stop="20230625200000 +0200" channel="dstv_honey">
-    <title lang="en-GB">Yes, I Have HIV: Zimbabwe</title>
-    <desc lang="en-GB">Yes, I Have HIV: Zimbabwe</desc>
+    <title lang="en-GB">S1/E4. Yes, I Have HIV: Zimbabwe</title>
+    <desc lang="en-GB">&apos;S1/E4&apos;. Enock found out he was HIV positive in 2000. He may have infected his wife who has no idea about his status. The guilt is killing him slowly and he is ready to disclose his status to her.</desc>
   </programme>
   <programme start="20230625200000 +0200" stop="20230625210000 +0200" channel="dstv_honey">
     <title lang="en-GB">Date My Family: South Africa</title>
@@ -14660,12 +14668,12 @@
     <desc lang="en-GB">My Kenyan Plate</desc>
   </programme>
   <programme start="20230626030000 +0200" stop="20230626033000 +0200" channel="dstv_honey">
-    <title lang="en-GB">Yes, I Have HIV: Zambia</title>
-    <desc lang="en-GB">Yes, I Have HIV: Zambia</desc>
+    <title lang="en-GB">S2/E7. Yes, I Have HIV: Zambia</title>
+    <desc lang="en-GB">&apos;S2/E7&apos;. Kamfwa has been living with HIV for a couple of years and he has not opened up about his status to anyone. Today, he feels he is ready to share his secret.</desc>
   </programme>
   <programme start="20230626033000 +0200" stop="20230626040000 +0200" channel="dstv_honey">
-    <title lang="en-GB">Yes, I Have HIV: Zimbabwe</title>
-    <desc lang="en-GB">Yes, I Have HIV: Zimbabwe</desc>
+    <title lang="en-GB">S1/E4. Yes, I Have HIV: Zimbabwe</title>
+    <desc lang="en-GB">&apos;S1/E4&apos;. Enock found out he was HIV positive in 2000. He may have infected his wife who has no idea about his status. The guilt is killing him slowly and he is ready to disclose his status to her.</desc>
   </programme>
   <programme start="20230626040000 +0200" stop="20230626050000 +0200" channel="dstv_honey">
     <title lang="en-GB">Date My Family: South Africa</title>
@@ -14720,8 +14728,8 @@
     <desc lang="en-GB">Drum: Behind The Headlines</desc>
   </programme>
   <programme start="20230626123000 +0200" stop="20230626130000 +0200" channel="dstv_honey">
-    <title lang="en-GB">My Horror Love Story: Kenya</title>
-    <desc lang="en-GB">My Horror Love Story: Kenya</desc>
+    <title lang="en-GB">S1/E5. My Horror Love Story: Kenya</title>
+    <desc lang="en-GB">&apos;S1/E5&apos;. Janet&apos;s husband changed for the worse once he started earning more money. Fed up, she decided to leave the marriage, but he did not agree. He stabbed her, but she survived. Finally, he poured kerosene on her and burned her alive.</desc>
   </programme>
   <programme start="20230626130000 +0200" stop="20230626133000 +0200" channel="dstv_honey">
     <title lang="en-GB">The Big Bozza Cook-off</title>
@@ -14780,8 +14788,8 @@
     <desc lang="en-GB">Drum: Behind The Headlines</desc>
   </programme>
   <programme start="20230626203000 +0200" stop="20230626210000 +0200" channel="dstv_honey">
-    <title lang="en-GB">My Horror Love Story: Kenya</title>
-    <desc lang="en-GB">My Horror Love Story: Kenya</desc>
+    <title lang="en-GB">S1/E6. My Horror Love Story: Kenya</title>
+    <desc lang="en-GB">&apos;S1/E6&apos;. Simba was in his prime. Then he got the phone call that would change this life forever. His beloved girlfriend had accused him of rape. He was found guilty and sentenced to 10 years in jail.</desc>
   </programme>
   <programme start="20230626210000 +0200" stop="20230626213000 +0200" channel="dstv_honey">
     <title lang="en-GB">The Big Bozza Cook-off</title>
@@ -17048,8 +17056,8 @@
     <desc lang="en-GB">Drum: Behind The Headlines</desc>
   </programme>
   <programme start="20230627043000 +0200" stop="20230627050000 +0200" channel="dstv_honey">
-    <title lang="en-GB">My Horror Love Story: Kenya</title>
-    <desc lang="en-GB">My Horror Love Story: Kenya</desc>
+    <title lang="en-GB">S1/E6. My Horror Love Story: Kenya</title>
+    <desc lang="en-GB">&apos;S1/E6&apos;. Simba was in his prime. Then he got the phone call that would change this life forever. His beloved girlfriend had accused him of rape. He was found guilty and sentenced to 10 years in jail.</desc>
   </programme>
   <programme start="20230627050000 +0200" stop="20230627053000 +0200" channel="dstv_honey">
     <title lang="en-GB">The Big Bozza Cook-off</title>
@@ -17076,8 +17084,8 @@
     <desc lang="en-GB">My Zim Plate</desc>
   </programme>
   <programme start="20230627083000 +0200" stop="20230627090000 +0200" channel="dstv_honey">
-    <title lang="en-GB">Yes, I Have HIV: Zimbabwe</title>
-    <desc lang="en-GB">Yes, I Have HIV: Zimbabwe</desc>
+    <title lang="en-GB">S1/E3. Yes, I Have HIV: Zimbabwe</title>
+    <desc lang="en-GB">&apos;S1/E3&apos;. Ruva was born HIV positive but only found out in her teenage years. She is ready to confide in her best friend of about five years and hopes the news won&apos;t affect their friendship.</desc>
   </programme>
   <programme start="20230627090000 +0200" stop="20230627093000 +0200" channel="dstv_honey">
     <title lang="en-GB">Where Are You?</title>
@@ -17128,8 +17136,8 @@
     <desc lang="en-GB">My Zim Plate</desc>
   </programme>
   <programme start="20230627163000 +0200" stop="20230627170000 +0200" channel="dstv_honey">
-    <title lang="en-GB">Yes, I Have HIV: Zimbabwe</title>
-    <desc lang="en-GB">Yes, I Have HIV: Zimbabwe</desc>
+    <title lang="en-GB">S1/E4. Yes, I Have HIV: Zimbabwe</title>
+    <desc lang="en-GB">&apos;S1/E4&apos;. Enock found out he was HIV positive in 2000. He may have infected his wife who has no idea about his status. The guilt is killing him slowly and he is ready to disclose his status to her.</desc>
   </programme>
   <programme start="20230627170000 +0200" stop="20230627173000 +0200" channel="dstv_honey">
     <title lang="en-GB">Where Are You?</title>
@@ -19348,8 +19356,8 @@
     <desc lang="en-GB">My Zim Plate</desc>
   </programme>
   <programme start="20230628003000 +0200" stop="20230628010000 +0200" channel="dstv_honey">
-    <title lang="en-GB">Yes, I Have HIV: Zimbabwe</title>
-    <desc lang="en-GB">Yes, I Have HIV: Zimbabwe</desc>
+    <title lang="en-GB">S1/E4. Yes, I Have HIV: Zimbabwe</title>
+    <desc lang="en-GB">&apos;S1/E4&apos;. Enock found out he was HIV positive in 2000. He may have infected his wife who has no idea about his status. The guilt is killing him slowly and he is ready to disclose his status to her.</desc>
   </programme>
   <programme start="20230628010000 +0200" stop="20230628013000 +0200" channel="dstv_honey">
     <title lang="en-GB">Where Are You?</title>
@@ -19396,12 +19404,12 @@
     <desc lang="en-GB">7 Colours</desc>
   </programme>
   <programme start="20230628080000 +0200" stop="20230628083000 +0200" channel="dstv_honey">
-    <title lang="en-GB">My Horror Love Story: Zambia</title>
-    <desc lang="en-GB">My Horror Love Story: Zambia</desc>
+    <title lang="en-GB">S2/E6. My Horror Love Story: Zambia</title>
+    <desc lang="en-GB">&apos;S2/E6&apos;. Not every day is Sunday for this pastoress! Matildah&apos;s husband cheated on her, beat her up, and ran away from their matrimonial home.</desc>
   </programme>
   <programme start="20230628083000 +0200" stop="20230628090000 +0200" channel="dstv_honey">
-    <title lang="en-GB">Yes, I Have HIV: Zambia</title>
-    <desc lang="en-GB">Yes, I Have HIV: Zambia</desc>
+    <title lang="en-GB">S2/E6. Yes, I Have HIV: Zambia</title>
+    <desc lang="en-GB">&apos;S2/E6&apos;. Keeping her HIV positive status a secret has been a burden for Natasha. She has decided to lighten her burden by sharing the secret with her cousin.</desc>
   </programme>
   <programme start="20230628090000 +0200" stop="20230628093000 +0200" channel="dstv_honey">
     <title lang="en-GB">Yes Ndio Beeni: Zambia</title>
@@ -19452,12 +19460,12 @@
     <desc lang="en-GB">7 Colours</desc>
   </programme>
   <programme start="20230628160000 +0200" stop="20230628163000 +0200" channel="dstv_honey">
-    <title lang="en-GB">My Horror Love Story: Zambia</title>
-    <desc lang="en-GB">My Horror Love Story: Zambia</desc>
+    <title lang="en-GB">S2/E7. My Horror Love Story: Zambia</title>
+    <desc lang="en-GB">&apos;S2/E7&apos;. Beauty has given birth to two children but is unable to fall pregnant with a third. Enraged, her husband beats her up with a belt and strangles her.</desc>
   </programme>
   <programme start="20230628163000 +0200" stop="20230628170000 +0200" channel="dstv_honey">
-    <title lang="en-GB">Yes, I Have HIV: Zambia</title>
-    <desc lang="en-GB">Yes, I Have HIV: Zambia</desc>
+    <title lang="en-GB">S2/E7. Yes, I Have HIV: Zambia</title>
+    <desc lang="en-GB">&apos;S2/E7&apos;. Kamfwa has been living with HIV for a couple of years and he has not opened up about his status to anyone. Today, he feels he is ready to share his secret.</desc>
   </programme>
   <programme start="20230628170000 +0200" stop="20230628173000 +0200" channel="dstv_honey">
     <title lang="en-GB">Yes Ndio Beeni: Zambia</title>
@@ -21664,12 +21672,12 @@
     <desc lang="en-GB">Man Of War</desc>
   </programme>
   <programme start="20230629000000 +0200" stop="20230629003000 +0200" channel="dstv_honey">
-    <title lang="en-GB">My Horror Love Story: Zambia</title>
-    <desc lang="en-GB">My Horror Love Story: Zambia</desc>
+    <title lang="en-GB">S2/E7. My Horror Love Story: Zambia</title>
+    <desc lang="en-GB">&apos;S2/E7&apos;. Beauty has given birth to two children but is unable to fall pregnant with a third. Enraged, her husband beats her up with a belt and strangles her.</desc>
   </programme>
   <programme start="20230629003000 +0200" stop="20230629010000 +0200" channel="dstv_honey">
-    <title lang="en-GB">Yes, I Have HIV: Zambia</title>
-    <desc lang="en-GB">Yes, I Have HIV: Zambia</desc>
+    <title lang="en-GB">S2/E7. Yes, I Have HIV: Zambia</title>
+    <desc lang="en-GB">&apos;S2/E7&apos;. Kamfwa has been living with HIV for a couple of years and he has not opened up about his status to anyone. Today, he feels he is ready to share his secret.</desc>
   </programme>
   <programme start="20230629010000 +0200" stop="20230629013000 +0200" channel="dstv_honey">
     <title lang="en-GB">Yes Ndio Beeni: Zambia</title>
@@ -21740,8 +21748,8 @@
     <desc lang="en-GB">7 Colours</desc>
   </programme>
   <programme start="20230629110000 +0200" stop="20230629113000 +0200" channel="dstv_honey">
-    <title lang="en-GB">Yes, I Have HIV: Zambia</title>
-    <desc lang="en-GB">Yes, I Have HIV: Zambia</desc>
+    <title lang="en-GB">S2/E6. Yes, I Have HIV: Zambia</title>
+    <desc lang="en-GB">&apos;S2/E6&apos;. Keeping her HIV positive status a secret has been a burden for Natasha. She has decided to lighten her burden by sharing the secret with her cousin.</desc>
   </programme>
   <programme start="20230629113000 +0200" stop="20230629120000 +0200" channel="dstv_honey">
     <title lang="en-GB">A Prisoner Stole My Heart</title>
@@ -21792,8 +21800,8 @@
     <desc lang="en-GB">7 Colours</desc>
   </programme>
   <programme start="20230629190000 +0200" stop="20230629193000 +0200" channel="dstv_honey">
-    <title lang="en-GB">Yes, I Have HIV: Zambia</title>
-    <desc lang="en-GB">Yes, I Have HIV: Zambia</desc>
+    <title lang="en-GB">S2/E7. Yes, I Have HIV: Zambia</title>
+    <desc lang="en-GB">&apos;S2/E7&apos;. Kamfwa has been living with HIV for a couple of years and he has not opened up about his status to anyone. Today, he feels he is ready to share his secret.</desc>
   </programme>
   <programme start="20230629193000 +0200" stop="20230629200000 +0200" channel="dstv_honey">
     <title lang="en-GB">A Prisoner Stole My Heart</title>
@@ -24000,8 +24008,8 @@
     <desc lang="en-GB">7 Colours</desc>
   </programme>
   <programme start="20230630030000 +0200" stop="20230630033000 +0200" channel="dstv_honey">
-    <title lang="en-GB">Yes, I Have HIV: Zambia</title>
-    <desc lang="en-GB">Yes, I Have HIV: Zambia</desc>
+    <title lang="en-GB">S2/E7. Yes, I Have HIV: Zambia</title>
+    <desc lang="en-GB">&apos;S2/E7&apos;. Kamfwa has been living with HIV for a couple of years and he has not opened up about his status to anyone. Today, he feels he is ready to share his secret.</desc>
   </programme>
   <programme start="20230630033000 +0200" stop="20230630040000 +0200" channel="dstv_honey">
     <title lang="en-GB">A Prisoner Stole My Heart</title>
@@ -24048,8 +24056,8 @@
     <desc lang="en-GB">Talk with Toke Makinwa</desc>
   </programme>
   <programme start="20230630110000 +0200" stop="20230630113000 +0200" channel="dstv_honey">
-    <title lang="en-GB">Yes, I Have HIV: Zimbabwe</title>
-    <desc lang="en-GB">Yes, I Have HIV: Zimbabwe</desc>
+    <title lang="en-GB">S1/E3. Yes, I Have HIV: Zimbabwe</title>
+    <desc lang="en-GB">&apos;S1/E3&apos;. Ruva was born HIV positive but only found out in her teenage years. She is ready to confide in her best friend of about five years and hopes the news won&apos;t affect their friendship.</desc>
   </programme>
   <programme start="20230630113000 +0200" stop="20230630120000 +0200" channel="dstv_honey">
     <title lang="en-GB">My Kenyan Plate</title>
@@ -24096,8 +24104,8 @@
     <desc lang="en-GB">Talk with Toke Makinwa</desc>
   </programme>
   <programme start="20230630190000 +0200" stop="20230630193000 +0200" channel="dstv_honey">
-    <title lang="en-GB">Yes, I Have HIV: Zimbabwe</title>
-    <desc lang="en-GB">Yes, I Have HIV: Zimbabwe</desc>
+    <title lang="en-GB">S1/E4. Yes, I Have HIV: Zimbabwe</title>
+    <desc lang="en-GB">&apos;S1/E4&apos;. Enock found out he was HIV positive in 2000. He may have infected his wife who has no idea about his status. The guilt is killing him slowly and he is ready to disclose his status to her.</desc>
   </programme>
   <programme start="20230630193000 +0200" stop="20230630200000 +0200" channel="dstv_honey">
     <title lang="en-GB">My Kenyan Plate</title>
@@ -26284,8 +26292,8 @@
     <desc lang="en-GB">Talk with Toke Makinwa</desc>
   </programme>
   <programme start="20230701030000 +0200" stop="20230701033000 +0200" channel="dstv_honey">
-    <title lang="en-GB">Yes, I Have HIV: Zimbabwe</title>
-    <desc lang="en-GB">Yes, I Have HIV: Zimbabwe</desc>
+    <title lang="en-GB">S1/E4. Yes, I Have HIV: Zimbabwe</title>
+    <desc lang="en-GB">&apos;S1/E4&apos;. People reveal their status to their close family and friends for the first time. With the support of our host, who was born and lived with the virus for decades.</desc>
   </programme>
   <programme start="20230701033000 +0200" stop="20230701040000 +0200" channel="dstv_honey">
     <title lang="en-GB">My Kenyan Plate</title>
@@ -26328,8 +26336,8 @@
     <desc lang="en-GB">A Prisoner Stole My Heart</desc>
   </programme>
   <programme start="20230701090000 +0200" stop="20230701093000 +0200" channel="dstv_honey">
-    <title lang="en-GB">My Horror Love Story: Zambia</title>
-    <desc lang="en-GB">My Horror Love Story: Zambia</desc>
+    <title lang="en-GB">S2/E7. My Horror Love Story: Zambia</title>
+    <desc lang="en-GB">&apos;S2/E7&apos;. Women who thought they had found they true love happy ending come to tell us how love quickly turned into a horror story, most importantly how they got out alive.</desc>
   </programme>
   <programme start="20230701093000 +0200" stop="20230701100000 +0200" channel="dstv_honey">
     <title lang="en-GB">Sangoma, Khanyisa!</title>
@@ -26388,8 +26396,8 @@
     <desc lang="en-GB">A Prisoner Stole My Heart</desc>
   </programme>
   <programme start="20230701170000 +0200" stop="20230701173000 +0200" channel="dstv_honey">
-    <title lang="en-GB">My Horror Love Story: Zambia</title>
-    <desc lang="en-GB">My Horror Love Story: Zambia</desc>
+    <title lang="en-GB">S2/E8. My Horror Love Story: Zambia</title>
+    <desc lang="en-GB">&apos;S2/E8&apos;. Women who thought they had found they true love happy ending come to tell us how love quickly turned into a horror story, most importantly how they got out alive.</desc>
   </programme>
   <programme start="20230701173000 +0200" stop="20230701180000 +0200" channel="dstv_honey">
     <title lang="en-GB">Sangoma, Khanyisa!</title>
@@ -28660,8 +28668,8 @@
     <desc lang="en-GB">A Prisoner Stole My Heart</desc>
   </programme>
   <programme start="20230702010000 +0200" stop="20230702013000 +0200" channel="dstv_honey">
-    <title lang="en-GB">My Horror Love Story: Zambia</title>
-    <desc lang="en-GB">My Horror Love Story: Zambia</desc>
+    <title lang="en-GB">S2/E8. My Horror Love Story: Zambia</title>
+    <desc lang="en-GB">&apos;S2/E8&apos;. Women who thought they had found they true love happy ending come to tell us how love quickly turned into a horror story, most importantly how they got out alive.</desc>
   </programme>
   <programme start="20230702013000 +0200" stop="20230702020000 +0200" channel="dstv_honey">
     <title lang="en-GB">Sangoma, Khanyisa!</title>
@@ -28728,12 +28736,12 @@
     <desc lang="en-GB">My Kenyan Plate</desc>
   </programme>
   <programme start="20230702110000 +0200" stop="20230702113000 +0200" channel="dstv_honey">
-    <title lang="en-GB">Yes, I Have HIV: Zambia</title>
-    <desc lang="en-GB">Yes, I Have HIV: Zambia</desc>
+    <title lang="en-GB">S2/E7. Yes, I Have HIV: Zambia</title>
+    <desc lang="en-GB">&apos;S2/E7&apos;. People reveal their status to their close family and friends for the first time. With the support of our host, Paul Banda, who has lived with virus for decades.</desc>
   </programme>
   <programme start="20230702113000 +0200" stop="20230702120000 +0200" channel="dstv_honey">
-    <title lang="en-GB">Yes, I Have HIV: Zimbabwe</title>
-    <desc lang="en-GB">Yes, I Have HIV: Zimbabwe</desc>
+    <title lang="en-GB">S1/E4. Yes, I Have HIV: Zimbabwe</title>
+    <desc lang="en-GB">&apos;S1/E4&apos;. People reveal their status to their close family and friends for the first time. With the support of our host, who was born and lived with the virus for decades.</desc>
   </programme>
   <programme start="20230702120000 +0200" stop="20230702130000 +0200" channel="dstv_honey">
     <title lang="en-GB">Date My Family: South Africa</title>
@@ -28772,12 +28780,12 @@
     <desc lang="en-GB">My Kenyan Plate</desc>
   </programme>
   <programme start="20230702190000 +0200" stop="20230702193000 +0200" channel="dstv_honey">
-    <title lang="en-GB">Yes, I Have HIV: Zambia</title>
-    <desc lang="en-GB">Yes, I Have HIV: Zambia</desc>
+    <title lang="en-GB">S2/E8. Yes, I Have HIV: Zambia</title>
+    <desc lang="en-GB">&apos;S2/E8&apos;. People reveal their status to their close family and friends for the first time. With the support of our host, Paul Banda, who has lived with virus for decades.</desc>
   </programme>
   <programme start="20230702193000 +0200" stop="20230702200000 +0200" channel="dstv_honey">
-    <title lang="en-GB">Yes, I Have HIV: Zimbabwe</title>
-    <desc lang="en-GB">Yes, I Have HIV: Zimbabwe</desc>
+    <title lang="en-GB">S1/E5. Yes, I Have HIV: Zimbabwe</title>
+    <desc lang="en-GB">&apos;S1/E5&apos;. People reveal their status to their close family and friends for the first time. With the support of our host, who was born and lived with the virus for decades.</desc>
   </programme>
   <programme start="20230702200000 +0200" stop="20230702210000 +0200" channel="dstv_honey">
     <title lang="en-GB">Date My Family: South Africa</title>
@@ -31024,12 +31032,12 @@
     <desc lang="en-GB">My Kenyan Plate</desc>
   </programme>
   <programme start="20230703030000 +0200" stop="20230703033000 +0200" channel="dstv_honey">
-    <title lang="en-GB">Yes, I Have HIV: Zambia</title>
-    <desc lang="en-GB">Yes, I Have HIV: Zambia</desc>
+    <title lang="en-GB">S2/E8. Yes, I Have HIV: Zambia</title>
+    <desc lang="en-GB">&apos;S2/E8&apos;. People reveal their status to their close family and friends for the first time. With the support of our host, Paul Banda, who has lived with virus for decades.</desc>
   </programme>
   <programme start="20230703033000 +0200" stop="20230703040000 +0200" channel="dstv_honey">
-    <title lang="en-GB">Yes, I Have HIV: Zimbabwe</title>
-    <desc lang="en-GB">Yes, I Have HIV: Zimbabwe</desc>
+    <title lang="en-GB">S1/E5. Yes, I Have HIV: Zimbabwe</title>
+    <desc lang="en-GB">&apos;S1/E5&apos;. People reveal their status to their close family and friends for the first time. With the support of our host, who was born and lived with the virus for decades.</desc>
   </programme>
   <programme start="20230703040000 +0200" stop="20230703050000 +0200" channel="dstv_honey">
     <title lang="en-GB">Date My Family: South Africa</title>
@@ -31084,8 +31092,8 @@
     <desc lang="en-GB">Drum: Behind The Headlines</desc>
   </programme>
   <programme start="20230703123000 +0200" stop="20230703130000 +0200" channel="dstv_honey">
-    <title lang="en-GB">My Horror Love Story: Kenya</title>
-    <desc lang="en-GB">My Horror Love Story: Kenya</desc>
+    <title lang="en-GB">S1/E6. My Horror Love Story: Kenya</title>
+    <desc lang="en-GB">&apos;S1/E6&apos;. Simba was in his prime. Then he got the phone call that would change this life forever. His beloved girlfriend had accused him of rape. He was found guilty and sentenced to 10 years in jail.</desc>
   </programme>
   <programme start="20230703130000 +0200" stop="20230703133000 +0200" channel="dstv_honey">
     <title lang="en-GB">The Big Bozza Cook-off</title>
@@ -31144,8 +31152,8 @@
     <desc lang="en-GB">Drum: Behind The Headlines</desc>
   </programme>
   <programme start="20230703203000 +0200" stop="20230703210000 +0200" channel="dstv_honey">
-    <title lang="en-GB">My Horror Love Story: Kenya</title>
-    <desc lang="en-GB">My Horror Love Story: Kenya</desc>
+    <title lang="en-GB">S1/E7. My Horror Love Story: Kenya</title>
+    <desc lang="en-GB">&apos;S1/E7&apos;. Nancy searched for love in the wrong places. To escape, she ran into the arms of a stranger. He was abusive and a serial cheater. Later she discovered he had infected her with HIV.</desc>
   </programme>
   <programme start="20230703210000 +0200" stop="20230703213000 +0200" channel="dstv_honey">
     <title lang="en-GB">The Big Bozza Cook-off</title>
