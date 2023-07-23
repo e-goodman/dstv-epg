@@ -42,9 +42,6 @@
   <channel id="dstv_tlc_sa">
     <display-name>TLC Entertainment South Africa</display-name>
   </channel>
-  <channel id="dstv_africa_magic_showcase">
-    <display-name>Africa Magic Showcase</display-name>
-  </channel>
   <channel id="dstv_parliament_tv_zambia">
     <display-name>Parliament TV Zambia</display-name>
   </channel>
@@ -53,6 +50,9 @@
   </channel>
   <channel id="dstv_diamond_tv">
     <display-name>Diamond TV</display-name>
+  </channel>
+  <channel id="dstv_africa_magic_showcase">
+    <display-name>Africa Magic Showcase</display-name>
   </channel>
   <channel id="dstv_zambezi_magic">
     <display-name>Zambezi Magic HD</display-name>
@@ -575,19 +575,19 @@
     <title lang="en-GB">Big Brother Naija</title>
     <desc lang="en-GB">Big Brother Naija</desc>
   </programme>
-  <programme start="20230723220000 +0200" stop="20230723221000 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230723220000 +0200" stop="20230723220900 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">Iya Barakat Teropi Secxxion</title>
     <desc lang="en-GB">Iya Barakat Teropi Secxxion</desc>
   </programme>
-  <programme start="20230723221000 +0200" stop="20230723223500 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230723220900 +0200" stop="20230723223400 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">My Name Is A-Zed</title>
     <desc lang="en-GB">My Name Is A-Zed</desc>
   </programme>
-  <programme start="20230723223500 +0200" stop="20230723230000 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230723223400 +0200" stop="20230723230000 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">Just Friends</title>
     <desc lang="en-GB">Just Friends</desc>
   </programme>
-  <programme start="20230723230000 +0200" stop="20230724000000 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230723230000 +0200" stop="20230724000300 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">Shaka Ilembe</title>
     <desc lang="en-GB">Shaka Ilembe</desc>
   </programme>
@@ -1563,6 +1563,82 @@
     <title lang="en-GB">ZNBC 2</title>
     <desc lang="en-GB">ZNBC 2</desc>
   </programme>
+  <programme start="20230722224200 +0200" stop="20230723003200 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">The Heir&apos;s Ticket</title>
+    <desc lang="en-GB">The Heir&apos;s Ticket</desc>
+  </programme>
+  <programme start="20230723003200 +0200" stop="20230723022500 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">The Love Square</title>
+    <desc lang="en-GB">The Love Square</desc>
+  </programme>
+  <programme start="20230723022500 +0200" stop="20230723050100 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Deal Breaker</title>
+    <desc lang="en-GB">Deal Breaker</desc>
+  </programme>
+  <programme start="20230723050100 +0200" stop="20230723065000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Beautifool</title>
+    <desc lang="en-GB">Beautifool</desc>
+  </programme>
+  <programme start="20230723065000 +0200" stop="20230723090500 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Blinded</title>
+    <desc lang="en-GB">Blinded</desc>
+  </programme>
+  <programme start="20230723090500 +0200" stop="20230723105000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">The Morning After</title>
+    <desc lang="en-GB">The Morning After</desc>
+  </programme>
+  <programme start="20230723105000 +0200" stop="20230723121500 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">The Kingmaker</title>
+    <desc lang="en-GB">The Kingmaker</desc>
+  </programme>
+  <programme start="20230723121500 +0200" stop="20230723141500 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">City Hustler</title>
+    <desc lang="en-GB">City Hustler</desc>
+  </programme>
+  <programme start="20230723141500 +0200" stop="20230723154600 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Jasmine</title>
+    <desc lang="en-GB">Jasmine</desc>
+  </programme>
+  <programme start="20230723154600 +0200" stop="20230723172700 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">When Sparks Fly</title>
+    <desc lang="en-GB">When Sparks Fly</desc>
+  </programme>
+  <programme start="20230723172700 +0200" stop="20230723175600 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Lagos Big Girl</title>
+    <desc lang="en-GB">Lagos Big Girl</desc>
+  </programme>
+  <programme start="20230723175600 +0200" stop="20230723182600 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Our Perfect Wedding Nigeria</title>
+    <desc lang="en-GB">Our Perfect Wedding Nigeria</desc>
+  </programme>
+  <programme start="20230723182600 +0200" stop="20230723190000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Barchelor</title>
+    <desc lang="en-GB">Barchelor</desc>
+  </programme>
+  <programme start="20230723190000 +0200" stop="20230723210000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Big Brother Naija</title>
+    <desc lang="en-GB">Big Brother Naija</desc>
+  </programme>
+  <programme start="20230723210000 +0200" stop="20230723213000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">The Hidden</title>
+    <desc lang="en-GB">The Hidden</desc>
+  </programme>
+  <programme start="20230723213000 +0200" stop="20230723214500 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Iya Barakat Teropi Secxxion</title>
+    <desc lang="en-GB">Iya Barakat Teropi Secxxion</desc>
+  </programme>
+  <programme start="20230723214500 +0200" stop="20230723220000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Iya Barakat Teropi Secxxion</title>
+    <desc lang="en-GB">Iya Barakat Teropi Secxxion</desc>
+  </programme>
+  <programme start="20230723220000 +0200" stop="20230723230000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Shaka Ilembe</title>
+    <desc lang="en-GB">Shaka Ilembe</desc>
+  </programme>
+  <programme start="20230723230000 +0200" stop="20230724011500 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Snatched</title>
+    <desc lang="en-GB">Snatched</desc>
+  </programme>
   <programme start="20230723000000 +0200" stop="20230723003000 +0200" channel="dstv_zambezi_magic">
     <title lang="en-GB">The Security Guard: Season 4, Episode 12</title>
     <desc lang="en-GB">&apos;S4/E12 of 26&apos;. Alibaba decides to take Mwiya to the local court and plans to trick the judge. Is Alibaba&apos;s trick going to work?</desc>
@@ -2205,7 +2281,7 @@
   </programme>
   <programme start="20230724000000 +0200" stop="20230724003000 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">The River: Season 3, Episode 14</title>
-    <desc lang="en-GB">&apos;S3/E14&apos;. Zolani defies Zweli in order to help Lindiwe, just as Cobra implements his plan to win his friends&apos; affection.</desc>
+    <desc lang="en-GB">&apos;S3/E14 of 260&apos;. Zolani defies Zweli in order to help Lindiwe, just as Cobra implements his plan to win his friends&apos; affection.</desc>
   </programme>
   <programme start="20230723000100 +0200" stop="20230723010000 +0200" channel="dstv_mzansi_bioskop">
     <title lang="en-GB">Owami Nami: Rating: 13, DRAMA, 2016</title>
@@ -2847,7 +2923,11 @@
     <title lang="en-GB">Local Love</title>
     <desc lang="en-GB">Local Love</desc>
   </programme>
-  <programme start="20230724000000 +0200" stop="20230724015500 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230723230000 +0200" stop="20230724000300 +0200" channel="dstv_africa_magic_urban">
+    <title lang="en-GB">Shaka Ilembe</title>
+    <desc lang="en-GB">Shaka Ilembe</desc>
+  </programme>
+  <programme start="20230724000300 +0200" stop="20230724015500 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">The X-Factor</title>
     <desc lang="en-GB">The X-Factor</desc>
   </programme>
@@ -2895,55 +2975,55 @@
     <title lang="en-GB">Loving You</title>
     <desc lang="en-GB">Loving You</desc>
   </programme>
-  <programme start="20230724145900 +0200" stop="20230724165500 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230724145900 +0200" stop="20230724165700 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">Big Brother Naija</title>
     <desc lang="en-GB">Big Brother Naija</desc>
   </programme>
-  <programme start="20230724165500 +0200" stop="20230724172600 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230724165700 +0200" stop="20230724172800 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">The Dreamers</title>
     <desc lang="en-GB">The Dreamers</desc>
   </programme>
-  <programme start="20230724172600 +0200" stop="20230724175600 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230724172800 +0200" stop="20230724175800 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">Dilemma</title>
     <desc lang="en-GB">Dilemma</desc>
   </programme>
-  <programme start="20230724175600 +0200" stop="20230724182700 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230724175800 +0200" stop="20230724182900 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">Tinsel</title>
     <desc lang="en-GB">Tinsel</desc>
   </programme>
-  <programme start="20230724182700 +0200" stop="20230724185700 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230724182900 +0200" stop="20230724185900 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">Venge</title>
     <desc lang="en-GB">Venge</desc>
   </programme>
-  <programme start="20230724185700 +0200" stop="20230724192900 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230724185900 +0200" stop="20230724193100 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">Covenant</title>
     <desc lang="en-GB">Covenant</desc>
   </programme>
-  <programme start="20230724192900 +0200" stop="20230724195800 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230724193100 +0200" stop="20230724200000 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">Itura</title>
     <desc lang="en-GB">Itura</desc>
   </programme>
-  <programme start="20230724195800 +0200" stop="20230724203000 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230724200000 +0200" stop="20230724203200 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">My Flatmates</title>
     <desc lang="en-GB">My Flatmates</desc>
   </programme>
-  <programme start="20230724203000 +0200" stop="20230724215700 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230724203200 +0200" stop="20230724215900 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">The Marriage Fixer</title>
     <desc lang="en-GB">The Marriage Fixer</desc>
   </programme>
-  <programme start="20230724215700 +0200" stop="20230724222800 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230724215900 +0200" stop="20230724223000 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">The Johnsons</title>
     <desc lang="en-GB">The Johnsons</desc>
   </programme>
-  <programme start="20230724222800 +0200" stop="20230724225900 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230724223000 +0200" stop="20230724230000 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">Extra Miles</title>
     <desc lang="en-GB">Extra Miles</desc>
   </programme>
-  <programme start="20230724225900 +0200" stop="20230724233000 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230724230000 +0200" stop="20230724233100 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">Big Brother Naija</title>
     <desc lang="en-GB">Big Brother Naija</desc>
   </programme>
-  <programme start="20230724233000 +0200" stop="20230725011000 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230724233100 +0200" stop="20230725011100 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">House Arrest</title>
     <desc lang="en-GB">House Arrest</desc>
   </programme>
@@ -3959,6 +4039,110 @@
     <title lang="en-GB">ZNBC 2</title>
     <desc lang="en-GB">ZNBC 2</desc>
   </programme>
+  <programme start="20230723230000 +0200" stop="20230724011500 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Snatched</title>
+    <desc lang="en-GB">Snatched</desc>
+  </programme>
+  <programme start="20230724011500 +0200" stop="20230724034800 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">The Other Woman</title>
+    <desc lang="en-GB">The Other Woman</desc>
+  </programme>
+  <programme start="20230724034800 +0200" stop="20230724050100 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Mirror</title>
+    <desc lang="en-GB">Mirror</desc>
+  </programme>
+  <programme start="20230724050100 +0200" stop="20230724063000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Unexpected Visit</title>
+    <desc lang="en-GB">Unexpected Visit</desc>
+  </programme>
+  <programme start="20230724063000 +0200" stop="20230724070000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">My Flatmates</title>
+    <desc lang="en-GB">My Flatmates</desc>
+  </programme>
+  <programme start="20230724070000 +0200" stop="20230724073000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Tinsel</title>
+    <desc lang="en-GB">Tinsel</desc>
+  </programme>
+  <programme start="20230724073000 +0200" stop="20230724080000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Covenant</title>
+    <desc lang="en-GB">Covenant</desc>
+  </programme>
+  <programme start="20230724080000 +0200" stop="20230724083000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Itura</title>
+    <desc lang="en-GB">Itura</desc>
+  </programme>
+  <programme start="20230724083000 +0200" stop="20230724090000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">The Johnsons</title>
+    <desc lang="en-GB">The Johnsons</desc>
+  </programme>
+  <programme start="20230724090000 +0200" stop="20230724104500 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Field Of Lemons</title>
+    <desc lang="en-GB">Field Of Lemons</desc>
+  </programme>
+  <programme start="20230724104500 +0200" stop="20230724123500 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Yours Truly Ex</title>
+    <desc lang="en-GB">Yours Truly Ex</desc>
+  </programme>
+  <programme start="20230724123500 +0200" stop="20230724140000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Love And Issues</title>
+    <desc lang="en-GB">Love And Issues</desc>
+  </programme>
+  <programme start="20230724140000 +0200" stop="20230724160000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Big Brother Naija</title>
+    <desc lang="en-GB">Big Brother Naija</desc>
+  </programme>
+  <programme start="20230724160000 +0200" stop="20230724173100 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Ball Game</title>
+    <desc lang="en-GB">Ball Game</desc>
+  </programme>
+  <programme start="20230724173100 +0200" stop="20230724180000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Our Perfect Wedding Nigeria</title>
+    <desc lang="en-GB">Our Perfect Wedding Nigeria</desc>
+  </programme>
+  <programme start="20230724180000 +0200" stop="20230724183000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Judging Matters</title>
+    <desc lang="en-GB">Judging Matters</desc>
+  </programme>
+  <programme start="20230724183000 +0200" stop="20230724190000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">My Flatmates</title>
+    <desc lang="en-GB">My Flatmates</desc>
+  </programme>
+  <programme start="20230724190000 +0200" stop="20230724193100 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">The Johnsons</title>
+    <desc lang="en-GB">The Johnsons</desc>
+  </programme>
+  <programme start="20230724193100 +0200" stop="20230724200000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Tinsel</title>
+    <desc lang="en-GB">Tinsel</desc>
+  </programme>
+  <programme start="20230724200000 +0200" stop="20230724203000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Covenant</title>
+    <desc lang="en-GB">Covenant</desc>
+  </programme>
+  <programme start="20230724203000 +0200" stop="20230724210000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Itura</title>
+    <desc lang="en-GB">Itura</desc>
+  </programme>
+  <programme start="20230724210000 +0200" stop="20230724213000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Laces</title>
+    <desc lang="en-GB">Laces</desc>
+  </programme>
+  <programme start="20230724213000 +0200" stop="20230724220000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Jenifa&apos;s Diary</title>
+    <desc lang="en-GB">Jenifa&apos;s Diary</desc>
+  </programme>
+  <programme start="20230724220000 +0200" stop="20230724223100 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Big Brother Naija</title>
+    <desc lang="en-GB">Big Brother Naija</desc>
+  </programme>
+  <programme start="20230724223100 +0200" stop="20230724233000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Watching Over You</title>
+    <desc lang="en-GB">Watching Over You</desc>
+  </programme>
+  <programme start="20230724233000 +0200" stop="20230725000000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Lagos Big Girl</title>
+    <desc lang="en-GB">Lagos Big Girl</desc>
+  </programme>
   <programme start="20230724000000 +0200" stop="20230724003000 +0200" channel="dstv_zambezi_magic">
     <title lang="en-GB">Pa Maliketi: Season 1, Episode 3</title>
     <desc lang="en-GB">&apos;S1/E3 of 13&apos;. Bana Mwansa finds out her mother has just been buried. She inherits her mother&apos;s market stand and starts a new life- witnessing the hilarious drama that surrounds Fyakubantu market.</desc>
@@ -4197,131 +4381,131 @@
   </programme>
   <programme start="20230724003000 +0200" stop="20230724010000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">1Magic: Zone In: Season 2, Episode 18</title>
-    <desc lang="en-GB">&apos;S2/E18&apos;. Zone In showcases the freshest local and international stars and music genres.</desc>
+    <desc lang="en-GB">&apos;S2/E18 of 52&apos;. Zone In showcases the freshest local and international stars and music genres.</desc>
   </programme>
   <programme start="20230724010000 +0200" stop="20230724013000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">1Magic: Zone In: Season 2, Episode 19</title>
-    <desc lang="en-GB">&apos;S2/E19&apos;. Zone In showcases the freshest local and international stars and music genres.</desc>
+    <desc lang="en-GB">&apos;S2/E19 of 52&apos;. Zone In showcases the freshest local and international stars and music genres.</desc>
   </programme>
   <programme start="20230724013000 +0200" stop="20230724030000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">1Magic: Hits: Season 3, Episode 44</title>
-    <desc lang="en-GB">&apos;S3/E44&apos;. Catch the best in local and international music hits.</desc>
+    <desc lang="en-GB">&apos;S3/E44 of 52&apos;. Catch the best in local and international music hits.</desc>
   </programme>
   <programme start="20230724030000 +0200" stop="20230724043500 +0200" channel="dstv_one_magic">
     <title lang="en-GB">1Magic: Hits: Season 3, Episode 45</title>
-    <desc lang="en-GB">&apos;S3/E45&apos;. Catch the best in local and international music hits.</desc>
+    <desc lang="en-GB">&apos;S3/E45 of 52&apos;. Catch the best in local and international music hits.</desc>
   </programme>
   <programme start="20230724043500 +0200" stop="20230724060000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">1Magic: Hits: Season 3, Episode 33</title>
-    <desc lang="en-GB">&apos;S3/E33&apos;. Catch the best in local and international music hits.</desc>
+    <desc lang="en-GB">&apos;S3/E33 of 52&apos;. Catch the best in local and international music hits.</desc>
   </programme>
   <programme start="20230724060000 +0200" stop="20230724073000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">1Magic: Hits: Season 3, Episode 11</title>
-    <desc lang="en-GB">&apos;S3/E11&apos;. Catch the best in local and international music hits.</desc>
+    <desc lang="en-GB">&apos;S3/E11 of 52&apos;. Catch the best in local and international music hits.</desc>
   </programme>
   <programme start="20230724073000 +0200" stop="20230724080000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">The River: Season 6, Episode 120</title>
-    <desc lang="en-GB">&apos;S6/E120&apos;. Lindiwe&apos;s enemies gather around her, and the Mokoenas turn on each other.</desc>
+    <desc lang="en-GB">&apos;S6/E120 of 192&apos;. Lindiwe&apos;s enemies gather around her, and the Mokoenas turn on each other.</desc>
   </programme>
   <programme start="20230724080000 +0200" stop="20230724083000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">Mnakwethu: Season 3, Episode 15</title>
-    <desc lang="en-GB">&apos;S3/E15&apos;. Mr Ndaba opens up to Mr Sibiya, telling him that his first wife has left the Ndaba household after refusing to accept MaNgubane. He then introduces us to MaShabangu, who is now the first wife.</desc>
+    <desc lang="en-GB">&apos;S3/E15 of 15&apos;. Mr Ndaba opens up to Mr Sibiya, telling him that his first wife has left the Ndaba household after refusing to accept MaNgubane. He then introduces us to MaShabangu, who is now the first wife.</desc>
   </programme>
   <programme start="20230724083000 +0200" stop="20230724090000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">Please Step In: Season 4, Episode 1</title>
-    <desc lang="en-GB">&apos;S4/E1&apos;. Please Step In seeks to resolve pressing family issues through an intervention by a family member, facilitated by host and trained counsellor, Angie Diale.</desc>
+    <desc lang="en-GB">&apos;S4/E1 of 13&apos;. Please Step In seeks to resolve pressing family issues through an intervention by a family member, facilitated by host and trained counsellor, Angie Diale.</desc>
   </programme>
   <programme start="20230724090000 +0200" stop="20230724100000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">The Real Housewives Of New Jersey: Season 13, Episode 17</title>
-    <desc lang="en-GB">&apos;S13/E17 - Reunion Part 1&apos;. After a tumultuous season, the ladies of the Garden State reunite for an epic showdown. Dolores dives deeper into her relationship with Paul. Danielle and Rachel&apos;s feud hits a new tipping point.</desc>
+    <desc lang="en-GB">&apos;S13/E17 of 19 - Reunion Part 1&apos;. After a tumultuous season, the ladies of the Garden State reunite for an epic showdown. Dolores dives deeper into her relationship with Paul. Danielle and Rachel&apos;s feud hits a new tipping point.</desc>
   </programme>
   <programme start="20230724100000 +0200" stop="20230724103000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">1802: Love Defies Time: Season 1, Episode 36</title>
-    <desc lang="en-GB">&apos;S1/E36&apos;. Melisizwe is warned of the destruction that would follow if Longamo were to ascend to the throne. Meanwhile, Khosi&apos;s relationship with Zuko becomes more complicated.</desc>
+    <desc lang="en-GB">&apos;S1/E36 of 91&apos;. Melisizwe is warned of the destruction that would follow if Longamo were to ascend to the throne. Meanwhile, Khosi&apos;s relationship with Zuko becomes more complicated.</desc>
   </programme>
   <programme start="20230724103000 +0200" stop="20230724110000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">The River: Season 6, Episode 120</title>
-    <desc lang="en-GB">&apos;S6/E120&apos;. Lindiwe&apos;s enemies gather around her, and the Mokoenas turn on each other.</desc>
+    <desc lang="en-GB">&apos;S6/E120 of 192&apos;. Lindiwe&apos;s enemies gather around her, and the Mokoenas turn on each other.</desc>
   </programme>
   <programme start="20230724110000 +0200" stop="20230724120000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">The Masked Singer: Season 6, Episode 6</title>
-    <desc lang="en-GB">&apos;S6/E6 - Time Warp&apos;. The Group A celebrities take the stage, another wildcard enters the game, actor Leslie Jordan joins the panellists&apos; desk as a guest.</desc>
+    <desc lang="en-GB">&apos;S6/E6 of 16 - Time Warp&apos;. The Group A celebrities take the stage, another wildcard enters the game, actor Leslie Jordan joins the panellists&apos; desk as a guest.</desc>
   </programme>
   <programme start="20230724120000 +0200" stop="20230724123000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">1Magic: Zone In: Season 2, Episode 35</title>
-    <desc lang="en-GB">&apos;S2/E35&apos;. Zone In showcases the freshest local and international stars and music genres.</desc>
+    <desc lang="en-GB">&apos;S2/E35 of 52&apos;. Zone In showcases the freshest local and international stars and music genres.</desc>
   </programme>
   <programme start="20230724123000 +0200" stop="20230724130000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">1Magic: Zone In: Season 2, Episode 37</title>
-    <desc lang="en-GB">&apos;S2/E37&apos;. Zone In showcases the freshest local and international stars and music genres.</desc>
+    <desc lang="en-GB">&apos;S2/E37 of 52&apos;. Zone In showcases the freshest local and international stars and music genres.</desc>
   </programme>
   <programme start="20230724130000 +0200" stop="20230724133000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">The $100,000 Pyramid: Season 6, Episode 23</title>
-    <desc lang="en-GB">&apos;S6/E23&apos;. Celebrity guests compete against each other with hopes of making it to the winners&apos; circle and taking home the ultimate prize of $100,000.</desc>
+    <desc lang="en-GB">&apos;S6/E23 of 26&apos;. Celebrity guests compete against each other with hopes of making it to the winners&apos; circle and taking home the ultimate prize of $100,000.</desc>
   </programme>
   <programme start="20230724133000 +0200" stop="20230724140000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">The $100,000 Pyramid: Season 6, Episode 1</title>
-    <desc lang="en-GB">&apos;S6/E1 - Lindsey Vonn Vs Russell Peters&apos;. Celebrity guests compete against each other with hopes of making it to the winners&apos; circle and taking home the ultimate prize of $100,000.</desc>
+    <desc lang="en-GB">&apos;S6/E1 of 26 - Lindsey Vonn Vs Russell Peters&apos;. Celebrity guests compete against each other with hopes of making it to the winners&apos; circle and taking home the ultimate prize of $100,000.</desc>
   </programme>
   <programme start="20230724140000 +0200" stop="20230724143000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">1802: Love Defies Time: Season 1, Episode 36</title>
-    <desc lang="en-GB">&apos;S1/E36&apos;. Melisizwe is warned of the destruction that would follow if Longamo were to ascend to the throne. Meanwhile, Khosi&apos;s relationship with Zuko becomes more complicated.</desc>
+    <desc lang="en-GB">&apos;S1/E36 of 91&apos;. Melisizwe is warned of the destruction that would follow if Longamo were to ascend to the throne. Meanwhile, Khosi&apos;s relationship with Zuko becomes more complicated.</desc>
   </programme>
   <programme start="20230724143000 +0200" stop="20230724153000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">Beat Shazam: Season 5, Episode 7</title>
-    <desc lang="en-GB">&apos;S5/E7 - It&apos;s A Family Affair!&apos;. A team of sisters, a married couple, and sisters-in-law face off for a chance to beat Shazam and win a million dollars.</desc>
+    <desc lang="en-GB">&apos;S5/E7 of 12 - It&apos;s A Family Affair!&apos;. A team of sisters, a married couple, and sisters-in-law face off for a chance to beat Shazam and win a million dollars.</desc>
   </programme>
   <programme start="20230724153000 +0200" stop="20230724160000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">The River: Season 6, Episode 120</title>
-    <desc lang="en-GB">&apos;S6/E120&apos;. Lindiwe&apos;s enemies gather around her, and the Mokoenas turn on each other.</desc>
+    <desc lang="en-GB">&apos;S6/E120 of 192&apos;. Lindiwe&apos;s enemies gather around her, and the Mokoenas turn on each other.</desc>
   </programme>
   <programme start="20230724160000 +0200" stop="20230724170000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">The Masked Singer: Season 6, Episode 7</title>
-    <desc lang="en-GB">&apos;S6/E7 - All-Time Countdown&apos;. A special countdown of the greatest performances in the show&apos;s history, featuring behind-the-scenes footage of the unmasked singers from Season 6.</desc>
+    <desc lang="en-GB">&apos;S6/E7 of 16 - All-Time Countdown&apos;. A special countdown of the greatest performances in the show&apos;s history, featuring behind-the-scenes footage of the unmasked singers from Season 6.</desc>
   </programme>
   <programme start="20230724170000 +0200" stop="20230724173000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">Please Step In: Season 4, Episode 11</title>
-    <desc lang="en-GB">&apos;S4/E11&apos;. Relationships counsellor, Angie Diale, assists in staging an intervention in situations where a participant&apos;s family is struggling with a personal problem.</desc>
+    <desc lang="en-GB">&apos;S4/E11 of 13&apos;. Relationships counsellor, Angie Diale, assists in staging an intervention in situations where a participant&apos;s family is struggling with a personal problem.</desc>
   </programme>
   <programme start="20230724173000 +0200" stop="20230724180000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">Please Step In: Season 4, Episode 12</title>
-    <desc lang="en-GB">&apos;S4/E12&apos;. Relationships counsellor, Angie Diale, assists in staging an intervention in situations where a participant&apos;s family is struggling with a personal problem.</desc>
+    <desc lang="en-GB">&apos;S4/E12 of 13&apos;. Relationships counsellor, Angie Diale, assists in staging an intervention in situations where a participant&apos;s family is struggling with a personal problem.</desc>
   </programme>
   <programme start="20230724180000 +0200" stop="20230724190000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">The Talk: Season 13, Episode 118</title>
-    <desc lang="en-GB">&apos;S13/E118 - Tracey Bregman&apos;. Celebrity hosts discuss entertainment, politics and current events.</desc>
+    <desc lang="en-GB">&apos;S13/E118 of 205 - Tracey Bregman&apos;. Celebrity hosts discuss entertainment, politics and current events.</desc>
   </programme>
   <programme start="20230724190000 +0200" stop="20230724200000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">The Real Housewives Of New Jersey: Season 13, Episode 18</title>
-    <desc lang="en-GB">&apos;S13/E18 - Reunion Part 2&apos;. As the reunion continues, Jennifer and Rachel continue their nose job jabs. Margaret opens up about her ex-husband&apos;s death.</desc>
+    <desc lang="en-GB">&apos;S13/E18 of 19 - Reunion Part 2&apos;. As the reunion continues, Jennifer and Rachel continue their nose job jabs. Margaret opens up about her ex-husband&apos;s death.</desc>
   </programme>
   <programme start="20230724200000 +0200" stop="20230724203000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">The River: Season 6, Episode 121</title>
-    <desc lang="en-GB">&apos;S6/E121&apos;. Khwezi is under pressure to succumb to her family&apos;s way of living, while Cobra has one of the most heartbreaking realisations about life.</desc>
+    <desc lang="en-GB">&apos;S6/E121 of 192&apos;. Khwezi is under pressure to succumb to her family&apos;s way of living, while Cobra has one of the most heartbreaking realisations about life.</desc>
   </programme>
   <programme start="20230724203000 +0200" stop="20230724210000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">1802: Love Defies Time: Season 1, Episode 37</title>
-    <desc lang="en-GB">&apos;S1/E37&apos;. Now that she&apos;s back in her world, Khosi wants to give her relationship with Zuko another go. Melisizwe is his brother&apos;s keeper when he goes on a quest with Longamo.</desc>
+    <desc lang="en-GB">&apos;S1/E37 of 91&apos;. Now that she&apos;s back in her world, Khosi wants to give her relationship with Zuko another go. Melisizwe is his brother&apos;s keeper when he goes on a quest with Longamo.</desc>
   </programme>
   <programme start="20230724210000 +0200" stop="20230724220000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">All American: Season 5, Episode 12</title>
-    <desc lang="en-GB">&apos;S5/E12 - Lost One&apos;. An unexpected event rocks both the Beverly Hills and Crenshaw communities. They come together to support each other in an unexpected way.</desc>
+    <desc lang="en-GB">&apos;S5/E12 of 20 - Lost One&apos;. An unexpected event rocks both the Beverly Hills and Crenshaw communities. They come together to support each other in an unexpected way.</desc>
   </programme>
   <programme start="20230724220000 +0200" stop="20230724223000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">Living The Dream With Somizi: Season 5, Episode 8</title>
-    <desc lang="en-GB">&apos;S5/E8&apos;. Bahumi and Somizi struggle to find common ground on an issue that&apos;s been weighing heavily on her mind. Palesa meets with a friend who has some tough words for her.</desc>
+    <desc lang="en-GB">&apos;S5/E8 of 10&apos;. Bahumi and Somizi struggle to find common ground on an issue that&apos;s been weighing heavily on her mind. Palesa meets with a friend who has some tough words for her.</desc>
   </programme>
   <programme start="20230724223000 +0200" stop="20230724233000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">The Real Housewives Of Johannesburg: Season 3, Episode 10</title>
-    <desc lang="en-GB">&apos;S3/E10&apos;. Kea is ready to launch her children&apos;s pyjamas clothing line. She invites Leon for some last-minute inspection. Lebo and Thobekile discuss the latest gossip while test-driving the latest Land Rover.</desc>
+    <desc lang="en-GB">&apos;S3/E10 of 14&apos;. Kea is ready to launch her children&apos;s pyjamas clothing line. She invites Leon for some last-minute inspection. Lebo and Thobekile discuss the latest gossip while test-driving the latest Land Rover.</desc>
   </programme>
-  <programme start="20230724233000 +0200" stop="20230725003000 +0200" channel="dstv_one_magic">
+  <programme start="20230724233000 +0200" stop="20230725003100 +0200" channel="dstv_one_magic">
     <title lang="en-GB">Blood Psalms: Season 1, Episode 6</title>
-    <desc lang="en-GB">&apos;S1/E6&apos;. The wedding preparations begin. The Ku&apos;ua women attend the wedding ceremony while the warriors disagree about what to do next. A secret order emerges to protect Princess Zazi.</desc>
+    <desc lang="en-GB">&apos;S1/E6 of 10&apos;. The wedding preparations begin. The Ku&apos;ua women attend the wedding ceremony while the warriors disagree about what to do next. A secret order emerges to protect Princess Zazi.</desc>
   </programme>
   <programme start="20230724003100 +0200" stop="20230724010000 +0200" channel="dstv_mzansi_magic">
     <title lang="en-GB">Mzansi Magic Music Specials: Season 3, Episode 2</title>
-    <desc lang="en-GB">&apos;S3/E2 - Zahara&apos;. Bob Mabena chats to singer-songwriter and South African Music Award winner, Zahara, about her journey in the industry and the inspiration behind her music.</desc>
+    <desc lang="en-GB">&apos;S3/E2 of 10 - Zahara&apos;. Bob Mabena chats to singer-songwriter and South African Music Award winner, Zahara, about her journey in the industry and the inspiration behind her music.</desc>
   </programme>
   <programme start="20230724010000 +0200" stop="20230724020000 +0200" channel="dstv_mzansi_magic">
     <title lang="en-GB">Indumbe: Rating: 13, Drama, 2017</title>
@@ -4337,11 +4521,11 @@
   </programme>
   <programme start="20230724040000 +0200" stop="20230724050000 +0200" channel="dstv_mzansi_magic">
     <title lang="en-GB">Icilongo: Season 1, Episode 3</title>
-    <desc lang="en-GB">&apos;S1/E3&apos;. Hosted by Kholeka Dubula and Pastor Steven Molakeng, Icilongo shines the spotlight on SA&apos;s talented Gospel and Traditional worship voices.</desc>
+    <desc lang="en-GB">&apos;S1/E3 of 13&apos;. Hosted by Kholeka Dubula and Pastor Steven Molakeng, Icilongo shines the spotlight on SA&apos;s talented Gospel and Traditional worship voices.</desc>
   </programme>
   <programme start="20230724050000 +0200" stop="20230724060000 +0200" channel="dstv_mzansi_magic">
     <title lang="en-GB">Icilongo: Season 1, Episode 4</title>
-    <desc lang="en-GB">&apos;S1/E4&apos;. Hosted by Kholeka Dubula and Pastor Steven Molakeng, Icilongo shines the spotlight on SA&apos;s talented Gospel and Traditional worship voices.</desc>
+    <desc lang="en-GB">&apos;S1/E4 of 13&apos;. Hosted by Kholeka Dubula and Pastor Steven Molakeng, Icilongo shines the spotlight on SA&apos;s talented Gospel and Traditional worship voices.</desc>
   </programme>
   <programme start="20230724060000 +0200" stop="20230724070000 +0200" channel="dstv_mzansi_magic">
     <title lang="en-GB">The Talk: Season 13, Episode 144</title>
@@ -4441,11 +4625,11 @@
   </programme>
   <programme start="20230724000000 +0200" stop="20230724003000 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">The River: Season 3, Episode 14</title>
-    <desc lang="en-GB">&apos;S3/E14&apos;. Zolani defies Zweli in order to help Lindiwe, just as Cobra implements his plan to win his friends&apos; affection.</desc>
+    <desc lang="en-GB">&apos;S3/E14 of 260&apos;. Zolani defies Zweli in order to help Lindiwe, just as Cobra implements his plan to win his friends&apos; affection.</desc>
   </programme>
   <programme start="20230724003000 +0200" stop="20230724010000 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">The River: Season 3, Episode 15</title>
-    <desc lang="en-GB">&apos;S3/E15&apos;. A new discovery shakes Lindiwe&apos;s entire life. Cobra fails to keep his word of peace and unity and threatens the lives of his friends.</desc>
+    <desc lang="en-GB">&apos;S3/E15 of 260&apos;. A new discovery shakes Lindiwe&apos;s entire life. Cobra fails to keep his word of peace and unity and threatens the lives of his friends.</desc>
   </programme>
   <programme start="20230724010000 +0200" stop="20230724023500 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">When Love Hurts: Rating: PG, Drama, 2013</title>
@@ -4453,19 +4637,19 @@
   </programme>
   <programme start="20230724023500 +0200" stop="20230724030400 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Soul Sessions: Season 1, Episode 8</title>
-    <desc lang="en-GB">&apos;S1/E8&apos;. We celebrate local music in this unplugged special.</desc>
+    <desc lang="en-GB">&apos;S1/E8 of 10&apos;. We celebrate local music in this unplugged special.</desc>
   </programme>
   <programme start="20230724030400 +0200" stop="20230724040000 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Gospel 10 At 10: Season 1, Episode 17</title>
-    <desc lang="en-GB">&apos;S1/E17&apos;. We bring you a count down of your favorite top ten gospel hits. Only on Mzansi Wethu.</desc>
+    <desc lang="en-GB">&apos;S1/E17 of 31&apos;. We bring you a count down of your favorite top ten gospel hits. Only on Mzansi Wethu.</desc>
   </programme>
   <programme start="20230724040000 +0200" stop="20230724050000 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Gospel 10 At 10: Season 1, Episode 18</title>
-    <desc lang="en-GB">&apos;S1/E18&apos;. We bring you a count down of your favorite top ten gospel hits. Only on Mzansi Wethu.</desc>
+    <desc lang="en-GB">&apos;S1/E18 of 31&apos;. We bring you a count down of your favorite top ten gospel hits. Only on Mzansi Wethu.</desc>
   </programme>
   <programme start="20230724050000 +0200" stop="20230724060000 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">My Top 10: My Life In Music: Season 1, Episode 16</title>
-    <desc lang="en-GB">&apos;S1/E16&apos;. Hosted by Thabo Mokwele and filmed entirely in a radio studio, inspirational people tell their life stories, set against the background of and influenced by music.</desc>
+    <desc lang="en-GB">&apos;S1/E16 of 26&apos;. Hosted by Thabo Mokwele and filmed entirely in a radio studio, inspirational people tell their life stories, set against the background of and influenced by music.</desc>
   </programme>
   <programme start="20230724060000 +0200" stop="20230724061500 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Tjiff En Tjaff: Speeltyd: Season 1, Episode 18</title>
@@ -4473,11 +4657,11 @@
   </programme>
   <programme start="20230724061500 +0200" stop="20230724063000 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Trixi: Season 1, Episode 14</title>
-    <desc lang="en-GB">&apos;S1/E14&apos;. Trixi plays on the computer to learn more about wild animals and plants.</desc>
+    <desc lang="en-GB">&apos;S1/E14 of 20&apos;. Trixi plays on the computer to learn more about wild animals and plants.</desc>
   </programme>
   <programme start="20230724063000 +0200" stop="20230724064500 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Rat-Tat-Tat: Season 1, Episode 18</title>
-    <desc lang="en-GB">&apos;S1/E18&apos;. The clever antelope and skunk are travelling through the country. They discover all sorts of interesting places and meet a lot of friends along the way.</desc>
+    <desc lang="en-GB">&apos;S1/E18 of 61&apos;. The clever antelope and skunk are travelling through the country. They discover all sorts of interesting places and meet a lot of friends along the way.</desc>
   </programme>
   <programme start="20230724064500 +0200" stop="20230724065900 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Tjiff En Tjaff: Speeltyd: Season 2, Episode 35</title>
@@ -4485,19 +4669,19 @@
   </programme>
   <programme start="20230724065900 +0200" stop="20230724071400 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Zim Zim: Season 1, Episode 18</title>
-    <desc lang="en-GB">&apos;S1/E18&apos;. Zim Zim is an ordinary six-year-old boy who shrinks when he makes a mistake. He goes to a secret place where he learns not to make the same mistake again.</desc>
+    <desc lang="en-GB">&apos;S1/E18 of 312&apos;. Zim Zim is an ordinary six-year-old boy who shrinks when he makes a mistake. He goes to a secret place where he learns not to make the same mistake again.</desc>
   </programme>
   <programme start="20230724071400 +0200" stop="20230724073000 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Froggies: Season 1, Episode 12</title>
-    <desc lang="en-GB">&apos;S1/E12&apos;. Auntie Hop the frog tells stories that make you sit up and listen. Her chatty little frog companions can&apos;t get enough of her stories about the African animal kingdom.</desc>
+    <desc lang="en-GB">&apos;S1/E12 of 20&apos;. Auntie Hop the frog tells stories that make you sit up and listen. Her chatty little frog companions can&apos;t get enough of her stories about the African animal kingdom.</desc>
   </programme>
   <programme start="20230724073000 +0200" stop="20230724074500 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Dee Dee &amp; Spike: Season 1, Episode 10</title>
-    <desc lang="en-GB">&apos;S1/E10&apos;. Dee Dee and Spike, the children&apos;s dance series: Each episode takes you to a fun place and teaches children playful dance moves, whilst building on their vocabulary.</desc>
+    <desc lang="en-GB">&apos;S1/E10 of 260&apos;. Dee Dee and Spike, the children&apos;s dance series: Each episode takes you to a fun place and teaches children playful dance moves, whilst building on their vocabulary.</desc>
   </programme>
   <programme start="20230724074500 +0200" stop="20230724075900 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Rat-Tat-Tat: Season 1, Episode 34</title>
-    <desc lang="en-GB">&apos;S1/E34&apos;. The clever antelope and skunk are travelling through the country. They discover all sorts of interesting places and meet a lot of friends along the way.</desc>
+    <desc lang="en-GB">&apos;S1/E34 of 61&apos;. The clever antelope and skunk are travelling through the country. They discover all sorts of interesting places and meet a lot of friends along the way.</desc>
   </programme>
   <programme start="20230724075900 +0200" stop="20230724081500 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Tjiff En Tjaff: Speeltyd: Season 2, Episode 31</title>
@@ -4505,43 +4689,43 @@
   </programme>
   <programme start="20230724081500 +0200" stop="20230724082900 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Trixi: Season 1, Episode 12</title>
-    <desc lang="en-GB">&apos;S1/E12&apos;. Trixi plays on the computer to learn more about wild animals and plants.</desc>
+    <desc lang="en-GB">&apos;S1/E12 of 20&apos;. Trixi plays on the computer to learn more about wild animals and plants.</desc>
   </programme>
   <programme start="20230724082900 +0200" stop="20230724084500 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Lappies: Season 1, Episode 7</title>
-    <desc lang="en-GB">&apos;S1/E7&apos;. Lappies the lion is the prince of the bushveld and heir to the throne because his dad is the king. Lappies learns, plays and experiences as many adventures everyday with his friends.</desc>
+    <desc lang="en-GB">&apos;S1/E7 of 102&apos;. Lappies the lion is the prince of the bushveld and heir to the throne because his dad is the king. Lappies learns, plays and experiences as many adventures everyday with his friends.</desc>
   </programme>
   <programme start="20230724084500 +0200" stop="20230724090000 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Dee Dee &amp; Spike: Season 1, Episode 63</title>
-    <desc lang="en-GB">&apos;S1/E63&apos;. Dee Dee and Spike, the children&apos;s dance series: Each episode takes you to a fun place and teaches children playful dance moves, whilst building on their vocabulary.</desc>
+    <desc lang="en-GB">&apos;S1/E63 of 260&apos;. Dee Dee and Spike, the children&apos;s dance series: Each episode takes you to a fun place and teaches children playful dance moves, whilst building on their vocabulary.</desc>
   </programme>
   <programme start="20230724090000 +0200" stop="20230724100100 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">My Top 10: My Life In Music: Season 1, Episode 15</title>
-    <desc lang="en-GB">&apos;S1/E15&apos;. My Life In Music is a show hosted by Thabo Mokwele and filmed entirely in a radio studio. Inspirational people tell their life stories, set against the background of and influenced by music.</desc>
+    <desc lang="en-GB">&apos;S1/E15 of 26&apos;. My Life In Music is a show hosted by Thabo Mokwele and filmed entirely in a radio studio. Inspirational people tell their life stories, set against the background of and influenced by music.</desc>
   </programme>
   <programme start="20230724100100 +0200" stop="20230724103100 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Greed And Desire: Season 1, Episode 189</title>
-    <desc lang="en-GB">&apos;S1/E189 - It&apos;s A Gas&apos;. Gabi learns the truth about Benson and is devastated. Maru is ready to fight after getting an advice from his legal adviser.</desc>
+    <desc lang="en-GB">&apos;S1/E189 of 208 - It&apos;s A Gas&apos;. Gabi learns the truth about Benson and is devastated. Maru is ready to fight after getting an advice from his legal adviser.</desc>
   </programme>
   <programme start="20230724103100 +0200" stop="20230724110100 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Gomora: Season 2, Episode 215</title>
-    <desc lang="en-GB">&apos;S2/E215&apos;. Thathi&apos;s wedding is back on track. Gladys threatens Melusi with divorce.</desc>
+    <desc lang="en-GB">&apos;S2/E215 of 260&apos;. Thathi&apos;s wedding is back on track. Gladys threatens Melusi with divorce.</desc>
   </programme>
   <programme start="20230724110100 +0200" stop="20230724113000 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Lingashoni: Season 2, Episode 48</title>
-    <desc lang="en-GB">&apos;S2/E48&apos;. Puleng and Seipati finally teach each other that long awaited lesson, and a serious beating. Gagashe and Mandla come face to face after the incident.</desc>
+    <desc lang="en-GB">&apos;S2/E48 of 208&apos;. Puleng and Seipati finally teach each other that long awaited lesson, and a serious beating. Gagashe and Mandla come face to face after the incident.</desc>
   </programme>
   <programme start="20230724113000 +0200" stop="20230724120100 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">The Queen: Season 6, Episode 40</title>
-    <desc lang="en-GB">&apos;S6/E40&apos;. Noma reaches a life-changing decision regarding her and Brutus. Vuyiswa has to apologise to the family about her suspicions regarding Johnny.</desc>
+    <desc lang="en-GB">&apos;S6/E40 of 260&apos;. Noma reaches a life-changing decision regarding her and Brutus. Vuyiswa has to apologise to the family about her suspicions regarding Johnny.</desc>
   </programme>
   <programme start="20230724120100 +0200" stop="20230724123000 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">The River: Season 3, Episode 15</title>
-    <desc lang="en-GB">&apos;S3/E15&apos;. A new discovery shakes Lindiwe&apos;s entire life. Cobra fails to keep his word of peace and unity and threatens the lives of his friends.</desc>
+    <desc lang="en-GB">&apos;S3/E15 of 260&apos;. A new discovery shakes Lindiwe&apos;s entire life. Cobra fails to keep his word of peace and unity and threatens the lives of his friends.</desc>
   </programme>
   <programme start="20230724123000 +0200" stop="20230724130000 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Greed And Desire: Season 1, Episode 189</title>
-    <desc lang="en-GB">&apos;S1/E189 - It&apos;s A Gas&apos;. Gabi learns the truth about Benson and is devastated. Maru is ready to fight after getting an advice from his legal adviser.</desc>
+    <desc lang="en-GB">&apos;S1/E189 of 208 - It&apos;s A Gas&apos;. Gabi learns the truth about Benson and is devastated. Maru is ready to fight after getting an advice from his legal adviser.</desc>
   </programme>
   <programme start="20230724130000 +0200" stop="20230724140000 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Masego: Rating: 13, Drama, 2020</title>
@@ -4549,19 +4733,19 @@
   </programme>
   <programme start="20230724140000 +0200" stop="20230724143000 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Gomora: Season 2, Episode 215</title>
-    <desc lang="en-GB">&apos;S2/E215&apos;. Thathi&apos;s wedding is back on track. Gladys threatens Melusi with divorce.</desc>
+    <desc lang="en-GB">&apos;S2/E215 of 260&apos;. Thathi&apos;s wedding is back on track. Gladys threatens Melusi with divorce.</desc>
   </programme>
   <programme start="20230724143000 +0200" stop="20230724150000 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Lingashoni: Season 2, Episode 48</title>
-    <desc lang="en-GB">&apos;S2/E48&apos;. Puleng and Seipati finally teach each other that long awaited lesson, and a serious beating. Gagashe and Mandla come face to face after the incident.</desc>
+    <desc lang="en-GB">&apos;S2/E48 of 208&apos;. Puleng and Seipati finally teach each other that long awaited lesson, and a serious beating. Gagashe and Mandla come face to face after the incident.</desc>
   </programme>
   <programme start="20230724150000 +0200" stop="20230724153000 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">The Queen: Season 6, Episode 40</title>
-    <desc lang="en-GB">&apos;S6/E40&apos;. Noma reaches a life-changing decision regarding her and Brutus. Vuyiswa has to apologise to the family about her suspicions regarding Johnny.</desc>
+    <desc lang="en-GB">&apos;S6/E40 of 260&apos;. Noma reaches a life-changing decision regarding her and Brutus. Vuyiswa has to apologise to the family about her suspicions regarding Johnny.</desc>
   </programme>
   <programme start="20230724153000 +0200" stop="20230724160000 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">The River: Season 3, Episode 15</title>
-    <desc lang="en-GB">&apos;S3/E15&apos;. A new discovery shakes Lindiwe&apos;s entire life. Cobra fails to keep his word of peace and unity and threatens the lives of his friends.</desc>
+    <desc lang="en-GB">&apos;S3/E15 of 260&apos;. A new discovery shakes Lindiwe&apos;s entire life. Cobra fails to keep his word of peace and unity and threatens the lives of his friends.</desc>
   </programme>
   <programme start="20230724160000 +0200" stop="20230724172800 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Never Say Goodbye: Rating: 13, Drama, 2013</title>
@@ -4569,47 +4753,47 @@
   </programme>
   <programme start="20230724172800 +0200" stop="20230724182800 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Our Perfect Wedding: Season 10, Episode 50</title>
-    <desc lang="en-GB">&apos;S10/E50&apos;. Lazarus and Phindile met at a church function in 2013. Lazarus showed Phindile his true intentions of making her his wife, 7 years later they are saying I DO.</desc>
+    <desc lang="en-GB">&apos;S10/E50 of 52&apos;. Lazarus and Phindile met at a church function in 2013. Lazarus showed Phindile his true intentions of making her his wife, 7 years later they are saying I DO.</desc>
   </programme>
   <programme start="20230724182800 +0200" stop="20230724190000 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Deconstructed: Season 1, Episode 4</title>
-    <desc lang="en-GB">&apos;S1/E4&apos;. Deconstructed gives viewers a peek into the creative process behind their favourite musical acts, as artists talk us through what inspires their work, while performing a set of songs in an intimate studio setting.</desc>
+    <desc lang="en-GB">&apos;S1/E4 of 13&apos;. Deconstructed gives viewers a peek into the creative process behind their favourite musical acts, as artists talk us through what inspires their work, while performing a set of songs in an intimate studio setting.</desc>
   </programme>
   <programme start="20230724190000 +0200" stop="20230724193000 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">News On Wethu: Season 1, Episode 148</title>
-    <desc lang="en-GB">&apos;S1/E148&apos;. The daily news bulletin covering the latest breaking news locally and internationally. Presented in IsiZulu and IsiXhosa, we bring you a new era of current and reliable news coverage.</desc>
+    <desc lang="en-GB">&apos;S1/E148 of 247&apos;. The daily news bulletin covering the latest breaking news locally and internationally. Presented in IsiZulu and IsiXhosa, we bring you a new era of current and reliable news coverage.</desc>
   </programme>
   <programme start="20230724193000 +0200" stop="20230724200000 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Gomora: Season 2, Episode 216</title>
-    <desc lang="en-GB">&apos;S2/E216&apos;. Melusi is annoyed to learn of Phumlani&apos;s newest involvement in Gomora High. Teddy catches Qhoqhoqho looking for Don&apos;s killer.</desc>
+    <desc lang="en-GB">&apos;S2/E216 of 260&apos;. Melusi is annoyed to learn of Phumlani&apos;s newest involvement in Gomora High. Teddy catches Qhoqhoqho looking for Don&apos;s killer.</desc>
   </programme>
   <programme start="20230724200000 +0200" stop="20230724203000 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">The River: Season 3, Episode 16</title>
-    <desc lang="en-GB">&apos;S3/E16&apos;. Cobra finally finds a way to teach his former friends a lesson. Zolani and Lindiwe want blood as they start the search for a killer.</desc>
+    <desc lang="en-GB">&apos;S3/E16 of 260&apos;. Cobra finally finds a way to teach his former friends a lesson. Zolani and Lindiwe want blood as they start the search for a killer.</desc>
   </programme>
   <programme start="20230724203000 +0200" stop="20230724210000 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Lingashoni: Season 2, Episode 49</title>
-    <desc lang="en-GB">&apos;S2/E49&apos;. Tables have turned after years of having Seipati cry for Mandla to choose her. In his drunken state, Mandla gets an unexpected visitor. Robert pushes Mpumi to do his dirty work.</desc>
+    <desc lang="en-GB">&apos;S2/E49 of 208&apos;. Tables have turned after years of having Seipati cry for Mandla to choose her. In his drunken state, Mandla gets an unexpected visitor. Robert pushes Mpumi to do his dirty work.</desc>
   </programme>
   <programme start="20230724210000 +0200" stop="20230724213000 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">The Queen: Season 6, Episode 41</title>
-    <desc lang="en-GB">&apos;S6/E41&apos;. Hector finally makes the payment to the international facility. Vuyiswa starts to investigate Johnny to find out what&apos;s going on.</desc>
+    <desc lang="en-GB">&apos;S6/E41 of 260&apos;. Hector finally makes the payment to the international facility. Vuyiswa starts to investigate Johnny to find out what&apos;s going on.</desc>
   </programme>
   <programme start="20230724213000 +0200" stop="20230724220100 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Nqobile: Season 1, Episode 3</title>
-    <desc lang="en-GB">&apos;S1/E3&apos;. Declaring Simo a liability and a loose end, Black Widow wants to end Simo too but he makes her an offer she cannot refuse.</desc>
+    <desc lang="en-GB">&apos;S1/E3 of 13&apos;. Declaring Simo a liability and a loose end, Black Widow wants to end Simo too but he makes her an offer she cannot refuse.</desc>
   </programme>
   <programme start="20230724220100 +0200" stop="20230724230100 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Downtime With Somizi: Season 1, Episode 11</title>
-    <desc lang="en-GB">&apos;S1/E11&apos;. Somizi talks soccer and life with Portia Modise and Junior Khanye.</desc>
+    <desc lang="en-GB">&apos;S1/E11 of 13&apos;. Somizi talks soccer and life with Portia Modise and Junior Khanye.</desc>
   </programme>
   <programme start="20230724230100 +0200" stop="20230724233000 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Lingashoni: Season 2, Episode 49</title>
-    <desc lang="en-GB">&apos;S2/E49&apos;. Tables have turned after years of having Seipati cry for Mandla to choose her. In his drunken state, Mandla gets an unexpected visitor. Robert pushes Mpumi to do his dirty work.</desc>
+    <desc lang="en-GB">&apos;S2/E49 of 208&apos;. Tables have turned after years of having Seipati cry for Mandla to choose her. In his drunken state, Mandla gets an unexpected visitor. Robert pushes Mpumi to do his dirty work.</desc>
   </programme>
   <programme start="20230724233000 +0200" stop="20230725000000 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Greed And Desire: Season 1, Episode 189</title>
-    <desc lang="en-GB">&apos;S1/E189 - It&apos;s A Gas&apos;. Gabi learns the truth about Benson and is devastated. Maru is ready to fight after getting an advice from his legal adviser.</desc>
+    <desc lang="en-GB">&apos;S1/E189 of 208 - It&apos;s A Gas&apos;. Gabi learns the truth about Benson and is devastated. Maru is ready to fight after getting an advice from his legal adviser.</desc>
   </programme>
   <programme start="20230725000000 +0200" stop="20230725013000 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Finding Mr Right: Rating: 13, Drama, 2014</title>
@@ -4621,7 +4805,7 @@
   </programme>
   <programme start="20230724010000 +0200" stop="20230724020000 +0200" channel="dstv_mzansi_bioskop">
     <title lang="en-GB">Ibala: Rating: 13, Drama, 2017</title>
-    <desc lang="en-GB">A young girl with Albinism meets her fiance&apos;s family for the first time. However, they forbid him from marrying her and threaten to disown him if he does.</desc>
+    <desc lang="en-GB">A young girl with albinism meets her fiance&apos;s family for the first time. However, they forbid him from marrying her and threaten to disown him if he does.</desc>
   </programme>
   <programme start="20230724020000 +0200" stop="20230724030000 +0200" channel="dstv_mzansi_bioskop">
     <title lang="en-GB">Umlingo: Rating: PG13, Drama, 2019</title>
@@ -5263,11 +5447,11 @@
     <title lang="en-GB">Who Owns The Baby</title>
     <desc lang="en-GB">Who Owns The Baby</desc>
   </programme>
-  <programme start="20230724233000 +0200" stop="20230725011000 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230724233100 +0200" stop="20230725011100 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">House Arrest</title>
     <desc lang="en-GB">House Arrest</desc>
   </programme>
-  <programme start="20230725011000 +0200" stop="20230725043000 +0200" channel="dstv_africa_magic_urban">
+  <programme start="20230725011100 +0200" stop="20230725043000 +0200" channel="dstv_africa_magic_urban">
     <title lang="en-GB">Billionaires Club</title>
     <desc lang="en-GB">Billionaires Club</desc>
   </programme>
@@ -6407,6 +6591,122 @@
     <title lang="en-GB">ZNBC 2</title>
     <desc lang="en-GB">ZNBC 2</desc>
   </programme>
+  <programme start="20230725000000 +0200" stop="20230725001500 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Nkoyo</title>
+    <desc lang="en-GB">Nkoyo</desc>
+  </programme>
+  <programme start="20230725001500 +0200" stop="20230725004000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Chronicles Of Solo</title>
+    <desc lang="en-GB">Chronicles Of Solo</desc>
+  </programme>
+  <programme start="20230725004000 +0200" stop="20230725010500 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Maskers</title>
+    <desc lang="en-GB">Maskers</desc>
+  </programme>
+  <programme start="20230725010500 +0200" stop="20230725024000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Man Of Her Match</title>
+    <desc lang="en-GB">Man Of Her Match</desc>
+  </programme>
+  <programme start="20230725024000 +0200" stop="20230725030500 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Chronicles Of Solo</title>
+    <desc lang="en-GB">Chronicles Of Solo</desc>
+  </programme>
+  <programme start="20230725030500 +0200" stop="20230725033100 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Open Secret</title>
+    <desc lang="en-GB">Open Secret</desc>
+  </programme>
+  <programme start="20230725033100 +0200" stop="20230725040100 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Itura</title>
+    <desc lang="en-GB">Itura</desc>
+  </programme>
+  <programme start="20230725040100 +0200" stop="20230725050000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Kin</title>
+    <desc lang="en-GB">Kin</desc>
+  </programme>
+  <programme start="20230725050000 +0200" stop="20230725063000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Storm And Jerry</title>
+    <desc lang="en-GB">Storm And Jerry</desc>
+  </programme>
+  <programme start="20230725063000 +0200" stop="20230725070000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">The Johnsons</title>
+    <desc lang="en-GB">The Johnsons</desc>
+  </programme>
+  <programme start="20230725070000 +0200" stop="20230725073000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Bachelor</title>
+    <desc lang="en-GB">Bachelor</desc>
+  </programme>
+  <programme start="20230725073000 +0200" stop="20230725080000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Lagos Big Girl</title>
+    <desc lang="en-GB">Lagos Big Girl</desc>
+  </programme>
+  <programme start="20230725080000 +0200" stop="20230725095000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Dark Motive</title>
+    <desc lang="en-GB">Dark Motive</desc>
+  </programme>
+  <programme start="20230725095000 +0200" stop="20230725113500 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Now That We Are Married</title>
+    <desc lang="en-GB">Now That We Are Married</desc>
+  </programme>
+  <programme start="20230725113500 +0200" stop="20230725120000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Chronicles Of Solo</title>
+    <desc lang="en-GB">Chronicles Of Solo</desc>
+  </programme>
+  <programme start="20230725120000 +0200" stop="20230725133000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Perfect Crime</title>
+    <desc lang="en-GB">Perfect Crime</desc>
+  </programme>
+  <programme start="20230725133000 +0200" stop="20230725140000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Tinsel</title>
+    <desc lang="en-GB">Tinsel</desc>
+  </programme>
+  <programme start="20230725140000 +0200" stop="20230725160000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Chat Her</title>
+    <desc lang="en-GB">Chat Her</desc>
+  </programme>
+  <programme start="20230725160000 +0200" stop="20230725163000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Covenant</title>
+    <desc lang="en-GB">Covenant</desc>
+  </programme>
+  <programme start="20230725163000 +0200" stop="20230725170000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Itura</title>
+    <desc lang="en-GB">Itura</desc>
+  </programme>
+  <programme start="20230725170000 +0200" stop="20230725183000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Rainbows</title>
+    <desc lang="en-GB">Rainbows</desc>
+  </programme>
+  <programme start="20230725183000 +0200" stop="20230725190000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">My Flatmates</title>
+    <desc lang="en-GB">My Flatmates</desc>
+  </programme>
+  <programme start="20230725190000 +0200" stop="20230725193000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">The Johnsons</title>
+    <desc lang="en-GB">The Johnsons</desc>
+  </programme>
+  <programme start="20230725193000 +0200" stop="20230725200000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Tinsel</title>
+    <desc lang="en-GB">Tinsel</desc>
+  </programme>
+  <programme start="20230725200000 +0200" stop="20230725203000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Covenant</title>
+    <desc lang="en-GB">Covenant</desc>
+  </programme>
+  <programme start="20230725203000 +0200" stop="20230725210000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Itura</title>
+    <desc lang="en-GB">Itura</desc>
+  </programme>
+  <programme start="20230725210000 +0200" stop="20230725213000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Chronicles Of Solo</title>
+    <desc lang="en-GB">Chronicles Of Solo</desc>
+  </programme>
+  <programme start="20230725213000 +0200" stop="20230725233000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">The Other Side Of Love</title>
+    <desc lang="en-GB">The Other Side Of Love</desc>
+  </programme>
+  <programme start="20230725233000 +0200" stop="20230726000000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Lagos Big Girl</title>
+    <desc lang="en-GB">Lagos Big Girl</desc>
+  </programme>
   <programme start="20230725002000 +0200" stop="20230725005100 +0200" channel="dstv_zambezi_magic">
     <title lang="en-GB">Kopala: Season 1, Episode 10</title>
     <desc lang="en-GB">&apos;S1/E10 of 45&apos;. A talented young footballer, Muzo becomes imprisoned for a crime he didn&apos;t commit and escapes prison, uses his new found skills to acquire wealth and revenge.</desc>
@@ -6643,125 +6943,125 @@
     <title lang="en-GB">Critical Attacks: Rating: 16, Drama, 2020</title>
     <desc lang="en-GB">Chidinma becomes desperate for marriage to the point of using diabolic means to get a man.</desc>
   </programme>
-  <programme start="20230725003000 +0200" stop="20230725010000 +0200" channel="dstv_one_magic">
+  <programme start="20230725003100 +0200" stop="20230725010000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">The River: Season 6, Episode 121</title>
-    <desc lang="en-GB">&apos;S6/E121&apos;. Khwezi is under pressure to succumb to her family&apos;s way of living, while Cobra has one of the most heartbreaking realisations about life.</desc>
+    <desc lang="en-GB">&apos;S6/E121 of 192&apos;. Khwezi is under pressure to succumb to her family&apos;s way of living, while Cobra has one of the most heartbreaking realisations about life.</desc>
   </programme>
   <programme start="20230725010000 +0200" stop="20230725013000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">1802: Love Defies Time: Season 1, Episode 37</title>
-    <desc lang="en-GB">&apos;S1/E37&apos;. Now that she&apos;s back in her world, Khosi wants to give her relationship with Zuko another go. Melisizwe is his brother&apos;s keeper when he goes on a quest with Longamo.</desc>
+    <desc lang="en-GB">&apos;S1/E37 of 91&apos;. Now that she&apos;s back in her world, Khosi wants to give her relationship with Zuko another go. Melisizwe is his brother&apos;s keeper when he goes on a quest with Longamo.</desc>
   </programme>
   <programme start="20230725013000 +0200" stop="20230725020000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">1Magic: Zone In: Season 2, Episode 47</title>
-    <desc lang="en-GB">&apos;S2/E47&apos;. Zone In showcases the freshest local and international stars and music genres.</desc>
+    <desc lang="en-GB">&apos;S2/E47 of 52&apos;. Zone In showcases the freshest local and international stars and music genres.</desc>
   </programme>
   <programme start="20230725020000 +0200" stop="20230725033000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">1Magic: Hits: Season 3, Episode 37</title>
-    <desc lang="en-GB">&apos;S3/E37&apos;. Catch the best in local and international music hits.</desc>
+    <desc lang="en-GB">&apos;S3/E37 of 52&apos;. Catch the best in local and international music hits.</desc>
   </programme>
   <programme start="20230725033000 +0200" stop="20230725050000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">1Magic: Hits: Season 3, Episode 38</title>
-    <desc lang="en-GB">&apos;S3/E38&apos;. Catch the best in local and international music hits.</desc>
+    <desc lang="en-GB">&apos;S3/E38 of 52&apos;. Catch the best in local and international music hits.</desc>
   </programme>
   <programme start="20230725050000 +0200" stop="20230725060000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">The Talk: Season 13, Episode 118</title>
-    <desc lang="en-GB">&apos;S13/E118 - Tracey Bregman&apos;. Celebrity hosts discuss entertainment, politics and current events.</desc>
+    <desc lang="en-GB">&apos;S13/E118 of 205 - Tracey Bregman&apos;. Celebrity hosts discuss entertainment, politics and current events.</desc>
   </programme>
   <programme start="20230725060000 +0200" stop="20230725073000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">1Magic: Hits: Season 3, Episode 12</title>
-    <desc lang="en-GB">&apos;S3/E12&apos;. Catch the best in local and international music hits.</desc>
+    <desc lang="en-GB">&apos;S3/E12 of 52&apos;. Catch the best in local and international music hits.</desc>
   </programme>
   <programme start="20230725073000 +0200" stop="20230725080000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">The River: Season 6, Episode 121</title>
-    <desc lang="en-GB">&apos;S6/E121&apos;. Khwezi is under pressure to succumb to her family&apos;s way of living, while Cobra has one of the most heartbreaking realisations about life.</desc>
+    <desc lang="en-GB">&apos;S6/E121 of 192&apos;. Khwezi is under pressure to succumb to her family&apos;s way of living, while Cobra has one of the most heartbreaking realisations about life.</desc>
   </programme>
   <programme start="20230725080000 +0200" stop="20230725083000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">Please Step In: Season 4, Episode 1</title>
-    <desc lang="en-GB">&apos;S4/E1&apos;. Please Step In seeks to resolve pressing family issues through an intervention by a family member, facilitated by host and trained counsellor, Angie Diale.</desc>
+    <desc lang="en-GB">&apos;S4/E1 of 13&apos;. Please Step In seeks to resolve pressing family issues through an intervention by a family member, facilitated by host and trained counsellor, Angie Diale.</desc>
   </programme>
   <programme start="20230725083000 +0200" stop="20230725090000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">Please Step In: Season 4, Episode 2</title>
-    <desc lang="en-GB">&apos;S4/E2&apos;. Please Step In seeks to resolve pressing family issues through an intervention by a family member, facilitated by host and trained counsellor, Angie Diale.</desc>
+    <desc lang="en-GB">&apos;S4/E2 of 13&apos;. Please Step In seeks to resolve pressing family issues through an intervention by a family member, facilitated by host and trained counsellor, Angie Diale.</desc>
   </programme>
   <programme start="20230725090000 +0200" stop="20230725100000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">The Real Housewives Of New Jersey: Season 13, Episode 18</title>
-    <desc lang="en-GB">&apos;S13/E18 - Reunion Part 2&apos;. As the reunion continues, Jennifer and Rachel continue their nose job jabs. Margaret opens up about her ex-husband&apos;s death.</desc>
+    <desc lang="en-GB">&apos;S13/E18 of 19 - Reunion Part 2&apos;. As the reunion continues, Jennifer and Rachel continue their nose job jabs. Margaret opens up about her ex-husband&apos;s death.</desc>
   </programme>
   <programme start="20230725100000 +0200" stop="20230725103000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">1802: Love Defies Time: Season 1, Episode 37</title>
-    <desc lang="en-GB">&apos;S1/E37&apos;. Now that she&apos;s back in her world, Khosi wants to give her relationship with Zuko another go. Melisizwe is his brother&apos;s keeper when he goes on a quest with Longamo.</desc>
+    <desc lang="en-GB">&apos;S1/E37 of 91&apos;. Now that she&apos;s back in her world, Khosi wants to give her relationship with Zuko another go. Melisizwe is his brother&apos;s keeper when he goes on a quest with Longamo.</desc>
   </programme>
   <programme start="20230725103000 +0200" stop="20230725110000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">The River: Season 6, Episode 121</title>
-    <desc lang="en-GB">&apos;S6/E121&apos;. Khwezi is under pressure to succumb to her family&apos;s way of living, while Cobra has one of the most heartbreaking realisations about life.</desc>
+    <desc lang="en-GB">&apos;S6/E121 of 192&apos;. Khwezi is under pressure to succumb to her family&apos;s way of living, while Cobra has one of the most heartbreaking realisations about life.</desc>
   </programme>
   <programme start="20230725110000 +0200" stop="20230725120000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">The Masked Singer: Season 6, Episode 7</title>
-    <desc lang="en-GB">&apos;S6/E7 - All-Time Countdown&apos;. A special countdown of the greatest performances in the show&apos;s history, featuring behind-the-scenes footage of the unmasked singers from Season 6.</desc>
+    <desc lang="en-GB">&apos;S6/E7 of 16 - All-Time Countdown&apos;. A special countdown of the greatest performances in the show&apos;s history, featuring behind-the-scenes footage of the unmasked singers from Season 6.</desc>
   </programme>
   <programme start="20230725120000 +0200" stop="20230725123000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">1Magic: Zone In: Season 2, Episode 36</title>
-    <desc lang="en-GB">&apos;S2/E36&apos;. Zone In showcases the freshest local and international stars and music genres.</desc>
+    <desc lang="en-GB">&apos;S2/E36 of 52&apos;. Zone In showcases the freshest local and international stars and music genres.</desc>
   </programme>
   <programme start="20230725123000 +0200" stop="20230725130000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">1Magic: Zone In: Season 2, Episode 38</title>
-    <desc lang="en-GB">&apos;S2/E38&apos;. Zone In showcases the freshest local and international stars and music genres.</desc>
+    <desc lang="en-GB">&apos;S2/E38 of 52&apos;. Zone In showcases the freshest local and international stars and music genres.</desc>
   </programme>
   <programme start="20230725130000 +0200" stop="20230725140000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">The Real Housewives Of New Jersey: Season 13, Episode 18</title>
-    <desc lang="en-GB">&apos;S13/E18 - Reunion Part 2&apos;. As the reunion continues, Jennifer and Rachel continue their nose job jabs. Margaret opens up about her ex-husband&apos;s death.</desc>
+    <desc lang="en-GB">&apos;S13/E18 of 19 - Reunion Part 2&apos;. As the reunion continues, Jennifer and Rachel continue their nose job jabs. Margaret opens up about her ex-husband&apos;s death.</desc>
   </programme>
   <programme start="20230725140000 +0200" stop="20230725143000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">1802: Love Defies Time: Season 1, Episode 37</title>
-    <desc lang="en-GB">&apos;S1/E37&apos;. Now that she&apos;s back in her world, Khosi wants to give her relationship with Zuko another go. Melisizwe is his brother&apos;s keeper when he goes on a quest with Longamo.</desc>
+    <desc lang="en-GB">&apos;S1/E37 of 91&apos;. Now that she&apos;s back in her world, Khosi wants to give her relationship with Zuko another go. Melisizwe is his brother&apos;s keeper when he goes on a quest with Longamo.</desc>
   </programme>
   <programme start="20230725143000 +0200" stop="20230725153000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">The Talk: Season 13, Episode 118</title>
-    <desc lang="en-GB">&apos;S13/E118 - Tracey Bregman&apos;. Celebrity hosts discuss entertainment, politics and current events.</desc>
+    <desc lang="en-GB">&apos;S13/E118 of 205 - Tracey Bregman&apos;. Celebrity hosts discuss entertainment, politics and current events.</desc>
   </programme>
   <programme start="20230725153000 +0200" stop="20230725160000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">The River: Season 6, Episode 121</title>
-    <desc lang="en-GB">&apos;S6/E121&apos;. Khwezi is under pressure to succumb to her family&apos;s way of living, while Cobra has one of the most heartbreaking realisations about life.</desc>
+    <desc lang="en-GB">&apos;S6/E121 of 192&apos;. Khwezi is under pressure to succumb to her family&apos;s way of living, while Cobra has one of the most heartbreaking realisations about life.</desc>
   </programme>
   <programme start="20230725160000 +0200" stop="20230725170000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">The Masked Singer: Season 6, Episode 8</title>
-    <desc lang="en-GB">&apos;S6/E8 - Giving Thanks&apos;. The singers from Group B return to the stage in a special Thanksgiving-themed episode, the final wild card enters the competition, Joel McHale returns as a guest panellist.</desc>
+    <desc lang="en-GB">&apos;S6/E8 of 16 - Giving Thanks&apos;. The singers from Group B return to the stage in a special Thanksgiving-themed episode, the final wild card enters the competition, Joel McHale returns as a guest panellist.</desc>
   </programme>
   <programme start="20230725170000 +0200" stop="20230725173000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">Please Step In: Season 4, Episode 12</title>
-    <desc lang="en-GB">&apos;S4/E12&apos;. Relationships counsellor, Angie Diale, assists in staging an intervention in situations where a participant&apos;s family is struggling with a personal problem.</desc>
+    <desc lang="en-GB">&apos;S4/E12 of 13&apos;. Relationships counsellor, Angie Diale, assists in staging an intervention in situations where a participant&apos;s family is struggling with a personal problem.</desc>
   </programme>
   <programme start="20230725173000 +0200" stop="20230725180000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">Please Step In: Season 4, Episode 13</title>
-    <desc lang="en-GB">&apos;S4/E13&apos;. Relationships counsellor, Angie Diale, assists in staging an intervention in situations where a participant&apos;s family is struggling with a personal problem.</desc>
+    <desc lang="en-GB">&apos;S4/E13 of 13&apos;. Relationships counsellor, Angie Diale, assists in staging an intervention in situations where a participant&apos;s family is struggling with a personal problem.</desc>
   </programme>
   <programme start="20230725180000 +0200" stop="20230725190000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">The Talk: Season 13, Episode 119</title>
-    <desc lang="en-GB">&apos;S13/E119 - Zach Braff&apos;. Celebrity hosts discuss entertainment, politics and current events.</desc>
+    <desc lang="en-GB">&apos;S13/E119 of 205 - Zach Braff&apos;. Celebrity hosts discuss entertainment, politics and current events.</desc>
   </programme>
   <programme start="20230725190000 +0200" stop="20230725200000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">The Real Housewives Of New Jersey: Season 13, Episode 19</title>
-    <desc lang="en-GB">&apos;S13/E19&apos;. The reunion concludes as the New Jersey men join the stage for a ferocious faceoff. John and Frank speculate on Louie&apos;s involvement with a private investigator.</desc>
+    <desc lang="en-GB">&apos;S13/E19 of 19&apos;. The reunion concludes as the New Jersey men join the stage for a ferocious faceoff. John and Frank speculate on Louie&apos;s involvement with a private investigator.</desc>
   </programme>
   <programme start="20230725200000 +0200" stop="20230725203000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">The River: Season 6, Episode 122</title>
-    <desc lang="en-GB">&apos;S6/E122&apos;. Angelina has one more mission to complete. The Dlamini and Hlophe families grapple with news about Zanothando&apos;s future.</desc>
+    <desc lang="en-GB">&apos;S6/E122 of 192&apos;. Angelina has one more mission to complete. The Dlamini and Hlophe families grapple with news about Zanothando&apos;s future.</desc>
   </programme>
   <programme start="20230725203000 +0200" stop="20230725210000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">1802: Love Defies Time: Season 1, Episode 38</title>
-    <desc lang="en-GB">&apos;S1/E38&apos;. Melisizwe and Longamo form an unlikely alliance and bond while on a mission to rescue the Queen Mother. Khosi decides to go back to work despite her mother&apos;s concerns.</desc>
+    <desc lang="en-GB">&apos;S1/E38 of 91&apos;. Melisizwe and Longamo form an unlikely alliance and bond while on a mission to rescue the Queen Mother. Khosi decides to go back to work despite her mother&apos;s concerns.</desc>
   </programme>
   <programme start="20230725210000 +0200" stop="20230725220500 +0200" channel="dstv_one_magic">
     <title lang="en-GB">The Girl From St. Agnes: Season 1, Episode 5</title>
-    <desc lang="en-GB">&apos;S1/E5 - The Proper Morning&apos;. Kate and Shane chase a new suspect after finding out about Lexi&apos;s secret lover. Meanwhile, Jason is torn between trying to save his reputation and protecting the girl he loves.</desc>
+    <desc lang="en-GB">&apos;S1/E5 of 8 - The Proper Morning&apos;. Kate and Shane chase a new suspect after finding out about Lexi&apos;s secret lover. Meanwhile, Jason is torn between trying to save his reputation and protecting the girl he loves.</desc>
   </programme>
-  <programme start="20230725220500 +0200" stop="20230725230000 +0200" channel="dstv_one_magic">
+  <programme start="20230725220500 +0200" stop="20230725231600 +0200" channel="dstv_one_magic">
     <title lang="en-GB">Blood Psalms: Season 1, Episode 7</title>
-    <desc lang="en-GB">&apos;S1/E7&apos;. Zazi discovers her powers are beginning to manifest. The Uchawi royal party is attacked while General Toka is arrested for a heinous crime. Queen Assilli plots with Nkamanzu, while the Akachi people seek answers.</desc>
+    <desc lang="en-GB">&apos;S1/E7 of 10&apos;. Zazi discovers her powers are beginning to manifest. The Uchawi royal party is attacked while General Toka is arrested for a heinous crime. Queen Assilli plots with Nkamanzu, while the Akachi people seek answers.</desc>
   </programme>
-  <programme start="20230725230000 +0200" stop="20230726000500 +0200" channel="dstv_one_magic">
+  <programme start="20230725231600 +0200" stop="20230726000800 +0200" channel="dstv_one_magic">
     <title lang="en-GB">American Gigolo: Season 1, Episode 7</title>
-    <desc lang="en-GB">&apos;S1/E7 - Atomic&apos;. Julian turns to an old client for answers. Sunday uncovers a witness who could identify Julian&apos;s original betrayer. Michelle and Richard make a play for Colin&apos;s safe return.</desc>
+    <desc lang="en-GB">&apos;S1/E7 of 8 - Atomic&apos;. Julian turns to an old client for answers. Sunday uncovers a witness who could identify Julian&apos;s original betrayer. Michelle and Richard make a play for Colin&apos;s safe return.</desc>
   </programme>
   <programme start="20230725002100 +0200" stop="20230725014000 +0200" channel="dstv_mzansi_magic">
     <title lang="en-GB">Magwinya Money: Rating: 13, Drama, 2021</title>
@@ -8811,6 +9111,114 @@
     <title lang="en-GB">ZNBC 2</title>
     <desc lang="en-GB">ZNBC 2</desc>
   </programme>
+  <programme start="20230726000000 +0200" stop="20230726003000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Nkoyo</title>
+    <desc lang="en-GB">Nkoyo</desc>
+  </programme>
+  <programme start="20230726003000 +0200" stop="20230726010000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Chronicles Of Solo</title>
+    <desc lang="en-GB">Chronicles Of Solo</desc>
+  </programme>
+  <programme start="20230726010000 +0200" stop="20230726013000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Maskers</title>
+    <desc lang="en-GB">Maskers</desc>
+  </programme>
+  <programme start="20230726013000 +0200" stop="20230726030000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Trump Card</title>
+    <desc lang="en-GB">Trump Card</desc>
+  </programme>
+  <programme start="20230726030000 +0200" stop="20230726033000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Open Secret</title>
+    <desc lang="en-GB">Open Secret</desc>
+  </programme>
+  <programme start="20230726033000 +0200" stop="20230726040000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Itura</title>
+    <desc lang="en-GB">Itura</desc>
+  </programme>
+  <programme start="20230726040000 +0200" stop="20230726050000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">The Hour</title>
+    <desc lang="en-GB">The Hour</desc>
+  </programme>
+  <programme start="20230726050000 +0200" stop="20230726063000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Enslave</title>
+    <desc lang="en-GB">Enslave</desc>
+  </programme>
+  <programme start="20230726063000 +0200" stop="20230726070000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">The Johnsons</title>
+    <desc lang="en-GB">The Johnsons</desc>
+  </programme>
+  <programme start="20230726070000 +0200" stop="20230726073000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Bachelor</title>
+    <desc lang="en-GB">Bachelor</desc>
+  </programme>
+  <programme start="20230726073000 +0200" stop="20230726080000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Lagos Big Girl</title>
+    <desc lang="en-GB">Lagos Big Girl</desc>
+  </programme>
+  <programme start="20230726080000 +0200" stop="20230726100000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Come Alive</title>
+    <desc lang="en-GB">Come Alive</desc>
+  </programme>
+  <programme start="20230726100000 +0200" stop="20230726120000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Playing By Heart</title>
+    <desc lang="en-GB">Playing By Heart</desc>
+  </programme>
+  <programme start="20230726120000 +0200" stop="20230726133000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Aviva</title>
+    <desc lang="en-GB">Aviva</desc>
+  </programme>
+  <programme start="20230726133000 +0200" stop="20230726140000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Tinsel</title>
+    <desc lang="en-GB">Tinsel</desc>
+  </programme>
+  <programme start="20230726140000 +0200" stop="20230726160000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Blood Ties</title>
+    <desc lang="en-GB">Blood Ties</desc>
+  </programme>
+  <programme start="20230726160000 +0200" stop="20230726163000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Covenant</title>
+    <desc lang="en-GB">Covenant</desc>
+  </programme>
+  <programme start="20230726163000 +0200" stop="20230726170000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Itura</title>
+    <desc lang="en-GB">Itura</desc>
+  </programme>
+  <programme start="20230726170000 +0200" stop="20230726183000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Leaked</title>
+    <desc lang="en-GB">Leaked</desc>
+  </programme>
+  <programme start="20230726183000 +0200" stop="20230726190000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">My Flatmates</title>
+    <desc lang="en-GB">My Flatmates</desc>
+  </programme>
+  <programme start="20230726190000 +0200" stop="20230726193000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">The Johnsons</title>
+    <desc lang="en-GB">The Johnsons</desc>
+  </programme>
+  <programme start="20230726193000 +0200" stop="20230726200000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Tinsel</title>
+    <desc lang="en-GB">Tinsel</desc>
+  </programme>
+  <programme start="20230726200000 +0200" stop="20230726203000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Covenant</title>
+    <desc lang="en-GB">Covenant</desc>
+  </programme>
+  <programme start="20230726203000 +0200" stop="20230726210000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Itura</title>
+    <desc lang="en-GB">Itura</desc>
+  </programme>
+  <programme start="20230726210000 +0200" stop="20230726213000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Chronicles Of Solo</title>
+    <desc lang="en-GB">Chronicles Of Solo</desc>
+  </programme>
+  <programme start="20230726213000 +0200" stop="20230726233000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">All Things Fair</title>
+    <desc lang="en-GB">All Things Fair</desc>
+  </programme>
+  <programme start="20230726233000 +0200" stop="20230727000000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Lagos Big Girl</title>
+    <desc lang="en-GB">Lagos Big Girl</desc>
+  </programme>
   <programme start="20230726003000 +0200" stop="20230726010000 +0200" channel="dstv_zambezi_magic">
     <title lang="en-GB">Kopala: Season 1, Episode 11</title>
     <desc lang="en-GB">&apos;S1/E11 of 45&apos;. A talented young footballer, Muzo becomes imprisoned for a crime he didn&apos;t commit and escapes prison, uses his new found skills to acquire wealth and revenge.</desc>
@@ -9033,27 +9441,27 @@
   </programme>
   <programme start="20230726000800 +0200" stop="20230726003500 +0200" channel="dstv_one_magic">
     <title lang="en-GB">The River: Season 6, Episode 122</title>
-    <desc lang="en-GB">&apos;S6/E122&apos;. Angelina has one more mission to complete. The Dlamini and Hlophe families grapple with news about Zanothando&apos;s future.</desc>
+    <desc lang="en-GB">&apos;S6/E122 of 192&apos;. Angelina has one more mission to complete. The Dlamini and Hlophe families grapple with news about Zanothando&apos;s future.</desc>
   </programme>
   <programme start="20230726003500 +0200" stop="20230726011000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">1802: Love Defies Time: Season 1, Episode 38</title>
-    <desc lang="en-GB">&apos;S1/E38&apos;. Melisizwe and Longamo form an unlikely alliance and bond while on a mission to rescue the Queen Mother. Khosi decides to go back to work despite her mother&apos;s concerns.</desc>
+    <desc lang="en-GB">&apos;S1/E38 of 91&apos;. Melisizwe and Longamo form an unlikely alliance and bond while on a mission to rescue the Queen Mother. Khosi decides to go back to work despite her mother&apos;s concerns.</desc>
   </programme>
   <programme start="20230726011000 +0200" stop="20230726015000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">1Magic: Zone In: Season 2, Episode 47</title>
-    <desc lang="en-GB">&apos;S2/E47&apos;. Zone In showcases the freshest local and international stars and music genres.</desc>
+    <desc lang="en-GB">&apos;S2/E47 of 52&apos;. Zone In showcases the freshest local and international stars and music genres.</desc>
   </programme>
   <programme start="20230726015000 +0200" stop="20230726033000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">1Magic: Hits: Season 3, Episode 38</title>
-    <desc lang="en-GB">&apos;S3/E38&apos;. Catch the best in local and international music hits.</desc>
+    <desc lang="en-GB">&apos;S3/E38 of 52&apos;. Catch the best in local and international music hits.</desc>
   </programme>
   <programme start="20230726033000 +0200" stop="20230726050000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">1Magic: Hits: Season 3, Episode 31</title>
-    <desc lang="en-GB">&apos;S3/E31&apos;. Catch the best in local and international music hits.</desc>
+    <desc lang="en-GB">&apos;S3/E31 of 52&apos;. Catch the best in local and international music hits.</desc>
   </programme>
   <programme start="20230726050000 +0200" stop="20230726060000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">The Talk: Season 13, Episode 119</title>
-    <desc lang="en-GB">&apos;S13/E119 - Zach Braff&apos;. Celebrity hosts discuss entertainment, politics and current events.</desc>
+    <desc lang="en-GB">&apos;S13/E119 of 205 - Zach Braff&apos;. Celebrity hosts discuss entertainment, politics and current events.</desc>
   </programme>
   <programme start="20230726060000 +0200" stop="20230726073000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">1Magic: Hits: Season 3, Episode 13</title>
@@ -11234,6 +11642,114 @@
   <programme start="20230727180000 +0200" stop="20230728000000 +0200" channel="dstv_znbc2">
     <title lang="en-GB">ZNBC 2</title>
     <desc lang="en-GB">ZNBC 2</desc>
+  </programme>
+  <programme start="20230727000000 +0200" stop="20230727003000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Nkoyo</title>
+    <desc lang="en-GB">Nkoyo</desc>
+  </programme>
+  <programme start="20230727003000 +0200" stop="20230727010000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Chronicles Of Solo</title>
+    <desc lang="en-GB">Chronicles Of Solo</desc>
+  </programme>
+  <programme start="20230727010000 +0200" stop="20230727013000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Maskers</title>
+    <desc lang="en-GB">Maskers</desc>
+  </programme>
+  <programme start="20230727013000 +0200" stop="20230727030000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Downhill</title>
+    <desc lang="en-GB">Downhill</desc>
+  </programme>
+  <programme start="20230727030000 +0200" stop="20230727033000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Open Secret</title>
+    <desc lang="en-GB">Open Secret</desc>
+  </programme>
+  <programme start="20230727033000 +0200" stop="20230727040000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Itura</title>
+    <desc lang="en-GB">Itura</desc>
+  </programme>
+  <programme start="20230727040000 +0200" stop="20230727050000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Hotel Hush</title>
+    <desc lang="en-GB">Hotel Hush</desc>
+  </programme>
+  <programme start="20230727050000 +0200" stop="20230727063000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Jasmine</title>
+    <desc lang="en-GB">Jasmine</desc>
+  </programme>
+  <programme start="20230727063000 +0200" stop="20230727070000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">The Johnsons</title>
+    <desc lang="en-GB">The Johnsons</desc>
+  </programme>
+  <programme start="20230727070000 +0200" stop="20230727073000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Bachelor</title>
+    <desc lang="en-GB">Bachelor</desc>
+  </programme>
+  <programme start="20230727073000 +0200" stop="20230727080000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Lagos Big Girl</title>
+    <desc lang="en-GB">Lagos Big Girl</desc>
+  </programme>
+  <programme start="20230727080000 +0200" stop="20230727100000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Out Of Control</title>
+    <desc lang="en-GB">Out Of Control</desc>
+  </programme>
+  <programme start="20230727100000 +0200" stop="20230727120000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Wedding Gambit</title>
+    <desc lang="en-GB">Wedding Gambit</desc>
+  </programme>
+  <programme start="20230727120000 +0200" stop="20230727133000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Social Media 101</title>
+    <desc lang="en-GB">Social Media 101</desc>
+  </programme>
+  <programme start="20230727133000 +0200" stop="20230727140000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Tinsel</title>
+    <desc lang="en-GB">Tinsel</desc>
+  </programme>
+  <programme start="20230727140000 +0200" stop="20230727160000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Women And Lies</title>
+    <desc lang="en-GB">Women And Lies</desc>
+  </programme>
+  <programme start="20230727160000 +0200" stop="20230727163000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Covenant</title>
+    <desc lang="en-GB">Covenant</desc>
+  </programme>
+  <programme start="20230727163000 +0200" stop="20230727170000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Itura</title>
+    <desc lang="en-GB">Itura</desc>
+  </programme>
+  <programme start="20230727170000 +0200" stop="20230727183000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Don&apos;t Test My Love</title>
+    <desc lang="en-GB">Don&apos;t Test My Love</desc>
+  </programme>
+  <programme start="20230727183000 +0200" stop="20230727190000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">My Flatmates</title>
+    <desc lang="en-GB">My Flatmates</desc>
+  </programme>
+  <programme start="20230727190000 +0200" stop="20230727193000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">The Johnsons</title>
+    <desc lang="en-GB">The Johnsons</desc>
+  </programme>
+  <programme start="20230727193000 +0200" stop="20230727200000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Tinsel</title>
+    <desc lang="en-GB">Tinsel</desc>
+  </programme>
+  <programme start="20230727200000 +0200" stop="20230727203000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Covenant</title>
+    <desc lang="en-GB">Covenant</desc>
+  </programme>
+  <programme start="20230727203000 +0200" stop="20230727210000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Itura</title>
+    <desc lang="en-GB">Itura</desc>
+  </programme>
+  <programme start="20230727210000 +0200" stop="20230727213000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Chronicles Of Solo</title>
+    <desc lang="en-GB">Chronicles Of Solo</desc>
+  </programme>
+  <programme start="20230727213000 +0200" stop="20230727233000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">The Stolen</title>
+    <desc lang="en-GB">The Stolen</desc>
+  </programme>
+  <programme start="20230727233000 +0200" stop="20230728000000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Lagos Big Girl</title>
+    <desc lang="en-GB">Lagos Big Girl</desc>
   </programme>
   <programme start="20230727003000 +0200" stop="20230727010000 +0200" channel="dstv_zambezi_magic">
     <title lang="en-GB">Kopala: Season 1, Episode 12</title>
@@ -13627,6 +14143,114 @@
     <title lang="en-GB">ZNBC 2</title>
     <desc lang="en-GB">ZNBC 2</desc>
   </programme>
+  <programme start="20230728000000 +0200" stop="20230728003000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Nkoyo</title>
+    <desc lang="en-GB">Nkoyo</desc>
+  </programme>
+  <programme start="20230728003000 +0200" stop="20230728010000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Chronicles Of Solo</title>
+    <desc lang="en-GB">Chronicles Of Solo</desc>
+  </programme>
+  <programme start="20230728010000 +0200" stop="20230728013000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Maskers</title>
+    <desc lang="en-GB">Maskers</desc>
+  </programme>
+  <programme start="20230728013000 +0200" stop="20230728030000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Freda</title>
+    <desc lang="en-GB">Freda</desc>
+  </programme>
+  <programme start="20230728030000 +0200" stop="20230728033000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Open Secret</title>
+    <desc lang="en-GB">Open Secret</desc>
+  </programme>
+  <programme start="20230728033000 +0200" stop="20230728040000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Itura</title>
+    <desc lang="en-GB">Itura</desc>
+  </programme>
+  <programme start="20230728040000 +0200" stop="20230728050000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Fifth</title>
+    <desc lang="en-GB">Fifth</desc>
+  </programme>
+  <programme start="20230728050000 +0200" stop="20230728063000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Birth Hurt</title>
+    <desc lang="en-GB">Birth Hurt</desc>
+  </programme>
+  <programme start="20230728063000 +0200" stop="20230728070000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">The Johnsons</title>
+    <desc lang="en-GB">The Johnsons</desc>
+  </programme>
+  <programme start="20230728070000 +0200" stop="20230728073000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Bachelor</title>
+    <desc lang="en-GB">Bachelor</desc>
+  </programme>
+  <programme start="20230728073000 +0200" stop="20230728080000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Lagos Big Girl</title>
+    <desc lang="en-GB">Lagos Big Girl</desc>
+  </programme>
+  <programme start="20230728080000 +0200" stop="20230728100000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">The Guest</title>
+    <desc lang="en-GB">The Guest</desc>
+  </programme>
+  <programme start="20230728100000 +0200" stop="20230728120000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Destiny</title>
+    <desc lang="en-GB">Destiny</desc>
+  </programme>
+  <programme start="20230728120000 +0200" stop="20230728133000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">The Kingmaker</title>
+    <desc lang="en-GB">The Kingmaker</desc>
+  </programme>
+  <programme start="20230728133000 +0200" stop="20230728140000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Tinsel</title>
+    <desc lang="en-GB">Tinsel</desc>
+  </programme>
+  <programme start="20230728140000 +0200" stop="20230728160000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">4th Republic</title>
+    <desc lang="en-GB">4th Republic</desc>
+  </programme>
+  <programme start="20230728160000 +0200" stop="20230728163000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Covenant</title>
+    <desc lang="en-GB">Covenant</desc>
+  </programme>
+  <programme start="20230728163000 +0200" stop="20230728170000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Itura</title>
+    <desc lang="en-GB">Itura</desc>
+  </programme>
+  <programme start="20230728170000 +0200" stop="20230728183000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Accidental Maid</title>
+    <desc lang="en-GB">Accidental Maid</desc>
+  </programme>
+  <programme start="20230728183000 +0200" stop="20230728190000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">My Flatmates</title>
+    <desc lang="en-GB">My Flatmates</desc>
+  </programme>
+  <programme start="20230728190000 +0200" stop="20230728193000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">The Johnsons</title>
+    <desc lang="en-GB">The Johnsons</desc>
+  </programme>
+  <programme start="20230728193000 +0200" stop="20230728200000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Tinsel</title>
+    <desc lang="en-GB">Tinsel</desc>
+  </programme>
+  <programme start="20230728200000 +0200" stop="20230728203000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Covenant</title>
+    <desc lang="en-GB">Covenant</desc>
+  </programme>
+  <programme start="20230728203000 +0200" stop="20230728210000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Itura</title>
+    <desc lang="en-GB">Itura</desc>
+  </programme>
+  <programme start="20230728210000 +0200" stop="20230728213000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Chronicles Of Solo</title>
+    <desc lang="en-GB">Chronicles Of Solo</desc>
+  </programme>
+  <programme start="20230728213000 +0200" stop="20230728233000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">30 Days</title>
+    <desc lang="en-GB">30 Days</desc>
+  </programme>
+  <programme start="20230728233000 +0200" stop="20230729000000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Lagos Big Girl</title>
+    <desc lang="en-GB">Lagos Big Girl</desc>
+  </programme>
   <programme start="20230728003000 +0200" stop="20230728010000 +0200" channel="dstv_zambezi_magic">
     <title lang="en-GB">Spoiler: Season 1, Episode 11</title>
     <desc lang="en-GB">&apos;S1/E11&apos;. Spoiler does despicable things to make sure Paul does not take Susie away from him.</desc>
@@ -15963,6 +16587,98 @@
     <title lang="en-GB">ZNBC 2</title>
     <desc lang="en-GB">ZNBC 2</desc>
   </programme>
+  <programme start="20230729000000 +0200" stop="20230729003000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Nkoyo</title>
+    <desc lang="en-GB">Nkoyo</desc>
+  </programme>
+  <programme start="20230729003000 +0200" stop="20230729010000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Chronicles Of Solo</title>
+    <desc lang="en-GB">Chronicles Of Solo</desc>
+  </programme>
+  <programme start="20230729010000 +0200" stop="20230729013000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Maskers</title>
+    <desc lang="en-GB">Maskers</desc>
+  </programme>
+  <programme start="20230729013000 +0200" stop="20230729030000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Love In The Neighbourhood</title>
+    <desc lang="en-GB">Love In The Neighbourhood</desc>
+  </programme>
+  <programme start="20230729030000 +0200" stop="20230729033000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Open Secret</title>
+    <desc lang="en-GB">Open Secret</desc>
+  </programme>
+  <programme start="20230729033000 +0200" stop="20230729040000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Itura</title>
+    <desc lang="en-GB">Itura</desc>
+  </programme>
+  <programme start="20230729040000 +0200" stop="20230729050000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Hammer</title>
+    <desc lang="en-GB">Hammer</desc>
+  </programme>
+  <programme start="20230729050000 +0200" stop="20230729063000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Enslave</title>
+    <desc lang="en-GB">Enslave</desc>
+  </programme>
+  <programme start="20230729063000 +0200" stop="20230729080000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Alert</title>
+    <desc lang="en-GB">Alert</desc>
+  </programme>
+  <programme start="20230729080000 +0200" stop="20230729092500 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Revisit</title>
+    <desc lang="en-GB">Revisit</desc>
+  </programme>
+  <programme start="20230729092500 +0200" stop="20230729105000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Logline</title>
+    <desc lang="en-GB">Logline</desc>
+  </programme>
+  <programme start="20230729105000 +0200" stop="20230729122500 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Chimamanda</title>
+    <desc lang="en-GB">Chimamanda</desc>
+  </programme>
+  <programme start="20230729122500 +0200" stop="20230729142500 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">The Pain Within</title>
+    <desc lang="en-GB">The Pain Within</desc>
+  </programme>
+  <programme start="20230729142500 +0200" stop="20230729150000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Chronicles Of Solo</title>
+    <desc lang="en-GB">Chronicles Of Solo</desc>
+  </programme>
+  <programme start="20230729150000 +0200" stop="20230729153000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Covenant</title>
+    <desc lang="en-GB">Covenant</desc>
+  </programme>
+  <programme start="20230729153000 +0200" stop="20230729160000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Covenant</title>
+    <desc lang="en-GB">Covenant</desc>
+  </programme>
+  <programme start="20230729160000 +0200" stop="20230729163000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Covenant</title>
+    <desc lang="en-GB">Covenant</desc>
+  </programme>
+  <programme start="20230729163000 +0200" stop="20230729170000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Covenant</title>
+    <desc lang="en-GB">Covenant</desc>
+  </programme>
+  <programme start="20230729170000 +0200" stop="20230729173000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Covenant</title>
+    <desc lang="en-GB">Covenant</desc>
+  </programme>
+  <programme start="20230729173000 +0200" stop="20230729190000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Fault Lines</title>
+    <desc lang="en-GB">Fault Lines</desc>
+  </programme>
+  <programme start="20230729190000 +0200" stop="20230729204500 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Feudal Crossroads</title>
+    <desc lang="en-GB">Feudal Crossroads</desc>
+  </programme>
+  <programme start="20230729204500 +0200" stop="20230729222500 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Love Unusual</title>
+    <desc lang="en-GB">Love Unusual</desc>
+  </programme>
+  <programme start="20230729222500 +0200" stop="20230730002000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">The Playbook</title>
+    <desc lang="en-GB">The Playbook</desc>
+  </programme>
   <programme start="20230729003000 +0200" stop="20230729010000 +0200" channel="dstv_zambezi_magic">
     <title lang="en-GB">Spoiler: Season 1, Episode 12</title>
     <desc lang="en-GB">&apos;S1/E12&apos;. Part 1- Mother and son dare to treat Spoiler with contempt and disdain. Spoiler is determined to punish them.</desc>
@@ -18274,6 +18990,90 @@
   <programme start="20230730180000 +0200" stop="20230731000000 +0200" channel="dstv_znbc2">
     <title lang="en-GB">ZNBC 2</title>
     <desc lang="en-GB">ZNBC 2</desc>
+  </programme>
+  <programme start="20230729222500 +0200" stop="20230730002000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">The Playbook</title>
+    <desc lang="en-GB">The Playbook</desc>
+  </programme>
+  <programme start="20230730002000 +0200" stop="20230730021000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Haywire</title>
+    <desc lang="en-GB">Haywire</desc>
+  </programme>
+  <programme start="20230730021000 +0200" stop="20230730033500 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Folashade</title>
+    <desc lang="en-GB">Folashade</desc>
+  </programme>
+  <programme start="20230730033500 +0200" stop="20230730050000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Unexpected Visit</title>
+    <desc lang="en-GB">Unexpected Visit</desc>
+  </programme>
+  <programme start="20230730050000 +0200" stop="20230730070000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Love And Perfidy</title>
+    <desc lang="en-GB">Love And Perfidy</desc>
+  </programme>
+  <programme start="20230730070000 +0200" stop="20230730085000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Playing By Heart</title>
+    <desc lang="en-GB">Playing By Heart</desc>
+  </programme>
+  <programme start="20230730085000 +0200" stop="20230730105000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Come Alive</title>
+    <desc lang="en-GB">Come Alive</desc>
+  </programme>
+  <programme start="20230730105000 +0200" stop="20230730125500 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">All We Ever Wanted</title>
+    <desc lang="en-GB">All We Ever Wanted</desc>
+  </programme>
+  <programme start="20230730125500 +0200" stop="20230730143000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Fair Hearing</title>
+    <desc lang="en-GB">Fair Hearing</desc>
+  </programme>
+  <programme start="20230730143000 +0200" stop="20230730150000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Chronicles Of Solo</title>
+    <desc lang="en-GB">Chronicles Of Solo</desc>
+  </programme>
+  <programme start="20230730150000 +0200" stop="20230730153000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Itura</title>
+    <desc lang="en-GB">Itura</desc>
+  </programme>
+  <programme start="20230730153000 +0200" stop="20230730160000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Itura</title>
+    <desc lang="en-GB">Itura</desc>
+  </programme>
+  <programme start="20230730160000 +0200" stop="20230730163000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Itura</title>
+    <desc lang="en-GB">Itura</desc>
+  </programme>
+  <programme start="20230730163000 +0200" stop="20230730170000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Itura</title>
+    <desc lang="en-GB">Itura</desc>
+  </programme>
+  <programme start="20230730170000 +0200" stop="20230730173000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Itura</title>
+    <desc lang="en-GB">Itura</desc>
+  </programme>
+  <programme start="20230730173000 +0200" stop="20230730180000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Lagos Big Girl</title>
+    <desc lang="en-GB">Lagos Big Girl</desc>
+  </programme>
+  <programme start="20230730180000 +0200" stop="20230730183000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Our Perfect Wedding Nigeria</title>
+    <desc lang="en-GB">Our Perfect Wedding Nigeria</desc>
+  </programme>
+  <programme start="20230730183000 +0200" stop="20230730190000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Bachelor</title>
+    <desc lang="en-GB">Bachelor</desc>
+  </programme>
+  <programme start="20230730190000 +0200" stop="20230730203500 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Babysitting Ejiro</title>
+    <desc lang="en-GB">Babysitting Ejiro</desc>
+  </programme>
+  <programme start="20230730203500 +0200" stop="20230730221500 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">The Night Alone</title>
+    <desc lang="en-GB">The Night Alone</desc>
+  </programme>
+  <programme start="20230730221500 +0200" stop="20230731000500 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">For Better For Trouble</title>
+    <desc lang="en-GB">For Better For Trouble</desc>
   </programme>
   <programme start="20230730000000 +0200" stop="20230730003000 +0200" channel="dstv_zambezi_magic">
     <title lang="en-GB">The Security Guard: Season 4, Episode 13</title>
@@ -20627,6 +21427,102 @@
     <title lang="en-GB">ZNBC 2</title>
     <desc lang="en-GB">ZNBC 2</desc>
   </programme>
+  <programme start="20230730221500 +0200" stop="20230731000500 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">For Better For Trouble</title>
+    <desc lang="en-GB">For Better For Trouble</desc>
+  </programme>
+  <programme start="20230731000500 +0200" stop="20230731020500 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Dear Sister</title>
+    <desc lang="en-GB">Dear Sister</desc>
+  </programme>
+  <programme start="20230731020500 +0200" stop="20230731033000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Alicia</title>
+    <desc lang="en-GB">Alicia</desc>
+  </programme>
+  <programme start="20230731033000 +0200" stop="20230731050000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Social Media 101</title>
+    <desc lang="en-GB">Social Media 101</desc>
+  </programme>
+  <programme start="20230731050000 +0200" stop="20230731063000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Trump Card</title>
+    <desc lang="en-GB">Trump Card</desc>
+  </programme>
+  <programme start="20230731063000 +0200" stop="20230731070000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">The Johnsons</title>
+    <desc lang="en-GB">The Johnsons</desc>
+  </programme>
+  <programme start="20230731070000 +0200" stop="20230731073000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Bachelor</title>
+    <desc lang="en-GB">Bachelor</desc>
+  </programme>
+  <programme start="20230731073000 +0200" stop="20230731080000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Lagos Big Girl</title>
+    <desc lang="en-GB">Lagos Big Girl</desc>
+  </programme>
+  <programme start="20230731080000 +0200" stop="20230731100000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">City Hustler</title>
+    <desc lang="en-GB">City Hustler</desc>
+  </programme>
+  <programme start="20230731100000 +0200" stop="20230731120000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Out Of Control</title>
+    <desc lang="en-GB">Out Of Control</desc>
+  </programme>
+  <programme start="20230731120000 +0200" stop="20230731133000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Lost In Love</title>
+    <desc lang="en-GB">Lost In Love</desc>
+  </programme>
+  <programme start="20230731133000 +0200" stop="20230731140000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Tinsel</title>
+    <desc lang="en-GB">Tinsel</desc>
+  </programme>
+  <programme start="20230731140000 +0200" stop="20230731160000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">As I AM</title>
+    <desc lang="en-GB">As I AM</desc>
+  </programme>
+  <programme start="20230731160000 +0200" stop="20230731163000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Covenant</title>
+    <desc lang="en-GB">Covenant</desc>
+  </programme>
+  <programme start="20230731163000 +0200" stop="20230731170000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Itura</title>
+    <desc lang="en-GB">Itura</desc>
+  </programme>
+  <programme start="20230731170000 +0200" stop="20230731183000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">My Jewel My World</title>
+    <desc lang="en-GB">My Jewel My World</desc>
+  </programme>
+  <programme start="20230731183000 +0200" stop="20230731190000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">My Flatmates</title>
+    <desc lang="en-GB">My Flatmates</desc>
+  </programme>
+  <programme start="20230731190000 +0200" stop="20230731193000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">The Johnsons</title>
+    <desc lang="en-GB">The Johnsons</desc>
+  </programme>
+  <programme start="20230731193000 +0200" stop="20230731200000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Tinsel</title>
+    <desc lang="en-GB">Tinsel</desc>
+  </programme>
+  <programme start="20230731200000 +0200" stop="20230731203000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Covenant</title>
+    <desc lang="en-GB">Covenant</desc>
+  </programme>
+  <programme start="20230731203000 +0200" stop="20230731210000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Itura</title>
+    <desc lang="en-GB">Itura</desc>
+  </programme>
+  <programme start="20230731210000 +0200" stop="20230731213000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Chronicles Of Solo</title>
+    <desc lang="en-GB">Chronicles Of Solo</desc>
+  </programme>
+  <programme start="20230731213000 +0200" stop="20230731233500 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Entwined</title>
+    <desc lang="en-GB">Entwined</desc>
+  </programme>
+  <programme start="20230731233500 +0200" stop="20230801000500 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Lagos Big Girl</title>
+    <desc lang="en-GB">Lagos Big Girl</desc>
+  </programme>
   <programme start="20230731000000 +0200" stop="20230731003000 +0200" channel="dstv_zambezi_magic">
     <title lang="en-GB">Pa Maliketi: Season 1, Episode 4</title>
     <desc lang="en-GB">&apos;S1/E4&apos;. Bana Mwansa finds out her mother has just been buried. She inherits her mother&apos;s market stand and starts a new life- witnessing the hilarious drama that surrounds Fyakubantu market.</desc>
@@ -22930,6 +23826,122 @@
   <programme start="20230801180000 +0200" stop="20230802000000 +0200" channel="dstv_znbc2">
     <title lang="en-GB">ZNBC 2</title>
     <desc lang="en-GB">ZNBC 2</desc>
+  </programme>
+  <programme start="20230731233500 +0200" stop="20230801000500 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Lagos Big Girl</title>
+    <desc lang="en-GB">Lagos Big Girl</desc>
+  </programme>
+  <programme start="20230801000500 +0200" stop="20230801003500 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Nkoyo</title>
+    <desc lang="en-GB">Nkoyo</desc>
+  </programme>
+  <programme start="20230801003500 +0200" stop="20230801010000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Chronicles Of Solo</title>
+    <desc lang="en-GB">Chronicles Of Solo</desc>
+  </programme>
+  <programme start="20230801010000 +0200" stop="20230801013000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Maskers</title>
+    <desc lang="en-GB">Maskers</desc>
+  </programme>
+  <programme start="20230801013000 +0200" stop="20230801030000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Love And Issues</title>
+    <desc lang="en-GB">Love And Issues</desc>
+  </programme>
+  <programme start="20230801030000 +0200" stop="20230801033000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Open Secret</title>
+    <desc lang="en-GB">Open Secret</desc>
+  </programme>
+  <programme start="20230801033000 +0200" stop="20230801040000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Itura</title>
+    <desc lang="en-GB">Itura</desc>
+  </programme>
+  <programme start="20230801040000 +0200" stop="20230801050000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Maid</title>
+    <desc lang="en-GB">Maid</desc>
+  </programme>
+  <programme start="20230801050000 +0200" stop="20230801063000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Finding Chris</title>
+    <desc lang="en-GB">Finding Chris</desc>
+  </programme>
+  <programme start="20230801063000 +0200" stop="20230801070000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">The Johnsons</title>
+    <desc lang="en-GB">The Johnsons</desc>
+  </programme>
+  <programme start="20230801070000 +0200" stop="20230801073000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Bachelor</title>
+    <desc lang="en-GB">Bachelor</desc>
+  </programme>
+  <programme start="20230801073000 +0200" stop="20230801080000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Lagos Big Girl</title>
+    <desc lang="en-GB">Lagos Big Girl</desc>
+  </programme>
+  <programme start="20230801080000 +0200" stop="20230801094000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Women And Lies</title>
+    <desc lang="en-GB">Women And Lies</desc>
+  </programme>
+  <programme start="20230801094000 +0200" stop="20230801113000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Dirty Little Secret</title>
+    <desc lang="en-GB">Dirty Little Secret</desc>
+  </programme>
+  <programme start="20230801113000 +0200" stop="20230801120000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">My Flatmates</title>
+    <desc lang="en-GB">My Flatmates</desc>
+  </programme>
+  <programme start="20230801120000 +0200" stop="20230801133000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Rainbows</title>
+    <desc lang="en-GB">Rainbows</desc>
+  </programme>
+  <programme start="20230801133000 +0200" stop="20230801140000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Tinsel</title>
+    <desc lang="en-GB">Tinsel</desc>
+  </programme>
+  <programme start="20230801140000 +0200" stop="20230801160000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Sleeping Wahala</title>
+    <desc lang="en-GB">Sleeping Wahala</desc>
+  </programme>
+  <programme start="20230801160000 +0200" stop="20230801163000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Covenant</title>
+    <desc lang="en-GB">Covenant</desc>
+  </programme>
+  <programme start="20230801163000 +0200" stop="20230801170000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Itura</title>
+    <desc lang="en-GB">Itura</desc>
+  </programme>
+  <programme start="20230801170000 +0200" stop="20230801183000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">The Kingmaker</title>
+    <desc lang="en-GB">The Kingmaker</desc>
+  </programme>
+  <programme start="20230801183000 +0200" stop="20230801190000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">My Flatmates</title>
+    <desc lang="en-GB">My Flatmates</desc>
+  </programme>
+  <programme start="20230801190000 +0200" stop="20230801193000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">The Johnsons</title>
+    <desc lang="en-GB">The Johnsons</desc>
+  </programme>
+  <programme start="20230801193000 +0200" stop="20230801200000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Tinsel</title>
+    <desc lang="en-GB">Tinsel</desc>
+  </programme>
+  <programme start="20230801200000 +0200" stop="20230801203000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Covenant</title>
+    <desc lang="en-GB">Covenant</desc>
+  </programme>
+  <programme start="20230801203000 +0200" stop="20230801210000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Itura</title>
+    <desc lang="en-GB">Itura</desc>
+  </programme>
+  <programme start="20230801210000 +0200" stop="20230801220000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Unmarried</title>
+    <desc lang="en-GB">Unmarried</desc>
+  </programme>
+  <programme start="20230801220000 +0200" stop="20230801223000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Big Brother Naija</title>
+    <desc lang="en-GB">Big Brother Naija</desc>
+  </programme>
+  <programme start="20230801223000 +0200" stop="20230802003000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Mama Drama</title>
+    <desc lang="en-GB">Mama Drama</desc>
   </programme>
   <programme start="20230801003000 +0200" stop="20230801010000 +0200" channel="dstv_zambezi_magic">
     <title lang="en-GB">Kopala: Season 1, Episode 13</title>
@@ -25259,6 +26271,118 @@
     <title lang="en-GB">ZNBC 2</title>
     <desc lang="en-GB">ZNBC 2</desc>
   </programme>
+  <programme start="20230801223000 +0200" stop="20230802003000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Mama Drama</title>
+    <desc lang="en-GB">Mama Drama</desc>
+  </programme>
+  <programme start="20230802003000 +0200" stop="20230802010000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Sisi Eko</title>
+    <desc lang="en-GB">Sisi Eko</desc>
+  </programme>
+  <programme start="20230802010000 +0200" stop="20230802013000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Maskers</title>
+    <desc lang="en-GB">Maskers</desc>
+  </programme>
+  <programme start="20230802013000 +0200" stop="20230802030000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Fault Lines</title>
+    <desc lang="en-GB">Fault Lines</desc>
+  </programme>
+  <programme start="20230802030000 +0200" stop="20230802033000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Open Secret</title>
+    <desc lang="en-GB">Open Secret</desc>
+  </programme>
+  <programme start="20230802033000 +0200" stop="20230802040000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Itura</title>
+    <desc lang="en-GB">Itura</desc>
+  </programme>
+  <programme start="20230802040000 +0200" stop="20230802050000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Kin</title>
+    <desc lang="en-GB">Kin</desc>
+  </programme>
+  <programme start="20230802050000 +0200" stop="20230802063000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">The Last Sin</title>
+    <desc lang="en-GB">The Last Sin</desc>
+  </programme>
+  <programme start="20230802063000 +0200" stop="20230802070000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">The Johnsons</title>
+    <desc lang="en-GB">The Johnsons</desc>
+  </programme>
+  <programme start="20230802070000 +0200" stop="20230802073000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Bachelor</title>
+    <desc lang="en-GB">Bachelor</desc>
+  </programme>
+  <programme start="20230802073000 +0200" stop="20230802080000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Lagos Big Girl</title>
+    <desc lang="en-GB">Lagos Big Girl</desc>
+  </programme>
+  <programme start="20230802080000 +0200" stop="20230802094500 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Nene&apos;s Happy Ending</title>
+    <desc lang="en-GB">Nene&apos;s Happy Ending</desc>
+  </programme>
+  <programme start="20230802094500 +0200" stop="20230802113000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Everything But A Ring</title>
+    <desc lang="en-GB">Everything But A Ring</desc>
+  </programme>
+  <programme start="20230802113000 +0200" stop="20230802120000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">My Flatmates</title>
+    <desc lang="en-GB">My Flatmates</desc>
+  </programme>
+  <programme start="20230802120000 +0200" stop="20230802133000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">This Is How It Ends</title>
+    <desc lang="en-GB">This Is How It Ends</desc>
+  </programme>
+  <programme start="20230802133000 +0200" stop="20230802140000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Tinsel</title>
+    <desc lang="en-GB">Tinsel</desc>
+  </programme>
+  <programme start="20230802140000 +0200" stop="20230802160000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">All Things Fair</title>
+    <desc lang="en-GB">All Things Fair</desc>
+  </programme>
+  <programme start="20230802160000 +0200" stop="20230802163000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Covenant</title>
+    <desc lang="en-GB">Covenant</desc>
+  </programme>
+  <programme start="20230802163000 +0200" stop="20230802170000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Itura</title>
+    <desc lang="en-GB">Itura</desc>
+  </programme>
+  <programme start="20230802170000 +0200" stop="20230802183000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Alert</title>
+    <desc lang="en-GB">Alert</desc>
+  </programme>
+  <programme start="20230802183000 +0200" stop="20230802190000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">My Flatmates</title>
+    <desc lang="en-GB">My Flatmates</desc>
+  </programme>
+  <programme start="20230802190000 +0200" stop="20230802193000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">The Johnsons</title>
+    <desc lang="en-GB">The Johnsons</desc>
+  </programme>
+  <programme start="20230802193000 +0200" stop="20230802200000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Tinsel</title>
+    <desc lang="en-GB">Tinsel</desc>
+  </programme>
+  <programme start="20230802200000 +0200" stop="20230802203000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Covenant</title>
+    <desc lang="en-GB">Covenant</desc>
+  </programme>
+  <programme start="20230802203000 +0200" stop="20230802210000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Itura</title>
+    <desc lang="en-GB">Itura</desc>
+  </programme>
+  <programme start="20230802210000 +0200" stop="20230802220000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Unmarried</title>
+    <desc lang="en-GB">Unmarried</desc>
+  </programme>
+  <programme start="20230802220000 +0200" stop="20230802223000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Big Brother Naija</title>
+    <desc lang="en-GB">Big Brother Naija</desc>
+  </programme>
+  <programme start="20230802223000 +0200" stop="20230803003000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Love Is War</title>
+    <desc lang="en-GB">Love Is War</desc>
+  </programme>
   <programme start="20230802003000 +0200" stop="20230802010000 +0200" channel="dstv_zambezi_magic">
     <title lang="en-GB">Kopala: Season 1, Episode 14</title>
     <desc lang="en-GB">&apos;S1/E14&apos;. A talented young footballer, Muzo becomes imprisoned for a crime he didn&apos;t commit and escapes prison, uses his new found skills to acquire wealth and revenge.</desc>
@@ -27578,6 +28702,118 @@
   <programme start="20230803180000 +0200" stop="20230804000000 +0200" channel="dstv_znbc2">
     <title lang="en-GB">ZNBC 2</title>
     <desc lang="en-GB">ZNBC 2</desc>
+  </programme>
+  <programme start="20230802223000 +0200" stop="20230803003000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Love Is War</title>
+    <desc lang="en-GB">Love Is War</desc>
+  </programme>
+  <programme start="20230803003000 +0200" stop="20230803010000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Sisi Eko</title>
+    <desc lang="en-GB">Sisi Eko</desc>
+  </programme>
+  <programme start="20230803010000 +0200" stop="20230803013000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Lagos Big Girl</title>
+    <desc lang="en-GB">Lagos Big Girl</desc>
+  </programme>
+  <programme start="20230803013000 +0200" stop="20230803030000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Team Six</title>
+    <desc lang="en-GB">Team Six</desc>
+  </programme>
+  <programme start="20230803030000 +0200" stop="20230803033000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Open Secret</title>
+    <desc lang="en-GB">Open Secret</desc>
+  </programme>
+  <programme start="20230803033000 +0200" stop="20230803040000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Itura</title>
+    <desc lang="en-GB">Itura</desc>
+  </programme>
+  <programme start="20230803040000 +0200" stop="20230803050000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Hotel Hush</title>
+    <desc lang="en-GB">Hotel Hush</desc>
+  </programme>
+  <programme start="20230803050000 +0200" stop="20230803063000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Reflections</title>
+    <desc lang="en-GB">Reflections</desc>
+  </programme>
+  <programme start="20230803063000 +0200" stop="20230803070000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">The Johnsons</title>
+    <desc lang="en-GB">The Johnsons</desc>
+  </programme>
+  <programme start="20230803070000 +0200" stop="20230803073000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Bachelor</title>
+    <desc lang="en-GB">Bachelor</desc>
+  </programme>
+  <programme start="20230803073000 +0200" stop="20230803080000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Lagos Big Girl</title>
+    <desc lang="en-GB">Lagos Big Girl</desc>
+  </programme>
+  <programme start="20230803080000 +0200" stop="20230803095500 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Come Alive</title>
+    <desc lang="en-GB">Come Alive</desc>
+  </programme>
+  <programme start="20230803095500 +0200" stop="20230803113000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Small Talks</title>
+    <desc lang="en-GB">Small Talks</desc>
+  </programme>
+  <programme start="20230803113000 +0200" stop="20230803115900 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">My Flatmates</title>
+    <desc lang="en-GB">My Flatmates</desc>
+  </programme>
+  <programme start="20230803115900 +0200" stop="20230803133000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Silhouette</title>
+    <desc lang="en-GB">Silhouette</desc>
+  </programme>
+  <programme start="20230803133000 +0200" stop="20230803140000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Tinsel</title>
+    <desc lang="en-GB">Tinsel</desc>
+  </programme>
+  <programme start="20230803140000 +0200" stop="20230803160000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">A Love To Remember</title>
+    <desc lang="en-GB">A Love To Remember</desc>
+  </programme>
+  <programme start="20230803160000 +0200" stop="20230803163000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Covenant</title>
+    <desc lang="en-GB">Covenant</desc>
+  </programme>
+  <programme start="20230803163000 +0200" stop="20230803170000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Itura</title>
+    <desc lang="en-GB">Itura</desc>
+  </programme>
+  <programme start="20230803170000 +0200" stop="20230803183000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">What Happened To Us</title>
+    <desc lang="en-GB">What Happened To Us</desc>
+  </programme>
+  <programme start="20230803183000 +0200" stop="20230803190000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">My Flatmates</title>
+    <desc lang="en-GB">My Flatmates</desc>
+  </programme>
+  <programme start="20230803190000 +0200" stop="20230803193000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">The Johnsons</title>
+    <desc lang="en-GB">The Johnsons</desc>
+  </programme>
+  <programme start="20230803193000 +0200" stop="20230803200000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Tinsel</title>
+    <desc lang="en-GB">Tinsel</desc>
+  </programme>
+  <programme start="20230803200000 +0200" stop="20230803203000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Covenant</title>
+    <desc lang="en-GB">Covenant</desc>
+  </programme>
+  <programme start="20230803203000 +0200" stop="20230803210000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Itura</title>
+    <desc lang="en-GB">Itura</desc>
+  </programme>
+  <programme start="20230803210000 +0200" stop="20230803220000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Unmarried</title>
+    <desc lang="en-GB">Unmarried</desc>
+  </programme>
+  <programme start="20230803220000 +0200" stop="20230803223000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Big Brother Naija</title>
+    <desc lang="en-GB">Big Brother Naija</desc>
+  </programme>
+  <programme start="20230803223000 +0200" stop="20230804003000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">The Heir&apos;s Ticket</title>
+    <desc lang="en-GB">The Heir&apos;s Ticket</desc>
   </programme>
   <programme start="20230803003000 +0200" stop="20230803005500 +0200" channel="dstv_zambezi_magic">
     <title lang="en-GB">Kopala: Season 1, Episode 15</title>
@@ -29903,6 +31139,118 @@
     <title lang="en-GB">ZNBC 2</title>
     <desc lang="en-GB">ZNBC 2</desc>
   </programme>
+  <programme start="20230803223000 +0200" stop="20230804003000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">The Heir&apos;s Ticket</title>
+    <desc lang="en-GB">The Heir&apos;s Ticket</desc>
+  </programme>
+  <programme start="20230804003000 +0200" stop="20230804010000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Sisi Eko</title>
+    <desc lang="en-GB">Sisi Eko</desc>
+  </programme>
+  <programme start="20230804010000 +0200" stop="20230804013000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Lagos Big Girl</title>
+    <desc lang="en-GB">Lagos Big Girl</desc>
+  </programme>
+  <programme start="20230804013000 +0200" stop="20230804030000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Crazy Therapy</title>
+    <desc lang="en-GB">Crazy Therapy</desc>
+  </programme>
+  <programme start="20230804030000 +0200" stop="20230804033000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Open Secret</title>
+    <desc lang="en-GB">Open Secret</desc>
+  </programme>
+  <programme start="20230804033000 +0200" stop="20230804040000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Itura</title>
+    <desc lang="en-GB">Itura</desc>
+  </programme>
+  <programme start="20230804040000 +0200" stop="20230804050000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Tomi&apos;s Got A Gun</title>
+    <desc lang="en-GB">Tomi&apos;s Got A Gun</desc>
+  </programme>
+  <programme start="20230804050000 +0200" stop="20230804063000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Goldmine</title>
+    <desc lang="en-GB">Goldmine</desc>
+  </programme>
+  <programme start="20230804063000 +0200" stop="20230804070000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">The Johnsons</title>
+    <desc lang="en-GB">The Johnsons</desc>
+  </programme>
+  <programme start="20230804070000 +0200" stop="20230804073000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Bachelor</title>
+    <desc lang="en-GB">Bachelor</desc>
+  </programme>
+  <programme start="20230804073000 +0200" stop="20230804080000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Lagos Big Girl</title>
+    <desc lang="en-GB">Lagos Big Girl</desc>
+  </programme>
+  <programme start="20230804080000 +0200" stop="20230804093500 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">The Signature</title>
+    <desc lang="en-GB">The Signature</desc>
+  </programme>
+  <programme start="20230804093500 +0200" stop="20230804113000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Troubled Seas</title>
+    <desc lang="en-GB">Troubled Seas</desc>
+  </programme>
+  <programme start="20230804113000 +0200" stop="20230804120000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">My Flatmates</title>
+    <desc lang="en-GB">My Flatmates</desc>
+  </programme>
+  <programme start="20230804120000 +0200" stop="20230804133000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Love Found Me</title>
+    <desc lang="en-GB">Love Found Me</desc>
+  </programme>
+  <programme start="20230804133000 +0200" stop="20230804140000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Tinsel</title>
+    <desc lang="en-GB">Tinsel</desc>
+  </programme>
+  <programme start="20230804140000 +0200" stop="20230804160000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Blank Slate</title>
+    <desc lang="en-GB">Blank Slate</desc>
+  </programme>
+  <programme start="20230804160000 +0200" stop="20230804163000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Covenant</title>
+    <desc lang="en-GB">Covenant</desc>
+  </programme>
+  <programme start="20230804163000 +0200" stop="20230804170000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Itura</title>
+    <desc lang="en-GB">Itura</desc>
+  </programme>
+  <programme start="20230804170000 +0200" stop="20230804183000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Next Door Neighbour</title>
+    <desc lang="en-GB">Next Door Neighbour</desc>
+  </programme>
+  <programme start="20230804183000 +0200" stop="20230804190000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">My Flatmates</title>
+    <desc lang="en-GB">My Flatmates</desc>
+  </programme>
+  <programme start="20230804190000 +0200" stop="20230804193000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">The Johnsons</title>
+    <desc lang="en-GB">The Johnsons</desc>
+  </programme>
+  <programme start="20230804193000 +0200" stop="20230804200000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Tinsel</title>
+    <desc lang="en-GB">Tinsel</desc>
+  </programme>
+  <programme start="20230804200000 +0200" stop="20230804203000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Covenant</title>
+    <desc lang="en-GB">Covenant</desc>
+  </programme>
+  <programme start="20230804203000 +0200" stop="20230804210000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Itura</title>
+    <desc lang="en-GB">Itura</desc>
+  </programme>
+  <programme start="20230804210000 +0200" stop="20230804220000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Unmarried</title>
+    <desc lang="en-GB">Unmarried</desc>
+  </programme>
+  <programme start="20230804220000 +0200" stop="20230804223000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Big Brother Naija</title>
+    <desc lang="en-GB">Big Brother Naija</desc>
+  </programme>
+  <programme start="20230804223000 +0200" stop="20230805003000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Flip Of Love</title>
+    <desc lang="en-GB">Flip Of Love</desc>
+  </programme>
   <programme start="20230804003000 +0200" stop="20230804010000 +0200" channel="dstv_zambezi_magic">
     <title lang="en-GB">Spoiler: Season 1, Episode 13</title>
     <desc lang="en-GB">&apos;S1/E13&apos;. Part 2- Mother and son dare to treat Spoiler with contempt and disdain. Spoiler is determined to punish them.</desc>
@@ -32094,6 +33442,78 @@
   <programme start="20230805180000 +0200" stop="20230806000000 +0200" channel="dstv_znbc2">
     <title lang="en-GB">ZNBC 2</title>
     <desc lang="en-GB">ZNBC 2</desc>
+  </programme>
+  <programme start="20230804223000 +0200" stop="20230805003000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Flip Of Love</title>
+    <desc lang="en-GB">Flip Of Love</desc>
+  </programme>
+  <programme start="20230805003000 +0200" stop="20230805010000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Sisi Eko</title>
+    <desc lang="en-GB">Sisi Eko</desc>
+  </programme>
+  <programme start="20230805010000 +0200" stop="20230805013000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Lagos Big Girl</title>
+    <desc lang="en-GB">Lagos Big Girl</desc>
+  </programme>
+  <programme start="20230805013000 +0200" stop="20230805030000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Complicated</title>
+    <desc lang="en-GB">Complicated</desc>
+  </programme>
+  <programme start="20230805030000 +0200" stop="20230805033000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Open Secret</title>
+    <desc lang="en-GB">Open Secret</desc>
+  </programme>
+  <programme start="20230805033000 +0200" stop="20230805040000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Itura</title>
+    <desc lang="en-GB">Itura</desc>
+  </programme>
+  <programme start="20230805040000 +0200" stop="20230805050000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Savanna Blues</title>
+    <desc lang="en-GB">Savanna Blues</desc>
+  </programme>
+  <programme start="20230805050000 +0200" stop="20230805061500 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Mirror</title>
+    <desc lang="en-GB">Mirror</desc>
+  </programme>
+  <programme start="20230805061500 +0200" stop="20230805075500 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Love Unusual</title>
+    <desc lang="en-GB">Love Unusual</desc>
+  </programme>
+  <programme start="20230805075500 +0200" stop="20230805102000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">A Bitter Pill</title>
+    <desc lang="en-GB">A Bitter Pill</desc>
+  </programme>
+  <programme start="20230805102000 +0200" stop="20230805121000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">The Pendulum</title>
+    <desc lang="en-GB">The Pendulum</desc>
+  </programme>
+  <programme start="20230805121000 +0200" stop="20230805134500 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">My Jewel My World</title>
+    <desc lang="en-GB">My Jewel My World</desc>
+  </programme>
+  <programme start="20230805134500 +0200" stop="20230805155500 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Devil&apos;s Angel</title>
+    <desc lang="en-GB">Devil&apos;s Angel</desc>
+  </programme>
+  <programme start="20230805155500 +0200" stop="20230805172500 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Enslave</title>
+    <desc lang="en-GB">Enslave</desc>
+  </programme>
+  <programme start="20230805172500 +0200" stop="20230805190000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Tainted</title>
+    <desc lang="en-GB">Tainted</desc>
+  </programme>
+  <programme start="20230805190000 +0200" stop="20230805203500 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Finding Chris</title>
+    <desc lang="en-GB">Finding Chris</desc>
+  </programme>
+  <programme start="20230805203500 +0200" stop="20230805221000 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Fair Hearing</title>
+    <desc lang="en-GB">Fair Hearing</desc>
+  </programme>
+  <programme start="20230805221000 +0200" stop="20230805235500 +0200" channel="dstv_africa_magic_showcase">
+    <title lang="en-GB">Field Of Lemons</title>
+    <desc lang="en-GB">Field Of Lemons</desc>
   </programme>
   <programme start="20230805003000 +0200" stop="20230805010000 +0200" channel="dstv_zambezi_magic">
     <title lang="en-GB">Spoiler: Season 1, Episode 14</title>
