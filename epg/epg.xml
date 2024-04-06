@@ -15,8 +15,8 @@
   <channel id="dstv_africa_magic_urban">
     <display-name>Africa Magic Urban</display-name>
   </channel>
-  <channel id="dstv_honey">
-    <display-name>Honey</display-name>
+  <channel id="dstv_one_max">
+    <display-name>1Max</display-name>
   </channel>
   <channel id="dstv_trace_gospel">
     <display-name>Trace Gospel</display-name>
@@ -96,6 +96,126 @@
   <channel id="dstv_mzansi_magic_music_hd">
     <display-name>Mzansi Magic Music HD</display-name>
   </channel>
+  <programme start="20240405233000 +0200" stop="20240406000100 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Wura</title>
+    <desc lang="en-GB">Wura</desc>
+  </programme>
+  <programme start="20240406000100 +0200" stop="20240406011500 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Tracking Thabo Bester</title>
+    <desc lang="en-GB">Tracking Thabo Bester</desc>
+  </programme>
+  <programme start="20240406011500 +0200" stop="20240406020300 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Yellowstone</title>
+    <desc lang="en-GB">Yellowstone</desc>
+  </programme>
+  <programme start="20240406020300 +0200" stop="20240406030000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">The Real Housewives Of Lagos</title>
+    <desc lang="en-GB">The Real Housewives Of Lagos</desc>
+  </programme>
+  <programme start="20240406030000 +0200" stop="20240406043000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Mzansi Hits</title>
+    <desc lang="en-GB">Mzansi Hits</desc>
+  </programme>
+  <programme start="20240406043000 +0200" stop="20240406060000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Mzansi Hits</title>
+    <desc lang="en-GB">Mzansi Hits</desc>
+  </programme>
+  <programme start="20240406060000 +0200" stop="20240406063000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">One On One</title>
+    <desc lang="en-GB">One On One</desc>
+  </programme>
+  <programme start="20240406063000 +0200" stop="20240406070000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">One On One</title>
+    <desc lang="en-GB">One On One</desc>
+  </programme>
+  <programme start="20240406070000 +0200" stop="20240406073000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">One On One</title>
+    <desc lang="en-GB">One On One</desc>
+  </programme>
+  <programme start="20240406073000 +0200" stop="20240406080000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">One On One</title>
+    <desc lang="en-GB">One On One</desc>
+  </programme>
+  <programme start="20240406080000 +0200" stop="20240406083000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">One On One</title>
+    <desc lang="en-GB">One On One</desc>
+  </programme>
+  <programme start="20240406083000 +0200" stop="20240406094300 +0200" channel="dstv_one_max">
+    <title lang="en-GB">The Newsroom</title>
+    <desc lang="en-GB">The Newsroom</desc>
+  </programme>
+  <programme start="20240406094300 +0200" stop="20240406104100 +0200" channel="dstv_one_max">
+    <title lang="en-GB">The Newsroom</title>
+    <desc lang="en-GB">The Newsroom</desc>
+  </programme>
+  <programme start="20240406104100 +0200" stop="20240406114500 +0200" channel="dstv_one_max">
+    <title lang="en-GB">The Newsroom</title>
+    <desc lang="en-GB">The Newsroom</desc>
+  </programme>
+  <programme start="20240406114500 +0200" stop="20240406121500 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Tali&apos;s #Joburgdiary</title>
+    <desc lang="en-GB">Tali&apos;s #Joburgdiary</desc>
+  </programme>
+  <programme start="20240406121500 +0200" stop="20240406124500 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Tali&apos;s #Joburgdiary</title>
+    <desc lang="en-GB">Tali&apos;s #Joburgdiary</desc>
+  </programme>
+  <programme start="20240406124500 +0200" stop="20240406132000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Tali&apos;s #Joburgdiary</title>
+    <desc lang="en-GB">Tali&apos;s #Joburgdiary</desc>
+  </programme>
+  <programme start="20240406132000 +0200" stop="20240406140000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Sports Wives</title>
+    <desc lang="en-GB">Sports Wives</desc>
+  </programme>
+  <programme start="20240406140000 +0200" stop="20240406143500 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Sports Wives</title>
+    <desc lang="en-GB">Sports Wives</desc>
+  </programme>
+  <programme start="20240406143500 +0200" stop="20240406151500 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Sports Wives</title>
+    <desc lang="en-GB">Sports Wives</desc>
+  </programme>
+  <programme start="20240406151500 +0200" stop="20240406161500 +0200" channel="dstv_one_max">
+    <title lang="en-GB">The Real Housewives Of Lagos</title>
+    <desc lang="en-GB">The Real Housewives Of Lagos</desc>
+  </programme>
+  <programme start="20240406161500 +0200" stop="20240406171000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">The Real Housewives Of Lagos</title>
+    <desc lang="en-GB">The Real Housewives Of Lagos</desc>
+  </programme>
+  <programme start="20240406171000 +0200" stop="20240406181000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">The Real Housewives Of Lagos</title>
+    <desc lang="en-GB">The Real Housewives Of Lagos</desc>
+  </programme>
+  <programme start="20240406181000 +0200" stop="20240406190500 +0200" channel="dstv_one_max">
+    <title lang="en-GB">The Real Housewives Of Lagos</title>
+    <desc lang="en-GB">The Real Housewives Of Lagos</desc>
+  </programme>
+  <programme start="20240406190500 +0200" stop="20240406200000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">The Real Housewives Of Lagos</title>
+    <desc lang="en-GB">The Real Housewives Of Lagos</desc>
+  </programme>
+  <programme start="20240406200000 +0200" stop="20240406204000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Colin From Accounts</title>
+    <desc lang="en-GB">Colin From Accounts</desc>
+  </programme>
+  <programme start="20240406204000 +0200" stop="20240406213000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Temptation Island USA</title>
+    <desc lang="en-GB">Temptation Island USA</desc>
+  </programme>
+  <programme start="20240406213000 +0200" stop="20240406222500 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Flawsome</title>
+    <desc lang="en-GB">Flawsome</desc>
+  </programme>
+  <programme start="20240406222500 +0200" stop="20240406230000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Single Kiasi</title>
+    <desc lang="en-GB">Single Kiasi</desc>
+  </programme>
+  <programme start="20240406230000 +0200" stop="20240407000000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Red Ink</title>
+    <desc lang="en-GB">Red Ink</desc>
+  </programme>
   <programme start="20240406000000 +0200" stop="20240406005000 +0200" channel="dstv_e_entertainment">
     <title lang="en-GB">Celebrity Game Night SA</title>
     <desc lang="en-GB">Celebrity Game Night SA</desc>
@@ -1657,12 +1777,12 @@
     <desc lang="en-GB">&apos;S1/E5 of 22 - My Life As A Dog&apos;. Breanna is still heartbroken over Tracey. She watches Flex and notices how smooth he is with the ladies.</desc>
   </programme>
   <programme start="20240406083000 +0200" stop="20240406094300 +0200" channel="dstv_one_magic">
-    <title lang="en-GB">The Newsroom: Season 1, Episode 2</title>
-    <desc lang="en-GB">&apos;S1/E2 of 10 - News Night 2.0&apos;. Mac asserts control over News Night, and enlists a beautiful and brainy economist to do a nightly segment. Meanwhile, Charlie forbids Reese from continuing his secret meetings with Will.</desc>
+    <title lang="en-GB">The Newsroom: Season 1, Episode 1</title>
+    <desc lang="en-GB">&apos;S1/E1 of 10 - We Just Decided To&apos;. Jeff Daniels won an Emmy for his tour de force performance in this riveting series set in the newsroom of the fictional Cable News television station.</desc>
   </programme>
   <programme start="20240406094300 +0200" stop="20240406104100 +0200" channel="dstv_one_magic">
-    <title lang="en-GB">The Newsroom: Season 1, Episode 3</title>
-    <desc lang="en-GB">&apos;S1/E3 of 10 - The 112th Congress&apos;. Will&apos;s new approach on the show causes irritation to the CEO of ACN&apos;s parent company, Leona Lansing, who warns Charlie that Will&apos;s stance won&apos;t be tolerated.</desc>
+    <title lang="en-GB">The Newsroom: Season 1, Episode 2</title>
+    <desc lang="en-GB">&apos;S1/E2 of 10 - News Night 2.0&apos;. Mac asserts control over News Night, and enlists a beautiful and brainy economist to do a nightly segment. Meanwhile, Charlie forbids Reese from continuing his secret meetings with Will.</desc>
   </programme>
   <programme start="20240406104100 +0200" stop="20240406114500 +0200" channel="dstv_one_magic">
     <title lang="en-GB">The Newsroom: Season 1, Episode 3</title>
@@ -1854,7 +1974,7 @@
   </programme>
   <programme start="20240406203000 +0200" stop="20240406213000 +0200" channel="dstv_mzansi_magic">
     <title lang="en-GB">Bakgotsi For Life: Rating: 13, Drama, 2024</title>
-    <desc lang="en-GB">A spoiled 18-year-old convinces his friends to go on a road trip instead of a school trip. Their adventure turns from fun to hard lessons of life when their car gets hijacked in the middle of nowhere.</desc>
+    <desc lang="en-GB">A spoiled teenager convinces his friends to go on a road trip instead of a school trip. Their adventure turns from fun to hard lessons of life when their car gets hijacked.</desc>
   </programme>
   <programme start="20240406213000 +0200" stop="20240406221500 +0200" channel="dstv_mzansi_magic">
     <title lang="en-GB">The Wife: Season 3, Episode 34</title>
@@ -1870,7 +1990,7 @@
   </programme>
   <programme start="20240406233000 +0200" stop="20240407003000 +0200" channel="dstv_mzansi_magic">
     <title lang="en-GB">WWE Smackdown!: Season 2, Episode 135</title>
-    <desc lang="en-GB">&apos;S2/E135&apos;. A compelling blend of athleticism and entertainment is showcased on WWE SmackDown.</desc>
+    <desc lang="en-GB">&apos;S2/E135&apos;. The Kevin Owens Show with Special Guests. Randy Orton and Logan Paul kick things off, followed by The 2024 Andre the Giant Memorial Battle Royal. It&apos;s a family affair with Jey Uso vs Solo Sikoa.</desc>
   </programme>
   <programme start="20240406000000 +0200" stop="20240406013100 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">After Tears: Rating: PG13, Drama, 2014</title>
@@ -1960,15 +2080,15 @@
     <title lang="en-GB">Gomora: Season 3, Episode 140</title>
     <desc lang="en-GB">&apos;S3/E140&apos;. Mabuyase shocks the association members when he nominates an unlikely candidate to join them. Zaza wants an easy way out of the exams.</desc>
   </programme>
-  <programme start="20240406113000 +0200" stop="20240406120000 +0200" channel="dstv_mzansi_wethu">
+  <programme start="20240406113000 +0200" stop="20240406120400 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">SuperPicks: Season 2, Episode 31</title>
     <desc lang="en-GB">&apos;S2/E31&apos;. A celebration of football, from hits and misses and banter in between. Join Mpho Maboi, Neil Andrews and their team as they split your opinion on this football predictor show with a difference.</desc>
   </programme>
-  <programme start="20240406120000 +0200" stop="20240406130000 +0200" channel="dstv_mzansi_wethu">
+  <programme start="20240406120400 +0200" stop="20240406130200 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Tango: Rating: 13, Drama, 2016</title>
     <desc lang="en-GB">A talented dancer dreams of making it big, but his new dancing partner has other ideas.</desc>
   </programme>
-  <programme start="20240406130000 +0200" stop="20240406143000 +0200" channel="dstv_mzansi_wethu">
+  <programme start="20240406130200 +0200" stop="20240406143000 +0200" channel="dstv_mzansi_wethu">
     <title lang="en-GB">Our House: Rating: 16, Comedy, 2014</title>
     <desc lang="en-GB">A young man is faced with a difficult decision when he has to choose whether to follow his childhood dream or settle down with the love of his life.</desc>
   </programme>
@@ -2580,13 +2700,13 @@
     <title lang="en-GB">The Newsroom: Season 1, Episode 3</title>
     <desc lang="en-GB">&apos;S1/E3 - The 112th Congress&apos;. Will&apos;s new approach on the show causes irritation to the CEO of ACN&apos;s parent company, Leona Lansing, who warns Charlie that Will&apos;s stance won&apos;t be tolerated.</desc>
   </programme>
-  <programme start="20240407093000 +0200" stop="20240407103000 +0200" channel="dstv_one_magic">
+  <programme start="20240407093000 +0200" stop="20240407103100 +0200" channel="dstv_one_magic">
     <title lang="en-GB">The Newsroom: Season 1, Episode 4</title>
     <desc lang="en-GB">&apos;S1/E4 - I&apos;ll Try To Fix You&apos;. Will finds himself in the tabloid spotlight, just as Wade approaches him with info. Don gets Maggie to fix Jim up with her roommate.</desc>
   </programme>
-  <programme start="20240407103000 +0200" stop="20240407113000 +0200" channel="dstv_one_magic">
+  <programme start="20240407103100 +0200" stop="20240407113000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">The Newsroom: Season 1, Episode 5</title>
-    <desc lang="en-GB">&apos;S1/E5 - Amen&apos;. During coverage of the ejection of Egyptian President Mubarak, the team learns of a protest in Wisconsin, condemning Gov. Scott Walker&apos;s bill to balance the budget by cutting teachers&apos; jobs.</desc>
+    <desc lang="en-GB">&apos;S1/E5 of 10 - Amen&apos;. During coverage of the ejection of Egyptian President Mubarak, the team learns of a protest in Wisconsin, condemning Gov. Scott Walker&apos;s bill to balance the budget by cutting teachers&apos; jobs.</desc>
   </programme>
   <programme start="20240407113000 +0200" stop="20240407120000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">Tali&apos;s #Joburgdiary: Season 3, Episode 3</title>
@@ -2636,11 +2756,11 @@
     <title lang="en-GB">Steinheist: Season 1, Episode 1</title>
     <desc lang="en-GB">&apos;S1/E1&apos;. Steinhoff, once a small furniture company, has a meteoric rise under the leadership of charismatic accountant Markus Jooste. Soon enough, the CEO draws in huge investors and impresses analysts.</desc>
   </programme>
-  <programme start="20240407211000 +0200" stop="20240407221500 +0200" channel="dstv_one_magic">
+  <programme start="20240407211000 +0200" stop="20240407221600 +0200" channel="dstv_one_magic">
     <title lang="en-GB">Tracking Thabo Bester: Season 1, Episode 1</title>
     <desc lang="en-GB">&apos;S1/E1&apos;. A journalist exposes an inconvenient truth: Thabo Bester is alive and at large. The investigation reveals his dark plans with his partner in crime Nandipha, involving stolen bodies, double lives and scams worth millions.</desc>
   </programme>
-  <programme start="20240407221500 +0200" stop="20240407230000 +0200" channel="dstv_one_magic">
+  <programme start="20240407221600 +0200" stop="20240407230000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">Temptation Island USA: Season 5, Episode 1</title>
     <desc lang="en-GB">&apos;S5/E1 - Same Islands, New Twist Into The Bornfire Welcome To The Island&apos;. Deep secrets are revealed, and instant connections are made as four brand new couples make it to the island to put their relationships to the ultimate test.</desc>
   </programme>
@@ -2714,7 +2834,7 @@
   </programme>
   <programme start="20240407123000 +0200" stop="20240407133000 +0200" channel="dstv_mzansi_magic">
     <title lang="en-GB">Bakgotsi For Life: Rating: 13, Drama, 2024</title>
-    <desc lang="en-GB">A spoiled 18-year-old convinces his friends to go on a road trip instead of a school trip. Their adventure turns from fun to hard lessons of life when their car gets hijacked in the middle of nowhere.</desc>
+    <desc lang="en-GB">A spoiled teenager convinces his friends to go on a road trip instead of a school trip. Their adventure turns from fun to hard lessons of life when their car gets hijacked.</desc>
   </programme>
   <programme start="20240407133000 +0200" stop="20240407140000 +0200" channel="dstv_mzansi_magic">
     <title lang="en-GB">Mnakwethu: Season 4, Episode 1</title>
@@ -4040,13 +4160,13 @@
     <title lang="en-GB">Wura: Season 1, Episode 4</title>
     <desc lang="en-GB">&apos;S1/E4&apos;. Wura is the angel the Kuti&apos;s need while Mide is having a hard time dealing with his father&apos;s death. A &apos;new&apos; discovery changes Wura&apos;s fortunes.</desc>
   </programme>
-  <programme start="20240408040000 +0200" stop="20240408043500 +0200" channel="dstv_one_magic">
+  <programme start="20240408040000 +0200" stop="20240408043400 +0200" channel="dstv_one_magic">
     <title lang="en-GB">Wura: Season 1, Episode 5</title>
     <desc lang="en-GB">&apos;S1/E5 - Bad Omen&apos;. Segun Kuti&apos;s funeral ends in chaos. Lolu&apos;s two lovers meet for the first time, and Femi gets his hands on some explosive information.</desc>
   </programme>
-  <programme start="20240408043500 +0200" stop="20240408060000 +0200" channel="dstv_one_magic">
-    <title lang="en-GB">1Magic: Hits: Season 3, Episode 6</title>
-    <desc lang="en-GB">&apos;S3/E6 of 52&apos;. Catch the best in local and international music hits.</desc>
+  <programme start="20240408043400 +0200" stop="20240408060000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">Mzansi Hits: Rating: 13, Music Mix, 2021</title>
+    <desc lang="en-GB">Catch the best in local and international music hits.</desc>
   </programme>
   <programme start="20240408060000 +0200" stop="20240408073000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">1Magic: Hits: Season 3, Episode 5</title>
@@ -4124,11 +4244,11 @@
     <title lang="en-GB">The Real Housewives Of Lagos: Season 1, Episode 6</title>
     <desc lang="en-GB">&apos;S1/E6&apos;. Six influential women bonded by their love for luxury, form a friendship. With this friendship comes bursting personalities, drama, and the need for alliances.</desc>
   </programme>
-  <programme start="20240408203000 +0200" stop="20240408210000 +0200" channel="dstv_one_magic">
+  <programme start="20240408203000 +0200" stop="20240408210100 +0200" channel="dstv_one_magic">
     <title lang="en-GB">Wura: Season 1, Episode 6</title>
     <desc lang="en-GB">&apos;S1/E6 - The Game Plan&apos;. The Kutis are the talk of the town after what Mide did at Olusegun&apos;s burial. Femi gets the upper hand on Wura and Jeje while Mide returns home.</desc>
   </programme>
-  <programme start="20240408210000 +0200" stop="20240408220000 +0200" channel="dstv_one_magic">
+  <programme start="20240408210100 +0200" stop="20240408220000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">Yellowstone: Season 1, Episode 6</title>
     <desc lang="en-GB">&apos;S1/E6 - The Remembering&apos;. A new partnership threatens John and Yellowstone, Jamie ramps up his political campaign.</desc>
   </programme>
@@ -4663,6 +4783,122 @@
   <programme start="20240409000000 +0200" stop="20240409010000 +0200" channel="dstv_mzansi_magic_music_hd">
     <title lang="en-GB">House Grooves: Rating: 16, Music, 2024</title>
     <desc lang="en-GB">A delightful mix of some of your favourite house music hits.</desc>
+  </programme>
+  <programme start="20240408235000 +0200" stop="20240409003500 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Ekhaya Backpackers</title>
+    <desc lang="en-GB">Ekhaya Backpackers</desc>
+  </programme>
+  <programme start="20240409003500 +0200" stop="20240409013000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Yellowstone</title>
+    <desc lang="en-GB">Yellowstone</desc>
+  </programme>
+  <programme start="20240409013000 +0200" stop="20240409023000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">The Real Housewives Of Lagos</title>
+    <desc lang="en-GB">The Real Housewives Of Lagos</desc>
+  </programme>
+  <programme start="20240409023000 +0200" stop="20240409041500 +0200" channel="dstv_one_max">
+    <title lang="en-GB">1Magic: Hits</title>
+    <desc lang="en-GB">1Magic: Hits</desc>
+  </programme>
+  <programme start="20240409041500 +0200" stop="20240409060000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">1Magic: Hits</title>
+    <desc lang="en-GB">1Magic: Hits</desc>
+  </programme>
+  <programme start="20240409060000 +0200" stop="20240409073000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">1Magic: Hits</title>
+    <desc lang="en-GB">1Magic: Hits</desc>
+  </programme>
+  <programme start="20240409073000 +0200" stop="20240409084000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">The Newsroom</title>
+    <desc lang="en-GB">The Newsroom</desc>
+  </programme>
+  <programme start="20240409084000 +0200" stop="20240409093000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">The Real Housewives Of Lagos</title>
+    <desc lang="en-GB">The Real Housewives Of Lagos</desc>
+  </programme>
+  <programme start="20240409093000 +0200" stop="20240409100000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">One On One</title>
+    <desc lang="en-GB">One On One</desc>
+  </programme>
+  <programme start="20240409100000 +0200" stop="20240409103000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Moesha</title>
+    <desc lang="en-GB">Moesha</desc>
+  </programme>
+  <programme start="20240409103000 +0200" stop="20240409110000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Life With Kelly</title>
+    <desc lang="en-GB">Life With Kelly</desc>
+  </programme>
+  <programme start="20240409110000 +0200" stop="20240409113500 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Living The Dream With Somizi</title>
+    <desc lang="en-GB">Living The Dream With Somizi</desc>
+  </programme>
+  <programme start="20240409113500 +0200" stop="20240409122000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Sports Wives</title>
+    <desc lang="en-GB">Sports Wives</desc>
+  </programme>
+  <programme start="20240409122000 +0200" stop="20240409133000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">The Newsroom</title>
+    <desc lang="en-GB">The Newsroom</desc>
+  </programme>
+  <programme start="20240409133000 +0200" stop="20240409142500 +0200" channel="dstv_one_max">
+    <title lang="en-GB">The Good Doctor</title>
+    <desc lang="en-GB">The Good Doctor</desc>
+  </programme>
+  <programme start="20240409142500 +0200" stop="20240409150000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Tali&apos;s #Joburgdiary</title>
+    <desc lang="en-GB">Tali&apos;s #Joburgdiary</desc>
+  </programme>
+  <programme start="20240409150000 +0200" stop="20240409153000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">One On One</title>
+    <desc lang="en-GB">One On One</desc>
+  </programme>
+  <programme start="20240409153000 +0200" stop="20240409160000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Moesha</title>
+    <desc lang="en-GB">Moesha</desc>
+  </programme>
+  <programme start="20240409160000 +0200" stop="20240409163000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Life With Kelly</title>
+    <desc lang="en-GB">Life With Kelly</desc>
+  </programme>
+  <programme start="20240409163000 +0200" stop="20240409170000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Living The Dream With Somizi</title>
+    <desc lang="en-GB">Living The Dream With Somizi</desc>
+  </programme>
+  <programme start="20240409170000 +0200" stop="20240409174000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Sports Wives</title>
+    <desc lang="en-GB">Sports Wives</desc>
+  </programme>
+  <programme start="20240409174000 +0200" stop="20240409184500 +0200" channel="dstv_one_max">
+    <title lang="en-GB">The Newsroom</title>
+    <desc lang="en-GB">The Newsroom</desc>
+  </programme>
+  <programme start="20240409184500 +0200" stop="20240409193500 +0200" channel="dstv_one_max">
+    <title lang="en-GB">The Good Doctor</title>
+    <desc lang="en-GB">The Good Doctor</desc>
+  </programme>
+  <programme start="20240409193500 +0200" stop="20240409203000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">The Real Housewives Of Lagos</title>
+    <desc lang="en-GB">The Real Housewives Of Lagos</desc>
+  </programme>
+  <programme start="20240409203000 +0200" stop="20240409210000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Wura</title>
+    <desc lang="en-GB">Wura</desc>
+  </programme>
+  <programme start="20240409210000 +0200" stop="20240409220000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Yellowstone</title>
+    <desc lang="en-GB">Yellowstone</desc>
+  </programme>
+  <programme start="20240409220000 +0200" stop="20240409230000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Red Ink</title>
+    <desc lang="en-GB">Red Ink</desc>
+  </programme>
+  <programme start="20240409230000 +0200" stop="20240409233000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Troukoors</title>
+    <desc lang="en-GB">Troukoors</desc>
+  </programme>
+  <programme start="20240409233000 +0200" stop="20240410000000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Wura</title>
+    <desc lang="en-GB">Wura</desc>
   </programme>
   <programme start="20240409000000 +0200" stop="20240409005000 +0200" channel="dstv_e_entertainment">
     <title lang="en-GB">Celebrity Game Night SA</title>
@@ -6488,13 +6724,13 @@
     <title lang="en-GB">The Real Housewives Of Lagos: Season 1, Episode 6</title>
     <desc lang="en-GB">&apos;S1/E6&apos;. Six influential women bonded by their love for luxury, form a friendship. With this friendship comes bursting personalities, drama, and the need for alliances.</desc>
   </programme>
-  <programme start="20240409023000 +0200" stop="20240409041500 +0200" channel="dstv_one_magic">
+  <programme start="20240409023000 +0200" stop="20240409041600 +0200" channel="dstv_one_magic">
     <title lang="en-GB">1Magic: Hits: Season 3, Episode 6</title>
     <desc lang="en-GB">&apos;S3/E6 of 52&apos;. Catch the best in local and international music hits.</desc>
   </programme>
-  <programme start="20240409041500 +0200" stop="20240409060000 +0200" channel="dstv_one_magic">
-    <title lang="en-GB">1Magic: Hits: Season 3, Episode 7</title>
-    <desc lang="en-GB">&apos;S3/E7 of 52&apos;. Catch the best in local and international music hits.</desc>
+  <programme start="20240409041600 +0200" stop="20240409060000 +0200" channel="dstv_one_magic">
+    <title lang="en-GB">Mzansi Hits: Rating: 13, Music Mix, 2021</title>
+    <desc lang="en-GB">Catch the best in local and international music hits.</desc>
   </programme>
   <programme start="20240409060000 +0200" stop="20240409073000 +0200" channel="dstv_one_magic">
     <title lang="en-GB">1Magic: Hits: Season 3, Episode 6</title>
@@ -6980,7 +7216,7 @@
     <title lang="en-GB">Isifungo: Rating: 13, Drama, 2018</title>
     <desc lang="en-GB">A woman&apos;s life falls apart when she discovers that her husband is being unfaithful.</desc>
   </programme>
-  <programme start="20240409230000 +0200" stop="20240410003000 +0200" channel="dstv_mzansi_bioskop">
+  <programme start="20240409230000 +0200" stop="20240410003100 +0200" channel="dstv_mzansi_bioskop">
     <title lang="en-GB">Conversations With My Brother: Rating: 13, Drama, 2013</title>
     <desc lang="en-GB">Lokshin Bioskop: Conversions With My Brother. Believing his brother died in the war, a man falls in love with his brother&apos;s wife.</desc>
   </programme>
@@ -7083,6 +7319,122 @@
   <programme start="20240410000000 +0200" stop="20240410010000 +0200" channel="dstv_mzansi_magic_music_hd">
     <title lang="en-GB">House Grooves: Rating: 16, Music, 2024</title>
     <desc lang="en-GB">A delightful mix of some of your favourite house music hits.</desc>
+  </programme>
+  <programme start="20240410000000 +0200" stop="20240410010000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">The Mommy Club</title>
+    <desc lang="en-GB">The Mommy Club</desc>
+  </programme>
+  <programme start="20240410010000 +0200" stop="20240410020000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Yellowstone</title>
+    <desc lang="en-GB">Yellowstone</desc>
+  </programme>
+  <programme start="20240410020000 +0200" stop="20240410030000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">The Real Housewives Of Lagos</title>
+    <desc lang="en-GB">The Real Housewives Of Lagos</desc>
+  </programme>
+  <programme start="20240410030000 +0200" stop="20240410043000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">1Magic: Hits</title>
+    <desc lang="en-GB">1Magic: Hits</desc>
+  </programme>
+  <programme start="20240410043000 +0200" stop="20240410060000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">1Magic: Hits</title>
+    <desc lang="en-GB">1Magic: Hits</desc>
+  </programme>
+  <programme start="20240410060000 +0200" stop="20240410073000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">1Magic: Hits</title>
+    <desc lang="en-GB">1Magic: Hits</desc>
+  </programme>
+  <programme start="20240410073000 +0200" stop="20240410084000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">The Newsroom</title>
+    <desc lang="en-GB">The Newsroom</desc>
+  </programme>
+  <programme start="20240410084000 +0200" stop="20240410093000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">The Real Housewives Of Lagos</title>
+    <desc lang="en-GB">The Real Housewives Of Lagos</desc>
+  </programme>
+  <programme start="20240410093000 +0200" stop="20240410100000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">One On One</title>
+    <desc lang="en-GB">One On One</desc>
+  </programme>
+  <programme start="20240410100000 +0200" stop="20240410103000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Moesha</title>
+    <desc lang="en-GB">Moesha</desc>
+  </programme>
+  <programme start="20240410103000 +0200" stop="20240410110000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Life With Kelly</title>
+    <desc lang="en-GB">Life With Kelly</desc>
+  </programme>
+  <programme start="20240410110000 +0200" stop="20240410113500 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Living The Dream With Somizi</title>
+    <desc lang="en-GB">Living The Dream With Somizi</desc>
+  </programme>
+  <programme start="20240410113500 +0200" stop="20240410122000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Sports Wives</title>
+    <desc lang="en-GB">Sports Wives</desc>
+  </programme>
+  <programme start="20240410122000 +0200" stop="20240410133000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">The Newsroom</title>
+    <desc lang="en-GB">The Newsroom</desc>
+  </programme>
+  <programme start="20240410133000 +0200" stop="20240410142500 +0200" channel="dstv_one_max">
+    <title lang="en-GB">The Good Doctor</title>
+    <desc lang="en-GB">The Good Doctor</desc>
+  </programme>
+  <programme start="20240410142500 +0200" stop="20240410150000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Tali&apos;s #Joburgdiary</title>
+    <desc lang="en-GB">Tali&apos;s #Joburgdiary</desc>
+  </programme>
+  <programme start="20240410150000 +0200" stop="20240410153000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">One On One</title>
+    <desc lang="en-GB">One On One</desc>
+  </programme>
+  <programme start="20240410153000 +0200" stop="20240410160000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Moesha</title>
+    <desc lang="en-GB">Moesha</desc>
+  </programme>
+  <programme start="20240410160000 +0200" stop="20240410163000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Life With Kelly</title>
+    <desc lang="en-GB">Life With Kelly</desc>
+  </programme>
+  <programme start="20240410163000 +0200" stop="20240410170000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Living The Dream With Somizi</title>
+    <desc lang="en-GB">Living The Dream With Somizi</desc>
+  </programme>
+  <programme start="20240410170000 +0200" stop="20240410174000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Sports Wives</title>
+    <desc lang="en-GB">Sports Wives</desc>
+  </programme>
+  <programme start="20240410174000 +0200" stop="20240410184500 +0200" channel="dstv_one_max">
+    <title lang="en-GB">The Newsroom</title>
+    <desc lang="en-GB">The Newsroom</desc>
+  </programme>
+  <programme start="20240410184500 +0200" stop="20240410193500 +0200" channel="dstv_one_max">
+    <title lang="en-GB">The Good Doctor</title>
+    <desc lang="en-GB">The Good Doctor</desc>
+  </programme>
+  <programme start="20240410193500 +0200" stop="20240410203000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">The Real Housewives Of Lagos</title>
+    <desc lang="en-GB">The Real Housewives Of Lagos</desc>
+  </programme>
+  <programme start="20240410203000 +0200" stop="20240410210000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Wura</title>
+    <desc lang="en-GB">Wura</desc>
+  </programme>
+  <programme start="20240410210000 +0200" stop="20240410220000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Yellowstone</title>
+    <desc lang="en-GB">Yellowstone</desc>
+  </programme>
+  <programme start="20240410220000 +0200" stop="20240410230000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Tracking Thabo Bester</title>
+    <desc lang="en-GB">Tracking Thabo Bester</desc>
+  </programme>
+  <programme start="20240410230000 +0200" stop="20240410233000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Troukoors</title>
+    <desc lang="en-GB">Troukoors</desc>
+  </programme>
+  <programme start="20240410233000 +0200" stop="20240411000000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Wura</title>
+    <desc lang="en-GB">Wura</desc>
   </programme>
   <programme start="20240410000000 +0200" stop="20240410005000 +0200" channel="dstv_e_entertainment">
     <title lang="en-GB">Celebrity Game Night SA</title>
@@ -9960,7 +10312,7 @@
     <title lang="en-GB">Lokshin Bioskop: Nazo: Rating: PG13, Drama, 2014</title>
     <desc lang="en-GB">A beautiful young pickpocketer is forced to embark on a journey of love and redemption after stealing the wallet of a noble and handsome stranger.</desc>
   </programme>
-  <programme start="20240410003000 +0200" stop="20240410013000 +0200" channel="dstv_mzansi_bioskop">
+  <programme start="20240410003100 +0200" stop="20240410013000 +0200" channel="dstv_mzansi_bioskop">
     <title lang="en-GB">Inkinga Uben: Rating: 13, Drama, 2017</title>
     <desc lang="en-GB">What began as a mission to stop her husband&apos;s wandering eye turns into a journey of self-discovery for a woman in a polygamous marriage.</desc>
   </programme>
@@ -9972,11 +10324,11 @@
     <title lang="en-GB">Lokshin Bioskop: Four-Four...: Rating: 13, Drama, 2015</title>
     <desc lang="en-GB">Starring songstress Mara Louw, this drama about jealousy, greed and murder sees five wives of a wealthy taxi boss in the middle of a bloody battle for his riches.</desc>
   </programme>
-  <programme start="20240410032700 +0200" stop="20240410042800 +0200" channel="dstv_mzansi_bioskop">
+  <programme start="20240410032700 +0200" stop="20240410042900 +0200" channel="dstv_mzansi_bioskop">
     <title lang="en-GB">Abangani: Season 1, Episode 2</title>
     <desc lang="en-GB">&apos;S1/E2 - Definitions&apos;. Linda has moved on with her life after the death of her husband and met a new partner. However, her deceased husband&apos;s shady dealings are beginning to surface and are haunting Linda.</desc>
   </programme>
-  <programme start="20240410042800 +0200" stop="20240410060000 +0200" channel="dstv_mzansi_bioskop">
+  <programme start="20240410042900 +0200" stop="20240410060000 +0200" channel="dstv_mzansi_bioskop">
     <title lang="en-GB">Conversations With My Brother: Rating: 13, Drama, 2013</title>
     <desc lang="en-GB">Lokshin Bioskop: Conversions With My Brother. Believing his brother died in the war, a man falls in love with his brother&apos;s wife.</desc>
   </programme>
@@ -12860,6 +13212,138 @@
     <title lang="en-GB">House Grooves: Rating: 16, Music, 2024</title>
     <desc lang="en-GB">A delightful mix of some of your favourite house music hits.</desc>
   </programme>
+  <programme start="20240414000000 +0200" stop="20240414010500 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Tracking Thabo Bester</title>
+    <desc lang="en-GB">Tracking Thabo Bester</desc>
+  </programme>
+  <programme start="20240414010500 +0200" stop="20240414013500 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Youngins</title>
+    <desc lang="en-GB">Youngins</desc>
+  </programme>
+  <programme start="20240414013500 +0200" stop="20240414021000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Ekhaya Backpackers</title>
+    <desc lang="en-GB">Ekhaya Backpackers</desc>
+  </programme>
+  <programme start="20240414021000 +0200" stop="20240414024000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Wura</title>
+    <desc lang="en-GB">Wura</desc>
+  </programme>
+  <programme start="20240414024000 +0200" stop="20240414031000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Wura</title>
+    <desc lang="en-GB">Wura</desc>
+  </programme>
+  <programme start="20240414031000 +0200" stop="20240414034000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Wura</title>
+    <desc lang="en-GB">Wura</desc>
+  </programme>
+  <programme start="20240414034000 +0200" stop="20240414041000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Wura</title>
+    <desc lang="en-GB">Wura</desc>
+  </programme>
+  <programme start="20240414041000 +0200" stop="20240414043500 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Wura</title>
+    <desc lang="en-GB">Wura</desc>
+  </programme>
+  <programme start="20240414043500 +0200" stop="20240414060000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">1Magic: Hits</title>
+    <desc lang="en-GB">1Magic: Hits</desc>
+  </programme>
+  <programme start="20240414060000 +0200" stop="20240414063000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Moesha</title>
+    <desc lang="en-GB">Moesha</desc>
+  </programme>
+  <programme start="20240414063000 +0200" stop="20240414070000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Moesha</title>
+    <desc lang="en-GB">Moesha</desc>
+  </programme>
+  <programme start="20240414070000 +0200" stop="20240414073000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Moesha</title>
+    <desc lang="en-GB">Moesha</desc>
+  </programme>
+  <programme start="20240414073000 +0200" stop="20240414080000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Moesha</title>
+    <desc lang="en-GB">Moesha</desc>
+  </programme>
+  <programme start="20240414080000 +0200" stop="20240414083000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Moesha</title>
+    <desc lang="en-GB">Moesha</desc>
+  </programme>
+  <programme start="20240414083000 +0200" stop="20240414093000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">The Newsroom</title>
+    <desc lang="en-GB">The Newsroom</desc>
+  </programme>
+  <programme start="20240414093000 +0200" stop="20240414103000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">The Newsroom</title>
+    <desc lang="en-GB">The Newsroom</desc>
+  </programme>
+  <programme start="20240414103000 +0200" stop="20240414113000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">The Newsroom</title>
+    <desc lang="en-GB">The Newsroom</desc>
+  </programme>
+  <programme start="20240414113000 +0200" stop="20240414120000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Tali&apos;s #Joburgdiary</title>
+    <desc lang="en-GB">Tali&apos;s #Joburgdiary</desc>
+  </programme>
+  <programme start="20240414120000 +0200" stop="20240414123000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Tali&apos;s #Joburgdiary</title>
+    <desc lang="en-GB">Tali&apos;s #Joburgdiary</desc>
+  </programme>
+  <programme start="20240414123000 +0200" stop="20240414130000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Tali&apos;s #Joburgdiary</title>
+    <desc lang="en-GB">Tali&apos;s #Joburgdiary</desc>
+  </programme>
+  <programme start="20240414130000 +0200" stop="20240414133000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Sports Wives</title>
+    <desc lang="en-GB">Sports Wives</desc>
+  </programme>
+  <programme start="20240414133000 +0200" stop="20240414141500 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Sports Wives</title>
+    <desc lang="en-GB">Sports Wives</desc>
+  </programme>
+  <programme start="20240414141500 +0200" stop="20240414150500 +0200" channel="dstv_one_max">
+    <title lang="en-GB">The Good Doctor</title>
+    <desc lang="en-GB">The Good Doctor</desc>
+  </programme>
+  <programme start="20240414150500 +0200" stop="20240414155500 +0200" channel="dstv_one_max">
+    <title lang="en-GB">The Good Doctor</title>
+    <desc lang="en-GB">The Good Doctor</desc>
+  </programme>
+  <programme start="20240414155500 +0200" stop="20240414164500 +0200" channel="dstv_one_max">
+    <title lang="en-GB">The Good Doctor</title>
+    <desc lang="en-GB">The Good Doctor</desc>
+  </programme>
+  <programme start="20240414164500 +0200" stop="20240414173500 +0200" channel="dstv_one_max">
+    <title lang="en-GB">The Good Doctor</title>
+    <desc lang="en-GB">The Good Doctor</desc>
+  </programme>
+  <programme start="20240414173500 +0200" stop="20240414182500 +0200" channel="dstv_one_max">
+    <title lang="en-GB">The Good Doctor</title>
+    <desc lang="en-GB">The Good Doctor</desc>
+  </programme>
+  <programme start="20240414182500 +0200" stop="20240414200000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Laduma</title>
+    <desc lang="en-GB">Laduma</desc>
+  </programme>
+  <programme start="20240414200000 +0200" stop="20240414211000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Steinheist</title>
+    <desc lang="en-GB">Steinheist</desc>
+  </programme>
+  <programme start="20240414211000 +0200" stop="20240414220500 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Laugh Out Loud - The Comedy Show</title>
+    <desc lang="en-GB">Laugh Out Loud - The Comedy Show</desc>
+  </programme>
+  <programme start="20240414220500 +0200" stop="20240414230000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Temptation Island USA</title>
+    <desc lang="en-GB">Temptation Island USA</desc>
+  </programme>
+  <programme start="20240414230000 +0200" stop="20240414233500 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Colin From Accounts</title>
+    <desc lang="en-GB">Colin From Accounts</desc>
+  </programme>
+  <programme start="20240414233500 +0200" stop="20240415000500 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Troukoors</title>
+    <desc lang="en-GB">Troukoors</desc>
+  </programme>
   <programme start="20240414000000 +0200" stop="20240414005000 +0200" channel="dstv_e_entertainment">
     <title lang="en-GB">Vanderpump Rules</title>
     <desc lang="en-GB">Vanderpump Rules</desc>
@@ -15651,6 +16135,146 @@
   <programme start="20240415000000 +0200" stop="20240415010000 +0200" channel="dstv_mzansi_magic_music_hd">
     <title lang="en-GB">House Grooves: Rating: 16, Music, 2024</title>
     <desc lang="en-GB">A delightful mix of some of your favourite house music hits.</desc>
+  </programme>
+  <programme start="20240414233500 +0200" stop="20240415000500 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Troukoors</title>
+    <desc lang="en-GB">Troukoors</desc>
+  </programme>
+  <programme start="20240415000500 +0200" stop="20240415003500 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Troukoors</title>
+    <desc lang="en-GB">Troukoors</desc>
+  </programme>
+  <programme start="20240415003500 +0200" stop="20240415010500 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Troukoors</title>
+    <desc lang="en-GB">Troukoors</desc>
+  </programme>
+  <programme start="20240415010500 +0200" stop="20240415013500 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Troukoors</title>
+    <desc lang="en-GB">Troukoors</desc>
+  </programme>
+  <programme start="20240415013500 +0200" stop="20240415020000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Troukoors</title>
+    <desc lang="en-GB">Troukoors</desc>
+  </programme>
+  <programme start="20240415020000 +0200" stop="20240415023000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Wura</title>
+    <desc lang="en-GB">Wura</desc>
+  </programme>
+  <programme start="20240415023000 +0200" stop="20240415030000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Wura</title>
+    <desc lang="en-GB">Wura</desc>
+  </programme>
+  <programme start="20240415030000 +0200" stop="20240415033000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Wura</title>
+    <desc lang="en-GB">Wura</desc>
+  </programme>
+  <programme start="20240415033000 +0200" stop="20240415040000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Wura</title>
+    <desc lang="en-GB">Wura</desc>
+  </programme>
+  <programme start="20240415040000 +0200" stop="20240415043000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Wura</title>
+    <desc lang="en-GB">Wura</desc>
+  </programme>
+  <programme start="20240415043000 +0200" stop="20240415060000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">1Magic: Hits</title>
+    <desc lang="en-GB">1Magic: Hits</desc>
+  </programme>
+  <programme start="20240415060000 +0200" stop="20240415073000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">1Magic: Hits</title>
+    <desc lang="en-GB">1Magic: Hits</desc>
+  </programme>
+  <programme start="20240415073000 +0200" stop="20240415083500 +0200" channel="dstv_one_max">
+    <title lang="en-GB">The Newsroom</title>
+    <desc lang="en-GB">The Newsroom</desc>
+  </programme>
+  <programme start="20240415083500 +0200" stop="20240415093500 +0200" channel="dstv_one_max">
+    <title lang="en-GB">The Real Housewives Of Lagos</title>
+    <desc lang="en-GB">The Real Housewives Of Lagos</desc>
+  </programme>
+  <programme start="20240415093500 +0200" stop="20240415100000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">One On One</title>
+    <desc lang="en-GB">One On One</desc>
+  </programme>
+  <programme start="20240415100000 +0200" stop="20240415103000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Moesha</title>
+    <desc lang="en-GB">Moesha</desc>
+  </programme>
+  <programme start="20240415103000 +0200" stop="20240415110000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Life With Kelly</title>
+    <desc lang="en-GB">Life With Kelly</desc>
+  </programme>
+  <programme start="20240415110000 +0200" stop="20240415113500 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Living The Dream With Somizi</title>
+    <desc lang="en-GB">Living The Dream With Somizi</desc>
+  </programme>
+  <programme start="20240415113500 +0200" stop="20240415122000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Sports Wives</title>
+    <desc lang="en-GB">Sports Wives</desc>
+  </programme>
+  <programme start="20240415122000 +0200" stop="20240415133000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">The Newsroom</title>
+    <desc lang="en-GB">The Newsroom</desc>
+  </programme>
+  <programme start="20240415133000 +0200" stop="20240415142500 +0200" channel="dstv_one_max">
+    <title lang="en-GB">The Good Doctor</title>
+    <desc lang="en-GB">The Good Doctor</desc>
+  </programme>
+  <programme start="20240415142500 +0200" stop="20240415150000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Tali&apos;s Baby Diary</title>
+    <desc lang="en-GB">Tali&apos;s Baby Diary</desc>
+  </programme>
+  <programme start="20240415150000 +0200" stop="20240415153000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">One On One</title>
+    <desc lang="en-GB">One On One</desc>
+  </programme>
+  <programme start="20240415153000 +0200" stop="20240415160000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Moesha</title>
+    <desc lang="en-GB">Moesha</desc>
+  </programme>
+  <programme start="20240415160000 +0200" stop="20240415163000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Life With Kelly</title>
+    <desc lang="en-GB">Life With Kelly</desc>
+  </programme>
+  <programme start="20240415163000 +0200" stop="20240415170000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Living The Dream With Somizi</title>
+    <desc lang="en-GB">Living The Dream With Somizi</desc>
+  </programme>
+  <programme start="20240415170000 +0200" stop="20240415174000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Sports Wives</title>
+    <desc lang="en-GB">Sports Wives</desc>
+  </programme>
+  <programme start="20240415174000 +0200" stop="20240415184500 +0200" channel="dstv_one_max">
+    <title lang="en-GB">The Newsroom</title>
+    <desc lang="en-GB">The Newsroom</desc>
+  </programme>
+  <programme start="20240415184500 +0200" stop="20240415193000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">The Good Doctor</title>
+    <desc lang="en-GB">The Good Doctor</desc>
+  </programme>
+  <programme start="20240415193000 +0200" stop="20240415203000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">The Real Housewives Of Lagos</title>
+    <desc lang="en-GB">The Real Housewives Of Lagos</desc>
+  </programme>
+  <programme start="20240415203000 +0200" stop="20240415210000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Wura</title>
+    <desc lang="en-GB">Wura</desc>
+  </programme>
+  <programme start="20240415210000 +0200" stop="20240415220000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Yellowstone</title>
+    <desc lang="en-GB">Yellowstone</desc>
+  </programme>
+  <programme start="20240415220000 +0200" stop="20240415225000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Ted</title>
+    <desc lang="en-GB">Ted</desc>
+  </programme>
+  <programme start="20240415225000 +0200" stop="20240415233000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Troukoors</title>
+    <desc lang="en-GB">Troukoors</desc>
+  </programme>
+  <programme start="20240415233000 +0200" stop="20240416000000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Wura</title>
+    <desc lang="en-GB">Wura</desc>
   </programme>
   <programme start="20240415000000 +0200" stop="20240415005000 +0200" channel="dstv_e_entertainment">
     <title lang="en-GB">Celebrity Game Night SA</title>
@@ -18647,6 +19271,126 @@
   <programme start="20240416000000 +0200" stop="20240416010000 +0200" channel="dstv_mzansi_magic_music_hd">
     <title lang="en-GB">House Grooves: Rating: 16, Music, 2024</title>
     <desc lang="en-GB">A delightful mix of some of your favourite house music hits.</desc>
+  </programme>
+  <programme start="20240416000000 +0200" stop="20240416003000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Ekhaya Backpackers</title>
+    <desc lang="en-GB">Ekhaya Backpackers</desc>
+  </programme>
+  <programme start="20240416003000 +0200" stop="20240416010000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Sports Wives</title>
+    <desc lang="en-GB">Sports Wives</desc>
+  </programme>
+  <programme start="20240416010000 +0200" stop="20240416020000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Yellowstone</title>
+    <desc lang="en-GB">Yellowstone</desc>
+  </programme>
+  <programme start="20240416020000 +0200" stop="20240416030000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">The Real Housewives Of Lagos</title>
+    <desc lang="en-GB">The Real Housewives Of Lagos</desc>
+  </programme>
+  <programme start="20240416030000 +0200" stop="20240416043000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">1Magic: Hits</title>
+    <desc lang="en-GB">1Magic: Hits</desc>
+  </programme>
+  <programme start="20240416043000 +0200" stop="20240416060000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">1Magic: Hits</title>
+    <desc lang="en-GB">1Magic: Hits</desc>
+  </programme>
+  <programme start="20240416060000 +0200" stop="20240416073000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">1Magic: Hits</title>
+    <desc lang="en-GB">1Magic: Hits</desc>
+  </programme>
+  <programme start="20240416073000 +0200" stop="20240416083500 +0200" channel="dstv_one_max">
+    <title lang="en-GB">The Newsroom</title>
+    <desc lang="en-GB">The Newsroom</desc>
+  </programme>
+  <programme start="20240416083500 +0200" stop="20240416093500 +0200" channel="dstv_one_max">
+    <title lang="en-GB">The Real Housewives Of Lagos</title>
+    <desc lang="en-GB">The Real Housewives Of Lagos</desc>
+  </programme>
+  <programme start="20240416093500 +0200" stop="20240416100000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">One On One</title>
+    <desc lang="en-GB">One On One</desc>
+  </programme>
+  <programme start="20240416100000 +0200" stop="20240416103000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Moesha</title>
+    <desc lang="en-GB">Moesha</desc>
+  </programme>
+  <programme start="20240416103000 +0200" stop="20240416110000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Life With Kelly</title>
+    <desc lang="en-GB">Life With Kelly</desc>
+  </programme>
+  <programme start="20240416110000 +0200" stop="20240416113000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Living The Dream With Somizi</title>
+    <desc lang="en-GB">Living The Dream With Somizi</desc>
+  </programme>
+  <programme start="20240416113000 +0200" stop="20240416122000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Sports Wives</title>
+    <desc lang="en-GB">Sports Wives</desc>
+  </programme>
+  <programme start="20240416122000 +0200" stop="20240416133000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">The Newsroom</title>
+    <desc lang="en-GB">The Newsroom</desc>
+  </programme>
+  <programme start="20240416133000 +0200" stop="20240416142500 +0200" channel="dstv_one_max">
+    <title lang="en-GB">The Good Doctor</title>
+    <desc lang="en-GB">The Good Doctor</desc>
+  </programme>
+  <programme start="20240416142500 +0200" stop="20240416150000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Tali&apos;s Baby Diary</title>
+    <desc lang="en-GB">Tali&apos;s Baby Diary</desc>
+  </programme>
+  <programme start="20240416150000 +0200" stop="20240416153000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">One On One</title>
+    <desc lang="en-GB">One On One</desc>
+  </programme>
+  <programme start="20240416153000 +0200" stop="20240416160000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Moesha</title>
+    <desc lang="en-GB">Moesha</desc>
+  </programme>
+  <programme start="20240416160000 +0200" stop="20240416163000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Life With Kelly</title>
+    <desc lang="en-GB">Life With Kelly</desc>
+  </programme>
+  <programme start="20240416163000 +0200" stop="20240416170000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Living The Dream With Somizi</title>
+    <desc lang="en-GB">Living The Dream With Somizi</desc>
+  </programme>
+  <programme start="20240416170000 +0200" stop="20240416175000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Sports Wives</title>
+    <desc lang="en-GB">Sports Wives</desc>
+  </programme>
+  <programme start="20240416175000 +0200" stop="20240416184500 +0200" channel="dstv_one_max">
+    <title lang="en-GB">The Newsroom</title>
+    <desc lang="en-GB">The Newsroom</desc>
+  </programme>
+  <programme start="20240416184500 +0200" stop="20240416193000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">The Good Doctor</title>
+    <desc lang="en-GB">The Good Doctor</desc>
+  </programme>
+  <programme start="20240416193000 +0200" stop="20240416203000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">The Real Housewives Of Lagos</title>
+    <desc lang="en-GB">The Real Housewives Of Lagos</desc>
+  </programme>
+  <programme start="20240416203000 +0200" stop="20240416210000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Wura</title>
+    <desc lang="en-GB">Wura</desc>
+  </programme>
+  <programme start="20240416210000 +0200" stop="20240416220000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Yellowstone</title>
+    <desc lang="en-GB">Yellowstone</desc>
+  </programme>
+  <programme start="20240416220000 +0200" stop="20240416230000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Red Ink</title>
+    <desc lang="en-GB">Red Ink</desc>
+  </programme>
+  <programme start="20240416230000 +0200" stop="20240416233000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Troukoors</title>
+    <desc lang="en-GB">Troukoors</desc>
+  </programme>
+  <programme start="20240416233000 +0200" stop="20240417000000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Wura</title>
+    <desc lang="en-GB">Wura</desc>
   </programme>
   <programme start="20240416000000 +0200" stop="20240416005000 +0200" channel="dstv_e_entertainment">
     <title lang="en-GB">Celebrity Game Face</title>
@@ -22859,6 +23603,126 @@
   <programme start="20240419000000 +0200" stop="20240419010000 +0200" channel="dstv_mzansi_magic_music_hd">
     <title lang="en-GB">House Grooves: Rating: 16, Music, 2024</title>
     <desc lang="en-GB">A delightful mix of some of your favourite house music hits.</desc>
+  </programme>
+  <programme start="20240419000000 +0200" stop="20240419010000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Red Ink</title>
+    <desc lang="en-GB">Red Ink</desc>
+  </programme>
+  <programme start="20240419010000 +0200" stop="20240419020000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Yellowstone</title>
+    <desc lang="en-GB">Yellowstone</desc>
+  </programme>
+  <programme start="20240419020000 +0200" stop="20240419030000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">The Real Housewives Of Lagos</title>
+    <desc lang="en-GB">The Real Housewives Of Lagos</desc>
+  </programme>
+  <programme start="20240419030000 +0200" stop="20240419043000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">1Magic: Hits</title>
+    <desc lang="en-GB">1Magic: Hits</desc>
+  </programme>
+  <programme start="20240419043000 +0200" stop="20240419060000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">1Magic: Hits</title>
+    <desc lang="en-GB">1Magic: Hits</desc>
+  </programme>
+  <programme start="20240419060000 +0200" stop="20240419073000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">1Magic: Hits</title>
+    <desc lang="en-GB">1Magic: Hits</desc>
+  </programme>
+  <programme start="20240419073000 +0200" stop="20240419084000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">The Newsroom</title>
+    <desc lang="en-GB">The Newsroom</desc>
+  </programme>
+  <programme start="20240419084000 +0200" stop="20240419093500 +0200" channel="dstv_one_max">
+    <title lang="en-GB">The Real Housewives Of Lagos</title>
+    <desc lang="en-GB">The Real Housewives Of Lagos</desc>
+  </programme>
+  <programme start="20240419093500 +0200" stop="20240419100000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">One On One</title>
+    <desc lang="en-GB">One On One</desc>
+  </programme>
+  <programme start="20240419100000 +0200" stop="20240419103000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Moesha</title>
+    <desc lang="en-GB">Moesha</desc>
+  </programme>
+  <programme start="20240419103000 +0200" stop="20240419110000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Life With Kelly</title>
+    <desc lang="en-GB">Life With Kelly</desc>
+  </programme>
+  <programme start="20240419110000 +0200" stop="20240419113000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Living The Dream With Somizi</title>
+    <desc lang="en-GB">Living The Dream With Somizi</desc>
+  </programme>
+  <programme start="20240419113000 +0200" stop="20240419120000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Kwa Mam&apos;Mkhize</title>
+    <desc lang="en-GB">Kwa Mam&apos;Mkhize</desc>
+  </programme>
+  <programme start="20240419120000 +0200" stop="20240419123000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Tali&apos;s Baby Diary</title>
+    <desc lang="en-GB">Tali&apos;s Baby Diary</desc>
+  </programme>
+  <programme start="20240419123000 +0200" stop="20240419133000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">The Newsroom</title>
+    <desc lang="en-GB">The Newsroom</desc>
+  </programme>
+  <programme start="20240419133000 +0200" stop="20240419142500 +0200" channel="dstv_one_max">
+    <title lang="en-GB">The Good Doctor</title>
+    <desc lang="en-GB">The Good Doctor</desc>
+  </programme>
+  <programme start="20240419142500 +0200" stop="20240419150000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Tali&apos;s Baby Diary</title>
+    <desc lang="en-GB">Tali&apos;s Baby Diary</desc>
+  </programme>
+  <programme start="20240419150000 +0200" stop="20240419153000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">One On One</title>
+    <desc lang="en-GB">One On One</desc>
+  </programme>
+  <programme start="20240419153000 +0200" stop="20240419160000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Moesha</title>
+    <desc lang="en-GB">Moesha</desc>
+  </programme>
+  <programme start="20240419160000 +0200" stop="20240419163000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Life With Kelly</title>
+    <desc lang="en-GB">Life With Kelly</desc>
+  </programme>
+  <programme start="20240419163000 +0200" stop="20240419170000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Living The Dream With Somizi</title>
+    <desc lang="en-GB">Living The Dream With Somizi</desc>
+  </programme>
+  <programme start="20240419170000 +0200" stop="20240419174000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Kwa Mam&apos;Mkhize</title>
+    <desc lang="en-GB">Kwa Mam&apos;Mkhize</desc>
+  </programme>
+  <programme start="20240419174000 +0200" stop="20240419184500 +0200" channel="dstv_one_max">
+    <title lang="en-GB">The Newsroom</title>
+    <desc lang="en-GB">The Newsroom</desc>
+  </programme>
+  <programme start="20240419184500 +0200" stop="20240419193500 +0200" channel="dstv_one_max">
+    <title lang="en-GB">The Good Doctor</title>
+    <desc lang="en-GB">The Good Doctor</desc>
+  </programme>
+  <programme start="20240419193500 +0200" stop="20240419203000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">The Real Housewives Of Lagos</title>
+    <desc lang="en-GB">The Real Housewives Of Lagos</desc>
+  </programme>
+  <programme start="20240419203000 +0200" stop="20240419210000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Wura</title>
+    <desc lang="en-GB">Wura</desc>
+  </programme>
+  <programme start="20240419210000 +0200" stop="20240419220000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Yellowstone</title>
+    <desc lang="en-GB">Yellowstone</desc>
+  </programme>
+  <programme start="20240419220000 +0200" stop="20240419230000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">The Mommy Club</title>
+    <desc lang="en-GB">The Mommy Club</desc>
+  </programme>
+  <programme start="20240419230000 +0200" stop="20240419233000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Troukoors</title>
+    <desc lang="en-GB">Troukoors</desc>
+  </programme>
+  <programme start="20240419233000 +0200" stop="20240420000000 +0200" channel="dstv_one_max">
+    <title lang="en-GB">Wura</title>
+    <desc lang="en-GB">Wura</desc>
   </programme>
   <programme start="20240419000000 +0200" stop="20240419005000 +0200" channel="dstv_e_entertainment">
     <title lang="en-GB">Celebrity Game Face</title>
